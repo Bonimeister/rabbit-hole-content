@@ -1,0 +1,289 @@
+{
+  "version": 1,
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-10T23:59:25.749Z",
+  "topics": [
+    {
+      "id": "2026-10-13-0",
+      "title": "Das Bärtierchen",
+      "text": "Bärtierchen sind meist weniger als einen Millimeter große Tiere mit acht stummeligen Beinen. Sie leben in Moospolstern, im Meeressand und sogar in Dachrinnen. Der Quedlinburger Pastor Johann August Ephraim Goeze beschrieb sie 1773 als „kleinen Wasserbären“. Wenn sie austrocknen, ziehen sie sich zu einem sogenannten Tönnchen zusammen und fahren ihren Stoffwechsel fast auf null herunter. In diesem Zustand überlebten einige 2007 auf der Raumkapsel Foton-M3 sogar das Vakuum des Weltalls.",
+      "children": [
+        {
+          "id": "2026-10-13-0-0",
+          "title": "Der Schatz von Quedlinburg",
+          "text": "Goezes Wirkungsort Quedlinburg besaß einen Kirchenschatz, der 1945 Ziel eines der spektakulärsten Kunstdiebstähle des Krieges wurde. Der US-Leutnant Joe Tom Meador schickte ausgelagerte Stücke des Domschatzes per Feldpost zu sich nach Texas. Erst 1990, Jahre nach seinem Tod, tauchte das Samuhel-Evangeliar aus dem 9. Jahrhundert auf dem Kunstmarkt auf. Nach umstrittenen Zahlungen in Millionenhöhe an Meadors Erben kehrten die meisten Stücke Anfang der 1990er-Jahre nach Quedlinburg zurück.",
+          "hook": "Der Quedlinburger Pastor",
+          "children": [
+            {
+              "id": "2026-10-13-0-0-0",
+              "title": "Briefe auf Mikrofilm",
+              "text": "Über die Feldpost lief im Zweiten Weltkrieg eine riesige Menge Briefe, und die US-Armee führte dafür 1942 eine platzsparende Lösung ein: V-Mail. Soldaten schrieben auf genormte Bögen. Die wurden nach der Zensur auf Mikrofilm fotografiert und erst in der Nähe des Empfängers wieder auf Fotopapier abgezogen. So ersetzte ein einziger Postsack mit Film rund 37 Säcke voller Papierbriefe. Wer daheim einen V-Mail-Brief öffnete, hielt also meist nicht das Blatt in der Hand, das der Soldat beschrieben hatte, sondern ein verkleinertes Foto davon.",
+              "hook": "per Feldpost zu sich nach Texas",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-0-0-1",
+              "title": "Zeppeline aus Rinderdarm",
+              "text": "Karolingische Prachthandschriften wie das Samuhel-Evangeliar glänzen oft mit Goldtinte, und die wurde meist aus zerriebenem Blattgold angerührt. Goldschläger hämmerten das Metall hauchdünn, und zwar zwischen Lagen von Goldschlägerhaut, einer zähen Membran aus Rinderdarm. Im Ersten Weltkrieg wurde genau dieses Material wichtig für den Krieg, denn die Gaszellen deutscher Zeppeline wurden damit ausgekleidet. Für ein einziges Luftschiff brauchte man die Därme von Hunderttausenden Rindern.",
+              "hook": "Samuhel-Evangeliar aus dem 9. Jahrhundert",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-0-0-2",
+              "title": "Das rätselhafte Königsgrab",
+              "text": "Der Domschatz gehört zur Stiftskirche St. Servatius. Sie steht über dem Grab Heinrichs I., der 936 starb und als erster König aus dem sächsischen Haus der Liudolfinger regiert hatte. Zum tausendsten Todestag 1936 inszenierte Heinrich Himmler dort eine Feier, stellte den König als germanischen Vorkämpfer dar und machte die Kirche in den Folgejahren zur Weihestätte der SS. 1937 präsentierte die SS Gebeine, die angeblich Heinrich gehörten. Heute gilt diese Zuschreibung als zweifelhaft, und wo die sterblichen Überreste des Königs wirklich geblieben sind, weiß niemand sicher.",
+              "hook": "ausgelagerte Stücke des Domschatzes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2026-10-13-0-1",
+          "title": "46.000 Jahre Pause",
+          "text": "Diesen Zustand nahezu ohne Stoffwechsel nennen Biologen Kryptobiose, und Bärtierchen beherrschen ihn nicht allein. 2023 berichteten Forschende, sie hätten Fadenwürmer aus dem sibirischen Permafrost an der Kolyma wiederbelebt, die dort rund 46.000 Jahre geruht hatten. Die neu beschriebene Art Panagrolaimus kolymaensis bildet beim Austrocknen große Mengen des Zuckers Trehalose, der empfindliche Zellstrukturen ähnlich wie Glas stabilisiert.",
+          "hook": "Stoffwechsel fast auf null herunter",
+          "children": [
+            {
+              "id": "2026-10-13-0-1-0",
+              "title": "Mammutsteppe an der Kolyma",
+              "text": "Am Unterlauf der Kolyma, nahe der Siedlung Tscherski, gründete der Geophysiker Sergei Simow 1996 den Pleistozän-Park, den heute sein Sohn Nikita leitet. Dort weiden Pferde, Bisons und Moschusochsen. Sie sollen die Grassteppe der Eiszeit zurückbringen. Simows Idee: Die Tiere trampeln im Winter die isolierende Schneedecke platt, so dringt die Kälte tiefer ein und der Permafrost bleibt gefroren. Weil keine Mammuts mehr da sind, die Bäume umstoßen, ließ Simow das von einem ausgemusterten Militär-Kettenfahrzeug erledigen.",
+              "hook": "sibirischen Permafrost an der Kolyma",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-0-1-1",
+              "title": "Ein Zucker unter Verdacht",
+              "text": "Trehalose kommt in Pilzen, Hefe und im Blut vieler Insekten vor, war als Rohstoff aber lange viel zu teuer. Mitte der 1990er-Jahre entwickelte die japanische Firma Hayashibara ein Verfahren, um sie mit Enzymen aus Stärke herzustellen, und der Preis fiel drastisch. Seitdem steckt sie in Eiscreme, Backwaren und Fertiggerichten. Forschende stellten 2018 in „Nature“ die These auf, dieser Zuckerboom habe gefährlichen Stämmen des Darmkeims Clostridioides difficile zur Ausbreitung verholfen. Ob das stimmt, ist bis heute umstritten.",
+              "hook": "des Zuckers Trehalose",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-0-1-2",
+              "title": "Fließt Kirchenglas?",
+              "text": "Trehalose schützt Zellen wie Glas, weil sie einen amorphen Festkörper bildet: ungeordnet wie eine Flüssigkeit, aber erstarrt. Daraus entstand die Legende, alte Kirchenfenster seien unten dicker, weil das Glas über Jahrhunderte nach unten geflossen sei. Tatsächlich war mittelalterliches Fensterglas nie gleichmäßig dick, und Glaser setzten die dicke Kante meist nach unten, manchmal aber auch nach oben. Der Materialforscher Edgar Zanotto berechnete 1998: Damit solches Glas sichtbar fließt, bräuchte es länger, als das Universum alt ist.",
+              "hook": "ähnlich wie Glas stabilisiert",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2026-10-13-0-2",
+          "title": "Sechzehn Pferde gegen nichts",
+          "text": "Dass es ein Vakuum überhaupt geben kann, bestritten Gelehrte lange mit der Lehre vom „horror vacui“, der Scheu der Natur vor der Leere. Der Magdeburger Bürgermeister Otto von Guericke trat um 1650 mit einer selbst gebauten Luftpumpe den Gegenbeweis an. Berühmt wurden seine Magdeburger Halbkugeln: zwei luftleer gepumpte Kupferschalen, die laut seiner Darstellung selbst Pferdegespanne nicht auseinanderreißen konnten. Ein Kupferstich in seinem Werk „Experimenta Nova“ von 1672 zeigt 16 Pferde.",
+          "hook": "das Vakuum des Weltalls",
+          "children": [
+            {
+              "id": "2026-10-13-0-2-0",
+              "title": "Als Magdeburg brannte",
+              "text": "Otto von Guericke wurde 1646 Bürgermeister einer Stadt, die 15 Jahre zuvor fast vollständig vernichtet worden war. Im Mai 1631, mitten im Dreißigjährigen Krieg, stürmten Truppen der katholischen Liga unter Tilly das protestantische Magdeburg. Plünderung und Großbrand kosteten schätzungsweise 20.000 Menschen das Leben. Guericke überlebte knapp und verlor sein Vermögen. Die Katastrophe war so berüchtigt, dass „magdeburgisieren“ zeitweise zum Wort für die völlige Zerstörung einer Stadt wurde.",
+              "hook": "Der Magdeburger Bürgermeister Otto von Guericke",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-0-2-1",
+              "title": "Ein Kakadu im Vakuum",
+              "text": "Guerickes Luftpumpe fand rasch Nachahmer: In England bauten Robert Boyle und sein Assistent Robert Hooke ab 1659 eine deutlich verbesserte Version. Gut hundert Jahre später machte der Maler Joseph Wright of Derby daraus ein Drama im Kerzenlicht. Sein Gemälde „Ein Experiment mit einem Vogel in der Luftpumpe“ von 1768 zeigt einen Vortragsreisenden, der einem Vogel im Glaskolben die Luft entzieht, während eine Familie gebannt zuschaut. Der Vogel ist ausgerechnet ein seltener weißer Kakadu, den man für solche Vorführungen kaum geopfert hätte. Ob er überlebt, lässt das Bild offen.",
+              "hook": "einer selbst gebauten Luftpumpe",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-0-2-2",
+              "title": "Kein Fleck bleibt leer",
+              "text": "Den Begriff „horror vacui“ übernahm später die Kunstgeschichte für Werke, in denen jede freie Fläche ausgefüllt ist. Ein extremes Beispiel schuf Adolf Wölfli, der ab 1895 in der psychiatrischen Klinik Waldau bei Bern lebte. Dort füllte er Zehntausende Seiten mit Ornamenten, Notenzeilen, Texten und Zahlenkolonnen und erschuf so eine fantastische Autobiografie. Sein Psychiater Walter Morgenthaler widmete ihm 1921 das Buch „Ein Geisteskranker als Künstler“. Heute gilt Wölfli als einer der wichtigsten Vertreter der Art brut.",
+              "hook": "der Scheu der Natur vor der Leere",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-1",
+      "title": "Die Londoner Bierflut",
+      "text": "Am 17. Oktober 1814 platzte in der Horse Shoe Brewery der Firma Meux an der Londoner Tottenham Court Road ein eiserner Reifen an einem riesigen Bottich voller Porter. Die Flutwelle riss weitere Behälter mit. Nach Schätzungen ergossen sich zwischen rund 580.000 und knapp 1,5 Millionen Liter Bier in das Armenviertel St Giles. Acht Menschen starben, darunter Trauergäste einer Totenwache in einem Keller. Die Untersuchung wertete das Unglück als Unfall, und die Brauerei bekam die schon bezahlte Biersteuer zurück.",
+      "children": [
+        {
+          "id": "2026-10-13-1-0",
+          "title": "Porter: Bier der Lastträger",
+          "text": "Dass Meux sein Bier in riesigen Bottichen lagerte, lag am Porter selbst: Das dunkle Bier reifte oft monatelang, und Londons Großbrauereien wetteiferten um die größten Lagergefäße. Der Name geht wohl auf die Lastenträger zurück, die „Porters“, die es im 18. Jahrhundert in Mengen tranken. 1817 ließ sich Daniel Wheeler eine Trommel zum Rösten von Malz patentieren, die besonders dunkles „Patentmalz“ lieferte. In Dublin hatte Arthur Guinness um 1800 ganz auf Porter umgestellt, die kräftigste Variante hieß Stout Porter.",
+          "hook": "einem riesigen Bottich voller Porter",
+          "children": [
+            {
+              "id": "2026-10-13-1-0-0",
+              "title": "Schwarz nach Gesetz",
+              "text": "Wheelers Patentmalz kam genau zur rechten Zeit: Ein britisches Gesetz von 1816 verbot den Brauern, ihrem Bier andere Zutaten als Malz und Hopfen beizugeben. Zuvor hatten viele ihren Porter mit Zuckercouleur oder Lakritz nachgedunkelt. Mit Messungen per Saccharometer hatten sie nämlich herausgefunden, dass das braune Malz viel weniger vergärbaren Zucker lieferte als das teurere helle. Das fast schwarze Patentmalz löste das Problem legal. Schon ein kleiner Anteil färbte ein Bier aus hellem Malz tiefdunkel. So wurde der Porter genau dann am dunkelsten, als er überwiegend aus hellem Malz bestand.",
+              "hook": "besonders dunkles „Patentmalz“",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-1-0-1",
+              "title": "Zwei Harfen, ein Spiegel",
+              "text": "Bevor Arthur Guinness auf Porter setzte, pachtete er 1759 die kleine Brauerei am Dubliner St. James's Gate, und zwar für 9000 Jahre zu 45 Pfund jährlich. Ab 1862 zierte eine Harfe die Etiketten, ihr Vorbild war die mittelalterliche „Brian-Boru-Harfe“. 1876 wurde sie als Marke eingetragen. Nach der Unabhängigkeit wählte der irische Staat dasselbe Instrument als Wappen. Oft heißt es, er habe dabei auf die Marke der Brauerei Rücksicht nehmen müssen. Belegt ist jedenfalls: Staats- und Bierharfe sind bis heute spiegelverkehrt.",
+              "hook": "In Dublin hatte Arthur Guinness",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-1-0-2",
+              "title": "Eine Bank für Lasten",
+              "text": "Londons Lastenträger schleppten ihre Waren auf Kopf und Schultern durch die Stadt, viele davon mit amtlicher Zulassung als sogenannte Ticket Porters. An sie erinnert ein unscheinbares Bauwerk am Piccadilly, am Rand des Green Park: ein etwa schulterhohes Brett auf zwei Stützen. Das Original wurde 1861 auf Anregung des Abgeordneten Robert Aglionby Slaney aufgestellt. Hier konnten die Träger ihre Last kurz absetzen und mussten sie danach nicht mühsam vom Boden hochstemmen. Um 2014 verschwand das Original spurlos, seit 2016 steht dort eine Nachbildung.",
+              "hook": "die Lastenträger zurück, die „Porters“",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2026-10-13-1-1",
+          "title": "Die Rookery von St Giles",
+          "text": "Das Armenviertel St Giles, die „Rookery“, war damals einer der berüchtigtsten Slums Londons: eng bebaut, überfüllt und vor allem von irischen Einwanderern bewohnt. Schon 1751 hatte William Hogarth seinen Kupferstich „Gin Lane“ hier angesiedelt, eine Anklage gegen die Ginschwemme. Im Hintergrund ragt der Turm von St George's Bloomsbury auf. In den 1840er-Jahren schlug man die New Oxford Street mitten durch das Viertel, auch um es zu beseitigen. Viele Vertriebene drängten sich danach in den umliegenden Gassen.",
+          "hook": "das Armenviertel St Giles",
+          "children": [
+            {
+              "id": "2026-10-13-1-1-0",
+              "title": "Die klugen Saatkrähen",
+              "text": "Der Spitzname „Rookery“ stammt von der Saatkrähe, englisch rook, die in dicht gedrängten Kolonien brütet. So eng wie ein solcher Brutplatz wirkte auch der Slum. Die Vögel sind erstaunlich klug: 2009 gaben Christopher Bird und Nathan Emery in Cambridge Saatkrähen eine Röhre, in der ein Wurm auf zu niedrigem Wasser schwamm. Die Krähen warfen Steine hinein, bis der Wurm erreichbar war, und wählten dabei bevorzugt große Steine. Damit taten sie genau das, was Äsops Fabel von der durstigen Krähe schon vor rund 2500 Jahren erzählt.",
+              "hook": "die „Rookery“",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-1-1-1",
+              "title": "Gin aus der Katzenpfote",
+              "text": "Gegen die Ginschwemme, die Hogarth anprangerte, hatte das Parlament schon 1736 eine teure Lizenzpflicht für Ginhändler eingeführt, und Spitzel erhielten für jede Anzeige eine Belohnung. Der Ire Dudley Bradstreet fand nach eigener Schilderung einen Ausweg: Er hängte das Bild einer Katze ins Fenster. Kunden flüsterten „Puss“, legten Münzen ins Maul der Katze, und auf sein „Mew“ hin floss Gin durch ein Rohr unter der Pfote heraus. Weil niemand den Verkäufer zu Gesicht bekam, war er kaum zu belangen. Die Masche fand Nachahmer und gilt manchen als früher Vorläufer des Verkaufsautomaten.",
+              "hook": "eine Anklage gegen die Ginschwemme",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-1-1-2",
+              "title": "Ein König auf dem Kirchturm",
+              "text": "Der Turm von St George's Bloomsbury, um 1730 nach Plänen von Nicholas Hawksmoor vollendet, sieht aus wie kein anderer in London. Statt einer schlanken Spitze trägt er eine Stufenpyramide, angelehnt an antike Beschreibungen des Mausoleums von Halikarnassos, eines der sieben Weltwunder. Löwen und Einhörner, die an ihrem Fuß miteinander kämpften, wurden 1871 entfernt und kehrten erst bei der Restaurierung bis 2006 als Nachbildungen zurück. Ganz oben steht nicht etwa der heilige Georg, sondern König Georg I. in römischer Toga.",
+              "hook": "der Turm von St George's Bloomsbury",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2026-10-13-1-2",
+          "title": "Als Bier steuerfrei wurde",
+          "text": "Dass Meux die schon bezahlte Biersteuer zurückbekam, zeigt, wie wichtig Bier für die britische Staatskasse war: Malz, Hopfen und das fertige Bier wurden jeweils eigens besteuert. 1830 schaffte das Parlament unter Premierminister Wellington die Biersteuer ab. Mit dem Beerhouse Act durfte nun jeder Gemeindesteuerzahler gegen eine Gebühr von zwei Guineen eine Bierstube eröffnen. Innerhalb weniger Jahre entstanden Zehntausende neue Bierhäuser, die Malzsteuer fiel jedoch erst 1880 unter Gladstone.",
+          "hook": "die schon bezahlte Biersteuer",
+          "children": [
+            {
+              "id": "2026-10-13-1-2-0",
+              "title": "Newtons krumme Münze",
+              "text": "Die Gebühr von zwei Guineen war eine typisch britische Summe: Die Guinea war ursprünglich eine Goldmünze, benannt nach der westafrikanischen Küste, von der das Gold der Royal African Company kam. Ihren krummen Wert von 21 Schilling legte 1717 Isaac Newton als Leiter der Königlichen Münze fest, was Großbritannien faktisch auf den Goldstandard brachte. Nach der Münzreform von 1816 verschwand die Münze, doch als Rechengröße für Vornehmes wie Arzthonorare blieb sie erhalten. Beim Auktionshaus Tattersalls werden Rennpferde bis heute in Guineen versteigert.",
+              "hook": "eine Gebühr von zwei Guineen",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-1-2-1",
+              "title": "Der Premier im Duell",
+              "text": "Premierminister Wellington, der Sieger von Waterloo, setzte 1829 auch die Gleichberechtigung der Katholiken durch und musste dafür sogar zur Pistole greifen. Der Earl of Winchilsea hatte ihm öffentlich vorgeworfen, insgeheim den Katholizismus fördern zu wollen. Am 21. März 1829 trafen sich die beiden auf den Battersea Fields südlich der Themse: Wellington schoss daneben, Winchilsea feuerte in die Luft und entschuldigte sich danach schriftlich. Wo der amtierende Regierungschef sein Duell focht, liegt heute der Battersea Park.",
+              "hook": "unter Premierminister Wellington",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-1-2-2",
+              "title": "Das Wort Reinheitsgebot",
+              "text": "Als Gladstone 1880 die Malzsteuer abschaffte, besteuerte der Staat stattdessen die Stärke der Würze, und mit dem sogenannten Free Mash Tun Act durften britische Brauer fortan brauen, woraus sie wollten. Zucker, Mais und Reis wurden damit zu gewöhnlichen Brauzutaten. In Bayern galt dagegen die Verordnung von 1516, nach der nur Gerste, Hopfen und Wasser ins Bier gehörten. Ihren berühmten Namen „Reinheitsgebot“ bekam sie allerdings erst 1918, in einer Debatte im bayerischen Landtag.",
+              "hook": "erst 1880 unter Gladstone",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-2",
+      "title": "Der Schachtürke",
+      "text": "Der Schachtürke war eine Figur in orientalischer Kleidung, die hinter einem Schrank saß und scheinbar von selbst Schach spielte. Wolfgang von Kempelen stellte sie 1770 am Wiener Hof von Maria Theresia vor. In Wirklichkeit lenkte ein Schachspieler, der im Schrank versteckt war, die Züge. Das Rätsel beschäftigte jahrzehntelang das Publikum und brachte Edgar Allan Poe 1836 zu einem Essay. Nach Reisen durch Europa und Amerika verbrannte der Automat 1854 in einem Museum in Philadelphia.",
+      "children": [
+        {
+          "id": "2026-10-13-2-0",
+          "title": "Poe als Codeknacker",
+          "text": "In seinem Essay über den Schachtürken versuchte Poe, ein Rätsel allein durch Logik zu lösen, und diese Leidenschaft ließ ihn nicht mehr los. Ab Ende 1839 forderte er die Leser von „Alexander's Weekly Messenger“ auf, ihm Geheimschriften zu schicken. Er behauptete, fast alle gelöst zu haben. 1843 gewann seine Erzählung „Der Goldkäfer“, in der ein Piratenschatz mithilfe der Häufigkeitsanalyse gefunden wird, einen Preis von 100 Dollar. Zwei Chiffren eines gewissen „W. B. Tyler“, die Poe 1841 abdruckte, wurden erst 1992 und 2000 entschlüsselt.",
+          "hook": "Edgar Allan Poe 1836 zu einem Essay",
+          "children": [
+            {
+              "id": "2026-10-13-2-0-0",
+              "title": "Al-Kindi zählt Buchstaben",
+              "text": "Die Häufigkeitsanalyse, mit der Poes Held den Schatz findet, ist rund tausend Jahre älter als die Erzählung. Im 9. Jahrhundert beschrieb sie der Bagdader Gelehrte al-Kindi: Man zählt die Zeichen einer Geheimschrift und vergleicht ihre Häufigkeit mit der von Buchstaben in gewöhnlichen Texten. Seine Abhandlung galt lange als verschollen und tauchte erst in den 1980er-Jahren in einem Archiv in Istanbul wieder auf. Später kostete dieses Wissen eine Königin den Kopf: Maria Stuart wurde 1587 hingerichtet, nachdem man ihre verschlüsselten Briefe entziffert hatte.",
+              "hook": "mithilfe der Häufigkeitsanalyse",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-2-0-1",
+              "title": "Ein Grab voller Chiffren",
+              "text": "„Der Goldkäfer“ fesselte einen Jungen in Pittsburgh so sehr, dass er Kryptologe wurde: William Friedman las die Erzählung als Kind. Er stieg zum führenden Codeknacker der USA auf, und sein Team knackte 1940 die japanische Maschinenchiffre, die die Amerikaner „Purple“ nannten. Seine Frau Elizebeth entschlüsselte die Funksprüche von Alkoholschmugglern und Nazi-Spionen. Auf ihrem gemeinsamen Grabstein in Arlington steht „Knowledge is power“. Erst Jahrzehnte später fiel auf, dass die Buchstaben in zwei Schriftformen gesetzt sind und mit Francis Bacons Methode Friedmans Initialen „WFF“ verbergen.",
+              "hook": "„Der Goldkäfer“",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-2-0-2",
+              "title": "Washingtons Lieblingsstück",
+              "text": "Die erste Chiffre des rätselhaften W. B. Tyler stellte sich 1992 als Passage aus „Cato“ heraus, einer Tragödie des Engländers Joseph Addison von 1713. Das Stück über den römischen Republikaner, der lieber stirbt, als sich Caesar zu unterwerfen, war im kolonialen Amerika enorm beliebt. George Washington zitierte daraus und ließ es 1778 für seine Truppen im Winterlager von Valley Forge aufführen. Auch der überlieferte letzte Satz des Spions Nathan Hale, er bedaure, nur ein Leben für sein Land geben zu können, klingt stark nach einer Zeile aus Addisons Stück.",
+              "hook": "eines gewissen „W. B. Tyler“",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2026-10-13-2-1",
+          "title": "Die Maschine, die sprach",
+          "text": "Für Wolfgang von Kempelen war der Schachtürke eher ein Kunststück. Ernsthafter beschäftigte ihn eine Maschine, die menschliche Laute erzeugen sollte. Rund zwanzig Jahre lang arbeitete er daran: Ein Blasebalg diente als Lunge. Die Stimmbänder ersetzte nicht eine schwingende Zunge aus Metall, sondern ein schwingendes Plättchen aus Elfenbein. Einen trichterförmigen Mund formte der Bediener mit der Hand. 1791 beschrieb er die Maschine in seinem Buch „Mechanismus der menschlichen Sprache“, das als frühes Grundlagenwerk der Phonetik gilt. Ein erhaltenes Exemplar steht heute im Deutschen Museum in München.",
+          "hook": "Wolfgang von Kempelen",
+          "children": [
+            {
+              "id": "2026-10-13-2-1-0",
+              "title": "Jingle Bells im Orbit",
+              "text": "Schwingende Zungen wie das Elfenbeinplättchen in Kempelens Sprechmaschine wurden wenig später – nun aus Metall – zum Herzstück ganz neuer Instrumente. 1829 ließ sich der Wiener Instrumentenbauer Cyrill Demian das „Accordion“ patentieren. Den Namen gab er ihm, weil ein einziger Tastendruck einen ganzen Akkord erklingen ließ. In Trossingen begann Matthias Hohner 1857, Mundharmonikas in Serie zu bauen. Eine davon schmuggelten Astronauten im Dezember 1965 an Bord von Gemini 6A und spielten damit „Jingle Bells“. Sie gilt als erstes Musikinstrument im Weltraum.",
+              "hook": "eine schwingende Zunge aus Metall",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-2-1-1",
+              "title": "Bells sprechender Kopf",
+              "text": "Rund siebzig Jahre nach Erscheinen von Kempelens Buch sah ein schottischer Teenager in London eine Nachbildung der Sprechmaschine, die der Physiker Charles Wheatstone gebaut hatte. Es war der junge Alexander Graham Bell. Wheatstone lieh ihm Kempelens Buch, und Bell kämpfte sich mühsam durch den deutschen Text. Mit seinem Bruder baute er danach einen sprechenden Kopf, der ein verständliches „Mama“ hervorbrachte. 1876 erhielt Bell das Patent auf das Telefon.",
+              "hook": "1791 beschrieb er die Maschine",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-2-1-2",
+              "title": "Sprechen per Tastatur",
+              "text": "Auch die erste elektrische Sprechmaschine brauchte geschickte Hände. Auf der Weltausstellung 1939 in New York führten die Bell Labs den „Voder“ von Homer Dudley vor. Geschulte Telefonistinnen erzeugten mit Tasten, einem Handgelenkhebel und einem Fußpedal ganze Sätze. Für die Ausbildung brauchten sie rund ein Jahr. Dudleys verwandte Erfindung, der Vocoder, zerlegte Sprache in Frequenzbänder. Im Zweiten Weltkrieg verschlüsselte er die Telefonate zwischen Churchill und Roosevelt. Jahrzehnte später ließ er Kraftwerk wie Roboter singen.",
+              "hook": "formte der Bediener mit der Hand",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2026-10-13-2-2",
+          "title": "Künstliche künstliche KI",
+          "text": "Ein Mensch, der heimlich die Arbeit einer Maschine erledigt: Nach diesem Prinzip benannte Amazon 2005 seine Plattform „Mechanical Turk“. Firmen und Forschende zerlegen dort Arbeit in winzige „Human Intelligence Tasks“, zum Beispiel Bilder beschriften oder Texte prüfen. Menschen auf der ganzen Welt erledigen diese Aufgaben oft für wenige Cent. Jeff Bezos sprach von „künstlicher künstlicher Intelligenz“. Auch ein großer Teil der Millionen Bilder der Datenbank ImageNet wurde so beschriftet. Mit ihr nahm ab 2010 das Training moderner Bilderkennung Fahrt auf.",
+          "hook": "ein Schachspieler, der im Schrank versteckt war",
+          "children": [
+            {
+              "id": "2026-10-13-2-2-0",
+              "title": "Durchbruch auf Grafikkarten",
+              "text": "2012 gewann ein Programm den Wettbewerb rund um ImageNet, das die KI-Forschung umkrempelte: AlexNet von Alex Krizhevsky, Ilya Sutskever und Geoffrey Hinton aus Toronto. Ihr neuronales Netz machte rund zehn Prozentpunkte weniger Fehler als die Konkurrenz. Trainiert wurde es auf zwei handelsüblichen Nvidia-Grafikkarten, die eigentlich für Videospiele gebaut waren. Sutskever gründete später OpenAI mit, und Hinton erhielt 2024 den Nobelpreis für Physik.",
+              "hook": "der Datenbank ImageNet",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-2-2-1",
+              "title": "Ein Spiel als Fließband",
+              "text": "Dass Bilder beschriften auch ganz ohne Bezahlung geht, zeigte der Informatiker Luis von Ahn 2004 mit dem „ESP Game“. Zwei Fremde sahen online dasselbe Foto und tippten Begriffe ein. Stimmten ihre Wörter überein, gab es Punkte, und das Bild hatte ein Schlagwort. Google übernahm die Idee als „Image Labeler“. Danach erfand von Ahn reCAPTCHA, das Nutzer nebenbei alte Bücher entziffern ließ. Später gründete er Duolingo, dessen Lernende anfangs Texte aus dem Netz übersetzten.",
+              "hook": "zum Beispiel Bilder beschriften",
+              "children": []
+            },
+            {
+              "id": "2026-10-13-2-2-2",
+              "title": "Rechnen am Fließband",
+              "text": "Schon in den 1790er-Jahren zerlegte Gaspard de Prony Rechenarbeit in winzige Schritte. Im revolutionären Frankreich sollte er riesige Tafeln für das neue Dezimalsystem berechnen. Als Vorbild nahm er Adam Smiths Beschreibung einer Stecknadelfabrik. Einige wenige Mathematiker entwarfen die Formeln, Dutzende Hilfsrechner addierten und subtrahierten nur. Der Überlieferung nach waren darunter viele arbeitslose Perückenmacher. Charles Babbage las später davon und schloss daraus, dass diese unterste Stufe eine Maschine übernehmen könne.",
+              "hook": "zerlegen dort Arbeit in winzige",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

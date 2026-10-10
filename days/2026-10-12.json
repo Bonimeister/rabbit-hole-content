@@ -1,0 +1,289 @@
+{
+  "version": 1,
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-10T23:54:48.780Z",
+  "topics": [
+    {
+      "id": "2026-10-12-0",
+      "title": "Der Kakapo",
+      "text": "Der Kakapo aus Neuseeland ist der schwerste Papagei der Welt. Männchen wiegen bis zu etwa vier Kilogramm, fliegen kann der Vogel nicht. Er ist nachtaktiv und brütet nur in Jahren, in denen die Rimu-Bäume massenhaft Früchte tragen, oft nur alle zwei bis vier Jahre. Zur Balz graben die Männchen Mulden und stoßen tiefe Dröhnlaute aus, die kilometerweit zu hören sind. Heute gibt es nur noch wenige Hundert Tiere. Jedes hat einen eigenen Namen, und fast alle leben auf raubtierfreien Inseln wie Whenua Hou.",
+      "children": [
+        {
+          "id": "2026-10-12-0-0",
+          "title": "Bambusblüte und Rattenplage",
+          "text": "Was die Rimu-Früchte für den Kakapo sind, ist im Nordosten Indiens ein Bambus, allerdings mit bedrohlichen Folgen. Melocanna baccifera blüht im Bundesstaat Mizoram nur etwa alle 50 Jahre, dann aber in riesigen Beständen gleichzeitig, und stirbt danach ab. Die Früchte lassen die Rattenbestände explodieren, und wenn sie aufgefressen sind, fallen die Tiere über die Felder her. Die Hungersnot nach der Blüte von 1959, Mautam genannt, trug zur Gründung der Mizo National Front bei, die 1966 einen Aufstand begann.",
+          "hook": "Rimu-Bäume massenhaft Früchte tragen",
+          "children": [
+            {
+              "id": "2026-10-12-0-0-0",
+              "title": "Primzahlen im Boden",
+              "text": "Biologen deuten das jahrzehntelange Warten des Bambus oft als Strategie: Wenn alle gleichzeitig Früchte tragen, können die Fressfeinde nie alles auf einmal fressen. Dasselbe Prinzip nutzen die periodischen Zikaden Nordamerikas. Sie leben 13 oder 17 Jahre unter der Erde und schlüpfen dann zu Milliarden. Dass beide Zahlen Primzahlen sind, soll es Feinden erschweren, sich auf den Zyklus einzustellen. Diese Hypothese ist verbreitet, aber umstritten. Im Jahr 2024 schlüpften die Bruten XIII und XIX zum ersten Mal seit 1803 wieder gleichzeitig.",
+              "hook": "nur etwa alle 50 Jahre",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-0-0-1",
+              "title": "Bomben auf Aizawl",
+              "text": "Als die Mizo National Front 1966 losschlug, brachte sie zeitweise mehrere Orte unter ihre Kontrolle, darunter Teile von Aizawl, dem Hauptort der Region. Die indische Regierung antwortete im März 1966 mit Luftangriffen auf die Stadt. Bis heute gilt das als einziger Fall, in dem Indien eigenes Gebiet aus der Luft bombardierte. Der Konflikt dauerte zwanzig Jahre und endete 1986 mit einem Friedensabkommen. Noch im selben Jahr wurde der frühere Rebellenführer Laldenga Regierungschef von Mizoram.",
+              "hook": "1966 einen Aufstand begann",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-0-0-2",
+              "title": "Die Ratte mit dem Orden",
+              "text": "In Mizoram bringen Ratten Hunger, in Kambodscha haben sie Menschenleben gerettet. Die belgische Organisation APOPO bildet in Tansania Riesenhamsterratten aus, die Sprengstoff riechen können und zu leicht sind, um Minen auszulösen. Ihr bekanntester Spürer hieß Magawa. Er fand in Kambodscha rund hundert Landminen und Blindgänger. Im Jahr 2020 erhielt er als erste Ratte die Goldmedaille der britischen Tierschutzorganisation PDSA, eine Art Tapferkeitsorden für Tiere.",
+              "hook": "lassen die Rattenbestände explodieren",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2026-10-12-0-1",
+          "title": "Der Moorochse im Schilf",
+          "text": "Auch in Europa lebt ein Vogel, dessen tiefe Dröhnlaute kilometerweit tragen: die Große Rohrdommel, ein Reiher der Schilfgebiete. Ihr Ruf erinnert an ein Nebelhorn oder brüllendes Vieh und brachte ihr Volksnamen wie „Moorochse“ ein. Bei Gefahr nimmt sie die Pfahlstellung ein, reckt Hals und Schnabel senkrecht nach oben und wiegt sich mitunter mit dem Schilf im Wind. In Großbritannien galt sie gegen Ende des 19. Jahrhunderts als Brutvogel ausgestorben, bevor sie später zurückkehrte.",
+          "hook": "stoßen tiefe Dröhnlaute aus",
+          "children": [
+            {
+              "id": "2026-10-12-0-1-0",
+              "title": "Die Orgel im Nebel",
+              "text": "Das tiefe Grunzen vieler klassischer Nebelhörner geht auf eine Erfindung aus dem Orgelbau zurück: das Diaphon des englischen Orgelbauers Robert Hope-Jones. Anfang des 20. Jahrhunderts machte der Kanadier John Northey daraus ein druckluftbetriebenes Nebelsignal, dessen abfallender Ton an vielen Küsten zu hören war. Hope-Jones selbst ging in die USA und prägte bei Wurlitzer die großen Kinoorgeln der Stummfilmzeit. Die Warnung für Schiffe im Nebel und die Musik zu frühen Hollywoodfilmen stammen also vom selben Instrument ab.",
+              "hook": "erinnert an ein Nebelhorn",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-0-1-1",
+              "title": "Der Maler und die Flamingos",
+              "text": "Die Pfahlstellung wirkt, weil das längsgestreifte Gefieder der Rohrdommel mit den Halmen verschmilzt. Solche Tarnung wurde zur Lebensaufgabe des US-Malers Abbott Thayer. 1909 veröffentlichte er mit seinem Sohn ein Buch über Tarnfärbung im Tierreich, überzog darin aber: Selbst rosa Flamingos sollten vor dem Abendhimmel unsichtbar werden. Theodore Roosevelt, ein begeisterter Naturkundler, verspottete das öffentlich. Thayers ernsthafteste Entdeckung überdauerte trotzdem: Die Gegenschattierung mit heller Bauchseite heißt in der Biologie bis heute Thayer-Prinzip.",
+              "hook": "nimmt sie die Pfahlstellung ein",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-0-1-2",
+              "title": "Der Pfahl im Torf",
+              "text": "Dass die Rohrdommel als Brutvogel ausstarb, lag neben Jagd und Sammlern vor allem an der Trockenlegung von Feuchtgebieten wie den englischen Fens. Dort wurde 1851 Whittlesey Mere entwässert, einst einer der größten Seen im Süden Englands. Ein Pfahl, den man damals bündig mit der Oberfläche in den Torf trieb, ragt heute rund vier Meter aus dem Boden, so stark ist der ausgetrocknete Torf geschrumpft. Deshalb liegt in Holme Fen mit knapp drei Metern unter dem Meeresspiegel der tiefste Landpunkt Großbritanniens, geschaffen durch Menschenhand.",
+              "hook": "als Brutvogel ausgestorben",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2026-10-12-0-2",
+          "title": "Hermeline gegen Kaninchen",
+          "text": "Raubtierfreie Inseln braucht der Kakapo vor allem wegen einer Entscheidung aus dem 19. Jahrhundert. Weil eingeschleppte Kaninchen zur Plage geworden waren, wurden ab den 1880er-Jahren Hermeline, Frettchen und Wiesel nach Neuseeland gebracht, obwohl Vogelkundler davor warnten. Die Marder fanden in flugunfähigen Bodenbrütern leichtere Beute. 2016 rief die Regierung deshalb das Ziel „Predator Free 2050“ aus: Bis dahin sollen Ratten, Marder und Fuchskusus landesweit ausgerottet sein.",
+          "hook": "raubtierfreien Inseln",
+          "children": [
+            {
+              "id": "2026-10-12-0-2-0",
+              "title": "Der Kusu im Wollpullover",
+              "text": "Der Fuchskusu, ein Beuteltier aus Australien, kam schon ab 1837 nach Neuseeland. Er sollte keine Schädlinge bekämpfen, sondern einen Pelzhandel begründen. Ohne natürliche Feinde vermehrte er sich auf geschätzt rund 30 Millionen Tiere, frisst Knospen, Vogeleier und Küken und überträgt Rindertuberkulose. In Australien steht er dagegen weitgehend unter Schutz. Neuseeland macht aus der Plage ein Exportprodukt: Kusu-Fell wird mit Merinowolle versponnen und zu besonders warmen Pullovern und Socken verarbeitet.",
+              "hook": "Fuchskusus",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-0-2-1",
+              "title": "Ein Zaun gegen Kaninchen",
+              "text": "Zur gleichen Zeit wurden eingeschleppte Kaninchen auch in Australien zur Plage. Meist führt man das auf Thomas Austin zurück, der 1859 in Victoria rund zwei Dutzend Tiere für die Jagd freiließ. Westaustralien baute daraufhin den Rabbit-Proof Fence. Der 1907 fertiggestellte Hauptzaun ist mit etwa 1.800 Kilometern einer der längsten Zäune der Welt, doch die Kaninchen waren schon vor seiner Fertigstellung auf der anderen Seite. Berühmt wurde er durch drei Aborigine-Mädchen, die 1931 aus einem staatlichen Lager flohen und sich an ihm entlang rund 1.600 Kilometer nach Hause durchschlugen.",
+              "hook": "eingeschleppte Kaninchen zur Plage",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-0-2-2",
+              "title": "Der Mann, der Vögel ruderte",
+              "text": "Was Hermeline, Frettchen und Wiesel anrichten würden, erkannte der Naturforscher Richard Henry früh. Er wurde 1894 Aufseher von Resolution Island im Fiordland und brachte in den folgenden Jahren Hunderte Kakapos und Kiwis mit dem Ruderboot dorthin, um sie vor den Mardern zu retten. Um 1900 wurden aber auch auf der Insel Hermeline gesichtet, die offenbar hinübergeschwommen waren. Henrys Name lebte trotzdem weiter: Ein 1975 im Fiordland entdeckter Kakapo-Hahn wurde nach ihm benannt. Er zeugte als einziger Vogel vom Festland noch Küken, und so stecken seine Gene bis heute in der Population.",
+              "hook": "Hermeline, Frettchen und Wiesel",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-1",
+      "title": "Hedy Lamarr",
+      "text": "Hedy Lamarr wurde 1914 in Wien als Hedwig Kiesler geboren. Berühmt wurde sie 1933 mit dem Film „Ekstase“, später feierte man sie als Hollywoodstar. Weniger bekannt ist, dass sie 1942 zusammen mit dem Komponisten George Antheil ein US-Patent für ein Frequenzsprungverfahren erhielt. Es sollte die Funksteuerung von Torpedos vor Störungen schützen. Vorbild für die Abstimmung waren Notenrollen mechanischer Klaviere, und wie ein Flügel Tasten hatte das System 88 Frequenzen. Das Prinzip gilt als Vorläufer heutiger Funktechnik wie Bluetooth.",
+      "children": [
+        {
+          "id": "2026-10-12-1-0",
+          "title": "Musik für keine Hände",
+          "text": "Für den US-Komponisten Conlon Nancarrow wurden Notenrollen mechanischer Klaviere zum eigentlichen Instrument. Nach seinem Kampf im Spanischen Bürgerkrieg bekam er als früherer Kommunist Ärger mit den US-Behörden und zog 1940 nach Mexiko-Stadt. Dort stanzte er jahrzehntelang von Hand Löcher in Papierrollen. Seine rund 50 „Studies for Player Piano“ verlangen Tempi, die kein Mensch spielen kann. Spät entdeckt und von György Ligeti gefeiert, erhielt er 1982 ein MacArthur-Stipendium.",
+          "hook": "Notenrollen mechanischer Klaviere",
+          "children": [
+            {
+              "id": "2026-10-12-1-0-0",
+              "title": "Ein Eispickel in Coyoacán",
+              "text": "1940, im selben Jahr, in dem Nancarrow nach Mexiko-Stadt zog, wurde dort Leo Trotzki ermordet. Im August schlug ihn der sowjetische Agent Ramón Mercader in seinem Exilhaus in Coyoacán mit einem Eispickel nieder. Trotzki starb am folgenden Tag. Mercader hatte sich über eine Liebesbeziehung mit der Trotzkistin Sylvia Ageloff Zugang verschafft und saß rund 20 Jahre in mexikanischer Haft. Danach wurde er in Moskau als Held der Sowjetunion geehrt. Begraben liegt er dort unter falschem Namen.",
+              "hook": "zog 1940 nach Mexiko-Stadt",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-1-0-1",
+              "title": "Hundert Metronome",
+              "text": "György Ligeti, der Nancarrow so feierte, hatte selbst eine Schwäche für Musik ohne Musiker. 1962 schrieb er das „Poème symphonique“ für 100 Metronome, die zu Beginn alle in unterschiedlichen Tempi angestoßen werden. Aus dem dichten Prasseln werden nach und nach erkennbare Muster, weil ein Metronom nach dem anderen ausläuft. Das Stück ist erst zu Ende, wenn auch das letzte verstummt ist. Den Schluss macht also ein einsames Ticken.",
+              "hook": "von György Ligeti gefeiert",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-1-0-2",
+              "title": "Der Anruf ohne Bewerbung",
+              "text": "Als Nancarrow 1982 sein MacArthur-Stipendium bekam, war das Programm gerade erst im zweiten Jahr. Bewerben kann man sich nicht: Anonyme Nominierende schlagen Kandidaten vor, und die Ausgewählten erfahren meist durch einen überraschenden Anruf davon. Heute gibt es 800.000 Dollar über fünf Jahre, und wofür das Geld ausgegeben wird, schreibt niemand vor. Die Presse nennt es gern „Genius Grant“. Die Stiftung selbst lehnt genau dieses Etikett ab.",
+              "hook": "1982 ein MacArthur-Stipendium",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2026-10-12-1-1",
+          "title": "Die Blindgänger der Navy",
+          "text": "Die US-Marine hatte bei Torpedos ganz andere Sorgen als die Funksteuerung: Ihr Standardmodell Mark 14 versagte zu Beginn des Pazifikkriegs auffallend oft. Es lief zu tief, der Magnetzünder zündete zu früh oder gar nicht, und der Aufschlagzünder versagte ausgerechnet bei sauberen Treffern im rechten Winkel. Erst Tests unter Admiral Charles Lockwood, bei denen man Torpedos sogar auf die Klippen der Insel Kahoolawe schoss, deckten die Fehler auf. Behoben waren sie erst im Herbst 1943.",
+          "hook": "die Funksteuerung von Torpedos",
+          "children": [
+            {
+              "id": "2026-10-12-1-1-0",
+              "title": "Hawaiis Bombeninsel",
+              "text": "Kahoolawe, auf dessen Klippen die Navy ihre Torpedos schoss, blieb auch nach dem Krieg ein Übungsziel: Bis 1990 bombardierte das Militär die kleinste der acht Hauptinseln Hawaiis. 1976 besetzten Aktivisten der Bewegung Protect Kahoʻolawe ʻOhana die Insel. Zwei von ihnen, George Helm und Kimo Mitchell, verschwanden 1977 auf See. 1994 ging die Insel an den Bundesstaat Hawaii, ist aber bis heute nicht frei von Munition. Laut Landesrecht soll sie einmal an eine souveräne hawaiische Nation übergeben werden, die es bisher nicht gibt.",
+              "hook": "die Klippen der Insel Kahoolawe",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-1-1-1",
+              "title": "Minen, Messing und Gauß",
+              "text": "Magnetzünder steckten nicht nur in Torpedos: Im Herbst 1939 versenkten deutsche Magnetminen vor Großbritannien zahlreiche Schiffe. Im November fiel eine davon ins Watt bei Shoeburyness an der Themsemündung. Marineoffizier John Ouvry entschärfte sie mit Werkzeug aus nichtmagnetischem Messing. Danach entwickelten die Briten das „Degaussing“, benannt nach Carl Friedrich Gauß: Stromkabel um den Rumpf heben das Magnetfeld eines Schiffs auf. Der Begriff lebte später in der Degauss-Taste alter Röhrenmonitore weiter, mit der man Farbflecken wegmagnetisierte.",
+              "hook": "der Magnetzünder zündete zu früh",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-1-1-2",
+              "title": "Lockwoods Höllenkatzen",
+              "text": "Admiral Charles Lockwood, der die Torpedofehler aufdecken ließ, schickte im Juni 1945 neun U-Boote ins Japanische Meer, das bis dahin kaum erreichbar war. Bei der Operation Barney tasteten sie sich mit einem neuen FM-Sonar durch die Minenfelder der Tsushimastraße. Eines der Boote, die USS Bonefish, kam nicht zurück. Nach dem Krieg schrieb Lockwood mit einem Co-Autor das Buch „Hellcats of the Sea“. Die Verfilmung von 1957 ist der einzige Spielfilm, in dem Ronald Reagan und Nancy Davis gemeinsam vor der Kamera standen.",
+              "hook": "Admiral Charles Lockwood",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2026-10-12-1-2",
+          "title": "Ein Wikingerkönig im Handy",
+          "text": "Der Name Bluetooth geht auf den dänischen König Harald Blauzahn aus dem 10. Jahrhundert zurück. Vorgeschlagen hat ihn 1997 der Intel-Ingenieur Jim Kardach, nachdem er Bücher über die Wikinger gelesen hatte: So wie Harald Dänemark geeint hatte, sollte der Funkstandard verschiedene Industrien verbinden. Das Logo verschmilzt die Runen für H und B, seine Initialen. Harald selbst ließ um 965 in Jelling einen Runenstein errichten, der rühmt, er habe die Dänen zu Christen gemacht.",
+          "hook": "heutiger Funktechnik wie Bluetooth",
+          "children": [
+            {
+              "id": "2026-10-12-1-2-0",
+              "title": "Ein Wikingerroman als Pate",
+              "text": "Unter den Büchern über die Wikinger, die Jim Kardach las, war der schwedische Roman „Die Abenteuer des Röde Orm“ von Frans G. Bengtsson. Das zweiteilige Werk erschien 1941 und 1945 und erzählt von einem jungen Mann aus Schonen, der als Ruderer auf eine Galeere gerät, im maurischen Córdoba dient und später zu den Stromschnellen des Dnjepr aufbricht. Harald Blauzahn tritt darin selbst auf. Hollywood verfilmte den Stoff 1964, mit Sidney Poitier als maurischem Fürsten.",
+              "hook": "Bücher über die Wikinger",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-1-2-1",
+              "title": "Ein Gesetzbuch in Runen",
+              "text": "Die Runen für H und B gehören zum jüngeren Futhark, das ab etwa 800 mit nur 16 Zeichen auskam. Aus ihm entwickelten sich mittelalterliche Runen, mit denen um 1300 jemand ein ganzes Buch schrieb: den Codex Runicus, rund 200 Pergamentseiten, die vor allem das Schonische Recht enthalten. Für Bücher waren Runen damals eine Ausnahme, denn Handschriften schrieb man längst im lateinischen Alphabet. Auf der letzten Seite steht etwas Unerwartetes, nämlich zwei Notenzeilen zum Lied „Drømte mig en drøm i nat“, eine der ältesten erhaltenen weltlichen Melodien Skandinaviens.",
+              "hook": "die Runen für H und B",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-1-2-2",
+              "title": "Die Probe mit dem Eisen",
+              "text": "Wie Harald die Dänen zu Christen gemacht haben soll, schrieb wenige Jahre später der sächsische Mönch Widukind von Corvey auf. Demnach trug ein Kleriker namens Poppo vor dem König ein glühendes Eisen, ohne sich zu verbrennen, worauf Harald den alten Göttern abschwor. Belegt ist das nicht, die Episode gilt als Legende. Beliebt war sie trotzdem: Vergoldete Kupferplatten aus der Kirche von Tamdrup in Jütland zeigen um 1200 Poppos Gottesurteil, gut zwei Jahrhunderte nach dem angeblichen Wunder.",
+              "hook": "die Dänen zu Christen gemacht",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-2",
+      "title": "Antikythera-Mechanismus",
+      "text": "1901 holten Schwammtaucher vor der griechischen Insel Antikythera einen unscheinbaren, verkrusteten Bronzeklumpen aus einem antiken Schiffswrack. Darin steckte ein Zahnradgetriebe aus dem 2. oder 1. Jahrhundert v. Chr., von dem rund 30 Zahnräder erhalten sind. Mit einer Kurbel ließen sich die Stellung von Sonne und Mond, die Mondphasen und Finsternisse anzeigen. Sogar der Rhythmus der Olympischen Spiele war darauf vermerkt. Mechanik von ähnlicher Feinheit taucht erst wieder im mittelalterlichen Europa auf.",
+      "children": [
+        {
+          "id": "2026-10-12-2-0",
+          "title": "Mit dem Stein in die Tiefe",
+          "text": "Die Schwammtaucher, die auf das Wrack stießen, stammten von der Dodekanes-Insel Symi, wo das Tauchen nach Badeschwämmen über Generationen ein wichtiger Erwerb war. Traditionell tauchten sie ohne Gerät mit der Skandalopetra, einem flachen Stein von etwa 8 bis 15 Kilo, der sie rasch in die Tiefe zog. 1913 soll Stathis Chatzis so in über 70 Meter Tiefe ein Seil am verlorenen Anker des italienischen Kriegsschiffs Regina Margherita befestigt haben. Die neuen Taucheranzüge des 19. Jahrhunderts brachten dagegen vielen Tauchern die damals unverstandene Taucherkrankheit.",
+          "hook": "holten Schwammtaucher",
+          "children": [
+            {
+              "id": "2026-10-12-2-0-0",
+              "title": "Krank vom Brückenbau",
+              "text": "Die Taucherkrankheit traf auch Arbeiter in Senkkästen, in denen man unter Überdruck Fundamente für Brücken aushob. Beim Bau der Brooklyn Bridge erkrankte Chefingenieur Washington Roebling 1872 so schwer, dass er die Arbeiten danach meist vom Fenster aus durchs Fernglas verfolgte. Seine Frau Emily überbrachte seine Anweisungen und eignete sich dabei viel Ingenieurwissen an. Die Arbeiter nannten das Leiden „the bends“. Angeblich spielte das auf den „Grecian bend“ an, eine vornübergebeugte Haltung, die damals bei Damen als modisch galt.",
+              "hook": "unverstandene Taucherkrankheit",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-2-0-1",
+              "title": "Eine Ehe im Glasschwamm",
+              "text": "Ein Badeschwamm ist eigentlich das Skelett eines Tieres: Schwämme haben weder Nerven noch Organe und filtern ihre Nahrung aus dem Wasser. Besonders kunstvoll baut der Gießkannenschwamm aus der Tiefsee, auch Venuskörbchen genannt, sein Gerüst aus feinen Glasnadeln. Darin lebt oft ein Garnelenpaar, das als Larven hineingeschlüpft ist und später zu groß wird, um wieder herauszukommen. In Japan verschenkte man das getrocknete Skelett deshalb zur Hochzeit, als Sinnbild für eine Ehe bis zum Tod.",
+              "hook": "nach Badeschwämmen",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-2-0-2",
+              "title": "Pizza, Panzerschiff, Gipfel",
+              "text": "Das Kriegsschiff Regina Margherita war nach Margarethe von Savoyen benannt, der ersten Königin des geeinten Italiens. Heute kennt man ihren Namen vor allem von der Pizza Margherita. Der Legende nach backte der Neapolitaner Raffaele Esposito sie 1889 für die Königin in den Farben der Trikolore, doch Historiker bezweifeln diese Geschichte. Gut belegt ist dagegen, dass sie 1893 auf den Monte Rosa stieg, wo eine nach ihr benannte Hütte eingeweiht wurde. Die Capanna Margherita liegt auf 4554 Metern und gilt bis heute als das höchstgelegene Gebäude Europas.",
+              "hook": "italienischen Kriegsschiffs Regina Margherita",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2026-10-12-2-1",
+          "title": "Das Orakel der Bleitafeln",
+          "text": "Nach heutiger Lesung nennt das Zifferblatt für die Spiele neben Olympia auch Isthmien, Nemeen und Pythien und dazu die Naa im entlegenen Dodona in Epirus. Dort lag eines der ältesten Orakel Griechenlands, an dem Zeus der Überlieferung nach durch das Rauschen einer heiligen Eiche sprach. Ratsuchende ritzten ihre Fragen auf schmale Bleitäfelchen, von denen über 4000 gefunden wurden. Oft geht es um Alltägliches, etwa ob eine Reise gelingt oder ob ein Kind wirklich vom eigenen Mann stammt.",
+          "hook": "der Rhythmus der Olympischen Spiele",
+          "children": [
+            {
+              "id": "2026-10-12-2-1-0",
+              "title": "Schiffe über Land",
+              "text": "Die Isthmien wurden beim Poseidonheiligtum auf der schmalen Landenge von Korinth gefeiert, und genau diese Enge reizte die Baumeister der Antike. Um 600 v. Chr. legte man dort den Diolkos an, eine gepflasterte Bahn, auf der Schiffe auf Wagen von einem Meer zum anderen gezogen wurden. Kaiser Nero setzte 67 n. Chr. mit einer goldenen Hacke selbst den ersten Schlag für einen Kanal, doch nach seinem Tod ruhte das Projekt. Fertig wurde der Kanal erst 1893, und mit rund 25 Metern Breite ist er heute für die meisten großen Frachter zu schmal.",
+              "hook": "Isthmien",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-2-1-1",
+              "title": "Fluch für Handschuhdiebe",
+              "text": "Auf Blei schrieb man in der Antike nicht nur Fragen an die Götter, sondern auch Flüche. Im englischen Bath, dem römischen Aquae Sulis, bargen Archäologen ab 1979 rund 130 solcher Fluchtafeln aus der heiligen Quelle der Göttin Sulis Minerva. Die meisten richten sich gegen Diebe, die Badegästen Mäntel, Kleider oder Münzen gestohlen hatten. Ein gewisser Docimedis etwa vermisste zwei Handschuhe und wünschte dem Dieb, er möge dafür im Tempel der Göttin Verstand und Augenlicht verlieren.",
+              "hook": "schmale Bleitäfelchen",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-2-1-2",
+              "title": "Chaplin und die Blutgruppe",
+              "text": "Ob ein Kind wirklich vom eigenen Mann stammt, ließ sich jahrtausendelang nicht klären; erst die Blutgruppen, die Karl Landsteiner 1901 entdeckte, lieferten Hinweise. Mit ihnen ließ sich eine Vaterschaft allerdings nur ausschließen, nicht beweisen. 1944 zeigte ein Bluttest, dass Charlie Chaplin nicht der Vater der Tochter der jungen Schauspielerin Joan Barry sein konnte. Eine Jury in Los Angeles erklärte ihn trotzdem zum Vater, weil Bluttests in Kalifornien damals nicht als bindender Beweis galten, und Chaplin musste Unterhalt zahlen.",
+              "hook": "ob ein Kind wirklich vom eigenen",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2026-10-12-2-2",
+          "title": "Sieben Zifferblätter",
+          "text": "Ein frühes Beispiel dafür ist das Astrarium des Paduaner Arztes und Astronomen Giovanni de' Dondi, an dem er von 1348 bis 1364 arbeitete. Sieben Zifferblätter zeigten Sonne, Mond und die fünf damals bekannten Planeten, ein Kalender außerdem die beweglichen Kirchenfeste. Das Original gelangte in die Bibliothek der Visconti in Pavia und verschwand im 16. Jahrhundert. Weil Dondi den Aufbau in einem Manuskript genau beschrieben hatte, ließ es sich nachbauen. Rekonstruktionen stehen heute etwa in Washington und Mailand.",
+          "hook": "erst wieder im mittelalterlichen Europa",
+          "children": [
+            {
+              "id": "2026-10-12-2-2-0",
+              "title": "Die Formel für Ostern",
+              "text": "Die beweglichen Kirchenfeste hängen alle am Ostertermin, und der richtet sich seit der Spätantike nach dem Mond: Ostern ist der erste Sonntag nach dem ersten Frühlingsvollmond. Die Berechnung, der sogenannte Computus, beschäftigte Gelehrte über Jahrhunderte. 1800 veröffentlichte Carl Friedrich Gauß eine kompakte Osterformel, die er später noch korrigieren musste. Weil die Ostkirchen beim julianischen Kalender blieben, feiern West und Ost meist an verschiedenen Tagen. 2025 fielen beide Ostern zufällig auf den 20. April.",
+              "hook": "die beweglichen Kirchenfeste",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-2-2-1",
+              "title": "Bücherbeute aus Pavia",
+              "text": "Die Bibliothek der Visconti im Kastell von Pavia gehörte im 15. Jahrhundert zu den reichsten Europas. Gian Galeazzo Visconti hatte ihr nach der Eroberung Paduas 1388 sogar Teile der Büchersammlung Petrarcas einverleibt. 1499 eroberte der französische König Ludwig XII. das Herzogtum Mailand und ließ die Bände als Kriegsbeute ins Schloss Blois bringen. Von dort wanderten sie in die königliche Bibliothek. Viele der Handschriften aus Pavia liegen heute in der Bibliothèque nationale de France in Paris.",
+              "hook": "Bibliothek der Visconti in Pavia",
+              "children": []
+            },
+            {
+              "id": "2026-10-12-2-2-2",
+              "title": "Der Planet aus Bath",
+              "text": "Saturn war der äußerste der fünf mit bloßem Auge bekannten Planeten, bis William Herschel am 13. März 1781 im Garten seines Hauses in Bath ein Objekt entdeckte, das er zunächst für einen Kometen hielt. Herschel stammte aus Hannover, war eigentlich Musiker und baute seine Teleskope selbst. Er wollte den neuen Planeten nach König Georg III. „Georgium Sidus“ nennen, durchgesetzt hat sich aber Johann Elert Bodes Vorschlag Uranus. Gesehen hatte ihn schon John Flamsteed im Jahr 1690. Der katalogisierte ihn allerdings als Stern 34 Tauri.",
+              "hook": "fünf damals bekannten Planeten",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
