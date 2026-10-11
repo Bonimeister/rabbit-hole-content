@@ -1,0 +1,448 @@
+{
+  "version": 1,
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-11T17:32:06.713Z",
+  "topics": [
+    {
+      "id": "2026-10-14-0",
+      "category": "natur",
+      "title": "Pando",
+      "text": "Im Fishlake National Forest in Utah steht ein Wald, der eigentlich ein einziges Lebewesen ist: Pando, ein Klon der Amerikanischen Zitterpappel. Seine rund 47.000 Stämme wachsen aus einem gemeinsamen Wurzelsystem, teilen dasselbe Erbgut und wiegen zusammen geschätzt 6.000 Tonnen. Der Name ist Latein und bedeutet „ich breite mich aus“. Wie alt Pando ist, ist umstritten: Die Schätzungen reichen von einigen Tausend bis zu Zehntausenden Jahren.",
+      "children": [
+        {
+          "id": "2026-10-14-0-0",
+          "title": "Ich rolle: Volvos Latein",
+          "text": "Wie „Pando“ ist auch „Volvo“ ein lateinisches Verb in der Ich-Form. Es bedeutet „ich rolle“. Eingetragen wurde der Name 1911 vom schwedischen Kugellagerhersteller SKF, er war also zunächst für Lager gedacht und nicht für Autos. Erst 1927 verließ in Göteborg der erste Serienwagen die Fabrik, der ÖV4 mit dem Spitznamen „Jakob“. Audi kam auf ähnlichem Weg zu seinem Namen: August Horch durfte seinen Nachnamen nicht mehr verwenden und übersetzte ihn ins Lateinische. „Audi“ heißt „horch!“.",
+          "hook": "Der Name ist Latein",
+          "children": [
+            {
+              "id": "2026-10-14-0-0-0",
+              "title": "Krieg um Kugellager",
+              "text": "SKF entstand 1907 in Göteborg, nachdem der Ingenieur Sven Wingquist ein selbstausrichtendes Kugellager erfunden hatte. Wie kriegswichtig diese unscheinbaren Stahlkugeln sind, zeigte sich 1943: Die Alliierten bombardierten Schweinfurt, das Zentrum der deutschen Wälzlagerproduktion, in dem auch eine SKF-Tochter fertigte. Beim Angriff am 14. Oktober verloren die US-Bomberverbände rund 60 Maschinen, der Tag ging als „Schwarzer Donnerstag“ in ihre Geschichte ein. Gleichzeitig lieferte das neutrale Schweden weiter Kugellager nach Deutschland.",
+              "hook": "schwedischen Kugellagerhersteller SKF",
+              "children": [],
+              "source": {
+                "title": "Svenska Kullagerfabriken – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Svenska_Kullagerfabriken"
+              }
+            },
+            {
+              "id": "2026-10-14-0-0-1",
+              "title": "Vier Ringe, ein Trabi",
+              "text": "August Horch gründete seine erste Firma 1899 in Köln und verlegte sie 1904 nach Zwickau, wo daraus die Horch-Werke wurden. Nach seinem Ausscheiden 1909 baute er dort das Unternehmen auf, das bald Audi hieß. 1932 schlossen sich Audi, Horch, DKW und Wanderer zur Auto Union zusammen, jeder der vier Ringe im Logo steht für eine dieser Marken. Nach dem Krieg wurde der Konzern in Sachsen enteignet, und die Auto Union begann in Ingolstadt neu. In den alten Zwickauer Werken von Horch und Audi lief ab Ende der 1950er-Jahre ein ganz anderes Auto vom Band: der Trabant.",
+              "hook": "August Horch durfte seinen Nachnamen",
+              "children": [],
+              "source": {
+                "title": "Auto Union AG – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Auto_Union_AG"
+              }
+            },
+            {
+              "id": "2026-10-14-0-0-2",
+              "title": "Placebo: ich werde gefallen",
+              "text": "Ein weiteres lateinisches Verb in der Ich-Form kommt heute in fast jeder Arzneimittelstudie vor: „Placebo“ heißt „ich werde gefallen“. Das Wort stammt aus einem Psalmvers, „Placebo Domino in regione vivorum“, der im mittelalterlichen Totengebet gesungen wurde. Weil dafür oft bezahlte Sänger und Trauernde einsprangen, wurde „Placebo“ im Englischen zum Spottwort für Schmeichler. Erst im 18. Jahrhundert kam es in die Medizin, als Name für Mittel, die den Patienten eher gefallen als ihn heilen sollten.",
+              "hook": "ein lateinisches Verb in der Ich-Form",
+              "children": [],
+              "source": {
+                "title": "Placebo – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Placebo"
+              }
+            }
+          ],
+          "source": {
+            "title": "Volvo Car Corporation – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Volvo_Car_Corporation"
+          }
+        },
+        {
+          "id": "2026-10-14-0-1",
+          "title": "Der Riesenpilz von Oregon",
+          "text": "Mit geschätzt 6.000 Tonnen gilt Pando als eines der schwersten Lebewesen der Erde. Um diesen Titel konkurriert ein Pilz: ein Dunkler Hallimasch im Malheur National Forest in Oregon. Sein Geflecht zieht sich unterirdisch über fast zehn Quadratkilometer, sein Alter wird auf einige Tausend Jahre geschätzt. Er breitet sich mit schwarzen, wurzelartigen Strängen aus, den Rhizomorphen, und lässt dabei Nadelbäume absterben. Bekannt wurden solche Riesenpilze 1992, als Forscher in der Fachzeitschrift „Nature“ einen Hallimasch-Klon aus Michigan beschrieben.",
+          "hook": "geschätzt 6.000 Tonnen",
+          "children": [
+            {
+              "id": "2026-10-14-0-1-0",
+              "title": "Pilzlicht im U-Boot",
+              "text": "Die Rhizomorphen und das Geflecht des Hallimasch können im Dunkeln schwach grünlich leuchten. Im Deutschen heißt das Phänomen „Leuchtholz“, im Englischen „Foxfire“. Dieses Licht nutzte David Bushnell 1775 für die „Turtle“, ein hölzernes Ein-Mann-U-Boot im Amerikanischen Unabhängigkeitskrieg: Leuchtholz markierte die Anzeigen von Kompass und Tiefenmesser, weil eine Kerze den knappen Sauerstoff verbraucht hätte. Bei Kälte erlosch das Pilzlicht jedoch, sodass sogar Benjamin Franklin um Rat gefragt wurde.",
+              "hook": "den Rhizomorphen",
+              "children": [],
+              "source": {
+                "title": "Turtle (U-Boot) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Turtle_(U-Boot)"
+              }
+            },
+            {
+              "id": "2026-10-14-0-1-1",
+              "title": "Pizza für einen Pilz",
+              "text": "Der Hallimasch-Klon aus Michigan wächst bei Crystal Falls auf der Oberen Halbinsel und wurde 1992 auf rund 100 Tonnen und 1.500 Jahre geschätzt. 2018 untersuchte das Team um James Anderson den Pilz erneut, diesmal mit Hunderten Proben und Erbgutanalysen. Ergebnis: Er ist mindestens 2.500 Jahre alt, wiegt rund 400 Tonnen und hat in all der Zeit erstaunlich wenige Mutationen angesammelt. Crystal Falls feiert seinen unterirdischen Bewohner jeden Sommer mit einem „Humongous Fungus Fest“, samt riesiger Pilzpizza.",
+              "hook": "einen Hallimasch-Klon aus Michigan",
+              "children": [],
+              "source": {
+                "title": "This Mushroom Is as Massive as Three Blue Whales – Smithsonian Magazine",
+                "url": "https://www.smithsonianmag.com/smart-news/mushroom-massive-three-blue-whales-180970549/"
+              }
+            },
+            {
+              "id": "2026-10-14-0-1-2",
+              "title": "Ein Fluss namens Unglück",
+              "text": "Der Malheur National Forest ist nach einem Fluss benannt, und „malheur“ heißt auf Französisch „Unglück“. Frankokanadische Pelzjäger gaben ihm in den 1820er-Jahren den Namen, nachdem ihnen dort versteckte Felle und Vorräte gestohlen worden waren. Nicht weit entfernt liegt das Malheur National Wildlife Refuge, das Theodore Roosevelt 1908 gründete, um Wasservögel vor Federjägern zu schützen. Deren Beute landete auf Damenhüten. 2016 bestätigte sich der Name noch einmal: Bewaffnete Regierungsgegner besetzten das Schutzgebiet 41 Tage lang.",
+              "hook": "im Malheur National Forest",
+              "children": [],
+              "source": {
+                "title": "Malheur River – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Malheur_River"
+              }
+            }
+          ],
+          "source": {
+            "title": "Humongous Fungus (Armillaria ostoyae) – The Oregon Encyclopedia",
+            "url": "https://www.oregonencyclopedia.org/articles/humongous-fungus-armillaria-ostoyae/"
+          }
+        },
+        {
+          "id": "2026-10-14-0-2",
+          "title": "Der Baum, den man fällte",
+          "text": "Pandos Alter ist auch deshalb umstritten, weil sich ein Klon nicht über Jahresringe datieren lässt. Bei einzelnen Bäumen geht das. 1964 fällte der Doktorand Donald Currey am Wheeler Peak in Nevada eine Grannenkiefer, um ihre Ringe zu zählen. Der Baum, später „Prometheus“ genannt, war fast 4.900 Jahre alt und damit der älteste bis dahin bekannte Einzelbaum. Der Fall gilt als einer der Anstöße dafür, dass das Gebiet 1986 zum Great-Basin-Nationalpark wurde.",
+          "hook": "Wie alt Pando ist, ist umstritten",
+          "children": [
+            {
+              "id": "2026-10-14-0-2-0",
+              "title": "Der Balken HH-39",
+              "text": "Zur Methode machte die Datierung über Jahresringe ein Astronom: Andrew Ellicott Douglass suchte in Arizona eigentlich nach Spuren von Sonnenflecken im Klima. Er merkte, dass Bäume einer Region in dürren und feuchten Jahren dieselben Ringmuster bilden, die sich wie Strichcodes aneinanderlegen lassen. Lange fehlte jedoch das Bindeglied zu den Balken alter Pueblo-Bauten. Im Juni 1929 schloss ein verkohlter Balken aus Show Low mit der Nummer HH-39 die Lücke endgültig. Damit ließ sich das Baualter von Ruinen wie Pueblo Bonito bestimmen.",
+              "hook": "über Jahresringe datieren",
+              "children": [],
+              "source": {
+                "title": "Andrew Ellicott Douglass – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Andrew_Ellicott_Douglass"
+              }
+            },
+            {
+              "id": "2026-10-14-0-2-1",
+              "title": "Methusalems geheimer Ort",
+              "text": "Mit dem Tod von Prometheus ging der Titel an eine andere Grannenkiefer zurück: Methusalem in den White Mountains Kaliforniens. Der Dendrochronologe Edmund Schulman hatte ihr Alter schon 1957 bestimmt, nur mit einem dünnen Bohrkern, und kam auf rund 4.800 Jahre. Sie gilt als ältester Einzelbaum mit überprüftem Alter; ein angeblich älterer Baum wurde nie bestätigt. Wo genau sie steht, hält die Forstbehörde geheim, aus Sorge vor Vandalen. Im Hain trägt sie kein Namensschild.",
+              "hook": "eine Grannenkiefer",
+              "children": [],
+              "source": {
+                "title": "Methuselah – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Methuselah"
+              }
+            },
+            {
+              "id": "2026-10-14-0-2-2",
+              "title": "Der verschwundene See",
+              "text": "Der Great-Basin-Nationalpark trägt den Namen einer Landschaft, aus der kein Fluss das Meer erreicht: Im Großen Becken verdunstet oder versickert alles Wasser. In der letzten Eiszeit staute sich hier der Bonneville-See, fast so groß wie heute der Michigansee. Er brach schließlich im heutigen Idaho durch einen Pass und ergoss sich in einer der gewaltigsten bekannten Fluten. Der Große Salzsee ist sein Überrest. Zu den führenden Kennern seiner alten Uferlinien wurde später ein Geograf der University of Utah: Donald Currey, der Mann, der Prometheus gefällt hatte.",
+              "hook": "zum Great-Basin-Nationalpark",
+              "children": [],
+              "source": {
+                "title": "Lake Bonneville – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Lake_Bonneville"
+              }
+            }
+          ],
+          "source": {
+            "title": "Prometheus (Baum) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Prometheus_(Baum)"
+          }
+        }
+      ],
+      "source": {
+        "title": "Pando (Baum) – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Pando_(Baum)"
+      }
+    },
+    {
+      "id": "2026-10-14-1",
+      "category": "geschichte",
+      "title": "Der Emu-Krieg",
+      "text": "Im November 1932 rückte die australische Armee in Westaustralien gegen einen ungewöhnlichen Gegner aus: Emus. Rund 20.000 der Laufvögel fielen über Weizenfelder her, die viele Veteranen des Ersten Weltkriegs bewirtschafteten. Major G. P. W. Meredith zog mit zwei Lewis-Maschinengewehren los, doch die Vögel zerstreuten sich blitzschnell in kleine Gruppen. Nach seinen eigenen Angaben kamen auf jeden getöteten Emu rund zehn Schuss, im Dezember wurde die Aktion abgebrochen.",
+      "children": [
+        {
+          "id": "2026-10-14-1-0",
+          "title": "Das Gewehr des Obersts",
+          "text": "Die Lewis-Maschinengewehre, mit denen Meredith ausrückte, gehen auf einen Amerikaner zurück, den die eigene Armee abgewiesen hatte. Oberst Isaac Newton Lewis entwickelte die luftgekühlte Waffe um 1911, scheiterte aber an der US-Heeresführung und ging nach Belgien. Ab 1914 wurde sie vor allem von BSA in Birmingham gebaut, einer Firma, die auch Fahrräder und Motorräder herstellte. Mit ihrem flachen Trommelmagazin für 47 Patronen wurde sie zu einem der ersten verbreiteten Maschinengewehre in Flugzeugen.",
+          "hook": "zwei Lewis-Maschinengewehren",
+          "children": [
+            {
+              "id": "2026-10-14-1-0-0",
+              "title": "Vom Gewehr zur Gold Star",
+              "text": "Bei BSA waren die Motorräder kein Nebengeschäft: Die Birmingham Small Arms Company, 1861 von Büchsenmachern gegründet, galt in den 1950er-Jahren als größter Motorradhersteller der Welt. Modelle wie die Gold Star prägten eine ganze Generation britischer Fahrer. Gegen die japanische Konkurrenz verlor die Firma jedoch den Anschluss und zerfiel Anfang der 1970er-Jahre. Heute gehört die Marke einer Tochter des indischen Konzerns Mahindra, die 2021 ausgerechnet eine neue Gold Star vorstellte.",
+              "hook": "BSA in Birmingham",
+              "children": [],
+              "source": {
+                "title": "Birmingham Small Arms Company – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Birmingham_Small_Arms_Company"
+              }
+            },
+            {
+              "id": "2026-10-14-1-0-1",
+              "title": "Kugeln durch den Propeller",
+              "text": "Maschinengewehre in Flugzeugen hatten anfangs ein Problem: Nach vorn schossen sie durch den eigenen Propeller. Der französische Pilot Roland Garros schraubte 1915 stählerne Ablenkkeile an seine Luftschraube und schoss damit mehrere Gegner ab, bis er hinter den deutschen Linien landen musste. Kurz darauf entwickelten Anthony Fokkers Ingenieure ein Unterbrechergetriebe, das die Schüsse auf den Propeller abstimmte. Garros fiel 1918, doch sein Name lebt auf Sand weiter: Das Tennisstadion der French Open heißt nach einem Flieger.",
+              "hook": "Maschinengewehre in Flugzeugen",
+              "children": [],
+              "source": {
+                "title": "Unterbrechergetriebe – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Unterbrechergetriebe"
+              }
+            },
+            {
+              "id": "2026-10-14-1-0-2",
+              "title": "Ein Amerikaner in Lüttich",
+              "text": "Mit Belgien wählte Lewis ein Land mit langer Waffentradition, denn rund um Lüttich arbeiteten seit Jahrhunderten Büchsenmacher. 1889 gründeten einige von ihnen in Herstal die Fabrique Nationale, kurz FN, um Gewehre für die belgische Armee zu bauen. Bald darauf begann FN eine enge Partnerschaft mit dem Amerikaner John Moses Browning und verkaufte seine Pistolen weltweit. Browning starb 1926 in der FN-Fabrik in Herstal. Seine letzte Pistole vollendete der Belgier Dieudonné Saive, 1935 kam sie als Hi-Power auf den Markt.",
+              "hook": "ging nach Belgien",
+              "children": [],
+              "source": {
+                "title": "Fabrique Nationale Herstal – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Fabrique_Nationale_Herstal"
+              }
+            }
+          ],
+          "source": {
+            "title": "Lewis-Maschinengewehr – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Lewis-Maschinengewehr"
+          }
+        },
+        {
+          "id": "2026-10-14-1-1",
+          "title": "Weizen statt Dank",
+          "text": "Dass so viele Kriegsheimkehrer Weizen anbauten, war kein Zufall: Nach 1918 vergab Australien über sogenannte Soldier Settlement Schemes Land an Zehntausende Veteranen. Oft lag es in trockenen Randgebieten wie dem westaustralischen Wheatbelt, und viele Siedler hatten nie zuvor einen Hof geführt. 1930 rief die Regierung zur Kampagne „Grow More Wheat“ auf und stellte Garantiepreise in Aussicht, die nie gezahlt wurden. Als der Weizenpreis in der Weltwirtschaftskrise einbrach, gaben viele ihre Farmen auf.",
+          "hook": "Veteranen des Ersten Weltkriegs bewirtschafteten",
+          "children": [
+            {
+              "id": "2026-10-14-1-1-0",
+              "title": "Der Kaninchenzaun",
+              "text": "Im Osten grenzt das westaustralische Wheatbelt an ein Bauwerk, das Schädlinge fernhalten sollte: den Rabbit-Proof Fence. Der Hauptzaun wurde zwischen 1901 und 1907 errichtet, ist rund 1.800 Kilometer lang und reicht von der Südküste bis an die Küste des Indischen Ozeans im Nordwesten. 1931 orientierten sich drei Mädchen, die aus der Siedlung Moore River geflohen waren, an ihm auf dem langen Fußmarsch zurück nach Jigalong. Zwei kamen an. Sein eigentliches Ziel verfehlte der Zaun dagegen: Die Kaninchen hatten ihn schon überwunden, bevor er fertig war.",
+              "hook": "dem westaustralischen Wheatbelt",
+              "children": [],
+              "source": {
+                "title": "Rabbit Proof Fence – inHerit (State Heritage Office Western Australia)",
+                "url": "https://inherit.dplh.wa.gov.au/Public/Inventory/Details/719bd3cf-3937-42e7-b9c1-c9d1fc0f536a"
+              }
+            },
+            {
+              "id": "2026-10-14-1-1-1",
+              "title": "Der Säbel auf der Brücke",
+              "text": "In der Weltwirtschaftskrise legte sich Jack Lang, der Premier von New South Wales, offen mit London an: Er wollte die Zinszahlungen an britische Gläubiger aussetzen. Viele seiner Gegner schlossen sich der paramilitärischen New Guard an. Als Lang im März 1932 die Sydney Harbour Bridge eröffnen sollte, ritt deren Mitglied Francis de Groot nach vorn und durchtrennte das Band mit seinem Säbel. Man knotete es wieder zusammen, Lang schnitt es erneut durch, und keine zwei Monate später setzte ihn der Gouverneur ab.",
+              "hook": "in der Weltwirtschaftskrise einbrach",
+              "children": [],
+              "source": {
+                "title": "Francis de Groot – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Francis_de_Groot"
+              }
+            },
+            {
+              "id": "2026-10-14-1-1-2",
+              "title": "Veteranen ohne Land",
+              "text": "Von den Soldier Settlement Schemes profitierten fast nur weiße Veteranen, obwohl im Ersten Weltkrieg schätzungsweise mehr als 1.000 Aborigines und Torres-Strait-Insulaner für Australien gekämpft hatten. Offiziell waren Männer, die nicht überwiegend europäischer Herkunft waren, vom Militärdienst ausgeschlossen, doch viele wurden trotzdem angenommen. Nach ihrer Rückkehr erhielten nur sehr wenige von ihnen Land. In Victoria wurden sogar Teile des Aborigines-Reservats Coranderrk an weiße Soldatensiedler vergeben.",
+              "hook": "Soldier Settlement Schemes",
+              "children": [],
+              "source": {
+                "title": "Soldier settlement – Australian War Memorial",
+                "url": "https://www.awm.gov.au/learn/schools/resources/anzac-diversity/aboriginal-and-torres-strait-islander-anzacs/soldier-settlement"
+              }
+            }
+          ],
+          "source": {
+            "title": "Soldier settlement – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Soldier_settlement"
+          }
+        },
+        {
+          "id": "2026-10-14-1-2",
+          "title": "Ein Zaun quer durchs Land",
+          "text": "Eigentlich hätte ein Zaun die rund 20.000 Laufvögel aufhalten sollen: Westaustralien hatte bis 1907 den Rabbit-Proof Fence Nr. 1 errichtet, gut 1.800 Kilometer lang von der Süd- bis zur Nordwestküste. Doch er war löchrig, und die Emus drangen auf ihrer Wanderung ins Wheatbelt hindurch. Berühmt wurde der Zaun durch drei Aborigine-Mädchen, die 1931 aus der Moore River Native Settlement flohen und ihm über weit mehr als tausend Kilometer nach Hause folgten. Ihre Geschichte erzählt der Film „Long Walk Home“ von 2002.",
+          "hook": "Rund 20.000 der Laufvögel",
+          "children": [
+            {
+              "id": "2026-10-14-1-2-0",
+              "title": "24 Kaninchen zu viel",
+              "text": "Der Zaun richtete sich gegen ein Tier, das erst wenige Jahrzehnte zuvor nach Australien gekommen war: 1859 ließ der Gutsbesitzer Thomas Austin bei Geelong in Victoria rund zwei Dutzend Wildkaninchen für die Jagd frei. Bald lebten Hunderte Millionen Kaninchen auf dem Kontinent. Ab 1950 setzte man das Myxomatose-Virus gegen sie ein, später das Calicivirus. Dieses sollte nur auf Wardang Island vor Südaustralien getestet werden, entkam aber 1995 aufs Festland – aus dem Feldversuch wurde ein landesweiter Einsatz.",
+              "hook": "Rabbit-Proof Fence Nr. 1",
+              "children": [],
+              "source": {
+                "title": "Rabbits in Australia – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rabbits_in_Australia"
+              }
+            },
+            {
+              "id": "2026-10-14-1-2-1",
+              "title": "Zweimal entlang des Zauns",
+              "text": "In die Moore River Native Settlement nördlich von Perth brachte man Kinder, die der Staat im Rahmen der Politik der heute so genannten Stolen Generations ihren Familien wegnahm. Molly Craig, die Älteste der drei Ausreißerinnen, wurde 1940 mit ihren beiden kleinen Töchtern erneut dorthin gebracht. Sie floh ein zweites Mal, mit der Jüngsten auf dem Arm, musste aber ihre Tochter Doris zurücklassen. Doris sah ihre Mutter erst als Erwachsene wieder. Als Doris Pilkington Garimara schrieb sie später das Buch, auf dem der Film beruht.",
+              "hook": "Moore River Native Settlement",
+              "children": [],
+              "source": {
+                "title": "Molly Craig – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Molly_Craig"
+              }
+            },
+            {
+              "id": "2026-10-14-1-2-2",
+              "title": "Der längste Zaun der Welt",
+              "text": "Gut 1.800 Kilometer sind viel, doch in Australien steht ein noch weit längerer Zaun: Der Dingozaun soll seit dem späten 19. Jahrhundert Schafweiden vor Wildhunden schützen. Er misst heute rund 5.600 Kilometer und zieht sich von Queensland bis an die Große Australische Bucht. Auf der Seite ohne Dingos vermehren sich die Kängurus stärker und fressen mehr Pflanzen ab. Studien mit Satellitendaten zeigen, dass auf dieser Seite weniger Vegetation wächst. Weil das Raubtier fehlt, sieht die Landschaft auf beiden Seiten des Zauns verschieden aus.",
+              "hook": "gut 1.800 Kilometer lang",
+              "children": [],
+              "source": {
+                "title": "Dingozaun – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dingozaun"
+              }
+            }
+          ],
+          "source": {
+            "title": "Rabbit-Proof Fence – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Rabbit-Proof_Fence"
+          }
+        }
+      ],
+      "source": {
+        "title": "Emu War – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Emu_War"
+      }
+    },
+    {
+      "id": "2026-10-14-2",
+      "category": "technik",
+      "title": "Das Falkirk Wheel",
+      "text": "Das Falkirk Wheel in Schottland gilt als einziges rotierendes Schiffshebewerk der Welt. Seit 2002 verbindet es den Forth-and-Clyde-Kanal mit dem Union Canal und hebt Boote dabei um 24 Meter, die restlichen rund 11 Meter überwinden zwei Schleusen. Zwei mit Wasser gefüllte Tröge kreisen wie Gondeln um eine gemeinsame Achse. Weil ein Boot genau so viel Wasser verdrängt, wie es selbst wiegt, bleiben beide Seiten im Gleichgewicht. Deshalb braucht eine halbe Umdrehung nur etwa 1,5 Kilowattstunden Strom.",
+      "children": [
+        {
+          "id": "2026-10-14-2-0",
+          "title": "Die Mörder vom Union Canal",
+          "text": "Den Union Canal, eröffnet 1822, gruben Tausende meist irische Wanderarbeiter von Hand. Zwei von ihnen, William Burke und William Hare, wurden wenige Jahre später in Edinburgh berüchtigt: 1828 töteten sie 16 Menschen und verkauften die Leichen an den Anatomen Robert Knox. Hare sagte gegen seinen Komplizen aus und kam frei. Burke wurde 1829 gehängt und öffentlich seziert, sein Skelett liegt bis heute im Anatomischen Museum der Universität Edinburgh.",
+          "hook": "Union Canal",
+          "children": [
+            {
+              "id": "2026-10-14-2-0-0",
+              "title": "Die Männer mit der Schaufel",
+              "text": "Die Arbeiter, die Kanäle wie den Union Canal aushoben, nannte man in Großbritannien „navvies“. Das Wort ist eine Kurzform von „navigators“, denn Kanäle hießen damals „navigations“. Mit Schaufel, Spitzhacke und Schubkarre bewegten sie Millionen Kubikmeter Erde, später bauten sie auch die Eisenbahnen. Die Kanäle verloren ihre Bedeutung, das Wort blieb: Bis heute heißen Bauarbeiter im Englischen umgangssprachlich „navvies“.",
+              "hook": "Tausende meist irische Wanderarbeiter",
+              "children": [],
+              "source": {
+                "title": "Navvy – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Navvy"
+              }
+            },
+            {
+              "id": "2026-10-14-2-0-1",
+              "title": "Käfige über den Gräbern",
+              "text": "Burke und Hare konnten Leichen verkaufen, weil Anatomen legal fast nur die Körper hingerichteter Verbrecher sezieren durften. Den Rest lieferten Grabräuber, die „Resurrection Men“. Angehörige schützten frische Gräber deshalb mit Eisenkäfigen, sogenannten Mortsafes. Einige stehen noch auf dem Greyfriars-Friedhof in Edinburgh. Erst der Anatomy Act von 1832 beendete das Geschäft, denn nun bekamen die Anatomen die Toten aus den Armenhäusern, die niemand beanspruchte.",
+              "hook": "verkauften die Leichen",
+              "children": [],
+              "source": {
+                "title": "Mortsafe – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Mortsafe"
+              }
+            },
+            {
+              "id": "2026-10-14-2-0-2",
+              "title": "Bücher in Menschenhaut",
+              "text": "Nach Burkes Hinrichtung wurde auch seine Haut verwertet: Das Surgeons' Hall Museum in Edinburgh zeigt ein Notizbuch, dessen Einband aus ihr bestehen soll. Für Einbände aus Menschenhaut gibt es sogar einen Fachbegriff: anthropodermische Bibliopegie. Echte Fälle sind selten, denn viele angebliche Exemplare erwiesen sich bei Proteinanalysen als Schweine- oder Rindsleder. Die Harvard-Universität löste 2024 den Menschenhaut-Einband eines französischen Buchs aus dem 19. Jahrhundert ab, damit die Überreste würdig bestattet werden können.",
+              "hook": "Burke wurde 1829 gehängt",
+              "children": [],
+              "source": {
+                "title": "Anthropodermic bibliopegy – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Anthropodermic_bibliopegy"
+              }
+            }
+          ],
+          "source": {
+            "title": "West-Port-Morde – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/West-Port-Morde"
+          }
+        },
+        {
+          "id": "2026-10-14-2-1",
+          "title": "Archimedes im Gebetbuch",
+          "text": "Dass ein schwimmender Körper genau sein eigenes Gewicht an Wasser verdrängt, beschrieb Archimedes von Syrakus im 3. Jahrhundert v. Chr. in seiner Schrift „Über schwimmende Körper“. Im griechischen Original ist sie nur in einem Palimpsest erhalten: Im 13. Jahrhundert schabte ein Schreiber den Text ab und schrieb ein Gebetbuch darüber. Der dänische Philologe Johan Ludvig Heiberg entdeckte 1906 in Konstantinopel die verborgene Schrift. 1998 wurde das Buch bei Christie’s für rund zwei Millionen Dollar versteigert.",
+          "hook": "genau so viel Wasser verdrängt",
+          "children": [
+            {
+              "id": "2026-10-14-2-1-0",
+              "title": "Der Fälscher im Palimpsest",
+              "text": "Ein Palimpsest ist ein Pergament, dessen alte Schrift abgekratzt und überschrieben wurde – doch Spuren der Tinte bleiben im Material. Nach der Auktion untersuchte ein Team am Walters Art Museum in Baltimore das Archimedes-Buch über Jahre mit Multispektralaufnahmen. Einige Seiten waren jedoch im 20. Jahrhundert mit gefälschten Evangelistenbildern übermalt worden, vermutlich um den Verkaufswert zu steigern. Erst Röntgenfluoreszenz am Stanford-Beschleuniger SLAC machte das Eisen der alten Tinte darunter sichtbar.",
+              "hook": "nur in einem Palimpsest erhalten",
+              "children": [],
+              "source": {
+                "title": "The Archimedes Palimpsest – About",
+                "url": "https://www.archimedespalimpsest.org/about/"
+              }
+            },
+            {
+              "id": "2026-10-14-2-1-1",
+              "title": "Christie’s und die Zarin",
+              "text": "Das Auktionshaus Christie’s, bei dem 1998 der Archimedes-Codex unter den Hammer kam, gründete James Christie 1766 in London. 1779 vermittelte er einen spektakulären Verkauf: Die Gemäldesammlung des einstigen Premierministers Robert Walpole aus Houghton Hall ging an Katharina die Große. Die rund 200 Bilder wurden ein Grundstock der Eremitage, in England empörte man sich über den Verlust. Erst 2013 kehrten Dutzende Werke für eine Ausstellung vorübergehend nach Houghton zurück.",
+              "hook": "bei Christie’s für rund zwei Millionen Dollar versteigert",
+              "children": [],
+              "source": {
+                "title": "Christie’s – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Christie%E2%80%99s"
+              }
+            },
+            {
+              "id": "2026-10-14-2-1-2",
+              "title": "Ciceros Suche nach dem Grab",
+              "text": "Archimedes von Syrakus starb 212 v. Chr., als die Römer seine Heimatstadt eroberten – der Legende nach erschlagen von einem Soldaten. Gut 130 Jahre später suchte Cicero als römischer Quästor auf Sizilien nach seinem Grab, das die Einheimischen längst vergessen hatten. Er entdeckte es vor einem Stadttor unter Dornengestrüpp – erkennbar an einer kleinen Säule mit Kugel und Zylinder. Cicero vermerkte nicht ohne Stolz, dass erst ein Mann aus Arpinum den Syrakusern das Grab ihres genialsten Bürgers zeigen musste.",
+              "hook": "Archimedes von Syrakus",
+              "children": [],
+              "source": {
+                "title": "Archimedes – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Archimedes"
+              }
+            }
+          ],
+          "source": {
+            "title": "Archimedes-Palimpsest – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Archimedes-Palimpsest"
+          }
+        },
+        {
+          "id": "2026-10-14-2-2",
+          "title": "Amerikas Antwort auf Eiffel",
+          "text": "Gondeln, die um eine gemeinsame Achse kreisen: Das ist das Prinzip des Riesenrads, dessen berühmtes Vorbild 1893 auf der Weltausstellung in Chicago stand. Der Ingenieur George Washington Gale Ferris baute es als amerikanische Antwort auf den Pariser Eiffelturm. Es war rund 80 Meter hoch und hatte 36 Wagen für je bis zu 60 Fahrgäste. Ferris starb 1896 verarmt mit nur 37 Jahren, sein Rad wurde 1906 in St. Louis gesprengt.",
+          "hook": "wie Gondeln um eine gemeinsame Achse",
+          "children": [
+            {
+              "id": "2026-10-14-2-2-0",
+              "title": "Der Turm, den Funk rettete",
+              "text": "Der Pariser Eiffelturm, dem Ferris Konkurrenz machen wollte, sollte eigentlich gar nicht lange stehen: Gustave Eiffel hatte 1889 eine Genehmigung für nur 20 Jahre bekommen. Um den Abriss zu verhindern, förderte er wissenschaftliche Versuche auf der Spitze, ab 1903 auch Funkexperimente des Militärs unter Gustave Ferrié. Die Antenne erwies sich als so nützlich, dass die Konzession verlängert wurde. Im Ersten Weltkrieg fing die Station deutsche Funksprüche ab, die 1917 auch im Prozess gegen Mata Hari eine Rolle spielten.",
+              "hook": "Antwort auf den Pariser Eiffelturm",
+              "children": [],
+              "source": {
+                "title": "Eiffelturm – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Eiffelturm"
+              }
+            },
+            {
+              "id": "2026-10-14-2-2-1",
+              "title": "Licht für die Weiße Stadt",
+              "text": "Die Weltausstellung in Chicago war auch ein Schauplatz des Stromkriegs: George Westinghouse unterbot General Electric und beleuchtete das Gelände mit Wechselstrom nach Teslas Patenten. Weil Edisons Patente die Glühbirne blockierten, entwickelte er eine eigene Lampe, mit Glasstopfen verschlossen statt zugeschmolzen. Weit über 100.000 davon ließen die Ausstellung nachts leuchten. Kurz darauf erhielt Westinghouse den Auftrag für das Kraftwerk an den Niagarafällen – ein entscheidender Sieg für den Wechselstrom.",
+              "hook": "Weltausstellung in Chicago",
+              "children": [],
+              "source": {
+                "title": "Stromkrieg – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Stromkrieg"
+              }
+            },
+            {
+              "id": "2026-10-14-2-2-2",
+              "title": "Der absurdeste Marathon",
+              "text": "Bevor Ferris' Rad in St. Louis gesprengt wurde, drehte es sich dort 1904 auf der Weltausstellung, zu der auch die ersten Olympischen Spiele in Amerika gehörten. Ihr Marathon wurde zur Farce: Fred Lorz fuhr rund 18 Kilometer im Auto mit und ließ sich zunächst als Sieger feiern. Der tatsächliche Gewinner Thomas Hicks hielt nur durch, weil seine Betreuer ihm unterwegs Strychnin mit Brandy gaben. Lorz wurde gesperrt, die Sperre aber wieder aufgehoben, und 1905 gewann er den Boston-Marathon, diesmal ganz zu Fuß.",
+              "hook": "1906 in St. Louis gesprengt",
+              "children": [],
+              "source": {
+                "title": "Olympische Sommerspiele 1904/Leichtathletik – Marathon (Männer) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Olympische_Sommerspiele_1904/Leichtathletik_%E2%80%93_Marathon_(M%C3%A4nner)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Ferris Wheel (1893) – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ferris_Wheel_(1893)"
+          }
+        }
+      ],
+      "source": {
+        "title": "Falkirk Wheel – Structurae",
+        "url": "https://structurae.net/de/bauwerke/falkirk-wheel"
+      }
+    }
+  ]
+}
