@@ -19,7 +19,11 @@
               "title": "Briefe auf Mikrofilm",
               "text": "Über die Feldpost lief im Zweiten Weltkrieg eine riesige Menge Briefe, und die US-Armee führte dafür 1942 eine platzsparende Lösung ein: V-Mail. Soldaten schrieben auf genormte Bögen. Die wurden nach der Zensur auf Mikrofilm fotografiert und erst in der Nähe des Empfängers wieder auf Fotopapier abgezogen. So ersetzte ein einziger Postsack mit Film rund 37 Säcke voller Papierbriefe. Wer daheim einen V-Mail-Brief öffnete, hielt also meist nicht das Blatt in der Hand, das der Soldat beschrieben hatte, sondern ein verkleinertes Foto davon.",
               "hook": "per Feldpost zu sich nach Texas",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "V-Mail – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/V-Mail"
+              }
             },
             {
               "id": "2026-10-13-0-0-1",
@@ -74,7 +78,7 @@
               "children": [],
               "source": {
                 "title": "Dietary Trehalose as a Bioactive Nutrient – Nutrients (PMC)",
-                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10054017/"
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10054017/"
               }
             },
             {
@@ -130,7 +134,7 @@
               "children": [],
               "source": {
                 "title": "Adolf Wölfli – Wikipedia",
-                "url": "https://en.wikipedia.org/wiki/Adolf_W%C3%B6lfli"
+                "url": "https://de.wikipedia.org/wiki/Adolf_W%C3%B6lfli"
               }
             }
           ],
@@ -164,7 +168,7 @@
               "children": [],
               "source": {
                 "title": "Black malt – Craft Beer & Brewing (Oxford Companion to Beer)",
-                "url": "https://beerandbrewing.com/dictionary/0QoAorCAho"
+                "url": "https://www.beerandbrewing.com/dictionary/0QoAorCAho"
               }
             },
             {
@@ -183,12 +187,16 @@
               "title": "Eine Bank für Lasten",
               "text": "Londons Lastenträger schleppten ihre Waren auf Kopf und Schultern durch die Stadt, viele davon mit amtlicher Zulassung als sogenannte Ticket Porters. An sie erinnert ein unscheinbares Bauwerk am Piccadilly, am Rand des Green Park: ein etwa schulterhohes Brett auf zwei Stützen. Das Original wurde 1861 auf Anregung des Abgeordneten Robert Aglionby Slaney aufgestellt. Hier konnten die Träger ihre Last kurz absetzen und mussten sie danach nicht mühsam vom Boden hochstemmen. Um 2014 verschwand das Original spurlos, seit 2016 steht dort eine Nachbildung.",
               "hook": "die Lastenträger zurück, die „Porters“",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Porter’s Rest – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Porter%E2%80%99s_Rest"
+              }
             }
           ],
           "source": {
-            "title": "Porter (beer) – Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Porter_(beer)"
+            "title": "Porter (Bier) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Porter_(Bier)"
           }
         },
         {
@@ -215,8 +223,8 @@
               "hook": "eine Anklage gegen die Ginschwemme",
               "children": [],
               "source": {
-                "title": "Gin-Epidemie – Wikipedia",
-                "url": "https://de.wikipedia.org/wiki/Gin-Epidemie"
+                "title": "Londoners Once Drank Gin From A Cat's Mouth – Londonist",
+                "url": "https://londonist.com/london/drink/london-s-gin-dispensing-cat"
               }
             },
             {
@@ -268,7 +276,7 @@
               "children": [],
               "source": {
                 "title": "Reinheitsgebot – Wikipedia",
-                "url": "https://de.wikipedia.org/wiki/Bayrisches_Reinheitsgebot"
+                "url": "https://de.wikipedia.org/wiki/Reinheitsgebot"
               }
             }
           ],
@@ -301,7 +309,7 @@
               "hook": "mithilfe der Häufigkeitsanalyse",
               "children": [],
               "source": {
-                "title": "al-Kindī – Wikipedia",
+                "title": "Al-Kindī – Wikipedia",
                 "url": "https://de.wikipedia.org/wiki/Al-Kind%C4%AB"
               }
             },
@@ -313,7 +321,7 @@
               "children": [],
               "source": {
                 "title": "William Friedman – Wikipedia",
-                "url": "https://de.wikipedia.org/wiki/William_Frederick_Friedman"
+                "url": "https://de.wikipedia.org/wiki/William_Friedman"
               }
             },
             {
@@ -329,8 +337,8 @@
             }
           ],
           "source": {
-            "title": "Der Goldkäfer – Wikipedia",
-            "url": "https://de.wikipedia.org/wiki/Der_Goldk%C3%A4fer"
+            "title": "Edgar Allen Poe and Cryptography",
+            "url": "https://www.cs.trincoll.edu/~crypto/historical/poe.html"
           }
         },
         {
@@ -354,7 +362,7 @@
               "children": [],
               "source": {
                 "title": "Alexander Graham Bell – Wikipedia",
-                "url": "https://de.wikipedia.org/wiki/Alexander_G._Bell"
+                "url": "https://de.wikipedia.org/wiki/Alexander_Graham_Bell"
               }
             },
             {
@@ -365,13 +373,13 @@
               "children": [],
               "source": {
                 "title": "Voder – Wikipedia",
-                "url": "https://de.wikipedia.org/wiki/Voice_Operation_Demonstrator"
+                "url": "https://de.wikipedia.org/wiki/Voder"
               }
             }
           ],
           "source": {
             "title": "Wolfgang von Kempelen – Wikipedia",
-            "url": "https://de.wikipedia.org/wiki/Baron_Wolfgang_von_Kempelen"
+            "url": "https://de.wikipedia.org/wiki/Wolfgang_von_Kempelen"
           }
         },
         {
@@ -387,8 +395,8 @@
               "hook": "der Datenbank ImageNet",
               "children": [],
               "source": {
-                "title": "AlexNet – Wikipedia (englisch)",
-                "url": "https://en.wikipedia.org/wiki/AlexNet"
+                "title": "AlexNet – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/AlexNet"
               }
             },
             {
@@ -398,8 +406,8 @@
               "hook": "zum Beispiel Bilder beschriften",
               "children": [],
               "source": {
-                "title": "Luis von Ahn – Wikipedia (englisch)",
-                "url": "https://en.wikipedia.org/wiki/Luis_von_Ahn"
+                "title": "Luis von Ahn – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Luis_von_Ahn"
               }
             },
             {
@@ -409,13 +417,13 @@
               "hook": "zerlegen dort Arbeit in winzige",
               "children": [],
               "source": {
-                "title": "Gaspard de Prony – Wikipedia (englisch)",
-                "url": "https://en.wikipedia.org/wiki/Gaspard_de_Prony"
+                "title": "Gaspard de Prony – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gaspard_de_Prony"
               }
             }
           ],
           "source": {
-            "title": "Amazon Mechanical Turk – Wikipedia (englisch)",
+            "title": "Amazon Mechanical Turk – Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk"
           }
         }
