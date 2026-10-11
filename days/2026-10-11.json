@@ -19,23 +19,39 @@
               "title": "Der Leviathan von Birr",
               "text": "Charles Parsons war der jüngste Sohn von William Parsons, dem dritten Earl of Rosse. Dieser ließ auf Schloss Birr in Irland ein gewaltiges Spiegelteleskop bauen. Der „Leviathan von Parsonstown“ hatte einen Metallspiegel von rund 1,8 Metern Durchmesser und blieb von 1845 bis 1917 das größte Teleskop der Welt. Mit ihm erkannte der Earl als Erster, dass manche Nebel spiralförmig sind, und zeichnete die Whirlpool-Galaxie M51. Dass solche Spiralen eigene Galaxien weit jenseits der Milchstraße sind, wurde erst rund 80 Jahre später klar.",
               "hook": "Charles Parsons' Turbinenboot",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Leviathan (Teleskop) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Leviathan_(Teleskop)"
+              }
             },
             {
               "id": "2026-10-11-0-0-1",
               "title": "Torpedo in der Gasblase",
               "text": "Was bei Parsons den Schub schluckte, machten sowjetische Ingenieure zum Prinzip: Der Torpedo VA-111 „Schkwal“ hüllt sich absichtlich in eine Gasblase. Weil er kaum noch Wasser berührt, erreicht er mit Raketenantrieb rund 200 Knoten, ein Vielfaches gewöhnlicher Torpedos. Der Preis dafür: Er ist laut und schwer zu lenken. Im Jahr 2000 verurteilte ein Moskauer Gericht den US-Geschäftsmann Edmond Pope zu 20 Jahren Haft, weil er Unterlagen zum Schkwal beschafft haben soll. Nach rund einer Woche wurde er von Putin begnadigt.",
               "hook": "Dampfblasen bildeten und den Schub schluckten",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Schkwal – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Schkwal"
+              }
             },
             {
               "id": "2026-10-11-0-0-2",
               "title": "Der Fall der Royal George",
               "text": "Die Reede von Spithead vor Portsmouth hatte schon eine der schlimmsten Katastrophen der Royal Navy erlebt: 1782 sank dort das Linienschiff HMS Royal George, als man es für eine Reparatur leicht auf die Seite legte. Wasser drang ein, vermutlich 800 bis 900 Menschen starben, darunter viele Frauen und Kinder, die an Bord zu Besuch waren. Als Royal Engineers das Wrack um 1840 sprengten und bargen, ließ Oberst Charles Pasley seine Taucher paarweise arbeiten. Das gilt als frühester belegter Einsatz des Buddy-Prinzips beim Tauchen.",
               "hook": "Flottenparade von Spithead 1897",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Royal George (Schiff, 1756) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Royal_George_(Schiff,_1756)"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Charles Parsons (Ingenieur) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Charles_Parsons_(Ingenieur)"
+          }
         },
         {
           "id": "2026-10-11-0-1",
@@ -48,23 +64,39 @@
               "title": "Strahlen aus der Schublade",
               "text": "Geschwärzte Fotoplatten hatten schon einmal eine große Entdeckung verraten: 1896 in Paris prüfte Henri Becquerel, ob phosphoreszierende Uransalze Strahlen aussenden. Weil die Sonne ausblieb, legte er Salz und verpackte Platte in eine Schublade und fand die Platte trotzdem geschwärzt, ganz ohne Licht. So stieß er auf die Radioaktivität, für die er 1903 den Nobelpreis mit Marie und Pierre Curie teilte. Wie gefährlich sie ist, bekam er selbst zu spüren: Ein Röhrchen Radium in seiner Westentasche verursachte eine Verbrennung auf seiner Haut.",
               "hook": "Fotoplatten geschwärzt",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Henri Becquerel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Antoine_Henri_Becquerel"
+              }
             },
             {
               "id": "2026-10-11-0-1-1",
               "title": "Fusion im Wasserglas",
               "text": "Mit dem Traum von Kernfusion auf dem Labortisch hatten schon 1989 zwei Chemiker Schlagzeilen gemacht: Martin Fleischmann und Stanley Pons verkündeten in Utah, in einer Elektrolysezelle mit schwerem Wasser sei ihnen „kalte Fusion“ gelungen. Labore weltweit versuchten den Versuch nachzubauen und fanden weder die behauptete Wärme noch die zu erwartende Neutronenstrahlung. Ganz verschwunden ist das Feld nie, heute läuft es meist unter dem Kürzel LENR. Sogar Google bezahlte eine mehrjährige Nachprüfung. Das Ergebnis erschien 2019 in Nature: kein Hinweis auf Fusion.",
               "hook": "Kernfusion in solchen Blasen",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Kalte Fusion – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kalte_Fusion"
+              }
             },
             {
               "id": "2026-10-11-0-1-2",
               "title": "Der Traktorstrahl aus Schall",
-              "text": "Was mit Gaitans Blase gelang, funktioniert auch in Luft: Eine stehende Schallwelle hat Knotenpunkte, in denen kleine Objekte schwebend gefangen bleiben. Mit solchen akustischen Levitatoren halten Forscher Tröpfchen berührungslos in der Luft, etwa damit Wirkstoffe trocknen können, ohne eine Gefäßwand zu berühren. Chinesische Physiker ließen 2006 sogar lebende Ameisen und Marienkäfer schweben. Ein Team aus Bristol und Navarra baute 2015 dann etwas, das man aus Science-Fiction kennt: einen akustischen Traktorstrahl, der kleine Kügelchen allein mit Schall packt und bewegt.",
+              "text": "Was mit Gaitans Blase gelang, funktioniert auch in Luft: Eine stehende Schallwelle hat Knotenpunkte, in denen kleine Objekte schwebend gefangen bleiben. Mit solchen akustischen Levitatoren halten Forscher Tröpfchen berührungslos in der Luft, etwa damit Wirkstoffe trocknen können, ohne eine Gefäßwand zu berühren. Chinesische Physiker ließen 2006 sogar lebende Ameisen und Marienkäfer schweben. Ein Team aus Bristol, Sussex und Navarra baute 2015 dann etwas, das man aus Science-Fiction kennt: einen akustischen Traktorstrahl, der kleine Kügelchen allein mit Schall packt und bewegt.",
               "hook": "in einer stehenden Schallwelle schweben",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Levitation (Technik) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Levitation_(Technik)"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Sonolumineszenz – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Sonolumineszenz"
+          }
         },
         {
           "id": "2026-10-11-0-2",
@@ -77,25 +109,45 @@
               "title": "Die größte Wanderung",
               "text": "Das nächtliche Auf und Ab der Schicht gilt als größte Tierwanderung der Erde: Jeden Abend steigen unzählige Fische, Krebschen und Quallen aus der Tiefe auf, um im Schutz der Dunkelheit nahe der Oberfläche zu fressen. Vor der Dämmerung tauchen sie wieder ab und tragen dabei Kohlenstoff in die Tiefe, ein wichtiger Teil der biologischen Pumpe des Ozeans. Den Takt gibt das Licht vor. 2016 zeigten Forscher, dass Zooplankton in der arktischen Polarnacht, wenn die Sonne monatelang fehlt, stattdessen dem Mond folgt.",
               "hook": "nachts aufstieg und morgens wieder absank",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Vertikalwanderung – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Vertikalwanderung"
+              }
             },
             {
               "id": "2026-10-11-0-2-1",
               "title": "Die Lunge, die schwimmt",
               "text": "Eine gasgefüllte Schwimmblase in der Tiefe zu füllen ist Schwerstarbeit, denn dort lastet ein Vielfaches des Luftdrucks auf ihr. Viele Fische schaffen das mit einem Rete mirabile, einem „Wundernetz“ aus Blutgefäßen, in dem Sauerstoff im Gegenstrom so lange angereichert wird, bis er in die Blase übertritt. Darwin vermutete, unsere Lungen seien aus einer Schwimmblase entstanden. Heute sieht man es meist umgekehrt: Die Blase ging wohl aus einer Urlunge früher Knochenfische hervor, und Flösselhechte atmen bis heute mit echten Lungen Luft.",
               "hook": "gasgefüllten Schwimmblasen",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Schwimmblase – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Schwimmblase"
+              }
             },
             {
               "id": "2026-10-11-0-2-2",
               "title": "Marie Tharps Meeresboden",
               "text": "Dass dort Tausende Meter Wasser sein mussten, wusste man aus Echolotungen. Aus solchen Messprofilen zeichnete Marie Tharp in New York den Atlantikboden, weil Frauen auf Forschungsschiffen lange nicht erwünscht waren. Um 1952 entdeckte sie eine Spalte im Mittelatlantischen Rücken. Ihr Kollege Bruce Heezen hielt sie zunächst für einen Irrtum, doch sie wurde zu einem frühen Beleg für die Plattentektonik. Ihre Weltkarte des Ozeanbodens von 1977 malte der Österreicher Heinrich Berann, der sonst Alpenpanoramen schuf.",
               "hook": "Tausende Meter Wasser sein mussten",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Mittelatlantischer Rücken – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Mittelatlantischer_R%C3%BCcken"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Deep scattering layer – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Deep_scattering_layer"
+          }
         }
-      ]
+      ],
+      "source": {
+        "title": "Knallkrebse – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Knallkrebse"
+      }
     },
     {
       "id": "2026-10-11-1",
@@ -111,25 +163,41 @@
             {
               "id": "2026-10-11-1-0-0",
               "title": "Der Leuchtturm ohne Turm",
-              "text": "Wo der Río Catatumbo in den Maracaibo-See mündet, gibt es eines der seltsamsten Wetterphänomene der Erde. In bis zu rund 260 Nächten im Jahr zucken dort stundenlang Blitze, weil feuchtwarme Seeluft auf kalte Fallwinde aus den Anden trifft. Satellitendaten der NASA wiesen die Gegend 2016 als blitzreichsten Ort der Welt aus. Seefahrer nannten das Leuchten den „Leuchtturm von Maracaibo“. In Lope de Vegas Versepos „La Dragontea“ von 1598 verrät es sogar einen nächtlichen Angriff des Freibeuters Francis Drake.",
+              "text": "Wo der Río Catatumbo in den Maracaibo-See mündet, gibt es eines der seltsamsten Wetterphänomene der Erde. In je nach Quelle rund 160 bis 240 Nächten im Jahr zucken dort stundenlang Blitze, weil feuchtwarme Seeluft auf kalte Fallwinde aus den Anden trifft. Satellitendaten der NASA wiesen die Gegend 2016 als blitzreichsten Ort der Welt aus. Seefahrer nannten das Leuchten den „Leuchtturm von Maracaibo“. In Lope de Vegas Versepos „La Dragontea“ von 1598 verrät es sogar einen nächtlichen Angriff des Freibeuters Francis Drake.",
               "hook": "Maracaibo-See in Venezuela",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Catatumbo-Gewitter – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Catatumbo-Gewitter"
+              }
             },
             {
               "id": "2026-10-11-1-0-1",
               "title": "Umami aus dem Seetang",
               "text": "Die Basenfolge CAG steht im genetischen Code für die Aminosäure Glutamin. Bei Huntington entsteht deshalb ein überlanger Glutaminstrang. Die nah verwandte Glutaminsäure machte der Tokioter Chemiker Kikunae Ikeda 1908 berühmt: Er gewann sie aus Kombu-Seetang, der Grundlage der Dashi-Brühe, und nannte ihren Geschmack „umami“. Schon im Jahr darauf kam sein Würzpulver unter dem Namen Ajinomoto in den Handel. Als eigene Grundgeschmacksrichtung erkannte die Wissenschaft Umami aber erst an, als um das Jahr 2000 passende Rezeptoren auf der Zunge gefunden wurden.",
               "hook": "eine zu oft wiederholte Basenfolge CAG",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Mononatriumglutamat – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Mononatriumglutamat"
+              }
             },
             {
               "id": "2026-10-11-1-0-2",
               "title": "Die Frau mit dem Stammbaum",
               "text": "Die Blutproben vom Maracaibo-See sammelte vor allem ein Team um die US-Psychologin Nancy Wexler. Ihre Mutter war an Huntington erkrankt. Ab 1979 reiste Wexler jedes Jahr in Dörfer wie Barranquitas und Lagunetas und erstellte einen Stammbaum mit weit über 10.000 Menschen. Viele von ihnen stammen nach heutigem Wissen von einer einzigen Frau aus dem frühen 19. Jahrhundert ab. Schon 1983 grenzte man mit diesen Daten die Lage des Gens ein, zehn Jahre vor seiner Entdeckung. Erst 2020 machte Wexler öffentlich, dass sie selbst an der Krankheit leidet.",
               "hook": "Blutproben aus Dörfern am Maracaibo-See",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Nancy Wexler – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Nancy_S._Wexler"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Chorea Huntington – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Chorea_Huntington"
+          }
         },
         {
           "id": "2026-10-11-1-1",
@@ -142,23 +210,39 @@
               "title": "Vogelspinne ohne Tarantel",
               "text": "Die in Apulien gefürchtete Tarantel ist eine Wolfsspinne namens Lycosa tarantula, benannt nach der Hafenstadt Tarent. Ihr Biss schmerzt, ist aber harmlos. Später übertrugen Europäer den Namen auf die großen Spinnen Amerikas, mit denen sie nur entfernt verwandt ist. Im Deutschen heißen diese Spinnen Vogelspinnen. Das geht auf einen Kupferstich von Maria Sibylla Merian aus dem Jahr 1705 zurück, der eine Spinne mit einem erbeuteten Kolibri zeigt. Lange galt das Bild als Fantasie, bis Naturforscher im 19. Jahrhundert am Amazonas tatsächlich Spinnen beim Verzehr von Vögeln beobachteten.",
               "hook": "Biss der Tarantel",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Apulische Tarantel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Apulische_Tarantel"
+              }
             },
             {
               "id": "2026-10-11-1-1-1",
               "title": "Versteinerte Schlangenzungen",
               "text": "Dass ausgerechnet Paulus für Giftbisse zuständig war, geht auf die Apostelgeschichte zurück: Auf Malta biss ihn eine Viper, und er blieb unversehrt. Auf der Insel glaubte man deshalb, er habe den Schlangen ihr Gift genommen. Dreieckige „Zungensteine“ galten dort als versteinerte Schlangenzungen und wurden als Gegengift verkauft. 1666 sezierte der dänische Arzt Niels Stensen in Florenz einen Haikopf und erkannte, dass die Steine fossile Haizähne waren. Stensen begründete damit die Fossilienkunde mit, wurde später katholischer Bischof und 1988 seliggesprochen.",
               "hook": "Paulskapelle von Galatina",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Nicolaus Steno – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Niels_Stensen"
+              }
             },
             {
               "id": "2026-10-11-1-1-2",
               "title": "Die Tarantella im Salon",
               "text": "Im 19. Jahrhundert wanderte die schnelle Musik der Tarantella aus den Dörfern in die Konzertsäle Europas. Rossini vertonte mit „La Danza“ eine neapolitanische Tarantella, Chopin schrieb 1841 seine Tarantelle op. 43 und Mendelssohn ließ seine Italienische Sinfonie in wirbelnden Tanzrhythmen enden. Aus dem Heilritual war ein Virtuosenstück geworden, das niemand mehr gegen Gift brauchte. Seit 1998 feiert der Salento diese Musik beim Festival „La Notte della Taranta“ in Melpignano, oft vor mehr als hunderttausend Menschen in einer einzigen Nacht.",
               "hook": "schnellen Musik der Tarantella",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "La danza (Rossini) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/La_danza_(Rossini)"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Tanzwut (Tarantismus) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Tarantismus"
+          }
         },
         {
           "id": "2026-10-11-1-2",
@@ -171,25 +255,45 @@
               "title": "Der Kardinal und das Collier",
               "text": "Im heutigen Saverne steht das prunkvolle Rohan-Schloss, einst Residenz der Fürstbischöfe von Straßburg. Einer von ihnen, Kardinal Louis de Rohan, wurde 1785 zur Hauptfigur der Halsbandaffäre. Die Hochstaplerin Jeanne de La Motte hatte ihm eingeredet, Marie Antoinette wolle über ihn ein sündhaft teures Diamantcollier kaufen. Bei einem nächtlichen Treffen im Park von Versailles spielte eine junge Frau die Königin. Marie Antoinette war unschuldig, trotzdem ruinierte der Skandal ihren Ruf. Goethe machte 1791 daraus die Komödie „Der Groß-Cophta“.",
               "hook": "heißt heute Saverne",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Halsbandaffäre – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Halsbandaff%C3%A4re"
+              }
             },
             {
               "id": "2026-10-11-1-2-1",
               "title": "Ein Fetzen Papier",
               "text": "Reichskanzler Bethmann Hollweg prägte am 4. August 1914 einen Ausdruck, der länger bekannt blieb als er selbst. Laut dem britischen Botschafter Edward Goschen klagte er, England ziehe wegen eines „Fetzens Papier“ in den Krieg. Gemeint war der Londoner Vertrag von 1839, der Belgiens Neutralität garantierte. Die britische Propaganda machte den Satz zum Sinnbild deutscher Vertragsverachtung. Auf einem Werbeplakat für Kriegsfreiwillige war schließlich der Vertrag selbst zu sehen, samt Faksimile der Siegel und Unterschriften.",
               "hook": "Reichskanzler Bethmann Hollweg",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Kriegserklärung des Vereinigten Königreichs an Deutschland (1914) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kriegserkl%C3%A4rung_des_Vereinigten_K%C3%B6nigreichs_an_Deutschland_(1914)"
+              }
             },
             {
               "id": "2026-10-11-1-2-2",
               "title": "Monarchie mit Verfallsdatum",
               "text": "Dass der Kanzler nur dem Kaiser verantwortlich war, änderte sich erst im Herbst 1918, als die militärische Niederlage feststand. Mit der Oktoberreform wurde der Reichskanzler vom Vertrauen des Reichstags abhängig, die Verfassungsänderung trat am 28. Oktober in Kraft. Damit war Deutschland erstmals eine parlamentarische Monarchie, mit Prinz Max von Baden als Kanzler. Lange hielt sie nicht: Am 9. November gab Max eigenmächtig die Abdankung Wilhelms II. bekannt, und noch am selben Tag wurde die Republik ausgerufen.",
               "hook": "der Kanzler war nur dem Kaiser verantwortlich",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Max von Baden – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Maximilian_von_Baden"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Zabern-Affäre – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Zabern-Aff%C3%A4re"
+          }
         }
-      ]
+      ],
+      "source": {
+        "title": "Straßburger Tanzwut – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Stra%C3%9Fburger_Tanzwut"
+      }
     },
     {
       "id": "2026-10-11-2",
@@ -199,31 +303,47 @@
         {
           "id": "2026-10-11-2-0",
           "title": "Wo niemand begraben wird",
-          "text": "Longyearbyen, der Ort neben dem Saatguttresor, ist nach dem US-Unternehmer John Munro Longyear benannt. Dessen Arctic Coal Company gründete hier 1906 eine Bergbausiedlung. Weil Tote im Dauerfrostboden kaum verwesen, wird auf dem kleinen Friedhof seit Mitte des 20. Jahrhunderts niemand mehr beerdigt. Dort liegen auch Bergleute, die 1918 an der Spanischen Grippe starben. 1998 öffnete ein Team um die Kanadierin Kirsty Duncan ihre Gräber, um nach Resten des Virus zu suchen.",
+          "text": "Longyearbyen, der Ort neben dem Saatguttresor, ist nach dem US-Unternehmer John Munro Longyear benannt. Dessen Arctic Coal Company gründete hier 1906 eine Bergbausiedlung. Weil Tote im Dauerfrostboden kaum verwesen, werden auf dem kleinen Friedhof seit 1950 keine Leichen mehr beerdigt, allenfalls noch Urnen. Dort liegen auch Bergleute, die 1918 an der Spanischen Grippe starben. 1998 öffnete ein Team um die Kanadierin Kirsty Duncan ihre Gräber, um nach Resten des Virus zu suchen.",
           "hook": "nahe Longyearbyen",
           "children": [
             {
               "id": "2026-10-11-2-0-0",
               "title": "Die Gartenschere von Alaska",
-              "text": "Die Gräber auf Spitzbergen brachten nicht den erhofften Durchbruch, doch ein anderer Jäger der Spanischen Grippe hatte mehr Glück: der Pathologe Johan Hultin. 1997 reiste er mit 72 Jahren auf eigene Faust nach Brevig Mission in Alaska, wo der Permafrost ein Massengrab von 1918 bewahrt hatte. Mit der Gartenschere seiner Frau entnahm er Lungengewebe einer Toten und schickte es an den Virologen Jeffery Taubenberger. 2005 bauten Forscher aus diesen Proben das vollständige Virus nach, in einem Hochsicherheitslabor.",
+              "text": "Die Gräber auf Spitzbergen brachten nicht den erhofften Durchbruch, doch ein anderer Jäger der Spanischen Grippe hatte mehr Glück: der Pathologe Johan Hultin. 1997 reiste er mit 72 Jahren auf eigene Faust nach Brevig Mission in Alaska, wo der Permafrost ein Massengrab von 1918 bewahrt hatte. Mit der Gartenschere seiner Frau entnahm er Lungengewebe einer Toten und schickte es an den Virologen Jeffery Taubenberger. Anhand der daraus entschlüsselten Gensequenzen bauten Forscher 2005 das vollständige Virus nach, in einem Hochsicherheitslabor.",
               "hook": "1918 an der Spanischen Grippe starben",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Johan Hultin – Wikipedia (englisch)",
+                "url": "https://en.wikipedia.org/wiki/Johan_Hultin"
+              }
             },
             {
               "id": "2026-10-11-2-0-1",
               "title": "Ein Haus auf Reisen",
               "text": "Der Namensgeber von Longyearbyen hatte sein Vermögen mit Holz und Erz in Michigan gemacht und war dort für einen ungewöhnlichen Umzug bekannt. Als die Stadt Marquette eine Bahnlinie unterhalb seiner Villa am Seeufer erlaubte, ließ er das Steinhaus kurz nach 1900 abtragen und in Einzelteilen per Eisenbahn nach Brookline bei Boston bringen. Dort wurde es wieder aufgebaut. Seine Frau Mary sammelte später Dokumente über Mary Baker Eddy, die Gründerin der Christian Science. Daraus entstand das bis heute bestehende Longyear Museum.",
               "hook": "US-Unternehmer John Munro Longyear",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "The Longyear Mansion: From Marquette to Brookline – Longyear Museum",
+                "url": "https://www.longyear.org/learn/research-archive/longyear-mansion-moves-from-marquette-1903/"
+              }
             },
             {
               "id": "2026-10-11-2-0-2",
               "title": "Riesenvirus aus dem Eis",
-              "text": "Der Frost, der Tote konserviert, erhält auch Krankheitserreger. 2016 setzte eine Hitzewelle auf der sibirischen Halbinsel Jamal vermutlich Milzbrandsporen aus einem alten Tierkadaver frei: Ein Junge starb, rund 2000 Rentiere verendeten. Schon 2014 hatte das Team um Jean-Michel Claverie aus etwa 30.000 Jahre altem sibirischem Permafrost ein Riesenvirus wiederbelebt, Pithovirus sibericum. Es war nach all der Zeit noch infektiös, befällt aber nur Amöben.",
+              "text": "Der Frost, der Tote konserviert, erhält auch Krankheitserreger. 2016 setzte eine Hitzewelle auf der sibirischen Halbinsel Jamal vermutlich Milzbrandsporen aus einem alten Tierkadaver frei: Ein Junge starb, rund 2300 Rentiere verendeten. Schon 2014 hatte das Team um Jean-Michel Claverie aus etwa 30.000 Jahre altem sibirischem Permafrost ein Riesenvirus wiederbelebt, Pithovirus sibericum. Es war nach all der Zeit noch infektiös, befällt aber nur Amöben.",
               "hook": "Tote im Dauerfrostboden kaum verwesen",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Pithovirus sibericum (Alphapithovirus) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Pithovirus_sibericum"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Longyearbyen – Wikipedia (englisch)",
+            "url": "https://en.wikipedia.org/wiki/Longyearbyen"
+          }
         },
         {
           "id": "2026-10-11-2-1",
@@ -236,28 +356,44 @@
               "title": "Der Mann gegen die Gene",
               "text": "Wawilows mächtigster Gegner war der Agronom Trofim Lyssenko. Er lehnte die Vererbungslehre als „bürgerlich“ ab und versprach, Getreide allein durch Kältebehandlung des Saatguts zu höheren Erträgen zu bringen. 1948 wurde die Genetik mit Stalins Rückendeckung praktisch verboten, und viele Forscher verloren ihre Stellen. Heute erklären manche Lyssenko wegen der Epigenetik zum verkannten Vordenker. Die meisten Biologen halten das für eine Verdrehung der Geschichte.",
               "hook": "unter Stalin verhaftet worden",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Trofim Denissowitsch Lyssenko – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Trofim_Denissowitsch_Lyssenko"
+              }
             },
             {
               "id": "2026-10-11-2-1-1",
               "title": "Landung bei Saratow",
               "text": "Im Gebiet Saratow, wo Wawilow starb, landete Juri Gagarin am 12. April 1961 nach seiner Erdumrundung. In der Stadt Saratow hatte er Jahre zuvor in einem Aeroklub fliegen gelernt. Gagarin landete allerdings nicht in seiner Kapsel: Er wurde in rund sieben Kilometern Höhe herauskatapultiert und ging am eigenen Fallschirm nieder. Moskau verschwieg das jahrelang. Nach den Rekordregeln hätte der Pilot nämlich mit seinem Raumfahrzeug landen müssen.",
               "hook": "in einem Gefängnis in Saratow",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Juri Alexejewitsch Gagarin – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Juri_Alexejewitsch_Gagarin"
+              }
             },
             {
               "id": "2026-10-11-2-1-2",
               "title": "Sinfonie im Hungerwinter",
               "text": "Mitten in der Blockade wurde am 9. August 1942 in Leningrad Schostakowitschs Siebte Sinfonie aufgeführt. Er hatte sie zum Teil in der belagerten Stadt geschrieben. Der Dirigent Karl Eliasberg musste das ausgehungerte Orchester mit Musikern aus der Armee auffüllen, und Lautsprecher trugen das Konzert bis zu den deutschen Stellungen. Einer verbreiteten Legende zufolge hatte Hitler für genau diesen Tag ein Siegesbankett im Hotel Astoria geplant. Belegt ist das nicht.",
               "hook": "Während der deutschen Blockade ab 1941",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "7. Sinfonie (Schostakowitsch) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/7._Sinfonie_(Schostakowitsch)"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Nikolai Iwanowitsch Wawilow – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Nikolai_Iwanowitsch_Wawilow"
+          }
         },
         {
           "id": "2026-10-11-2-2",
           "title": "Das Tor zur Unterwelt",
-          "text": "Wie stark tauender Permafrost eine Landschaft verändern kann, zeigt der Batagaika-Krater in der russischen Teilrepublik Jakutien. Nachdem dort um die Mitte des 20. Jahrhunderts Wald gerodet worden war, begann der Boden zu tauen und abzusacken. Heute ist der Einbruch rund einen Kilometer breit und wächst weiter. Einheimische nennen ihn „Tor zur Unterwelt“. In seinen Steilwänden liegen Schichten frei, die Forschende auf bis zu etwa 650.000 Jahre schätzen.",
+          "text": "Wie stark tauender Permafrost eine Landschaft verändern kann, zeigt der Batagaika-Krater in der russischen Teilrepublik Jakutien. Nachdem dort in den 1960er-Jahren beim Straßenbau Wald gerodet worden war, begann der Boden zu tauen und abzusacken. Heute ist der Einbruch rund einen Kilometer breit und wächst weiter. Einheimische nennen ihn „Tor zur Unterwelt“. In seinen Steilwänden liegen Schichten frei, die Forschende auf bis zu etwa 650.000 Jahre schätzen.",
           "hook": "dem tauenden Permafrost",
           "children": [
             {
@@ -265,25 +401,45 @@
               "title": "Hundert Grad Unterschied",
               "text": "Jakutien ist nicht nur Permafrostland, sondern auch eine der kältesten bewohnten Regionen der Erde. In der Kleinstadt Werchojansk wurden 1892 rund minus 68 Grad gemessen. Um den Titel „Kältepol der Nordhalbkugel“ konkurriert sie bis heute mit dem gut 600 Kilometer entfernten Oimjakon. Im Juni 2020 meldete dieselbe Wetterstation 38 Grad, was die Weltorganisation für Meteorologie später als höchste je nördlich des Polarkreises gemessene Temperatur anerkannte. Zwischen den beiden Rekorden desselben Ortes liegen mehr als hundert Grad.",
               "hook": "russischen Teilrepublik Jakutien",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Werchojansk – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Werchojansk"
+              }
             },
             {
               "id": "2026-10-11-2-2-1",
               "title": "Die Grotte des Pluto",
               "text": "Ein echtes „Tor zur Unterwelt“ gab es schon in der Antike: das Plutonion von Hierapolis beim heutigen Pamukkale in der Türkei. Der Geograf Strabon berichtete, dass Sperlinge in der Grotte tot zu Boden fielen, die Priester der Kybele aber unbeschadet blieben. Archäologen um Francesco D'Andria legten das Heiligtum 2013 wieder frei. Messungen erklärten später das Wunder: Aus dem Boden strömt Kohlendioxid, das schwerer ist als Luft und sich in Bodennähe sammelt. Kleine Tiere erstickten darin, aufrecht stehende Menschen ragten einfach darüber hinaus.",
               "hook": "„Tor zur Unterwelt“",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Plutonion – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Charonium"
+              }
             },
             {
               "id": "2026-10-11-2-2-2",
               "title": "Die Samenbank der Ziesel",
-              "text": "Auch an anderen Stellen Sibiriens liegen eiszeitliche Bodenschichten frei, und manche bergen Überraschungen. Am Fluss Kolyma stießen Forschende auf gefrorene Vorratskammern von Zieseln, die dort vor etwa 32.000 Jahren Früchte des Schmalblättrigen Leimkrauts eingelagert hatten. Einem russischen Team gelang es 2012, aus diesem Gewebe wieder ganze Pflanzen zu ziehen, die blühten und keimfähige Samen bildeten. Lange vor allen Saatguttresoren hatte also ein Nagetier im Permafrost eine funktionierende Samenbank angelegt.",
+              "text": "Auch an anderen Stellen Sibiriens liegen eiszeitliche Bodenschichten frei, und manche bergen Überraschungen. Am Fluss Kolyma stießen Forschende auf gefrorene Vorratskammern von Zieseln, die dort vor etwa 32.000 Jahren Früchte des Schmalblättrigen Leimkrauts eingelagert hatten. Die Samen selbst keimten nicht mehr, doch einem russischen Team gelang es 2012, aus Gewebe der Früchte im Labor wieder ganze Pflanzen zu ziehen, die blühten und keimfähige Samen bildeten. Lange vor allen Saatguttresoren hatte also ein Nagetier im Permafrost unfreiwillig eine Art Samenbank angelegt.",
               "hook": "In seinen Steilwänden liegen Schichten frei",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Silene stenophylla – Wikipedia (englisch)",
+                "url": "https://en.wikipedia.org/wiki/Silene_stenophylla"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Batagaika-Krater – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Batagaika_Megaslump"
+          }
         }
-      ]
+      ],
+      "source": {
+        "title": "Svalbard Global Seed Vault – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Weltsaatgutspeicher"
+      }
     }
   ]
 }
