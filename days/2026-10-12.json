@@ -19,23 +19,39 @@
               "title": "Primzahlen im Boden",
               "text": "Biologen deuten das jahrzehntelange Warten des Bambus oft als Strategie: Wenn alle gleichzeitig Früchte tragen, können die Fressfeinde nie alles auf einmal fressen. Dasselbe Prinzip nutzen die periodischen Zikaden Nordamerikas. Sie leben 13 oder 17 Jahre unter der Erde und schlüpfen dann zu Milliarden. Dass beide Zahlen Primzahlen sind, soll es Feinden erschweren, sich auf den Zyklus einzustellen. Diese Hypothese ist verbreitet, aber umstritten. Im Jahr 2024 schlüpften die Bruten XIII und XIX zum ersten Mal seit 1803 wieder gleichzeitig.",
               "hook": "nur etwa alle 50 Jahre",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Magicicada – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Magicicada"
+              }
             },
             {
               "id": "2026-10-12-0-0-1",
               "title": "Bomben auf Aizawl",
-              "text": "Als die Mizo National Front 1966 losschlug, brachte sie zeitweise mehrere Orte unter ihre Kontrolle, darunter Teile von Aizawl, dem Hauptort der Region. Die indische Regierung antwortete im März 1966 mit Luftangriffen auf die Stadt. Bis heute gilt das als einziger Fall, in dem Indien eigenes Gebiet aus der Luft bombardierte. Der Konflikt dauerte zwanzig Jahre und endete 1986 mit einem Friedensabkommen. Noch im selben Jahr wurde der frühere Rebellenführer Laldenga Regierungschef von Mizoram.",
+              "text": "Als die Mizo National Front 1966 losschlug, brachte sie zeitweise mehrere Orte unter ihre Kontrolle, darunter Teile von Aizawl, dem Hauptort der Region. Die indische Regierung antwortete im März 1966 mit Luftangriffen auf die Stadt. Bis heute wird das oft als einziger Fall bezeichnet, in dem Indien eigenes Gebiet aus der Luft bombardierte. Der Konflikt dauerte zwanzig Jahre und endete 1986 mit einem Friedensabkommen. Noch im selben Jahr wurde der frühere Rebellenführer Laldenga Regierungschef von Mizoram.",
               "hook": "1966 einen Aufstand begann",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Mizo National Front uprising – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mizo_National_Front_uprising"
+              }
             },
             {
               "id": "2026-10-12-0-0-2",
               "title": "Die Ratte mit dem Orden",
               "text": "In Mizoram bringen Ratten Hunger, in Kambodscha haben sie Menschenleben gerettet. Die belgische Organisation APOPO bildet in Tansania Riesenhamsterratten aus, die Sprengstoff riechen können und zu leicht sind, um Minen auszulösen. Ihr bekanntester Spürer hieß Magawa. Er fand in Kambodscha rund hundert Landminen und Blindgänger. Im Jahr 2020 erhielt er als erste Ratte die Goldmedaille der britischen Tierschutzorganisation PDSA, eine Art Tapferkeitsorden für Tiere.",
               "hook": "lassen die Rattenbestände explodieren",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Riesenhamsterratten – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Riesenhamsterratten"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Mizoram – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/IN-MZ"
+          }
         },
         {
           "id": "2026-10-12-0-1",
@@ -48,23 +64,39 @@
               "title": "Die Orgel im Nebel",
               "text": "Das tiefe Grunzen vieler klassischer Nebelhörner geht auf eine Erfindung aus dem Orgelbau zurück: das Diaphon des englischen Orgelbauers Robert Hope-Jones. Anfang des 20. Jahrhunderts machte der Kanadier John Northey daraus ein druckluftbetriebenes Nebelsignal, dessen abfallender Ton an vielen Küsten zu hören war. Hope-Jones selbst ging in die USA und prägte bei Wurlitzer die großen Kinoorgeln der Stummfilmzeit. Die Warnung für Schiffe im Nebel und die Musik zu frühen Hollywoodfilmen stammen also vom selben Instrument ab.",
               "hook": "erinnert an ein Nebelhorn",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Diaphon (Nebelhorn) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Diaphon_(Nebelhorn)"
+              }
             },
             {
               "id": "2026-10-12-0-1-1",
               "title": "Der Maler und die Flamingos",
               "text": "Die Pfahlstellung wirkt, weil das längsgestreifte Gefieder der Rohrdommel mit den Halmen verschmilzt. Solche Tarnung wurde zur Lebensaufgabe des US-Malers Abbott Thayer. 1909 veröffentlichte er mit seinem Sohn ein Buch über Tarnfärbung im Tierreich, überzog darin aber: Selbst rosa Flamingos sollten vor dem Abendhimmel unsichtbar werden. Theodore Roosevelt, ein begeisterter Naturkundler, verspottete das öffentlich. Thayers ernsthafteste Entdeckung überdauerte trotzdem: Die Gegenschattierung mit heller Bauchseite heißt in der Biologie bis heute Thayer-Prinzip.",
               "hook": "nimmt sie die Pfahlstellung ein",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Konterschattierung – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Konterschattierung"
+              }
             },
             {
               "id": "2026-10-12-0-1-2",
               "title": "Der Pfahl im Torf",
               "text": "Dass die Rohrdommel als Brutvogel ausstarb, lag neben Jagd und Sammlern vor allem an der Trockenlegung von Feuchtgebieten wie den englischen Fens. Dort wurde 1851 Whittlesey Mere entwässert, einst einer der größten Seen im Süden Englands. Ein Pfahl, den man damals bündig mit der Oberfläche in den Torf trieb, ragt heute rund vier Meter aus dem Boden, so stark ist der ausgetrocknete Torf geschrumpft. Deshalb liegt in Holme Fen mit knapp drei Metern unter dem Meeresspiegel der tiefste Landpunkt Großbritanniens, geschaffen durch Menschenhand.",
               "hook": "als Brutvogel ausgestorben",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Holme, Cambridgeshire – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Holme,_Cambridgeshire"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Rohrdommel – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Rohrdommel"
+          }
         },
         {
           "id": "2026-10-12-0-2",
@@ -77,14 +109,22 @@
               "title": "Der Kusu im Wollpullover",
               "text": "Der Fuchskusu, ein Beuteltier aus Australien, kam schon ab 1837 nach Neuseeland. Er sollte keine Schädlinge bekämpfen, sondern einen Pelzhandel begründen. Ohne natürliche Feinde vermehrte er sich auf geschätzt rund 30 Millionen Tiere, frisst Knospen, Vogeleier und Küken und überträgt Rindertuberkulose. In Australien steht er dagegen weitgehend unter Schutz. Neuseeland macht aus der Plage ein Exportprodukt: Kusu-Fell wird mit Merinowolle versponnen und zu besonders warmen Pullovern und Socken verarbeitet.",
               "hook": "Fuchskusus",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Fuchskusu – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Fuchskusu"
+              }
             },
             {
               "id": "2026-10-12-0-2-1",
               "title": "Ein Zaun gegen Kaninchen",
               "text": "Zur gleichen Zeit wurden eingeschleppte Kaninchen auch in Australien zur Plage. Meist führt man das auf Thomas Austin zurück, der 1859 in Victoria rund zwei Dutzend Tiere für die Jagd freiließ. Westaustralien baute daraufhin den Rabbit-Proof Fence. Der 1907 fertiggestellte Hauptzaun ist mit etwa 1.800 Kilometern einer der längsten Zäune der Welt, doch die Kaninchen waren schon vor seiner Fertigstellung auf der anderen Seite. Berühmt wurde er durch drei Aborigine-Mädchen, die 1931 aus einem staatlichen Lager flohen und sich an ihm entlang rund 1.600 Kilometer nach Hause durchschlugen.",
               "hook": "eingeschleppte Kaninchen zur Plage",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Rabbit-proof fence – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rabbit-proof_fence"
+              }
             },
             {
               "id": "2026-10-12-0-2-2",
@@ -93,9 +133,17 @@
               "hook": "Hermeline, Frettchen und Wiesel",
               "children": []
             }
-          ]
+          ],
+          "source": {
+            "title": "Predator Free 2050 – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Predator_Free_2050"
+          }
         }
-      ]
+      ],
+      "source": {
+        "title": "Kakapo – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Kakapo"
+      }
     },
     {
       "id": "2026-10-12-1",
@@ -113,23 +161,39 @@
               "title": "Ein Eispickel in Coyoacán",
               "text": "1940, im selben Jahr, in dem Nancarrow nach Mexiko-Stadt zog, wurde dort Leo Trotzki ermordet. Im August schlug ihn der sowjetische Agent Ramón Mercader in seinem Exilhaus in Coyoacán mit einem Eispickel nieder. Trotzki starb am folgenden Tag. Mercader hatte sich über eine Liebesbeziehung mit der Trotzkistin Sylvia Ageloff Zugang verschafft und saß rund 20 Jahre in mexikanischer Haft. Danach wurde er in Moskau als Held der Sowjetunion geehrt. Begraben liegt er dort unter falschem Namen.",
               "hook": "zog 1940 nach Mexiko-Stadt",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Leo Trotzki – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Leo_Trotzki"
+              }
             },
             {
               "id": "2026-10-12-1-0-1",
               "title": "Hundert Metronome",
               "text": "György Ligeti, der Nancarrow so feierte, hatte selbst eine Schwäche für Musik ohne Musiker. 1962 schrieb er das „Poème symphonique“ für 100 Metronome, die zu Beginn alle in unterschiedlichen Tempi angestoßen werden. Aus dem dichten Prasseln werden nach und nach erkennbare Muster, weil ein Metronom nach dem anderen ausläuft. Das Stück ist erst zu Ende, wenn auch das letzte verstummt ist. Den Schluss macht also ein einsames Ticken.",
               "hook": "von György Ligeti gefeiert",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Poème symphonique – Wikipedia (englisch)",
+                "url": "https://en.wikipedia.org/wiki/Po%C3%A8me_symphonique"
+              }
             },
             {
               "id": "2026-10-12-1-0-2",
               "title": "Der Anruf ohne Bewerbung",
               "text": "Als Nancarrow 1982 sein MacArthur-Stipendium bekam, war das Programm gerade erst im zweiten Jahr. Bewerben kann man sich nicht: Anonyme Nominierende schlagen Kandidaten vor, und die Ausgewählten erfahren meist durch einen überraschenden Anruf davon. Heute gibt es 800.000 Dollar über fünf Jahre, und wofür das Geld ausgegeben wird, schreibt niemand vor. Die Presse nennt es gern „Genius Grant“. Die Stiftung selbst lehnt genau dieses Etikett ab.",
               "hook": "1982 ein MacArthur-Stipendium",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "MacArthur Fellows Program – Wikipedia (englisch)",
+                "url": "https://en.wikipedia.org/wiki/MacArthur_Fellows_Program"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Conlon Nancarrow – Wikipedia (englisch)",
+            "url": "https://en.wikipedia.org/wiki/Conlon_Nancarrow"
+          }
         },
         {
           "id": "2026-10-12-1-1",
@@ -142,23 +206,39 @@
               "title": "Hawaiis Bombeninsel",
               "text": "Kahoolawe, auf dessen Klippen die Navy ihre Torpedos schoss, blieb auch nach dem Krieg ein Übungsziel: Bis 1990 bombardierte das Militär die kleinste der acht Hauptinseln Hawaiis. 1976 besetzten Aktivisten der Bewegung Protect Kahoʻolawe ʻOhana die Insel. Zwei von ihnen, George Helm und Kimo Mitchell, verschwanden 1977 auf See. 1994 ging die Insel an den Bundesstaat Hawaii, ist aber bis heute nicht frei von Munition. Laut Landesrecht soll sie einmal an eine souveräne hawaiische Nation übergeben werden, die es bisher nicht gibt.",
               "hook": "die Klippen der Insel Kahoolawe",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Kahoʻolawe – Wikipedia (englisch)",
+                "url": "https://en.wikipedia.org/wiki/Kaho%CA%BBolawe"
+              }
             },
             {
               "id": "2026-10-12-1-1-1",
               "title": "Minen, Messing und Gauß",
               "text": "Magnetzünder steckten nicht nur in Torpedos: Im Herbst 1939 versenkten deutsche Magnetminen vor Großbritannien zahlreiche Schiffe. Im November fiel eine davon ins Watt bei Shoeburyness an der Themsemündung. Marineoffizier John Ouvry entschärfte sie mit Werkzeug aus nichtmagnetischem Messing. Danach entwickelten die Briten das „Degaussing“, benannt nach Carl Friedrich Gauß: Stromkabel um den Rumpf heben das Magnetfeld eines Schiffs auf. Der Begriff lebte später in der Degauss-Taste alter Röhrenmonitore weiter, mit der man Farbflecken wegmagnetisierte.",
               "hook": "der Magnetzünder zündete zu früh",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Degaussing – Wikipedia (englisch)",
+                "url": "https://en.wikipedia.org/wiki/Degaussing"
+              }
             },
             {
               "id": "2026-10-12-1-1-2",
               "title": "Lockwoods Höllenkatzen",
               "text": "Admiral Charles Lockwood, der die Torpedofehler aufdecken ließ, schickte im Juni 1945 neun U-Boote ins Japanische Meer, das bis dahin kaum erreichbar war. Bei der Operation Barney tasteten sie sich mit einem neuen FM-Sonar durch die Minenfelder der Tsushimastraße. Eines der Boote, die USS Bonefish, kam nicht zurück. Nach dem Krieg schrieb Lockwood mit einem Co-Autor das Buch „Hellcats of the Sea“. Die Verfilmung von 1957 ist der einzige Spielfilm, in dem Ronald Reagan und Nancy Davis gemeinsam vor der Kamera standen.",
               "hook": "Admiral Charles Lockwood",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Operation Barney – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Unternehmen_Barney"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Mark 14 torpedo – Wikipedia (englisch)",
+            "url": "https://en.wikipedia.org/wiki/Mark_14_torpedo"
+          }
         },
         {
           "id": "2026-10-12-1-2",
@@ -169,32 +249,52 @@
             {
               "id": "2026-10-12-1-2-0",
               "title": "Ein Wikingerroman als Pate",
-              "text": "Unter den Büchern über die Wikinger, die Jim Kardach las, war der schwedische Roman „Die Abenteuer des Röde Orm“ von Frans G. Bengtsson. Das zweiteilige Werk erschien 1941 und 1945 und erzählt von einem jungen Mann aus Schonen, der als Ruderer auf eine Galeere gerät, im maurischen Córdoba dient und später zu den Stromschnellen des Dnjepr aufbricht. Harald Blauzahn tritt darin selbst auf. Hollywood verfilmte den Stoff 1964, mit Sidney Poitier als maurischem Fürsten.",
+              "text": "Unter den Büchern über die Wikinger, die Jim Kardach las, war der schwedische Roman „Die Abenteuer des Röde Orm“ von Frans G. Bengtsson. Das zweiteilige Werk erschien 1941 und 1945 und erzählt von einem jungen Mann aus Schonen, der als Ruderer auf eine Galeere gerät, im maurischen Córdoba dient und später zu den Stromschnellen des Dnjepr aufbricht. Harald Blauzahn tritt darin selbst auf. 1964 entstand eine britisch-jugoslawische, nur lose an den Roman angelehnte Verfilmung, mit Sidney Poitier als maurischem Herrscher.",
               "hook": "Bücher über die Wikinger",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Die Abenteuer des Röde Orm – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Die_Abenteuer_des_R%C3%B6de_Orm"
+              }
             },
             {
               "id": "2026-10-12-1-2-1",
               "title": "Ein Gesetzbuch in Runen",
               "text": "Die Runen für H und B gehören zum jüngeren Futhark, das ab etwa 800 mit nur 16 Zeichen auskam. Aus ihm entwickelten sich mittelalterliche Runen, mit denen um 1300 jemand ein ganzes Buch schrieb: den Codex Runicus, rund 200 Pergamentseiten, die vor allem das Schonische Recht enthalten. Für Bücher waren Runen damals eine Ausnahme, denn Handschriften schrieb man längst im lateinischen Alphabet. Auf der letzten Seite steht etwas Unerwartetes, nämlich zwei Notenzeilen zum Lied „Drømte mig en drøm i nat“, eine der ältesten erhaltenen weltlichen Melodien Skandinaviens.",
               "hook": "die Runen für H und B",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Codex Runicus – Wikipedia (englisch)",
+                "url": "https://en.wikipedia.org/wiki/Codex_Runicus"
+              }
             },
             {
               "id": "2026-10-12-1-2-2",
               "title": "Die Probe mit dem Eisen",
               "text": "Wie Harald die Dänen zu Christen gemacht haben soll, schrieb wenige Jahre später der sächsische Mönch Widukind von Corvey auf. Demnach trug ein Kleriker namens Poppo vor dem König ein glühendes Eisen, ohne sich zu verbrennen, worauf Harald den alten Göttern abschwor. Belegt ist das nicht, die Episode gilt als Legende. Beliebt war sie trotzdem: Vergoldete Kupferplatten aus der Kirche von Tamdrup in Jütland zeigen um 1200 Poppos Gottesurteil, gut zwei Jahrhunderte nach dem angeblichen Wunder.",
               "hook": "die Dänen zu Christen gemacht",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Poppo (Schleswig) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Poppo_(Schleswig)"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Harald Blauzahn – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Harald_Blauzahn"
+          }
         }
-      ]
+      ],
+      "source": {
+        "title": "Hedy Lamarr – Wikipedia",
+        "url": "https://de.wikipedia.org/w/index.php?title=Hedy_Lamarr&oldformat=true"
+      }
     },
     {
       "id": "2026-10-12-2",
       "title": "Antikythera-Mechanismus",
-      "text": "1901 holten Schwammtaucher vor der griechischen Insel Antikythera einen unscheinbaren, verkrusteten Bronzeklumpen aus einem antiken Schiffswrack. Darin steckte ein Zahnradgetriebe aus dem 2. oder 1. Jahrhundert v. Chr., von dem rund 30 Zahnräder erhalten sind. Mit einer Kurbel ließen sich die Stellung von Sonne und Mond, die Mondphasen und Finsternisse anzeigen. Sogar der Rhythmus der Olympischen Spiele war darauf vermerkt. Mechanik von ähnlicher Feinheit taucht erst wieder im mittelalterlichen Europa auf.",
+      "text": "Um 1900/01 holten Schwammtaucher vor der griechischen Insel Antikythera einen unscheinbaren, verkrusteten Bronzeklumpen aus einem antiken Schiffswrack. Darin steckte ein Zahnradgetriebe aus dem 2. oder 1. Jahrhundert v. Chr., von dem rund 30 Zahnräder erhalten sind. Mit einer Kurbel ließen sich die Stellung von Sonne und Mond und die Mondphasen anzeigen und Finsternisse vorhersagen. Sogar der Rhythmus der Olympischen Spiele war darauf vermerkt. Mechanik von ähnlicher Feinheit taucht erst wieder im mittelalterlichen Europa auf.",
       "children": [
         {
           "id": "2026-10-12-2-0",
@@ -207,23 +307,39 @@
               "title": "Krank vom Brückenbau",
               "text": "Die Taucherkrankheit traf auch Arbeiter in Senkkästen, in denen man unter Überdruck Fundamente für Brücken aushob. Beim Bau der Brooklyn Bridge erkrankte Chefingenieur Washington Roebling 1872 so schwer, dass er die Arbeiten danach meist vom Fenster aus durchs Fernglas verfolgte. Seine Frau Emily überbrachte seine Anweisungen und eignete sich dabei viel Ingenieurwissen an. Die Arbeiter nannten das Leiden „the bends“. Angeblich spielte das auf den „Grecian bend“ an, eine vornübergebeugte Haltung, die damals bei Damen als modisch galt.",
               "hook": "unverstandene Taucherkrankheit",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Washington Augustus Roebling – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Washington_Augustus_Roebling"
+              }
             },
             {
               "id": "2026-10-12-2-0-1",
               "title": "Eine Ehe im Glasschwamm",
               "text": "Ein Badeschwamm ist eigentlich das Skelett eines Tieres: Schwämme haben weder Nerven noch Organe und filtern ihre Nahrung aus dem Wasser. Besonders kunstvoll baut der Gießkannenschwamm aus der Tiefsee, auch Venuskörbchen genannt, sein Gerüst aus feinen Glasnadeln. Darin lebt oft ein Garnelenpaar, das als Larven hineingeschlüpft ist und später zu groß wird, um wieder herauszukommen. In Japan verschenkte man das getrocknete Skelett deshalb zur Hochzeit, als Sinnbild für eine Ehe bis zum Tod.",
               "hook": "nach Badeschwämmen",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Gießkannenschwamm – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gie%C3%9Fkannenschwamm"
+              }
             },
             {
               "id": "2026-10-12-2-0-2",
               "title": "Pizza, Panzerschiff, Gipfel",
               "text": "Das Kriegsschiff Regina Margherita war nach Margarethe von Savoyen benannt, der ersten Königin des geeinten Italiens. Heute kennt man ihren Namen vor allem von der Pizza Margherita. Der Legende nach backte der Neapolitaner Raffaele Esposito sie 1889 für die Königin in den Farben der Trikolore, doch Historiker bezweifeln diese Geschichte. Gut belegt ist dagegen, dass sie 1893 auf den Monte Rosa stieg, wo eine nach ihr benannte Hütte eingeweiht wurde. Die Capanna Margherita liegt auf 4554 Metern und gilt bis heute als das höchstgelegene Gebäude Europas.",
               "hook": "italienischen Kriegsschiffs Regina Margherita",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Margarethe von Italien – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Margarethe_von_Italien"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Skandalopetra diving – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Skandalopetra_diving"
+          }
         },
         {
           "id": "2026-10-12-2-1",
@@ -236,23 +352,39 @@
               "title": "Schiffe über Land",
               "text": "Die Isthmien wurden beim Poseidonheiligtum auf der schmalen Landenge von Korinth gefeiert, und genau diese Enge reizte die Baumeister der Antike. Um 600 v. Chr. legte man dort den Diolkos an, eine gepflasterte Bahn, auf der Schiffe auf Wagen von einem Meer zum anderen gezogen wurden. Kaiser Nero setzte 67 n. Chr. mit einer goldenen Hacke selbst den ersten Schlag für einen Kanal, doch nach seinem Tod ruhte das Projekt. Fertig wurde der Kanal erst 1893, und mit rund 25 Metern Breite ist er heute für die meisten großen Frachter zu schmal.",
               "hook": "Isthmien",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Kanal von Korinth – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kanal_von_Korinth"
+              }
             },
             {
               "id": "2026-10-12-2-1-1",
               "title": "Fluch für Handschuhdiebe",
               "text": "Auf Blei schrieb man in der Antike nicht nur Fragen an die Götter, sondern auch Flüche. Im englischen Bath, dem römischen Aquae Sulis, bargen Archäologen ab 1979 rund 130 solcher Fluchtafeln aus der heiligen Quelle der Göttin Sulis Minerva. Die meisten richten sich gegen Diebe, die Badegästen Mäntel, Kleider oder Münzen gestohlen hatten. Ein gewisser Docimedis etwa vermisste zwei Handschuhe und wünschte dem Dieb, er möge dafür im Tempel der Göttin Verstand und Augenlicht verlieren.",
               "hook": "schmale Bleitäfelchen",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Bath curse tablets – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bath_curse_tablets"
+              }
             },
             {
               "id": "2026-10-12-2-1-2",
               "title": "Chaplin und die Blutgruppe",
               "text": "Ob ein Kind wirklich vom eigenen Mann stammt, ließ sich jahrtausendelang nicht klären; erst die Blutgruppen, die Karl Landsteiner 1901 entdeckte, lieferten Hinweise. Mit ihnen ließ sich eine Vaterschaft allerdings nur ausschließen, nicht beweisen. 1944 zeigte ein Bluttest, dass Charlie Chaplin nicht der Vater der Tochter der jungen Schauspielerin Joan Barry sein konnte. Eine Jury in Los Angeles erklärte ihn trotzdem zum Vater, weil Bluttests in Kalifornien damals nicht als bindender Beweis galten, und Chaplin musste Unterhalt zahlen.",
               "hook": "ob ein Kind wirklich vom eigenen",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Charlie Chaplin And ‘Paternity’ In Modern Times – Science Friday",
+                "url": "https://www.sciencefriday.com/articles/charlie-chaplin-paternity-lawsuit/"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Eiche von Dodona – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Eiche_von_Dodona"
+          }
         },
         {
           "id": "2026-10-12-2-2",
@@ -265,25 +397,45 @@
               "title": "Die Formel für Ostern",
               "text": "Die beweglichen Kirchenfeste hängen alle am Ostertermin, und der richtet sich seit der Spätantike nach dem Mond: Ostern ist der erste Sonntag nach dem ersten Frühlingsvollmond. Die Berechnung, der sogenannte Computus, beschäftigte Gelehrte über Jahrhunderte. 1800 veröffentlichte Carl Friedrich Gauß eine kompakte Osterformel, die er später noch korrigieren musste. Weil die Ostkirchen beim julianischen Kalender blieben, feiern West und Ost meist an verschiedenen Tagen. 2025 fielen beide Ostern zufällig auf den 20. April.",
               "hook": "die beweglichen Kirchenfeste",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Gaußsche Osterformel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gau%C3%9Fsche_Osterformel"
+              }
             },
             {
               "id": "2026-10-12-2-2-1",
               "title": "Bücherbeute aus Pavia",
               "text": "Die Bibliothek der Visconti im Kastell von Pavia gehörte im 15. Jahrhundert zu den reichsten Europas. Gian Galeazzo Visconti hatte ihr nach der Eroberung Paduas 1388 sogar Teile der Büchersammlung Petrarcas einverleibt. 1499 eroberte der französische König Ludwig XII. das Herzogtum Mailand und ließ die Bände als Kriegsbeute ins Schloss Blois bringen. Von dort wanderten sie in die königliche Bibliothek. Viele der Handschriften aus Pavia liegen heute in der Bibliothèque nationale de France in Paris.",
               "hook": "Bibliothek der Visconti in Pavia",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "La bibliothèque des Visconti-Sforza – Bibliothèque nationale de France",
+                "url": "https://www.bnf.fr/fr/mediatheque/la-bibliotheque-des-visconti-sforza-et-autres-bibliotheques-de-litalie-de-la"
+              }
             },
             {
               "id": "2026-10-12-2-2-2",
               "title": "Der Planet aus Bath",
               "text": "Saturn war der äußerste der fünf mit bloßem Auge bekannten Planeten, bis William Herschel am 13. März 1781 im Garten seines Hauses in Bath ein Objekt entdeckte, das er zunächst für einen Kometen hielt. Herschel stammte aus Hannover, war eigentlich Musiker und baute seine Teleskope selbst. Er wollte den neuen Planeten nach König Georg III. „Georgium Sidus“ nennen, durchgesetzt hat sich aber Johann Elert Bodes Vorschlag Uranus. Gesehen hatte ihn schon John Flamsteed im Jahr 1690. Der katalogisierte ihn allerdings als Stern 34 Tauri.",
               "hook": "fünf damals bekannten Planeten",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Uranus (Planet) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Uranus_(Planet)"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Giovanni de Dondi – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Giovanni_de_Dondi"
+          }
         }
-      ]
+      ],
+      "source": {
+        "title": "Mechanismus von Antikythera – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Mechanismus_von_Antikythera"
+      }
     }
   ]
 }

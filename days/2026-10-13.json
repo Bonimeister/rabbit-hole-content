@@ -11,7 +11,7 @@
         {
           "id": "2026-10-13-0-0",
           "title": "Der Schatz von Quedlinburg",
-          "text": "Goezes Wirkungsort Quedlinburg besaß einen Kirchenschatz, der 1945 Ziel eines der spektakulärsten Kunstdiebstähle des Krieges wurde. Der US-Leutnant Joe Tom Meador schickte ausgelagerte Stücke des Domschatzes per Feldpost zu sich nach Texas. Erst 1990, Jahre nach seinem Tod, tauchte das Samuhel-Evangeliar aus dem 9. Jahrhundert auf dem Kunstmarkt auf. Nach umstrittenen Zahlungen in Millionenhöhe an Meadors Erben kehrten die meisten Stücke Anfang der 1990er-Jahre nach Quedlinburg zurück.",
+          "text": "Goezes Wirkungsort Quedlinburg besaß einen Kirchenschatz, der 1945 Ziel eines der spektakulärsten Kunstdiebstähle des Krieges wurde. Der US-Leutnant Joe Tom Meador schickte ausgelagerte Stücke des Domschatzes per Feldpost zu sich nach Texas. Erst 1987, Jahre nach seinem Tod, tauchte das Samuhel-Evangeliar aus dem 9. Jahrhundert auf dem Kunstmarkt auf. 1990 wurde es für drei Millionen Dollar zurückgekauft. Nach weiteren umstrittenen Zahlungen in Millionenhöhe an Meadors Erben kehrten die meisten Stücke Anfang der 1990er-Jahre nach Quedlinburg zurück.",
           "hook": "Der Quedlinburger Pastor",
           "children": [
             {
@@ -26,16 +26,28 @@
               "title": "Zeppeline aus Rinderdarm",
               "text": "Karolingische Prachthandschriften wie das Samuhel-Evangeliar glänzen oft mit Goldtinte, und die wurde meist aus zerriebenem Blattgold angerührt. Goldschläger hämmerten das Metall hauchdünn, und zwar zwischen Lagen von Goldschlägerhaut, einer zähen Membran aus Rinderdarm. Im Ersten Weltkrieg wurde genau dieses Material wichtig für den Krieg, denn die Gaszellen deutscher Zeppeline wurden damit ausgekleidet. Für ein einziges Luftschiff brauchte man die Därme von Hunderttausenden Rindern.",
               "hook": "Samuhel-Evangeliar aus dem 9. Jahrhundert",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Goldschlägerhaut – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Goldschl%C3%A4gerhaut"
+              }
             },
             {
               "id": "2026-10-13-0-0-2",
               "title": "Das rätselhafte Königsgrab",
               "text": "Der Domschatz gehört zur Stiftskirche St. Servatius. Sie steht über dem Grab Heinrichs I., der 936 starb und als erster König aus dem sächsischen Haus der Liudolfinger regiert hatte. Zum tausendsten Todestag 1936 inszenierte Heinrich Himmler dort eine Feier, stellte den König als germanischen Vorkämpfer dar und machte die Kirche in den Folgejahren zur Weihestätte der SS. 1937 präsentierte die SS Gebeine, die angeblich Heinrich gehörten. Heute gilt diese Zuschreibung als zweifelhaft, und wo die sterblichen Überreste des Königs wirklich geblieben sind, weiß niemand sicher.",
               "hook": "ausgelagerte Stücke des Domschatzes",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Stiftskirche St. Servatius – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Stiftskirche_St._Servatius"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Quedlinburger Domschatz – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Quedlinburger_Domschatz"
+          }
         },
         {
           "id": "2026-10-13-0-1",
@@ -48,23 +60,39 @@
               "title": "Mammutsteppe an der Kolyma",
               "text": "Am Unterlauf der Kolyma, nahe der Siedlung Tscherski, gründete der Geophysiker Sergei Simow 1996 den Pleistozän-Park, den heute sein Sohn Nikita leitet. Dort weiden Pferde, Bisons und Moschusochsen. Sie sollen die Grassteppe der Eiszeit zurückbringen. Simows Idee: Die Tiere trampeln im Winter die isolierende Schneedecke platt, so dringt die Kälte tiefer ein und der Permafrost bleibt gefroren. Weil keine Mammuts mehr da sind, die Bäume umstoßen, ließ Simow das von einem ausgemusterten Militär-Kettenfahrzeug erledigen.",
               "hook": "sibirischen Permafrost an der Kolyma",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Pleistozän-Park – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Pleistoz%C3%A4n-Park"
+              }
             },
             {
               "id": "2026-10-13-0-1-1",
               "title": "Ein Zucker unter Verdacht",
               "text": "Trehalose kommt in Pilzen, Hefe und im Blut vieler Insekten vor, war als Rohstoff aber lange viel zu teuer. Mitte der 1990er-Jahre entwickelte die japanische Firma Hayashibara ein Verfahren, um sie mit Enzymen aus Stärke herzustellen, und der Preis fiel drastisch. Seitdem steckt sie in Eiscreme, Backwaren und Fertiggerichten. Forschende stellten 2018 in „Nature“ die These auf, dieser Zuckerboom habe gefährlichen Stämmen des Darmkeims Clostridioides difficile zur Ausbreitung verholfen. Ob das stimmt, ist bis heute umstritten.",
               "hook": "des Zuckers Trehalose",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Dietary Trehalose as a Bioactive Nutrient – Nutrients (PMC)",
+                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10054017/"
+              }
             },
             {
               "id": "2026-10-13-0-1-2",
               "title": "Fließt Kirchenglas?",
               "text": "Trehalose schützt Zellen wie Glas, weil sie einen amorphen Festkörper bildet: ungeordnet wie eine Flüssigkeit, aber erstarrt. Daraus entstand die Legende, alte Kirchenfenster seien unten dicker, weil das Glas über Jahrhunderte nach unten geflossen sei. Tatsächlich war mittelalterliches Fensterglas nie gleichmäßig dick, und Glaser setzten die dicke Kante meist nach unten, manchmal aber auch nach oben. Der Materialforscher Edgar Zanotto berechnete 1998: Damit solches Glas sichtbar fließt, bräuchte es länger, als das Universum alt ist.",
               "hook": "ähnlich wie Glas stabilisiert",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "The myth of cathedral glass – DoITPoMS, University of Cambridge",
+                "url": "https://www.doitpoms.ac.uk/tlplib/glass-transition/myth.php"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "A novel nematode species from the Siberian permafrost shares adaptive mechanisms for cryptobiotic survival with C. elegans dauer larva – PLOS Genetics (PMC)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10374039/"
+          }
         },
         {
           "id": "2026-10-13-0-2",
@@ -75,27 +103,47 @@
             {
               "id": "2026-10-13-0-2-0",
               "title": "Als Magdeburg brannte",
-              "text": "Otto von Guericke wurde 1646 Bürgermeister einer Stadt, die 15 Jahre zuvor fast vollständig vernichtet worden war. Im Mai 1631, mitten im Dreißigjährigen Krieg, stürmten Truppen der katholischen Liga unter Tilly das protestantische Magdeburg. Plünderung und Großbrand kosteten schätzungsweise 20.000 Menschen das Leben. Guericke überlebte knapp und verlor sein Vermögen. Die Katastrophe war so berüchtigt, dass „magdeburgisieren“ zeitweise zum Wort für die völlige Zerstörung einer Stadt wurde.",
+              "text": "Otto von Guericke wurde 1646 Bürgermeister einer Stadt, die 15 Jahre zuvor fast vollständig vernichtet worden war. Im Mai 1631, mitten im Dreißigjährigen Krieg, stürmten kaiserliche Truppen und Truppen der katholischen Liga unter Tilly und Pappenheim das protestantische Magdeburg. Plünderung und Großbrand kosteten schätzungsweise 20.000 Menschen das Leben. Guericke überlebte knapp und verlor sein Vermögen. Die Katastrophe war so berüchtigt, dass „magdeburgisieren“ zeitweise zum Wort für die völlige Zerstörung einer Stadt wurde.",
               "hook": "Der Magdeburger Bürgermeister Otto von Guericke",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Magdeburger Hochzeit – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Magdeburger_Hochzeit"
+              }
             },
             {
               "id": "2026-10-13-0-2-1",
               "title": "Ein Kakadu im Vakuum",
               "text": "Guerickes Luftpumpe fand rasch Nachahmer: In England bauten Robert Boyle und sein Assistent Robert Hooke ab 1659 eine deutlich verbesserte Version. Gut hundert Jahre später machte der Maler Joseph Wright of Derby daraus ein Drama im Kerzenlicht. Sein Gemälde „Ein Experiment mit einem Vogel in der Luftpumpe“ von 1768 zeigt einen Vortragsreisenden, der einem Vogel im Glaskolben die Luft entzieht, während eine Familie gebannt zuschaut. Der Vogel ist ausgerechnet ein seltener weißer Kakadu, den man für solche Vorführungen kaum geopfert hätte. Ob er überlebt, lässt das Bild offen.",
               "hook": "einer selbst gebauten Luftpumpe",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Das Experiment mit dem Vogel in der Luftpumpe – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Das_Experiment_mit_dem_Vogel_in_der_Luftpumpe"
+              }
             },
             {
               "id": "2026-10-13-0-2-2",
               "title": "Kein Fleck bleibt leer",
-              "text": "Den Begriff „horror vacui“ übernahm später die Kunstgeschichte für Werke, in denen jede freie Fläche ausgefüllt ist. Ein extremes Beispiel schuf Adolf Wölfli, der ab 1895 in der psychiatrischen Klinik Waldau bei Bern lebte. Dort füllte er Zehntausende Seiten mit Ornamenten, Notenzeilen, Texten und Zahlenkolonnen und erschuf so eine fantastische Autobiografie. Sein Psychiater Walter Morgenthaler widmete ihm 1921 das Buch „Ein Geisteskranker als Künstler“. Heute gilt Wölfli als einer der wichtigsten Vertreter der Art brut.",
+              "text": "Den Begriff „horror vacui“ übernahm später die Kunstgeschichte für Werke, in denen jede freie Fläche ausgefüllt ist. Ein extremes Beispiel schuf Adolf Wölfli, der ab 1895 in der psychiatrischen Klinik Waldau bei Bern lebte. Dort füllte er rund 25.000 Seiten mit Ornamenten, Notenzeilen, Texten und Zahlenkolonnen und erschuf so eine fantastische Autobiografie. Sein Psychiater Walter Morgenthaler widmete ihm 1921 das Buch „Ein Geisteskranker als Künstler“. Heute gilt Wölfli als einer der wichtigsten Vertreter der Art brut.",
               "hook": "der Scheu der Natur vor der Leere",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Adolf Wölfli – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Adolf_W%C3%B6lfli"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Magdeburger Halbkugeln – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Magdeburger_Halbkugeln"
+          }
         }
-      ]
+      ],
+      "source": {
+        "title": "Bärtierchen – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/B%C3%A4rtierchen"
+      }
     },
     {
       "id": "2026-10-13-1",
@@ -113,14 +161,22 @@
               "title": "Schwarz nach Gesetz",
               "text": "Wheelers Patentmalz kam genau zur rechten Zeit: Ein britisches Gesetz von 1816 verbot den Brauern, ihrem Bier andere Zutaten als Malz und Hopfen beizugeben. Zuvor hatten viele ihren Porter mit Zuckercouleur oder Lakritz nachgedunkelt. Mit Messungen per Saccharometer hatten sie nämlich herausgefunden, dass das braune Malz viel weniger vergärbaren Zucker lieferte als das teurere helle. Das fast schwarze Patentmalz löste das Problem legal. Schon ein kleiner Anteil färbte ein Bier aus hellem Malz tiefdunkel. So wurde der Porter genau dann am dunkelsten, als er überwiegend aus hellem Malz bestand.",
               "hook": "besonders dunkles „Patentmalz“",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Black malt – Craft Beer & Brewing (Oxford Companion to Beer)",
+                "url": "https://beerandbrewing.com/dictionary/0QoAorCAho"
+              }
             },
             {
               "id": "2026-10-13-1-0-1",
               "title": "Zwei Harfen, ein Spiegel",
               "text": "Bevor Arthur Guinness auf Porter setzte, pachtete er 1759 die kleine Brauerei am Dubliner St. James's Gate, und zwar für 9000 Jahre zu 45 Pfund jährlich. Ab 1862 zierte eine Harfe die Etiketten, ihr Vorbild war die mittelalterliche „Brian-Boru-Harfe“. 1876 wurde sie als Marke eingetragen. Nach der Unabhängigkeit wählte der irische Staat dasselbe Instrument als Wappen. Oft heißt es, er habe dabei auf die Marke der Brauerei Rücksicht nehmen müssen. Belegt ist jedenfalls: Staats- und Bierharfe sind bis heute spiegelverkehrt.",
               "hook": "In Dublin hatte Arthur Guinness",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Guinness-Brauerei – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Guinness-Brauerei"
+              }
             },
             {
               "id": "2026-10-13-1-0-2",
@@ -129,7 +185,11 @@
               "hook": "die Lastenträger zurück, die „Porters“",
               "children": []
             }
-          ]
+          ],
+          "source": {
+            "title": "Porter (beer) – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Porter_(beer)"
+          }
         },
         {
           "id": "2026-10-13-1-1",
@@ -142,21 +202,33 @@
               "title": "Die klugen Saatkrähen",
               "text": "Der Spitzname „Rookery“ stammt von der Saatkrähe, englisch rook, die in dicht gedrängten Kolonien brütet. So eng wie ein solcher Brutplatz wirkte auch der Slum. Die Vögel sind erstaunlich klug: 2009 gaben Christopher Bird und Nathan Emery in Cambridge Saatkrähen eine Röhre, in der ein Wurm auf zu niedrigem Wasser schwamm. Die Krähen warfen Steine hinein, bis der Wurm erreichbar war, und wählten dabei bevorzugt große Steine. Damit taten sie genau das, was Äsops Fabel von der durstigen Krähe schon vor rund 2500 Jahren erzählt.",
               "hook": "die „Rookery“",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Saatkrähe – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Saatkr%C3%A4he"
+              }
             },
             {
               "id": "2026-10-13-1-1-1",
               "title": "Gin aus der Katzenpfote",
               "text": "Gegen die Ginschwemme, die Hogarth anprangerte, hatte das Parlament schon 1736 eine teure Lizenzpflicht für Ginhändler eingeführt, und Spitzel erhielten für jede Anzeige eine Belohnung. Der Ire Dudley Bradstreet fand nach eigener Schilderung einen Ausweg: Er hängte das Bild einer Katze ins Fenster. Kunden flüsterten „Puss“, legten Münzen ins Maul der Katze, und auf sein „Mew“ hin floss Gin durch ein Rohr unter der Pfote heraus. Weil niemand den Verkäufer zu Gesicht bekam, war er kaum zu belangen. Die Masche fand Nachahmer und gilt manchen als früher Vorläufer des Verkaufsautomaten.",
               "hook": "eine Anklage gegen die Ginschwemme",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Gin-Epidemie – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gin-Epidemie"
+              }
             },
             {
               "id": "2026-10-13-1-1-2",
               "title": "Ein König auf dem Kirchturm",
               "text": "Der Turm von St George's Bloomsbury, um 1730 nach Plänen von Nicholas Hawksmoor vollendet, sieht aus wie kein anderer in London. Statt einer schlanken Spitze trägt er eine Stufenpyramide, angelehnt an antike Beschreibungen des Mausoleums von Halikarnassos, eines der sieben Weltwunder. Löwen und Einhörner, die an ihrem Fuß miteinander kämpften, wurden 1871 entfernt und kehrten erst bei der Restaurierung bis 2006 als Nachbildungen zurück. Ganz oben steht nicht etwa der heilige Georg, sondern König Georg I. in römischer Toga.",
               "hook": "der Turm von St George's Bloomsbury",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "St George’s, Bloomsbury – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/St_George%E2%80%99s,_Bloomsbury"
+              }
             }
           ]
         },
@@ -171,25 +243,45 @@
               "title": "Newtons krumme Münze",
               "text": "Die Gebühr von zwei Guineen war eine typisch britische Summe: Die Guinea war ursprünglich eine Goldmünze, benannt nach der westafrikanischen Küste, von der das Gold der Royal African Company kam. Ihren krummen Wert von 21 Schilling legte 1717 Isaac Newton als Leiter der Königlichen Münze fest, was Großbritannien faktisch auf den Goldstandard brachte. Nach der Münzreform von 1816 verschwand die Münze, doch als Rechengröße für Vornehmes wie Arzthonorare blieb sie erhalten. Beim Auktionshaus Tattersalls werden Rennpferde bis heute in Guineen versteigert.",
               "hook": "eine Gebühr von zwei Guineen",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Guinee – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Guinee"
+              }
             },
             {
               "id": "2026-10-13-1-2-1",
               "title": "Der Premier im Duell",
               "text": "Premierminister Wellington, der Sieger von Waterloo, setzte 1829 auch die Gleichberechtigung der Katholiken durch und musste dafür sogar zur Pistole greifen. Der Earl of Winchilsea hatte ihm öffentlich vorgeworfen, insgeheim den Katholizismus fördern zu wollen. Am 21. März 1829 trafen sich die beiden auf den Battersea Fields südlich der Themse: Wellington schoss daneben, Winchilsea feuerte in die Luft und entschuldigte sich danach schriftlich. Wo der amtierende Regierungschef sein Duell focht, liegt heute der Battersea Park.",
               "hook": "unter Premierminister Wellington",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Wellington–Winchilsea duel – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Wellington%E2%80%93Winchilsea_duel"
+              }
             },
             {
               "id": "2026-10-13-1-2-2",
               "title": "Das Wort Reinheitsgebot",
-              "text": "Als Gladstone 1880 die Malzsteuer abschaffte, besteuerte der Staat stattdessen die Stärke der Würze, und mit dem sogenannten Free Mash Tun Act durften britische Brauer fortan brauen, woraus sie wollten. Zucker, Mais und Reis wurden damit zu gewöhnlichen Brauzutaten. In Bayern galt dagegen die Verordnung von 1516, nach der nur Gerste, Hopfen und Wasser ins Bier gehörten. Ihren berühmten Namen „Reinheitsgebot“ bekam sie allerdings erst 1918, in einer Debatte im bayerischen Landtag.",
+              "text": "Als Gladstone 1880 die Malzsteuer abschaffte, besteuerte der Staat stattdessen die Stärke der Würze, und mit dem sogenannten Free Mash Tun Act durften britische Brauer fortan brauen, woraus sie wollten. Zucker, Mais und Reis wurden damit zu gewöhnlichen Brauzutaten. In Bayern galt dagegen die Verordnung von 1516, nach der nur Gerste, Hopfen und Wasser ins Bier gehörten. Ihren berühmten Namen „Reinheitsgebot“ bekam sie allerdings erst im 20. Jahrhundert: Zuerst belegt ist er 1910 im Reichstag, 1918 fiel er dann auch in einer Debatte im bayerischen Landtag.",
               "hook": "erst 1880 unter Gladstone",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Reinheitsgebot – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bayrisches_Reinheitsgebot"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Beerhouse Act 1830 – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Beerhouse_Act_1830"
+          }
         }
-      ]
+      ],
+      "source": {
+        "title": "Londoner Bier-Überschwemmung – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Londoner_Bier-%C3%9Cberschwemmung"
+      }
     },
     {
       "id": "2026-10-13-2",
@@ -207,28 +299,44 @@
               "title": "Al-Kindi zählt Buchstaben",
               "text": "Die Häufigkeitsanalyse, mit der Poes Held den Schatz findet, ist rund tausend Jahre älter als die Erzählung. Im 9. Jahrhundert beschrieb sie der Bagdader Gelehrte al-Kindi: Man zählt die Zeichen einer Geheimschrift und vergleicht ihre Häufigkeit mit der von Buchstaben in gewöhnlichen Texten. Seine Abhandlung galt lange als verschollen und tauchte erst in den 1980er-Jahren in einem Archiv in Istanbul wieder auf. Später kostete dieses Wissen eine Königin den Kopf: Maria Stuart wurde 1587 hingerichtet, nachdem man ihre verschlüsselten Briefe entziffert hatte.",
               "hook": "mithilfe der Häufigkeitsanalyse",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "al-Kindī – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Al-Kind%C4%AB"
+              }
             },
             {
               "id": "2026-10-13-2-0-1",
               "title": "Ein Grab voller Chiffren",
               "text": "„Der Goldkäfer“ fesselte einen Jungen in Pittsburgh so sehr, dass er Kryptologe wurde: William Friedman las die Erzählung als Kind. Er stieg zum führenden Codeknacker der USA auf, und sein Team knackte 1940 die japanische Maschinenchiffre, die die Amerikaner „Purple“ nannten. Seine Frau Elizebeth entschlüsselte die Funksprüche von Alkoholschmugglern und Nazi-Spionen. Auf ihrem gemeinsamen Grabstein in Arlington steht „Knowledge is power“. Erst Jahrzehnte später fiel auf, dass die Buchstaben in zwei Schriftformen gesetzt sind und mit Francis Bacons Methode Friedmans Initialen „WFF“ verbergen.",
               "hook": "„Der Goldkäfer“",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "William Friedman – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/William_Frederick_Friedman"
+              }
             },
             {
               "id": "2026-10-13-2-0-2",
               "title": "Washingtons Lieblingsstück",
-              "text": "Die erste Chiffre des rätselhaften W. B. Tyler stellte sich 1992 als Passage aus „Cato“ heraus, einer Tragödie des Engländers Joseph Addison von 1713. Das Stück über den römischen Republikaner, der lieber stirbt, als sich Caesar zu unterwerfen, war im kolonialen Amerika enorm beliebt. George Washington zitierte daraus und ließ es 1778 für seine Truppen im Winterlager von Valley Forge aufführen. Auch der überlieferte letzte Satz des Spions Nathan Hale, er bedaure, nur ein Leben für sein Land geben zu können, klingt stark nach einer Zeile aus Addisons Stück.",
+              "text": "Die erste Chiffre des rätselhaften W. B. Tyler stellte sich 1992 als Passage aus „Cato“ heraus, einer Tragödie des Engländers Joseph Addison von 1713. Das Stück über den römischen Republikaner, der lieber stirbt, als sich Caesar zu unterwerfen, war im kolonialen Amerika enorm beliebt. George Washington zitierte daraus, und im Mai 1778 wurde es in seinem Winterlager in Valley Forge aufgeführt – wohl mit seiner Billigung, obwohl der Kongress Theater verboten hatte. Auch der überlieferte letzte Satz des Spions Nathan Hale, er bedaure, nur ein Leben für sein Land geben zu können, klingt stark nach einer Zeile aus Addisons Stück.",
               "hook": "eines gewissen „W. B. Tyler“",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Cato: A Tragedy: The Enduring Theatrical Mystery at Valley Forge – Journal of the American Revolution",
+                "url": "https://allthingsliberty.com/2024/04/cato-a-tragedy-the-enduring-theatrical-mystery-at-valley-forge/"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Der Goldkäfer – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Der_Goldk%C3%A4fer"
+          }
         },
         {
           "id": "2026-10-13-2-1",
           "title": "Die Maschine, die sprach",
-          "text": "Für Wolfgang von Kempelen war der Schachtürke eher ein Kunststück. Ernsthafter beschäftigte ihn eine Maschine, die menschliche Laute erzeugen sollte. Rund zwanzig Jahre lang arbeitete er daran: Ein Blasebalg diente als Lunge. Die Stimmbänder ersetzte nicht eine schwingende Zunge aus Metall, sondern ein schwingendes Plättchen aus Elfenbein. Einen trichterförmigen Mund formte der Bediener mit der Hand. 1791 beschrieb er die Maschine in seinem Buch „Mechanismus der menschlichen Sprache“, das als frühes Grundlagenwerk der Phonetik gilt. Ein erhaltenes Exemplar steht heute im Deutschen Museum in München.",
+          "text": "Für Wolfgang von Kempelen war der Schachtürke eher ein Kunststück. Ernsthafter beschäftigte ihn eine Maschine, die menschliche Laute erzeugen sollte. Rund zwanzig Jahre lang arbeitete er daran: Ein Blasebalg diente als Lunge. Die Stimmbänder ersetzte nicht eine schwingende Zunge aus Metall, sondern ein schwingendes Plättchen aus Elfenbein. Einen trichterförmigen Mund formte der Bediener mit der Hand. 1791 beschrieb er die Maschine in seinem Buch „Mechanismus der menschlichen Sprache“, das als frühes Grundlagenwerk der Phonetik gilt. Ein Exemplar, das Kempelen zugeschrieben wird, steht heute im Deutschen Museum in München.",
           "hook": "Wolfgang von Kempelen",
           "children": [
             {
@@ -241,23 +349,35 @@
             {
               "id": "2026-10-13-2-1-1",
               "title": "Bells sprechender Kopf",
-              "text": "Rund siebzig Jahre nach Erscheinen von Kempelens Buch sah ein schottischer Teenager in London eine Nachbildung der Sprechmaschine, die der Physiker Charles Wheatstone gebaut hatte. Es war der junge Alexander Graham Bell. Wheatstone lieh ihm Kempelens Buch, und Bell kämpfte sich mühsam durch den deutschen Text. Mit seinem Bruder baute er danach einen sprechenden Kopf, der ein verständliches „Mama“ hervorbrachte. 1876 erhielt Bell das Patent auf das Telefon.",
+              "text": "Rund siebzig Jahre nach Erscheinen von Kempelens Buch sah ein schottischer Teenager in London eine Nachbildung der Sprechmaschine, die der Physiker Charles Wheatstone gebaut hatte. Es war der junge Alexander Graham Bell. Danach besorgte er sich Kempelens Buch und kämpfte sich mühsam durch den deutschen Text. Mit seinem Bruder baute er danach einen sprechenden Kopf, der ein verständliches „Mama“ hervorbrachte. 1876 erhielt Bell das Patent auf das Telefon.",
               "hook": "1791 beschrieb er die Maschine",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Alexander Graham Bell – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Alexander_G._Bell"
+              }
             },
             {
               "id": "2026-10-13-2-1-2",
               "title": "Sprechen per Tastatur",
               "text": "Auch die erste elektrische Sprechmaschine brauchte geschickte Hände. Auf der Weltausstellung 1939 in New York führten die Bell Labs den „Voder“ von Homer Dudley vor. Geschulte Telefonistinnen erzeugten mit Tasten, einem Handgelenkhebel und einem Fußpedal ganze Sätze. Für die Ausbildung brauchten sie rund ein Jahr. Dudleys verwandte Erfindung, der Vocoder, zerlegte Sprache in Frequenzbänder. Im Zweiten Weltkrieg verschlüsselte er die Telefonate zwischen Churchill und Roosevelt. Jahrzehnte später ließ er Kraftwerk wie Roboter singen.",
               "hook": "formte der Bediener mit der Hand",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Voder – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Voice_Operation_Demonstrator"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Wolfgang von Kempelen – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Baron_Wolfgang_von_Kempelen"
+          }
         },
         {
           "id": "2026-10-13-2-2",
           "title": "Künstliche künstliche KI",
-          "text": "Ein Mensch, der heimlich die Arbeit einer Maschine erledigt: Nach diesem Prinzip benannte Amazon 2005 seine Plattform „Mechanical Turk“. Firmen und Forschende zerlegen dort Arbeit in winzige „Human Intelligence Tasks“, zum Beispiel Bilder beschriften oder Texte prüfen. Menschen auf der ganzen Welt erledigen diese Aufgaben oft für wenige Cent. Jeff Bezos sprach von „künstlicher künstlicher Intelligenz“. Auch ein großer Teil der Millionen Bilder der Datenbank ImageNet wurde so beschriftet. Mit ihr nahm ab 2010 das Training moderner Bilderkennung Fahrt auf.",
+          "text": "Ein Mensch, der heimlich die Arbeit einer Maschine erledigt: Nach diesem Prinzip benannte Amazon 2005 seine Plattform „Mechanical Turk“. Das Prinzip: Firmen und Forschende zerlegen dort Arbeit in winzige „Human Intelligence Tasks“, zum Beispiel Bilder beschriften oder Texte prüfen. Menschen auf der ganzen Welt erledigten diese Aufgaben oft für wenige Cent. Jeff Bezos sprach von „künstlicher künstlicher Intelligenz“. Auch ein großer Teil der Millionen Bilder der Datenbank ImageNet wurde so beschriftet. Mit ihr nahm ab 2010 das Training moderner Bilderkennung Fahrt auf. Im August 2026 kündigte Amazon an, den Dienst Ende September einzustellen.",
           "hook": "ein Schachspieler, der im Schrank versteckt war",
           "children": [
             {
@@ -265,25 +385,45 @@
               "title": "Durchbruch auf Grafikkarten",
               "text": "2012 gewann ein Programm den Wettbewerb rund um ImageNet, das die KI-Forschung umkrempelte: AlexNet von Alex Krizhevsky, Ilya Sutskever und Geoffrey Hinton aus Toronto. Ihr neuronales Netz machte rund zehn Prozentpunkte weniger Fehler als die Konkurrenz. Trainiert wurde es auf zwei handelsüblichen Nvidia-Grafikkarten, die eigentlich für Videospiele gebaut waren. Sutskever gründete später OpenAI mit, und Hinton erhielt 2024 den Nobelpreis für Physik.",
               "hook": "der Datenbank ImageNet",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "AlexNet – Wikipedia (englisch)",
+                "url": "https://en.wikipedia.org/wiki/AlexNet"
+              }
             },
             {
               "id": "2026-10-13-2-2-1",
               "title": "Ein Spiel als Fließband",
               "text": "Dass Bilder beschriften auch ganz ohne Bezahlung geht, zeigte der Informatiker Luis von Ahn 2004 mit dem „ESP Game“. Zwei Fremde sahen online dasselbe Foto und tippten Begriffe ein. Stimmten ihre Wörter überein, gab es Punkte, und das Bild hatte ein Schlagwort. Google übernahm die Idee als „Image Labeler“. Danach erfand von Ahn reCAPTCHA, das Nutzer nebenbei alte Bücher entziffern ließ. Später gründete er Duolingo, dessen Lernende anfangs Texte aus dem Netz übersetzten.",
               "hook": "zum Beispiel Bilder beschriften",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Luis von Ahn – Wikipedia (englisch)",
+                "url": "https://en.wikipedia.org/wiki/Luis_von_Ahn"
+              }
             },
             {
               "id": "2026-10-13-2-2-2",
               "title": "Rechnen am Fließband",
               "text": "Schon in den 1790er-Jahren zerlegte Gaspard de Prony Rechenarbeit in winzige Schritte. Im revolutionären Frankreich sollte er riesige Tafeln für das neue Dezimalsystem berechnen. Als Vorbild nahm er Adam Smiths Beschreibung einer Stecknadelfabrik. Einige wenige Mathematiker entwarfen die Formeln, Dutzende Hilfsrechner addierten und subtrahierten nur. Der Überlieferung nach waren darunter viele arbeitslose Perückenmacher. Charles Babbage las später davon und schloss daraus, dass diese unterste Stufe eine Maschine übernehmen könne.",
               "hook": "zerlegen dort Arbeit in winzige",
-              "children": []
+              "children": [],
+              "source": {
+                "title": "Gaspard de Prony – Wikipedia (englisch)",
+                "url": "https://en.wikipedia.org/wiki/Gaspard_de_Prony"
+              }
             }
-          ]
+          ],
+          "source": {
+            "title": "Amazon Mechanical Turk – Wikipedia (englisch)",
+            "url": "https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk"
+          }
         }
-      ]
+      ],
+      "source": {
+        "title": "Schachtürke – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Schacht%C3%BCrke"
+      }
     }
   ]
 }
