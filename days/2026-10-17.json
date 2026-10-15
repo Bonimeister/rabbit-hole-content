@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-15T00:56:15.427Z",
+  "topics": [
+    {
+      "id": "2026-10-17-0",
+      "category": "natur",
+      "title": "Der Schleimpilz Physarum",
+      "text": "Physarum polycephalum ist ein gelber Schleimpilz, der weder Pilz noch Tier ist. Er ist eine einzige riesige Zelle mit unzähligen Zellkernen, die über totes Holz und Laub kriecht. Ohne Gehirn fand er im Jahr 2000 im Labor des Japaners Toshiyuki Nakagaki den kürzesten Weg durch ein Labyrinth zu Haferflocken. 2010 legte man Futter nach dem Muster der Städte rund um Tokio aus, und der Schleimpilz baute ein Netz, das dem echten Bahnnetz verblüffend ähnelte. Der Pariser Zoo stellte ihn 2019 als „Le Blob“ aus.",
+      "children": [
+        {
+          "id": "2026-10-17-0-0",
+          "title": "Das Virus in der Plazenta",
+          "text": "Eine Zelle mit vielen Zellkernen gibt es auch in jeder Schwangerschaft: Die äußerste Schicht der Plazenta, der Synzytiotrophoblast, entsteht, wenn Zellen miteinander verschmelzen. Das Protein, das diese Verschmelzung möglich macht, heißt Syncytin. Es stammt von einem Retrovirus, das sich vor Jahrmillionen ins Erbgut unserer Vorfahren eingenistet hat, und wurde im Jahr 2000 beschrieben. Mäuse, Kaninchen und Raubtiere nutzen dafür jeweils andere Virusgene, die sie unabhängig voneinander eingefangen haben.",
+          "hook": "unzähligen Zellkernen",
+          "children": [
+            {
+              "id": "2026-10-17-0-0-0",
+              "title": "Zwei Kaninchen für Europa",
+              "text": "Kaninchen kennen Viren auch von ihrer tödlichen Seite. Im Juni 1952 infizierte der Arzt Paul-Félix Armand-Delille auf seinem Landgut Maillebois westlich von Paris zwei Wildkaninchen mit dem Myxomavirus, um die Tiere von seinem Grundstück zu vertreiben. Die Myxomatose sprang über den Zaun, erfasste binnen weniger Jahre große Teile Europas und tötete in Frankreich Schätzungen zufolge rund 90 Prozent der Wildkaninchen. Jäger verachteten ihn dafür, viele Land- und Forstwirte feierten ihn.",
+              "hook": "Mäuse, Kaninchen und Raubtiere",
+              "children": [],
+              "source": {
+                "title": "Paul-Félix Armand-Delille – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Paul-F%C3%A9lix_Armand-Delille"
+              }
+            },
+            {
+              "id": "2026-10-17-0-0-1",
+              "title": "Ein Virus von den Toten",
+              "text": "Solche eingenisteten Viren sind kein Einzelfall: Rund acht Prozent des menschlichen Erbguts bestehen aus Resten endogener Retroviren. Die meisten sind durch Mutationen längst zerstückelt und harmlos. 2006 setzte das Team des französischen Forschers Thierry Heidmann aus mehreren defekten Kopien der Familie HERV-K die ursprüngliche Sequenz wieder zusammen und erhielt ein Virus, das Zellen infizieren konnte. Sie nannten es nach dem Vogel, der aus der Asche aufersteht: Phoenix.",
+              "hook": "ins Erbgut unserer Vorfahren eingenistet",
+              "children": [],
+              "source": {
+                "title": "Fünf Millionen Jahre altes Virus rekonstruiert – Ärzte Zeitung",
+                "url": "https://www.aerztezeitung.de/Medizin/Fuenf-Millionen-Jahre-altes-Virus-rekonstruiert-388610.html"
+              }
+            },
+            {
+              "id": "2026-10-17-0-0-2",
+              "title": "Viruskapseln im Gehirn",
+              "text": "Nicht nur die Plazenta, auch das Gedächtnis nutzt ein Erbe alter Viren. Das Gen Arc, wichtig dafür, dass Nervenzellen Erinnerungen festigen, stammt von einem retrovirusähnlichen springenden Gen ab. 2018 zeigte das Team von Jason Shepherd an der Universität von Utah, dass Arc-Proteine sich zu hohlen Kapseln zusammenlagern, die wie Viruspartikel aussehen. Darin transportieren sie RNA von Nervenzelle zu Nervenzelle – Botschaften in umgebauten Virushüllen.",
+              "hook": "Es stammt von einem Retrovirus",
+              "children": [],
+              "source": {
+                "title": "New research hints at ancient origins of cognition and long term memory – Newswise",
+                "url": "https://www.newswise.com/articles/new-research-hints-at-ancient-origins-of-cognition-and-long-term-memory"
+              }
+            }
+          ],
+          "source": {
+            "title": "Syncytin – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Syncytin"
+          }
+        },
+        {
+          "id": "2026-10-17-0-1",
+          "title": "Zwanzig Minuten im Café",
+          "text": "Den kürzesten Weg durch ein Netz findet heute jedes Navi mit Verfahren, die auf einen Algorithmus zurückgehen, den der Niederländer Edsger Dijkstra 1956 erdachte. Nach seiner eigenen Erzählung entwarf er ihn in etwa zwanzig Minuten auf einer Amsterdamer Caféterrasse, ohne Stift und Papier. Vorgeführt wurde er auf dem Rechner ARMAC, und zwar mit einer vereinfachten Karte von 64 niederländischen Städten. Veröffentlicht hat Dijkstra den Algorithmus erst 1959, auf gerade einmal drei Seiten.",
+          "hook": "kürzesten Weg durch ein Labyrinth",
+          "children": [
+            {
+              "id": "2026-10-17-0-1-0",
+              "title": "Uhren, die vorgehen",
+              "text": "Bevor ein Navi den kürzesten Weg berechnet, muss es wissen, wo es ist. Das erfährt es über die Zeit: Es misst, wie lange die Funksignale von GPS-Satelliten unterwegs sind. Die Atomuhren an Bord gehen dabei falsch, so wie Einstein es vorhergesagt hat. Ihre hohe Geschwindigkeit bremst sie, die schwächere Schwerkraft in rund 20.000 Kilometern Höhe beschleunigt sie. Unterm Strich gehen sie etwa 38 Mikrosekunden pro Tag vor. Ohne Korrektur würde die Position täglich um rund zehn Kilometer abdriften.",
+              "hook": "findet heute jedes Navi",
+              "children": [],
+              "source": {
+                "title": "Ohne Einstein kein Navi – wissenschaft.de",
+                "url": "https://wissenschaft.de/artikel/ohne-einstein-kein-navi"
+              }
+            },
+            {
+              "id": "2026-10-17-0-1-1",
+              "title": "Rund 1300 Briefe mit Füller",
+              "text": "Dass Dijkstra ohne Stift und Papier arbeitete, war eine Ausnahme, denn später wurde er gerade für seine Handschrift berühmt. Über Jahrzehnte schrieb er Abhandlungen mit dem Füllfederhalter, nummerierte sie mit seinen Initialen als „EWD“ und schickte sie an Kollegen, die sie fotokopierten und weiterreichten. Rund 1300 davon hat die University of Texas in Austin digitalisiert. Seine Schrift war so markant, dass der Informatiker Luca Cardelli daraus eine Computerschrift namens „Dijkstra“ machte.",
+              "hook": "ohne Stift und Papier",
+              "children": [],
+              "source": {
+                "title": "E. W. Dijkstra Archive – University of Texas at Austin",
+                "url": "https://www.cs.utexas.edu/~EWD/"
+              }
+            },
+            {
+              "id": "2026-10-17-0-1-2",
+              "title": "Nobelpreis auf einer Seite",
+              "text": "Noch knapper fasste sich 1950 der 21-jährige Doktorand John Nash aus Princeton. Auf kaum mehr als einer Seite bewies er, dass jedes endliche Spiel ein Gleichgewicht hat, wenn man auch zufällig gemischte Strategien zulässt. In diesem Zustand kann sich niemand verbessern, indem er als Einziger seine Strategie ändert. Überliefert ist, dass John von Neumann die Idee als bloßen Fixpunktsatz abtat. 1994 bekam Nash genau dafür den Wirtschaftsnobelpreis.",
+              "hook": "auf gerade einmal drei Seiten",
+              "children": [],
+              "source": {
+                "title": "Nash-Gleichgewicht – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Nash-Gleichgewicht"
+              }
+            }
+          ],
+          "source": {
+            "title": "Dijkstra-Algorithmus – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Dijkstra-Algorithmus"
+          }
+        },
+        {
+          "id": "2026-10-17-0-2",
+          "title": "Gallerte aus Hollywood",
+          "text": "Der Spitzname „Le Blob“ erinnert an den US-Horrorfilm „The Blob“ von 1958, in dem eine gallertartige Masse aus dem All eine Kleinstadt heimsucht und deren Bewohner verschlingt. Die Hauptrolle spielte der junge Steve McQueen, der im Vorspann noch als „Steven McQueen“ geführt wurde. Den beschwingten Titelsong schrieb ausgerechnet Burt Bacharach. Im Colonial Theatre in Phoenixville, Pennsylvania, wurde eine Schlüsselszene gedreht. Dort stürmen Fans beim jährlichen „Blobfest“ schreiend aus dem Kinosaal.",
+          "hook": "„Le Blob“",
+          "children": [
+            {
+              "id": "2026-10-17-0-2-0",
+              "title": "Gelee von den Sternen",
+              "text": "Gallerte aus dem All gibt es auch im Volksglauben: In Großbritannien nennt man rätselhaften Schleim, der nach Sternschnuppennächten im Gras liegt, „star jelly“, auf Walisisch „pwdre ser“, Fäulnis der Sterne. Viele Funde stammen wohl von Fröschen oder Kröten, deren Eileiter Vögel oder andere Räuber ausspucken und deren Gallerte im Tau aufquillt. Als weitere Verdächtige gelten Blaualgen der Gattung Nostoc und Schleimpilze. Der Kreis schließt sich also beim Blob.",
+              "hook": "gallertartige Masse aus dem All",
+              "children": [],
+              "source": {
+                "title": "Sternenrotz – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Sternenrotz"
+              }
+            },
+            {
+              "id": "2026-10-17-0-2-1",
+              "title": "McQueen jagt McQueen",
+              "text": "Fünf Jahre nach „The Blob“ wurde der junge Steve McQueen mit „Gesprengte Ketten“ (1963) zum Weltstar. Gedreht wurde der Ausbruchsfilm großteils in Bayern. Den berühmten Motorradsprung über den Stacheldrahtzaun durfte McQueen nicht selbst machen, ihn übernahm sein Freund, der Stuntman Bud Ekins. In anderen Szenen fuhr McQueen aber in deutscher Uniform als einer der Verfolger mit. Er jagte sich im Film also selbst.",
+              "hook": "der junge Steve McQueen",
+              "children": [],
+              "source": {
+                "title": "Gesprengte Ketten – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gesprengte_Ketten"
+              }
+            },
+            {
+              "id": "2026-10-17-0-2-2",
+              "title": "Eine Band aus einem Mann",
+              "text": "Ausgerechnet Burt Bacharach schrieb den Blob-Song zusammen mit dem Texter Mack David. Dessen jüngerer Bruder Hal David schrieb da schon seit 1957 Songs mit Bacharach und wurde später sein fester Partner. Gemeinsam schrieben sie Dutzende Hits, etwa für Dionne Warwick. Gesungen wurde „The Blob“ von einer Band namens The Five Blobs, die damit in die US-Charts kam. Allerdings hatte die Gruppe nur ein Mitglied: den Sänger Bernie Nee, der seine Stimme im Studio mehrfach übereinanderlegte.",
+              "hook": "ausgerechnet Burt Bacharach",
+              "children": [],
+              "source": {
+                "title": "The Five Blobs – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Five_Blobs"
+              }
+            }
+          ],
+          "source": {
+            "title": "Blob – Schrecken ohne Namen – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Blob_%E2%80%93_Schrecken_ohne_Namen"
+          }
+        }
+      ],
+      "source": {
+        "title": "Physarum polycephalum – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Physarum_polycephalum"
+      }
+    },
+    {
+      "id": "2026-10-17-1",
+      "category": "geschichte",
+      "title": "Der Hauptmann von Köpenick",
+      "text": "Am 16. Oktober 1906 marschierte ein Hauptmann mit einem Trupp Soldaten ins Rathaus von Köpenick. Er ließ Bürgermeister Georg Langerhans verhaften und die Stadtkasse mit gut 4000 Mark beschlagnahmen. Dahinter steckte der vorbestrafte Schuhmacher Wilhelm Voigt in einer bei Trödlern zusammengekauften Uniform. Ganz Europa lachte über den preußischen Gehorsam vor der Uniform, und Kaiser Wilhelm II. begnadigte Voigt 1908 vorzeitig. Carl Zuckmayer machte daraus 1931 ein berühmtes Theaterstück.",
+      "children": [
+        {
+          "id": "2026-10-17-1-0",
+          "title": "Der andere Langerhans",
+          "text": "Den Namen des überrumpelten Bürgermeisters kennt heute fast jeder Diabetologe, allerdings wegen eines anderen Langerhans: des Berliner Mediziners Paul Langerhans. Noch als Student beschrieb er 1869 in seiner Doktorarbeit kleine Zellhaufen in der Bauchspeicheldrüse, ohne ihre Aufgabe zu kennen. Dass diese Inseln Insulin bilden, zeigte sich erst später. Den Namen „Langerhans-Inseln“ prägte 1893 der Franzose Gustave-Édouard Laguesse. Langerhans selbst erkrankte an Tuberkulose und starb 1888 auf Madeira.",
+          "hook": "Bürgermeister Georg Langerhans",
+          "children": [
+            {
+              "id": "2026-10-17-1-0-0",
+              "title": "Ein Patent für einen Dollar",
+              "text": "Dass die Inseln von Langerhans das entscheidende Hormon liefern, bewiesen erst 1921 in Toronto der junge Chirurg Frederick Banting und der Student Charles Best mit Versuchen an Hunden. Im Januar 1922 bekam der 14-jährige Leonard Thompson als erster Mensch ihren Extrakt. Durchschlagend wirkte er aber erst, nachdem der Biochemiker James Collip ihn gereinigt hatte. Den Nobelpreis 1923 erhielten Banting und Laborchef John Macleod, die ihr Preisgeld mit Best und Collip teilten. Das Patent auf Insulin verkauften die Entdecker der Universität Toronto für je einen Dollar.",
+              "hook": "Dass diese Inseln Insulin bilden",
+              "children": [],
+              "source": {
+                "title": "Frederick Banting, Charles Best, James Collip, and John Macleod – Science History Institute",
+                "url": "https://www.sciencehistory.org/education/scientific-biographies/frederick-banting-charles-best-james-collip-and-john-macleod/"
+              }
+            },
+            {
+              "id": "2026-10-17-1-0-1",
+              "title": "Kochs falsches Wundermittel",
+              "text": "Als Langerhans an Tuberkulose erkrankte, war ihr Erreger noch unbekannt. Erst 1882 stellte Robert Koch in Berlin das Tuberkelbakterium vor. 1890 kündigte Koch auf einem internationalen Medizinerkongress in Berlin sogar ein Heilmittel an, dessen Zusammensetzung er zunächst geheim hielt: das Tuberkulin. Kranke aus ganz Europa strömten nach Berlin, doch das Mittel heilte nicht und löste teils schwere Reaktionen aus. Was als Therapie scheiterte, überlebte in der Diagnostik: Tuberkulin-Hauttests werden bis heute eingesetzt.",
+              "hook": "erkrankte an Tuberkulose",
+              "children": [],
+              "source": {
+                "title": "Tuberkulin – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Tuberkulin"
+              }
+            },
+            {
+              "id": "2026-10-17-1-0-2",
+              "title": "Wein, der Seereisen liebte",
+              "text": "Lungenkranke wie Langerhans suchten auf Madeira das milde Klima, berühmt wurde die Insel aber durch ihren Wein. Schiffe auf dem Weg nach Amerika und Indien nahmen dort Fässer an Bord. Dabei zeigte sich, dass der mit Branntwein verstärkte Wein durch Hitze und Schaukeln im Laderaum besser wurde. Besonders geschätzt war der „Vinho da Roda“, der die Tropen einmal hin und zurück durchquert hatte. Heute ersetzen beheizte Tanks oder warme Lagerhäuser die Seereise. Guter Madeira gilt als nahezu unverwüstlich: Manche Flaschen aus dem 19. Jahrhundert sind noch trinkbar.",
+              "hook": "starb 1888 auf Madeira",
+              "children": [],
+              "source": {
+                "title": "Madeira (Wein) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Madeira_(Wein)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Paul Langerhans (Mediziner, 1847) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Paul_Langerhans_(Mediziner,_1847)"
+          }
+        },
+        {
+          "id": "2026-10-17-1-1",
+          "title": "Ein Mantel macht den Grafen",
+          "text": "Dass Kleidung Autorität verleiht, hatte Gottfried Keller schon 1874 in einer Novelle durchgespielt: In „Kleider machen Leute“ halten die Bürger von Goldach den armen Schneidergesellen Wenzel Strapinski wegen seines eleganten Mantels für einen polnischen Grafen. Sie überhäufen ihn mit Gastfreundschaft, und er verlobt sich mit der Amtsratstochter Nettchen. Die Geschichte erschien im Zyklus „Die Leute von Seldwyla“. Keller arbeitete damals hauptberuflich als Erster Staatsschreiber des Kantons Zürich.",
+          "hook": "in einer bei Trödlern zusammengekauften Uniform",
+          "children": [
+            {
+              "id": "2026-10-17-1-1-0",
+              "title": "Gogols gestohlener Mantel",
+              "text": "Ein Mantel entscheidet auch über das Schicksal in Nikolai Gogols Erzählung „Der Mantel“ von 1842, allerdings mit umgekehrtem Ausgang. Der kleine Petersburger Beamte Akaki Akakijewitsch spart monatelang für einen neuen Mantel und wird schon am ersten Abend auf der Straße ausgeraubt. Er stirbt, und als Gespenst reißt er den Leuten die Mäntel von den Schultern. Der berühmte Satz „Wir alle kommen aus Gogols Mantel“ wird meist Dostojewski zugeschrieben. Belegt ist aber nur, dass der französische Diplomat Eugène-Melchior de Vogüé ihn in den 1880er-Jahren in Umlauf brachte.",
+              "hook": "wegen seines eleganten Mantels",
+              "children": [],
+              "source": {
+                "title": "Der Mantel (Gogol) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Der_Mantel_(Gogol)"
+              }
+            },
+            {
+              "id": "2026-10-17-1-1-1",
+              "title": "Polens Museum am Zürichsee",
+              "text": "Dass die Goldacher einen polnischen Grafen für glaubwürdig hielten, hatte einen realen Hintergrund: Nach dem gescheiterten Novemberaufstand von 1830/31 lebten viele polnische Emigranten in der Schweiz. Einer von ihnen, Graf Władysław Plater, gründete 1870 im Schloss Rapperswil ein polnisches Nationalmuseum, als es keinen Staat Polen gab. 1927 kamen die Bestände ins wieder unabhängige Polen nach Warschau, wo vieles im Zweiten Weltkrieg verloren ging. Das Polenmuseum im Schloss wurde 2022 geschlossen.",
+              "hook": "für einen polnischen Grafen",
+              "children": [],
+              "source": {
+                "title": "Polenmuseum Rapperswil – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Polenmuseum_Rapperswil"
+              }
+            },
+            {
+              "id": "2026-10-17-1-1-2",
+              "title": "Kafka und die Hobelmaschine",
+              "text": "Keller war nicht der einzige große Erzähler, der tagsüber in einer Amtsstube saß. Franz Kafka arbeitete ab 1908 als Jurist bei der Arbeiter-Unfall-Versicherungs-Anstalt in Prag. Im Jahresbericht für 1909 beschrieb er, wie viele Finger die Hobelmaschinen mit vierkantigen Messerwellen kosteten, und warb für runde Sicherheitswellen. Die oft wiederholte Behauptung, Kafka habe sogar den Schutzhelm erfunden, ist dagegen nicht belegt. Sie ist eine Legende, die gut zu ihm passt, aber eben eine Legende.",
+              "hook": "Erster Staatsschreiber des Kantons Zürich",
+              "children": [],
+              "source": {
+                "title": "Franz Kafka und die Arbeiter-Unfall-Versicherungs-Anstalt – Universität Münster",
+                "url": "https://www.uni-muenster.de/Geschichte/SWG-Online/sozialstaat/kafka.htm"
+              }
+            }
+          ],
+          "source": {
+            "title": "Kleider machen Leute – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Kleider_machen_Leute"
+          }
+        },
+        {
+          "id": "2026-10-17-1-2",
+          "title": "Zuckmayers Geheimreport",
+          "text": "Als „Der Hauptmann von Köpenick“ 1931 in Berlin uraufgeführt wurde, war Carl Zuckmayer längst ein Star. Er hatte unter anderem am Drehbuch zu „Der blaue Engel“ mit Marlene Dietrich mitgeschrieben. Nach 1933 wurden seine Stücke in Deutschland verboten. 1938 floh er aus Österreich in die Schweiz und 1939 weiter in die USA, wo er eine Farm in Vermont bewirtschaftete. Für den US-Geheimdienst OSS schrieb er 1943/44 Porträts deutscher Künstler, die im Reich geblieben waren. Dieser „Geheimreport“ erschien erst 2002.",
+          "hook": "Carl Zuckmayer machte daraus 1931",
+          "children": [
+            {
+              "id": "2026-10-17-1-2-0",
+              "title": "Ein Engel, zweimal gedreht",
+              "text": "„Der blaue Engel“ beruhte auf Heinrich Manns Roman „Professor Unrat“ von 1905. Der Film wurde 1929/30 gleich zweimal gedreht, auf Deutsch und auf Englisch, mit denselben Hauptdarstellern. Regisseur Josef von Sternberg setzte die damals kaum bekannte Marlene Dietrich gegen Bedenken bei der Ufa durch, und Friedrich Hollaender schrieb ihr „Ich bin von Kopf bis Fuß auf Liebe eingestellt“. Noch am Abend der Premiere im April 1930 reiste Dietrich nach Amerika ab. Bei ihrer Deutschland-Tournee 1960 wurde sie teils als Verräterin beschimpft.",
+              "hook": "Der blaue Engel",
+              "children": [],
+              "source": {
+                "title": "Der blaue Engel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Der_blaue_Engel"
+              }
+            },
+            {
+              "id": "2026-10-17-1-2-1",
+              "title": "Die Nachbarin aus Barnard",
+              "text": "Die Farm der Zuckmayers lag bei Barnard in Vermont. Ganz in der Nähe lebte die US-Journalistin Dorothy Thompson, die der Familie im Exil half. Thompson hatte Hitler 1931 interviewt und ihn danach als Inbegriff des kleinen Mannes abgetan. Wegen ihrer scharfen Kritik am Regime wurde sie 1934 als erste amerikanische Korrespondentin aus dem Deutschen Reich ausgewiesen. Ihr Ehemann Sinclair Lewis hatte 1930 als erster US-Amerikaner den Literaturnobelpreis erhalten. Ihr gemeinsamer Landsitz Twin Farms ist heute ein exklusives Luxushotel.",
+              "hook": "eine Farm in Vermont bewirtschaftete",
+              "children": [],
+              "source": {
+                "title": "Dorothy Thompson – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dorothy_Thompson"
+              }
+            },
+            {
+              "id": "2026-10-17-1-2-2",
+              "title": "Spionin am Herd",
+              "text": "Das Office of Strategic Services, für das Zuckmayer schrieb, wurde 1942 unter William „Wild Bill“ Donovan gegründet und gilt als Vorläufer der CIA. Es beschäftigte auffallend viele Intellektuelle, darunter Emigranten wie Herbert Marcuse und Franz Neumann, die Analysen über das NS-Regime verfassten. Zu den Angestellten zählte auch eine großgewachsene Kalifornierin namens Julia McWilliams, die unter anderem an der Entwicklung eines Mittels zur Abwehr von Haien mitarbeitete. Nach dem Krieg wurde sie als Fernsehköchin Julia Child berühmt.",
+              "hook": "Für den US-Geheimdienst OSS",
+              "children": [],
+              "source": {
+                "title": "Julia Child – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Julia_Child"
+              }
+            }
+          ],
+          "source": {
+            "title": "Carl Zuckmayer – Historisches Lexikon der Schweiz",
+            "url": "https://hls-dhs-dss.ch/articles/012430/2014-02-26/"
+          }
+        }
+      ],
+      "source": {
+        "title": "Hauptmann von Köpenick – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Hauptmann_von_K%C3%B6penick"
+      }
+    },
+    {
+      "id": "2026-10-17-2",
+      "category": "wissenschaft",
+      "title": "Das Pechtropfen-Experiment",
+      "text": "1927 füllte der Physiker Thomas Parnell an der University of Queensland in Brisbane erhitztes Pech in einen Trichter. Er wollte zeigen, dass der scheinbar feste Stoff fließt. Seitdem sind nur neun Tropfen gefallen, zuletzt im April 2014, denn das Pech ist rund hundert Milliarden Mal zäher als Wasser. Dort hat noch nie jemand direkt gesehen, wie ein Tropfen fällt: Im Jahr 2000 versagte ausgerechnet die Kamera. 2005 gab es für den Versuch den Ig-Nobelpreis.",
+      "children": [
+        {
+          "id": "2026-10-17-2-0",
+          "title": "Die Berge flossen",
+          "text": "Ob ein Stoff fest ist oder fließt, hängt in der Rheologie vor allem davon ab, wie lange man hinschaut. Der Ingenieur Markus Reiner fasste das 1964 in die Deborah-Zahl: Sie setzt die Zeit, die ein Material zum Nachgeben braucht, ins Verhältnis zur Dauer der Beobachtung. Den Namen nahm Reiner vom Lied der Prophetin Debora im Buch der Richter, in dem die Berge vor dem Herrn fließen. Für einen ewigen Beobachter, so seine Pointe, wäre selbst Gestein flüssig.",
+          "hook": "der scheinbar feste Stoff fließt",
+          "children": [
+            {
+              "id": "2026-10-17-2-0-0",
+              "title": "Alles fließt – nur wo?",
+              "text": "Das Wort Rheologie, vom griechischen rhein für fließen, prägte der US-Chemiker Eugene Bingham in den 1920er-Jahren. Die 1929 gegründete Society of Rheology wählte als Motto „panta rhei“, alles fließt, einen Satz, der Heraklit zugeschrieben wird. Ausgerechnet diese Formel steht in keinem der überlieferten Heraklit-Fragmente. Belegt ist sie erst bei späteren Autoren wie dem Neuplatoniker Simplikios. Das Leitwort der Wissenschaft vom Fließen ist also selbst erst im Lauf der Jahrhunderte zu Heraklit geflossen.",
+              "hook": "in der Rheologie",
+              "children": [],
+              "source": {
+                "title": "Panta rhei – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Panta_rhei"
+              }
+            },
+            {
+              "id": "2026-10-17-2-0-1",
+              "title": "Ein Zeltpflock für Sisera",
+              "text": "Das Deboralied in Richter 5 gilt vielen Forschern als einer der ältesten Texte der Hebräischen Bibel, seine Datierung ist aber umstritten. Es feiert den Sieg über den kanaanäischen Feldherrn Sisera, dessen Streitwagen der Bach Kischon fortgerissen haben soll. Auf der Flucht sucht Sisera Schutz im Zelt einer Frau namens Jaël, und die treibt ihm einen Zeltpflock durch die Schläfe. Kurz vor dem Schluss wechselt das Lied die Seite: Siseras Mutter blickt aus dem Fenster und fragt, warum sein Wagen so lange ausbleibt.",
+              "hook": "Lied der Prophetin Debora",
+              "children": [],
+              "source": {
+                "title": "Deboralied – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Deboralied"
+              }
+            },
+            {
+              "id": "2026-10-17-2-0-2",
+              "title": "Fließen Kirchenfenster?",
+              "text": "Wenn selbst Gestein fließt, liegt der Gedanke nahe, auch das Glas alter Kirchenfenster sei langsam nach unten gesackt. Dass viele mittelalterliche Scheiben unten dicker sind, ist jedoch eine Legende: Sie waren schon bei der Herstellung ungleichmäßig, und Glaser setzten die dicke Kante meist nach unten, manchmal auch nach oben. Der brasilianische Materialforscher Edgar Zanotto rechnete 1998 vor, dass sichtbares Fließen bei Raumtemperatur weit länger dauern würde, als das Universum alt ist. Bei diesem Fenster müsste also selbst Reiners ewiger Beobachter sehr lange warten.",
+              "hook": "selbst Gestein flüssig",
+              "children": [],
+              "source": {
+                "title": "Ist Glas wirklich eine langsam fließende Flüssigkeit? – CORDIS, Europäische Kommission",
+                "url": "https://www.cordis.europa.eu/article/id/435748-is-glass-really-a-slow-moving-liquid/de"
+              }
+            }
+          ],
+          "source": {
+            "title": "Deborah-Zahl – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Deborah-Zahl"
+          }
+        },
+        {
+          "id": "2026-10-17-2-1",
+          "title": "Ein See aus Asphalt",
+          "text": "Wer Pech nicht erhitzen will, findet es auf Trinidad auch einfach so am Boden: Bei La Brea liegt der Pitch Lake, der größte natürliche Asphaltsee der Erde, rund 40 Hektar groß. Seine Oberfläche ist so zäh, dass man stellenweise darüber laufen kann, obwohl sie sich langsam immer weiter umwälzt. Walter Raleigh beschrieb 1595, wie er dort seine Schiffe abdichten ließ. Später wurde Asphalt aus dem See für den Straßenbau in Europa und Nordamerika verschifft.",
+          "hook": "erhitztes Pech in einen Trichter",
+          "children": [
+            {
+              "id": "2026-10-17-2-1-0",
+              "title": "Raleighs Jagd nach Gold",
+              "text": "Walter Raleigh kam 1595 nicht wegen des Asphalts nach Trinidad. Die Insel war sein Sprungbrett für die Suche nach El Dorado, der sagenhaften Goldstadt am Orinoco. Gold fand er nicht, doch sein Reisebericht machte die Legende in England erst richtig populär. Eine zweite Expedition ab 1617 endete im Desaster, sein Sohn Wat fiel im Kampf gegen Spanier. Raleigh wurde 1618 in London enthauptet. Seine Witwe soll seinen einbalsamierten Kopf der Überlieferung nach bis zu ihrem Tod aufbewahrt haben.",
+              "hook": "Walter Raleigh beschrieb 1595",
+              "children": [],
+              "source": {
+                "title": "Walter Raleigh – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Walter_Raleigh"
+              }
+            },
+            {
+              "id": "2026-10-17-2-1-1",
+              "title": "Die Teer-Teergruben",
+              "text": "„La Brea“ heißt auf Spanisch schlicht „der Teer“. So heißt auch ein Ort mitten in Los Angeles, an dem seit Zehntausenden Jahren Asphalt aus dem Boden sickert. In den La Brea Tar Pits blieben Säbelzahnkatzen, Mammuts und Tausende Schattenwölfe stecken, und Forschende haben dort Millionen Fossilien geborgen. Der einzige Mensch darunter, die „La Brea Woman“, lebte vor rund 10.000 Jahren. Der englische Name ist übrigens doppelt gemoppelt: Wörtlich bedeutet er „die Der-Teer-Teergruben“.",
+              "hook": "Bei La Brea liegt",
+              "children": [],
+              "source": {
+                "title": "La Brea Tar Pits – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/La_Brea_Tar_Pits"
+              }
+            },
+            {
+              "id": "2026-10-17-2-1-2",
+              "title": "Leben im Asphalt",
+              "text": "Selbst der größte natürliche Asphaltsee der Erde ist nicht tot. Ein Team um den Mikrobiologen Rainer Meckenstock entdeckte 2014 im Pitch Lake winzige Wassertröpfchen, die im zähen Asphalt eingeschlossen sind und oft nur etwa einen Mikroliter fassen. Darin leben ganze Gemeinschaften von Mikroben, die das Öl abbauen. Deshalb interessieren sich auch Astrobiologen für den See: Er gilt als irdisches Modell für den Saturnmond Titan, auf dem es Seen aus flüssigem Methan und Ethan gibt.",
+              "hook": "der größte natürliche Asphaltsee der Erde",
+              "children": [],
+              "source": {
+                "title": "La Brea Pitch Lake – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/La_Brea_Pitch_Lake"
+              }
+            }
+          ],
+          "source": {
+            "title": "La Brea Pitch Lake – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/La_Brea_Pitch_Lake"
+          }
+        },
+        {
+          "id": "2026-10-17-2-2",
+          "title": "Erst lachen, dann denken",
+          "text": "Den Ig-Nobelpreis vergibt Marc Abrahams seit 1991 für Forschung, die erst zum Lachen und dann zum Nachdenken bringt. Überreicht werden die Preise traditionell von echten Nobelpreisträgern. Wer bei der Feier zu lange redet, den unterbricht ein kleines Mädchen namens „Miss Sweetie Poo“, das ruft, es sei gelangweilt. Andre Geim ließ einen Frosch im Magnetfeld schweben und bekam dafür im Jahr 2000 den Ig-Nobelpreis. Zehn Jahre später erhielt er für Graphen den echten Nobelpreis.",
+          "hook": "gab es für den Versuch den Ig-Nobelpreis",
+          "children": [
+            {
+              "id": "2026-10-17-2-2-0",
+              "title": "Ein Hamster als Koautor",
+              "text": "Der Frosch schwebte dank Diamagnetismus: Fast jede Materie, auch Wasser, wird von Magnetfeldern ganz schwach abgestoßen. Im Labor im niederländischen Nijmegen brauchte es dafür ein Feld von rund 16 Tesla, mehrere hunderttausend Mal stärker als das Erdmagnetfeld. Eigentlich schließt das Earnshaw-Theorem von 1842 stabiles Schweben in statischen Magnetfeldern aus, doch diamagnetische Stoffe sind die Ausnahme. Geim forschte ernsthaft weiter und veröffentlichte 2001 einen Fachartikel über einen schwebenden Kreisel. Als Koautor nannte er seinen Hamster Tisha.",
+              "hook": "einen Frosch im Magnetfeld schweben",
+              "children": []
+            },
+            {
+              "id": "2026-10-17-2-2-1",
+              "title": "Nobelpreis mit Klebeband",
+              "text": "Den Nobelpreis für Graphen teilte sich Geim mit Konstantin Novoselov, und ihre Methode klang selbst fast nach Ig-Nobel: Mit Klebeband zogen sie immer dünnere Schichten von Graphit ab, bis 2004 eine einzige Lage Kohlenstoffatome übrig blieb. Lange war bezweifelt worden, dass solche zweidimensionalen Kristalle überhaupt stabil existieren können. Graphen ist nur ein Atom dick, leitet hervorragend und ist extrem reißfest. Der Rohstoff steckt in jedem Bleistift. Wer damit schreibt, hat vermutlich schon unbemerkt winzige Graphenflocken aufs Papier gebracht.",
+              "hook": "für Graphen den echten Nobelpreis",
+              "children": [],
+              "source": {
+                "title": "Graphen – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Graphen"
+              }
+            },
+            {
+              "id": "2026-10-17-2-2-2",
+              "title": "Der Wurm, der keiner war",
+              "text": "Echte Nobelpreisträger überreichen die Ig-Nobelpreise, doch auch der echte Preis lag schon daneben. Der Däne Johannes Fibiger erhielt den Medizin-Nobelpreis für 1926, weil er glaubte, ein Fadenwurm, heute Gongylonema neoplasticum genannt, löse bei Ratten Magenkrebs aus – das „Spiropterakarzinom“. Spätere Forscher fanden heraus, dass die Wucherungen meist gar kein Krebs waren und wohl auch mit Vitamin-A-Mangel zusammenhingen. Übergangen wurde dabei der Japaner Katsusaburo Yamagiwa. Er hatte schon 1915 tatsächlich Krebs erzeugt, indem er Kaninchenohren mit Teer bestrich.",
+              "hook": "von echten Nobelpreisträgern",
+              "children": [],
+              "source": {
+                "title": "Spiropterakarzinom – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Spiropterakarzinom"
+              }
+            }
+          ],
+          "source": {
+            "title": "Ig-Nobelpreis – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Ig-Nobelpreis"
+          }
+        }
+      ],
+      "source": {
+        "title": "Pechtropfenexperiment – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Pechtropfenexperiment"
+      }
+    }
+  ]
+}

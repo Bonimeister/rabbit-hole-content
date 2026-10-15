@@ -1,0 +1,436 @@
+{
+  "version": 1,
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-15T00:46:35.297Z",
+  "topics": [
+    {
+      "id": "2026-10-16-0",
+      "category": "geschichte",
+      "title": "Stanislaw Petrow",
+      "text": "Am 26. September 1983 meldete das sowjetische Frühwarnsystem Oko den Start von bis zu fünf amerikanischen Atomraketen. Im Bunker Serpuchow-15 bei Moskau hatte Oberstleutnant Stanislaw Petrow Dienst. Er hielt den Alarm für einen Fehler, weil ein Erstschlag kaum mit so wenigen Raketen beginnen würde, und meldete ihn nicht als Angriff weiter. Tatsächlich hatten die Satelliten Sonnenlicht, das hohe Wolken zurückwarfen, für Triebwerksfeuer gehalten. Öffentlich bekannt wurde der Vorfall erst Ende der 1990er-Jahre.",
+      "children": [
+        {
+          "id": "2026-10-16-0-0",
+          "title": "Die Bahn der Späher",
+          "text": "Die Oko-Satelliten kreisten nicht über dem Äquator, sondern auf einer stark elliptischen Molnija-Bahn, benannt nach sowjetischen Nachrichtensatelliten ab 1965. Bei rund 63,4 Grad Bahnneigung hebt sich der Einfluss der abgeplatteten Erde auf, sodass der erdfernste Punkt stets über dem Norden bleibt. Ein Umlauf dauert etwa zwölf Stunden, rund acht davon verbringt der Satellit nahe dem Scheitel. Von dort blickten die Späher schräg über den Erdrand auf die US-Raketenfelder.",
+          "hook": "Frühwarnsystem Oko",
+          "children": [
+            {
+              "id": "2026-10-16-0-0-0",
+              "title": "Der Streit um die Erdform",
+              "text": "Dass die Erde abgeplattet ist, war im 18. Jahrhundert heiß umstritten: Newton sagte flache Pole voraus, die Pariser Astronomen um Cassini eine in die Länge gezogene Erde. Frankreich schickte deshalb ab 1735 Expeditionen ins heutige Ecuador und nach Lappland, um Meridianbögen zu vermessen. Die Lappland-Gruppe um Maupertuis gab 1737 Newton recht. Aus Südamerika brachte Charles-Marie de La Condamine noch etwas mit: eine der ersten wissenschaftlichen Beschreibungen von Kautschuk.",
+              "hook": "abgeplatteten Erde",
+              "children": [],
+              "source": {
+                "title": "French Geodesic Mission to the Equator – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/French_Geodesic_Mission_to_the_Equator"
+              }
+            },
+            {
+              "id": "2026-10-16-0-0-1",
+              "title": "Fernsehen aus dem Blitz",
+              "text": "Molnija heißt „Blitz“, und die Satelliten sollten vor allem Fernsehen nach Sibirien und in den hohen Norden bringen, wo geostationäre Satelliten kaum über den Horizont reichen. Zum 50. Jahrestag der Oktoberrevolution 1967 ging das Netz Orbita in Betrieb: runde Empfangsstationen mit einer großen Schüssel auf dem Dach. Später lief auch der Heiße Draht zwischen Moskau und Washington teils über Molnija-Satelliten. Ab 1978 sprachen die Gegner also über dieselbe Bahnform, die ihre Raketenspäher nutzten.",
+              "hook": "sowjetischen Nachrichtensatelliten ab 1965",
+              "children": [],
+              "source": {
+                "title": "Orbita (TV-Satellitensystem) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Orbita_(TV-Satellitensystem)"
+              }
+            },
+            {
+              "id": "2026-10-16-0-0-2",
+              "title": "Die Acht am Himmel",
+              "text": "Die Neigung von rund 63,4 Grad heißt in der Bahnmechanik kritische Inklination und wirkt unabhängig von der Umlaufzeit. Verlängert man den Umlauf auf etwa einen Tag, entsteht die Tundra-Bahn, deren Bodenspur eine schiefe Acht über die Erde zeichnet. Genau diesen Trick nutzte ab 2000 ausgerechnet ein amerikanisches Unternehmen: Sirius Satellite Radio. Seine drei Satelliten standen abwechselnd hoch über Nordamerika, damit Autofahrer zwischen Hochhäusern und Bergen seltener Funklöcher hatten.",
+              "hook": "rund 63,4 Grad Bahnneigung",
+              "children": [],
+              "source": {
+                "title": "Tundra-Orbit – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Tundra-Orbit"
+              }
+            }
+          ],
+          "source": {
+            "title": "Molnija-Orbit – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Molnija-Orbit"
+          }
+        },
+        {
+          "id": "2026-10-16-0-1",
+          "title": "Blitze aus dem All",
+          "text": "Sonnenlicht auf hohen Wolken täuschte 1983 die Oko-Satelliten. Ab 1997 war es umgekehrt: Satelliten der Iridium-Flotte verblüfften Beobachter am Boden. Ihre türgroßen, spiegelglatten Antennen lenkten Sonnenlicht für wenige Sekunden auf schmale Streifen der Erdoberfläche. Diese „Iridium-Flares“ erreichten etwa Helligkeit minus 8 und strahlten damit weit heller als die Venus. Der Name stammt vom Element 77, weil anfangs 77 Satelliten geplant waren. Die letzten steuerbaren Satelliten der alten Generation wurden 2019 zum Absturz gebracht, einige ausgefallene kreisen aber noch.",
+          "hook": "Sonnenlicht, das hohe Wolken zurückwarfen",
+          "children": [
+            {
+              "id": "2026-10-16-0-1-0",
+              "title": "Das Ufo des Präsidenten",
+              "text": "Die Venus ist dunkler als ein Iridium-Flare, gilt aber als häufigster Auslöser von Ufo-Meldungen. Auch Jimmy Carter sah 1969 in Leary, Georgia, vor einem Treffen des Lions Clubs ein leuchtendes Objekt am Abendhimmel und meldete es 1973 schriftlich als Ufo. Der Skeptiker Robert Sheaffer rechnete nach: Genau in jener Richtung stand damals die Venus. Carter gilt dennoch als einziger US-Präsident, der je offiziell eine Ufo-Sichtung gemeldet hat.",
+              "hook": "weit heller als die Venus",
+              "children": [],
+              "source": {
+                "title": "Jimmy Carter UFO incident – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident"
+              }
+            },
+            {
+              "id": "2026-10-16-0-1-1",
+              "title": "Der Staub der Dinosaurier",
+              "text": "Das Element 77 ist in der Erdkruste extrem selten, in vielen Meteoriten dagegen vergleichsweise häufig. Genau das machte es 1980 zum Kronzeugen: Luis und Walter Alvarez fanden bei Gubbio in Italien eine dünne Tonschicht mit einem Vielfachen des üblichen Iridiumgehalts. Sie stammt aus der Zeit vor rund 66 Millionen Jahren, als die Dinosaurier verschwanden. Die These vom Asteroideneinschlag war heftig umstritten, bis 1991 der passende Krater als Einschlagstruktur erkannt wurde: Chicxulub, verborgen unter der Halbinsel Yucatán.",
+              "hook": "vom Element 77",
+              "children": [],
+              "source": {
+                "title": "Kreide-Paläogen-Grenze – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kreide-Pal%C3%A4ogen-Grenze"
+              }
+            },
+            {
+              "id": "2026-10-16-0-1-2",
+              "title": "Crash über Sibirien",
+              "text": "Einer der Satelliten der Iridium-Flotte schrieb 2009 Raumfahrtgeschichte, allerdings unfreiwillig. Am 10. Februar prallte Iridium 33 in rund 790 Kilometern Höhe über Sibirien auf den ausgedienten russischen Kommunikationssatelliten Kosmos 2251. Es war der erste unbeabsichtigte Zusammenstoß zweier intakter Satelliten, mit einer Relativgeschwindigkeit von fast 12 Kilometern pro Sekunde. Zurück blieben über 2000 erfasste Trümmerteile, von denen viele noch Jahre später um die Erde kreisten.",
+              "hook": "Satelliten der Iridium-Flotte",
+              "children": [],
+              "source": {
+                "title": "Satellitenkollision am 10. Februar 2009 – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Satellitenkollision_am_10._Februar_2009"
+              }
+            }
+          ],
+          "source": {
+            "title": "Iridium-Flare – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Iridium-Flare"
+          }
+        },
+        {
+          "id": "2026-10-16-0-2",
+          "title": "Städte mit Postfachnamen",
+          "text": "Der Name Serpuchow-15 folgt einem sowjetischen Muster: Geheime Orte trugen den Namen einer nahen Stadt plus eine Postfachnummer. So verbarg sich hinter Arsamas-16 die Stadt Sarow, wo die erste sowjetische Atombombe entstand, und hinter Tscheljabinsk-65 das Atomzentrum Osjorsk. Viele dieser Orte fehlten auf allen öffentlichen Karten. Sarow ist bis heute eine geschlossene Stadt, die nur mit Genehmigung betreten werden darf.",
+          "hook": "Bunker Serpuchow-15 bei Moskau",
+          "children": [
+            {
+              "id": "2026-10-16-0-2-0",
+              "title": "Unfall unter falschem Namen",
+              "text": "Weil es die Stadt, damals noch Tscheljabinsk-40 genannt, offiziell nicht gab, ist der schwerste Unfall im Atomzentrum Osjorsk nach einer Nachbarstadt benannt: Kyschtym. Am 29. September 1957 explodierte in der Anlage Majak ein Tank mit hochradioaktiven Abfällen. Die Wolke verseuchte einen rund 300 Kilometer langen Landstreifen, und Tausende Menschen wurden umgesiedelt, ohne den Grund zu erfahren. Auf der internationalen Bewertungsskala steht Kyschtym auf Stufe 6. Schwerer wiegen dort nur Tschernobyl und Fukushima.",
+              "hook": "Tscheljabinsk-65 das Atomzentrum Osjorsk",
+              "children": [],
+              "source": {
+                "title": "Kyschtym-Unfall – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kyschtym-Unfall"
+              }
+            },
+            {
+              "id": "2026-10-16-0-2-1",
+              "title": "Der Heilige der Bombenstadt",
+              "text": "Bevor Sarow zu Arsamas-16 wurde, war es ein berühmter Wallfahrtsort. Das dortige Kloster war die Heimat des Mönchs Seraphim von Sarow, der zu den meistverehrten Heiligen Russlands zählt. Von 1794 bis 1810 lebte er als Einsiedler in den Wäldern, 1903 sprach man ihn im Beisein von Zar Nikolaus II. heilig. Nach der Revolution verschwanden seine Reliquien. Erst kurz vor dem Ende der Sowjetunion tauchten sie wieder auf, und zwar im Depot des Leningrader Museums für Religion und Atheismus.",
+              "hook": "hinter Arsamas-16 die Stadt Sarow",
+              "children": [],
+              "source": {
+                "title": "Seraphim von Sarow – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Seraphim_von_Sarow"
+              }
+            },
+            {
+              "id": "2026-10-16-0-2-2",
+              "title": "Die gefälschten Landkarten",
+              "text": "Dass geheime Städte auf Karten fehlten, war nur ein Teil eines größeren Systems: Ab Ende der 1930er-Jahre wurden öffentliche sowjetische Karten gezielt verfälscht, Flüsse, Straßen und Orte verschoben. 1988 gab der oberste Kartograf des Landes, Viktor Jaschtschenko, diese Praxis öffentlich zu. Zur gleichen Zeit vermaß das sowjetische Militär heimlich westliche Städte bis hin zur Tragfähigkeit einzelner Brücken. Nach 1991 kamen viele dieser Pläne in den Handel. So zeigten genau die Karten, die ihre eigene Heimat verfälscht hatten, fremde Städte erstaunlich präzise.",
+              "hook": "fehlten auf allen öffentlichen Karten",
+              "children": [],
+              "source": {
+                "title": "Phony Soviet map making – Deseret News (1988)",
+                "url": "https://www.deseret.com/1988/9/19/18778434/phony-soviet-map-making/"
+              }
+            }
+          ],
+          "source": {
+            "title": "Geschlossene Stadt – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Geschlossene_Stadt"
+          }
+        }
+      ],
+      "source": {
+        "title": "Stanislaw Jewgrafowitsch Petrow – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Stanislaw_Jewgrafowitsch_Petrow"
+      }
+    },
+    {
+      "id": "2026-10-16-1",
+      "category": "wissenschaft",
+      "title": "Das Wow!-Signal",
+      "text": "Am 15. August 1977 fing das Radioteleskop „Big Ear“ der Ohio State University ein 72 Sekunden langes, ungewöhnlich starkes Signal aus Richtung des Sternbilds Schütze auf. Es lag nahe der Wasserstofflinie bei 1420 Megahertz, die als naheliegender Kanal für außerirdische Botschaften gilt. Der Astronom Jerry Ehman kreiste die Zeichenfolge „6EQUJ5“ auf dem Computerausdruck ein und schrieb „Wow!“ daneben. Trotz vieler späterer Suchen wurde das Signal nie wieder empfangen.",
+      "children": [
+        {
+          "id": "2026-10-16-1-0",
+          "title": "Ein Teleskop wird Golfplatz",
+          "text": "Das Radioteleskop „Big Ear“ stand bei Delaware in Ohio und war ein Entwurf des Physikers John Kraus, der 1946 die Wendelantenne erfunden hatte. Statt einer drehbaren Schüssel nutzte es zwei große Reflektorwände und eine mit Aluminium bedeckte Bodenfläche, etwa so groß wie drei Fußballfelder. Das Gelände neben dem Perkins-Observatorium der Ohio Wesleyan University hatte die Ohio State University nur gepachtet, die Eigentümer verkauften es an Investoren. 1998 wurde das Teleskop abgerissen, heute liegt dort ein Golfplatz.",
+          "hook": "Radioteleskop „Big Ear“",
+          "children": [
+            {
+              "id": "2026-10-16-1-0-0",
+              "title": "Die Spirale im GPS",
+              "text": "Die Wendelantenne, die John Kraus 1946 erfand, ist im Kern nur ein spiralförmig gewickelter Draht über einer Metallplatte. Sie sendet und empfängt zirkular polarisierte Wellen, deren Schwingungsebene sich wie ein Korkenzieher dreht. Das ist ideal für Satelliten, deren Lage sich gegenüber dem Empfänger ständig ändert. Deshalb strahlen die GPS-Satelliten ihre Signale über Gruppen solcher Spiralen ab. Wer heute mit dem Handy navigiert, verlässt sich also auf eine Erfindung des Mannes, der auch Big Ear gebaut hat.",
+              "hook": "1946 die Wendelantenne erfunden hatte",
+              "children": [],
+              "source": {
+                "title": "Wendelantenne – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Wendelantenne"
+              }
+            },
+            {
+              "id": "2026-10-16-1-0-1",
+              "title": "Abschlag auf dem Mond",
+              "text": "Wo Big Ear einst ins All lauschte, wird heute Golf gespielt. Auf dem Mond wurde das schon 1971 getan: Am 6. Februar schlug Apollo-14-Kommandant Alan Shepard dort zwei Golfbälle. Er hatte den Kopf eines Sechser-Eisens heimlich an den Griff eines Werkzeugs zum Probensammeln montiert und schlug wegen des steifen Raumanzugs mit nur einer Hand. Shepard behauptete, der Ball fliege „miles and miles and miles“. Eine Bildanalyse aus dem Jahr 2021 ergab dagegen nur etwa 22 und 37 Meter. Die beiden Bälle liegen bis heute dort.",
+              "hook": "heute liegt dort ein Golfplatz",
+              "children": [],
+              "source": {
+                "title": "Head, Golf Club, Apollo 14 (Replica) – Smithsonian National Air and Space Museum",
+                "url": "https://airandspace.si.edu/collection-objects/head-golf-club-apollo-14-replica/nasm_A19751468000"
+              }
+            },
+            {
+              "id": "2026-10-16-1-0-2",
+              "title": "Als Aluminium Luxus war",
+              "text": "Im 19. Jahrhundert wäre es unbezahlbar gewesen, eine Fläche von drei Fußballfeldern mit Aluminium auszulegen, denn das Metall ließ sich nur mühsam gewinnen und galt als Kostbarkeit. Napoleon III. soll seine wichtigsten Gäste mit Aluminiumbesteck bewirtet haben, während die übrigen mit Gold aßen. 1884 setzte man dem Washington Monument eine knapp drei Kilogramm schwere Spitze aus Aluminium auf. Nur zwei Jahre später entwickelten Charles Martin Hall und Paul Héroult unabhängig voneinander die Schmelzflusselektrolyse. Damit wurde aus dem Luxusmetall eine Massenware.",
+              "hook": "mit Aluminium bedeckte Bodenfläche",
+              "children": [],
+              "source": {
+                "title": "History of aluminium – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/History_of_aluminium"
+              }
+            }
+          ],
+          "source": {
+            "title": "OSU terminates lease on Big Ear property – Ohio State News",
+            "url": "https://news.osu.edu/osu-terminates-lease-on-big-ear-property/"
+          }
+        },
+        {
+          "id": "2026-10-16-1-1",
+          "title": "Die 21-Zentimeter-Linie",
+          "text": "Die Wasserstofflinie bei 1420 Megahertz, also 21 Zentimetern Wellenlänge, sagte der Niederländer Hendrik van de Hulst 1944 im besetzten Leiden voraus. Sie entsteht, wenn der Spin des Elektrons im Wasserstoffatom umklappt – ein einzelnes Atom tut das im Schnitt nur alle rund zehn Millionen Jahre. 1951 wiesen Harold Ewen und Edward Purcell in Harvard die Strahlung erstmals nach. Auf den Plaketten der Pioneer-Sonden dient sie als Maßeinheit für Länge und Zeit.",
+          "hook": "Wasserstofflinie bei 1420 Megahertz",
+          "children": [
+            {
+              "id": "2026-10-16-1-1-0",
+              "title": "Die Rede vom 26. November",
+              "text": "Dass van de Hulst seine Vorhersage im besetzten Leiden machte, während kaum geforscht werden konnte, hatte einen Grund: Die Deutschen hatten die Universität Ende 1940 geschlossen. Auslöser war eine Rede des Juristen Rudolf Cleveringa. Er protestierte am 26. November 1940 vor überfülltem Hörsaal gegen die Entlassung seines jüdischen Lehrers Eduard Meijers und kam dafür monatelang in Haft. Meijers überlebte Theresienstadt und erhielt nach dem Krieg den Auftrag, das neue niederländische Bürgerliche Gesetzbuch zu entwerfen.",
+              "hook": "im besetzten Leiden",
+              "children": [],
+              "source": {
+                "title": "Rudolph Cleveringa – Universiteit Leiden (Dossier: The university and the war)",
+                "url": "https://www.universiteitleiden.nl/en/dossiers/the-university-and-the-war/cleveringas-biography"
+              }
+            },
+            {
+              "id": "2026-10-16-1-1-1",
+              "title": "Bakterien ohne Schwung",
+              "text": "Edward Purcell, der Mitentdecker der Linie, bekam schon 1952 den Physik-Nobelpreis für die Kernspinresonanz, auf der heute die MRT beruht. Unter Biologen berühmt wurde er aber durch einen Vortrag von 1974, der 1977 als Aufsatz erschien: „Life at Low Reynolds Number“. Darin zeigte er, dass Trägheit für ein Bakterium praktisch keine Rolle spielt und eine Muschel, die nur auf- und zuklappt, in dieser Welt nicht vom Fleck käme. Hört ein Bakterium auf zu schwimmen, gleitet es nach Purcells Rechnung nur noch einen Bruchteil eines Atomdurchmessers weiter.",
+              "hook": "Harold Ewen und Edward Purcell",
+              "children": [],
+              "source": {
+                "title": "Life at Low Reynolds Number (E. M. Purcell, 1977) – CUNY",
+                "url": "https://hedberg.ccnysites.cuny.edu/PHYS351/FALL-2024/docs/Purcell_life_at_low_reynolds_number_1977.pdf"
+              }
+            },
+            {
+              "id": "2026-10-16-1-1-2",
+              "title": "Ein Brief nach Aldebaran",
+              "text": "Die Plaketten der Pioneer-Sonden entwarfen Carl Sagan und Frank Drake in nur wenigen Wochen, das nackte Paar zeichnete Linda Salzman Sagan. Eine Karte aus 14 Pulsaren, deren Perioden in Einheiten der Wasserstoffschwingung angegeben sind, verrät die Position der Sonne. Manche Zeitungen retuschierten beim Abdruck die Geschlechtsteile, in Leserbriefen empörte man sich über Nacktheit auf Staatskosten. Pioneer 10 fliegt heute Richtung Aldebaran und würde die Gegend des Sterns in rund zwei Millionen Jahren erreichen.",
+              "hook": "Plaketten der Pioneer-Sonden",
+              "children": [],
+              "source": {
+                "title": "Pioneer-Plakette – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Pioneer-Plakette"
+              }
+            }
+          ],
+          "source": {
+            "title": "HI-Linie – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/HI-Linie"
+          }
+        },
+        {
+          "id": "2026-10-16-1-2",
+          "title": "Das Monster im Schützen",
+          "text": "In Richtung des Sternbilds Schütze liegt das Zentrum der Milchstraße, rund 26.000 Lichtjahre entfernt. Dort entdeckten Bruce Balick und Robert Brown 1974 eine kompakte Radioquelle, die später den Namen Sagittarius A* erhielt. Über Jahrzehnte verfolgten die Teams von Reinhard Genzel und Andrea Ghez Sterne wie S2, der das Objekt in rund 16 Jahren umrundet, und wiesen so ein Schwarzes Loch von etwa vier Millionen Sonnenmassen nach. Dafür erhielten beide 2020 den Physik-Nobelpreis.",
+          "hook": "Richtung des Sternbilds Schütze",
+          "children": [
+            {
+              "id": "2026-10-16-1-2-0",
+              "title": "Penrose gegen Klopapier",
+              "text": "Die andere Hälfte des Physik-Nobelpreises 2020 bekam Roger Penrose. Er hatte schon 1965 mathematisch gezeigt, dass Schwarze Löcher eine unvermeidliche Folge von Einsteins Relativitätstheorie sind. Berühmt wurde er außerdem durch ein Muster: In den 1970er-Jahren fand er Kacheln, die eine Fläche lückenlos füllen, ohne dass sich das Muster je wiederholt. 1997 verklagte er den Konzern Kimberly-Clark, weil dessen geprägtes Toilettenpapier genau diese Kacheln zeigte.",
+              "hook": "2020 den Physik-Nobelpreis",
+              "children": [],
+              "source": {
+                "title": "Penrose-Parkettierung – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Penrose-Parkettierung"
+              }
+            },
+            {
+              "id": "2026-10-16-1-2-1",
+              "title": "Festplatten im Flugzeug",
+              "text": "2022 zeigte das Event Horizon Telescope das erste Bild von Sagittarius A*: einen leuchtenden Ring um einen dunklen Schatten. Dafür hatten 2017 Radioteleskope von Hawaii über Chile bis Spanien gleichzeitig beobachtet und zusammen wie ein Teleskop von der Größe der Erde gewirkt. Die Daten, mehrere Petabyte, waren zu viel fürs Internet, deshalb flog man die Festplatten zu den Rechenzentren. Die Festplatten vom Südpol mussten monatelang warten, bis nach dem antarktischen Winter wieder ein Flugzeug landen konnte.",
+              "hook": "später den Namen Sagittarius A* erhielt",
+              "children": [],
+              "source": {
+                "title": "Event Horizon Telescope – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Event_Horizon_Telescope"
+              }
+            },
+            {
+              "id": "2026-10-16-1-2-2",
+              "title": "Heras verschüttete Milch",
+              "text": "Der Name Milchstraße stammt aus einem griechischen Mythos, auf den auch das Wort Galaxie zurückgeht: „gala“ heißt Milch. Der Legende nach legte Zeus den kleinen Herakles an die Brust der schlafenden Hera, damit er unsterblich würde. Als sie aufwachte und ihn wegstieß, spritzte ihre Milch über den Himmel. Tintoretto malte die Szene um 1575. Ursprünglich wuchsen am unteren Bildrand aus den Tropfen Lilien, doch dieser Streifen wurde irgendwann abgeschnitten.",
+              "hook": "Zentrum der Milchstraße",
+              "children": [],
+              "source": {
+                "title": "Jacopo Tintoretto, 'The Origin of the Milky Way', about 1575 – The National Gallery",
+                "url": "https://www.nationalgallery.org.uk/paintings/jacopo-tintoretto-the-origin-of-the-milky-way"
+              }
+            }
+          ],
+          "source": {
+            "title": "Sagittarius A* – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Sagittarius_A*"
+          }
+        }
+      ],
+      "source": {
+        "title": "Wow!-Signal – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Wow!-Signal"
+      }
+    },
+    {
+      "id": "2026-10-16-2",
+      "category": "kultur",
+      "title": "Silbo Gomero",
+      "text": "Auf der Kanareninsel La Gomera gibt es mit dem Silbo Gomero eine Pfeifsprache, die gesprochenes Spanisch in Pfiffe unterschiedlicher Höhe und Länge übersetzt. Über die tiefen Schluchten der Insel tragen die Töne mehrere Kilometer weit. Die Technik geht vermutlich auf die Ureinwohner der Kanaren zurück, die Guanchen. Seit 1999 ist Silbo Pflichtfach an den Schulen der Insel, und 2009 nahm die UNESCO die Sprache in ihre Liste des immateriellen Kulturerbes auf.",
+      "children": [
+        {
+          "id": "2026-10-16-2-0",
+          "title": "Kolumbus' letzter Hafen",
+          "text": "Von der Kanareninsel La Gomera aus brach Christoph Kolumbus am 6. September 1492 zu seiner ersten Atlantiküberquerung auf. Der Hafen von San Sebastián war seine letzte Station in der bekannten Welt. Dort nahm er Wasser, Proviant und Holz an Bord, und auf seiner zweiten Reise 1493 legte er erneut auf der Insel an. Vor Ort erzählt man, ihn habe vor allem die Gräfin Beatriz de Bobadilla gelockt, die Gomera damals beherrschte. Belegt ist diese Romanze allerdings nicht.",
+          "hook": "Kanareninsel La Gomera",
+          "children": [
+            {
+              "id": "2026-10-16-2-0-0",
+              "title": "Der Wurm im Schiffsrumpf",
+              "text": "Das Holz, auf das Kolumbus angewiesen war, hatte einen unsichtbaren Feind: den Schiffsbohrwurm Teredo navalis. Er ist eigentlich eine Muschel und frisst sich durch Schiffsplanken. Auf seiner vierten Reise waren Kolumbus' Schiffe so zerfressen, dass er sie 1503 auf Jamaika auf den Strand setzen musste und dort rund ein Jahr festsaß. Als die Einheimischen ihn nicht mehr versorgten, kündigte er eine Mondfinsternis an, die er aus astronomischen Tafeln kannte. Am 29. Februar 1504 verdunkelte sich der Mond, und die Lebensmittel kamen wieder.",
+              "hook": "Wasser, Proviant und Holz an Bord",
+              "children": [],
+              "source": {
+                "title": "Schiffsbohrwurm – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Schiffsbohrwurm"
+              }
+            },
+            {
+              "id": "2026-10-16-2-0-1",
+              "title": "Der andere Bobadilla",
+              "text": "Ein anderer Träger des Namens Bobadilla brachte Kolumbus kein Glück. Francisco de Bobadilla wurde im Jahr 1500 als königlicher Untersuchungsrichter nach Hispaniola geschickt, ließ den Entdecker verhaften und in Ketten nach Spanien bringen. Zwei Jahre später verweigerte man Kolumbus die Einfahrt nach Santo Domingo, obwohl er vor einem nahenden Sturm warnte. Die Flotte, die Bobadilla heimbringen sollte, lief trotzdem aus und ging im Hurrikan unter, mit Bobadilla an Bord. Kolumbus' Schiffe überstanden den Sturm.",
+              "hook": "die Gräfin Beatriz de Bobadilla",
+              "children": [],
+              "source": {
+                "title": "Francisco de Bobadilla – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Francisco_de_Bobadilla"
+              }
+            },
+            {
+              "id": "2026-10-16-2-0-2",
+              "title": "Die Karte, die Amerika taufte",
+              "text": "Wie weit die bekannte Welt reichte, mussten Kartografen nach 1492 neu zeichnen. Martin Waldseemüller schrieb 1507 im lothringischen Saint-Dié als Erster den Namen „America“ auf eine Weltkarte, zu Ehren des Seefahrers Amerigo Vespucci. Das einzige erhaltene Exemplar tauchte 1901 auf Schloss Wolfegg in Oberschwaben auf und gehört heute der Library of Congress, die dafür 10 Millionen Dollar zahlte. Waldseemüller selbst ließ den Namen auf späteren Karten wieder weg, doch da war er schon nicht mehr aufzuhalten.",
+              "hook": "letzte Station in der bekannten Welt",
+              "children": [],
+              "source": {
+                "title": "Martin Waldseemüller – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Martin_Waldseem%C3%BCller"
+              }
+            }
+          ]
+        },
+        {
+          "id": "2026-10-16-2-1",
+          "title": "Die Mumien der Guanchen",
+          "text": "Die Guanchen, nach denen man heute oft alle Ureinwohner der Kanaren benennt, waren streng genommen nur die Bewohner Teneriffas. Genetische Analysen alter Knochen zeigen eine enge Verwandtschaft mit den Berbervölkern Nordafrikas, von wo ihre Vorfahren spätestens um die Zeitenwende übersetzten. Ihre Toten mumifizierten sie, indem sie sie trockneten und in Tierhäute einnähten. 1494 besiegten sie die spanischen Eroberer in der Schlacht von Acentejo, doch 1496 fiel Teneriffa als letzte Kanareninsel an Kastilien.",
+          "hook": "die Guanchen",
+          "children": [
+            {
+              "id": "2026-10-16-2-1-0",
+              "title": "Mumien aus der Apotheke",
+              "text": "Getrocknete Tote wie die der Guanchen waren im frühneuzeitlichen Europa eine begehrte Ware, und zwar als Arznei. „Mumia“ hieß ursprünglich ein persisches Erdpech, dem man Heilkraft zuschrieb. Durch eine Verwechslung ging der Name auf einbalsamierte Leichen über, deren Pulver Apotheken gegen Prellungen und Blutungen verkauften. Auch Guanchen-Mumien sollen dafür nach Europa gelangt sein. Die Darmstädter Firma Merck führte „Mumia vera aegyptiaca“ noch in den 1920er-Jahren in ihrem Katalog.",
+              "hook": "in Tierhäute einnähten",
+              "children": [],
+              "source": {
+                "title": "Mumia – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Mumia"
+              }
+            },
+            {
+              "id": "2026-10-16-2-1-1",
+              "title": "Die Schrift der Berber",
+              "text": "Die Verwandtschaft mit den Berbern Nordafrikas zeigt sich nicht nur in den Genen, sondern auch in den Felsinschriften, etwa auf El Hierro und Lanzarote. Sie sind in libysch-berberischer Schrift geritzt, einer Vorläuferin des Tifinagh, das die Tuareg in der Sahara über Jahrhunderte bewahrten. Marokko hat 2003 eine erneuerte Form des Tifinagh zur Schrift für den Unterricht der Berbersprache Tamazight bestimmt und Tamazight 2011 zur Amtssprache erhoben. Seit 2005 gehört das Alphabet zum Unicode-Standard.",
+              "hook": "Berbervölkern Nordafrikas",
+              "children": [],
+              "source": {
+                "title": "Tifinagh-Schrift – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Tifinagh-Schrift"
+              }
+            },
+            {
+              "id": "2026-10-16-2-1-2",
+              "title": "Inseln der Hunde",
+              "text": "Der Name der Kanaren hat nichts mit Vögeln zu tun, sondern der antiken Überlieferung nach mit Hunden. Laut Plinius dem Älteren fanden Kundschafter des mauretanischen Königs Juba II. auf einer der Inseln große Hunde und nannten sie deshalb „Canaria“, nach lateinisch „canis“. Erst später wurde ein kleiner Fink nach den Inseln benannt: der Kanarengirlitz, Stammform des seit dem 16. Jahrhundert gezüchteten Kanarienvogels. In britischen Kohlebergwerken warnten Kanarienvögel noch bis 1986 vor giftigen Gasen.",
+              "hook": "letzte Kanareninsel",
+              "children": []
+            }
+          ],
+          "source": {
+            "title": "Guanchen – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Guanchen"
+          }
+        },
+        {
+          "id": "2026-10-16-2-2",
+          "title": "Türkisch, gepfiffen",
+          "text": "Eine Pfeifsprache gibt es nicht nur auf La Gomera, sondern zum Beispiel auch im Dorf Kuşköy an der türkischen Schwarzmeerküste. Dort verständigen sich Bauern über Täler hinweg mit gepfiffenem Türkisch. Der Bochumer Biopsychologe Onur Güntürkün zeigte 2015, dass die Dorfbewohner diese Pfiffe mit beiden Hirnhälften annähernd gleich stark verarbeiten, gesprochene Sprache dagegen vor allem mit der linken. Die sogenannte „Vogelsprache“ steht seit 2017 auf der UNESCO-Liste des dringend erhaltungsbedürftigen Kulturerbes.",
+          "hook": "eine Pfeifsprache",
+          "children": [
+            {
+              "id": "2026-10-16-2-2-0",
+              "title": "Der Honig, der Heere fällte",
+              "text": "Weiter östlich an der türkischen Schwarzmeerküste, rund um Rize, ernten Imker einen berüchtigten Honig: „Deli Bal“, verrückter Honig. Die Bienen sammeln ihn an Rhododendronblüten. Deren Grayanotoxine können Schwindel, Blutdruckabfall und Halluzinationen auslösen. Schon Xenophon schilderte, wie griechische Söldner um 400 v. Chr. nach dem Honig reihenweise zusammenbrachen. Laut Strabon setzten Einheimische ihn später gezielt als Waffe ein. Sie stellten ihn für die Truppen des Pompeius an den Weg und überfielen dann die benebelten Soldaten.",
+              "hook": "an der türkischen Schwarzmeerküste",
+              "children": [],
+              "source": {
+                "title": "Pontischer Honig – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Pontischer_Honig"
+              }
+            },
+            {
+              "id": "2026-10-16-2-2-1",
+              "title": "Der Kuss neigt nach rechts",
+              "text": "Der Bochumer Biopsychologe Onur Güntürkün erforscht Asymmetrien aller Art, auch beim Küssen. 2003 beobachtete er für eine Studie in „Nature“ 124 küssende Paare in Bahnhöfen, Flughäfen, Parks und an Stränden in den USA, Deutschland und der Türkei. Rund zwei Drittel neigten den Kopf dabei nach rechts. Seine Erklärung reicht bis vor die Geburt zurück: Schon Ungeborene und Neugeborene drehen den Kopf bevorzugt nach rechts. Diese frühe Vorliebe scheint uns offenbar ein Leben lang zu begleiten, bis in den Kuss hinein.",
+              "hook": "Bochumer Biopsychologe Onur Güntürkün",
+              "children": []
+            },
+            {
+              "id": "2026-10-16-2-2-2",
+              "title": "Lockruf für Honiganzeiger",
+              "text": "In Kuşköy klingen Menschen wie Vögel, im Norden Mosambiks sprechen sie direkt mit einem. Honigjäger der Yao locken mit einem trillernden „Brrr-hm“ den Großen Honiganzeiger an. Der Vogel führt sie zu wilden Bienennestern und frisst danach das zurückgelassene Wachs. Die Zoologin Claire Spottiswoode wies 2016 nach, dass die Vögel gezielt auf diesen Ruf reagieren. Später zeigte sich, dass Honiganzeiger in Tansania besser auf das Pfeifen der dortigen Hadza ansprechen. Die Vögel verstehen offenbar den örtlichen Dialekt.",
+              "hook": "Die sogenannte „Vogelsprache“",
+              "children": [],
+              "source": {
+                "title": "Großer Honiganzeiger – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gro%C3%9Fer_Honiganzeiger"
+              }
+            }
+          ],
+          "source": {
+            "title": "Kuş Dili – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Ku%C5%9F_Dili"
+          }
+        }
+      ],
+      "source": {
+        "title": "El Silbo – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/El_Silbo"
+      }
+    }
+  ]
+}

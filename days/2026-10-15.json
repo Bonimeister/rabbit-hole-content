@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T00:38:55.690Z",
+  "topics": [
+    {
+      "id": "2026-10-15-0",
+      "category": "natur",
+      "title": "Der Hoatzin",
+      "text": "Der Hoatzin lebt in den Überschwemmungswäldern des Amazonas- und Orinoco-Beckens und ist der Nationalvogel Guyanas. Er ist der einzige bekannte Vogel, der Blätter ähnlich wie eine Kuh verdaut: Bakterien in seinem stark vergrößerten Kropf fermentieren die Nahrung, was ihm den Spitznamen „Stinkvogel“ eingebracht hat. Seine Küken tragen an jedem Flügel zwei Krallen, mit denen sie durchs Geäst klettern. Droht Gefahr, lassen sie sich ins Wasser fallen und klettern später zurück ins Nest.",
+      "children": [
+        {
+          "id": "2026-10-15-0-0",
+          "title": "Krallen wie beim Urvogel",
+          "text": "Die Flügelkrallen der Hoatzin-Küken erinnern an Archaeopteryx, gelten aber nicht als direktes Erbe des Urvogels. Das erste Skelett von Archaeopteryx tauchte 1861 in den Plattenkalken von Solnhofen in Bayern auf, nur zwei Jahre nach Darwins „Über die Entstehung der Arten“. Das British Museum in London kaufte es für 700 Pfund. Heute kennt man rund ein Dutzend Exemplare, die alle aus der Gegend um Solnhofen stammen.",
+          "hook": "an jedem Flügel zwei Krallen",
+          "children": [
+            {
+              "id": "2026-10-15-0-0-0",
+              "title": "Druckerstein aus Bayern",
+              "text": "Der feinkörnige Plattenkalk von Solnhofen ist nicht nur ein Archiv für Fossilien, sondern auch der Stein, mit dem der Steindruck begann. Um 1796 suchte der Münchner Theaterautor Alois Senefelder nach einer billigen Methode, seine Stücke zu vervielfältigen. Er experimentierte mit fetthaltiger Tinte auf Kalksteinplatten und nutzte aus, dass Fett und Wasser sich abstoßen. So entstand die Lithografie. Nach Senefelders eigener Erzählung stand am Anfang ein Zufall: eine Wäscheliste, die er mangels Papier auf eine geschliffene Steinplatte schrieb.",
+              "hook": "Plattenkalken von Solnhofen in Bayern",
+              "children": [],
+              "source": {
+                "title": "Lithografie – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Lithografie"
+              }
+            },
+            {
+              "id": "2026-10-15-0-0-1",
+              "title": "Ein Dom für Dinosaurier",
+              "text": "Den Londoner Archaeopteryx beschrieb 1863 Richard Owen, der 1842 den Begriff „Dinosauria“ geprägt hatte. Owen fand, die naturkundlichen Sammlungen des British Museum bräuchten ein eigenes Haus, und kämpfte jahrzehntelang dafür. 1881 eröffnete in South Kensington das heutige Natural History Museum, ein Bau von Alfred Waterhouse mit einer Terrakottafassade voller Tierfiguren. Die Fassade folgt dabei einer strengen Ordnung: Am Westflügel sitzen lebende Arten, am Ostflügel ausgestorbene.",
+              "hook": "Das British Museum in London",
+              "children": [],
+              "source": {
+                "title": "Natural History Museum – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Natural_History_Museum"
+              }
+            },
+            {
+              "id": "2026-10-15-0-0-2",
+              "title": "Ein Buch ohne „Evolution“",
+              "text": "Darwins Buch erschien im November 1859 in einer Auflage von rund 1250 Exemplaren, die schon am ersten Verkaufstag an den Buchhandel vergeben waren. Die berühmte Formel „Survival of the Fittest“ stammt nicht von Darwin, sondern vom Philosophen Herbert Spencer. Darwin übernahm sie erst 1869 in die fünfte Auflage. Auch das Wort „Evolution“ fehlt in der Erstausgabe. Nur eine verwandte Form taucht auf, ganz am Schluss: Das letzte Wort des Buches lautet „evolved“.",
+              "hook": "Darwins „Über die Entstehung der Arten“",
+              "children": [],
+              "source": {
+                "title": "Über die Entstehung der Arten – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/%C3%9Cber_die_Entstehung_der_Arten"
+              }
+            }
+          ],
+          "source": {
+            "title": "Archaeopteryx – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Archaeopteryx"
+          }
+        },
+        {
+          "id": "2026-10-15-0-1",
+          "title": "Rotalge gegen Kuhrülpser",
+          "text": "Bei Kühen fermentieren Mikroben im Pansen die Nahrung. Dabei entsteht Methan, das die Tiere größtenteils ausrülpsen und nicht etwa auspupsen. Verantwortlich sind Archaeen, sogenannte Methanogene, die Wasserstoff in das starke Treibhausgas umwandeln. Forscher setzen Hoffnung auf die Rotalge Asparagopsis: Schon kleine Mengen im Futter senkten den Methanausstoß in Versuchen teils um mehr als 80 Prozent. Ihr Wirkstoff Bromoform ist allerdings umstritten.",
+          "hook": "ähnlich wie eine Kuh verdaut",
+          "children": [
+            {
+              "id": "2026-10-15-0-1-0",
+              "title": "Die dritte Form des Lebens",
+              "text": "Die Methanbildner im Pansen gehören zu den Archaeen, die lange als Bakterien galten. 1977 zeigte der US-Mikrobiologe Carl Woese anhand ribosomaler RNA, dass sie eine eigene, dritte Linie des Lebens bilden. 2015 entdeckten Forscher nahe dem Hydrothermalfeld „Lokis Schloss“ im Nordatlantik die Lokiarchaeota, die ersten bekannten Asgard-Archaeen. Sie gelten als nächste bekannte Verwandte der Zellen von Pflanzen, Tieren und Menschen. Die Mikroben, die Kühe rülpsen lassen, sind also entfernte Verwandte von uns.",
+              "hook": "Archaeen, sogenannte Methanogene",
+              "children": [],
+              "source": {
+                "title": "Archaeen – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Archaeen"
+              }
+            },
+            {
+              "id": "2026-10-15-0-1-1",
+              "title": "Die Flüssigkeit, die Quarz trägt",
+              "text": "Bromoform, chemisch CHBr₃, entsteht auch in der Natur: Meeresalgen geben es in großen Mengen ab. Um 1900 verschrieben Ärzte die süßlich riechende Flüssigkeit als Beruhigungsmittel gegen Keuchhusten bei Kindern. Dabei kam es immer wieder zu Vergiftungen. Später fand die Substanz ihren Platz in der Geologie: Mit rund 2,9 Gramm pro Kubikzentimeter ist sie fast dreimal so dicht wie Wasser. Gibt man zerkleinertes Gestein hinein, schwimmt Quarz an der Oberfläche, während schwere Minerale wie Zirkon zu Boden sinken.",
+              "hook": "Ihr Wirkstoff Bromoform",
+              "children": [],
+              "source": {
+                "title": "Bromoform – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bromoform"
+              }
+            },
+            {
+              "id": "2026-10-15-0-1-2",
+              "title": "Limu kohu im Poke",
+              "text": "Auf Hawaii kennt man die Rotalge Asparagopsis taxiformis nicht als Klimahelfer, sondern als Lebensmittel. Unter dem Namen Limu kohu gilt sie als eine der begehrtesten Algen der Inseln und würzt traditionell Poke, also rohen Fisch mit Salz und gerösteten Kukuinüssen. Wer sie sammelt, zupft nur die oberen Triebe ab, damit die Alge nachwächst. Vor dem Essen wird sie oft eingeweicht, um ihren scharfen, jodartigen Geschmack zu mildern. Dieser Geschmack stammt zu einem guten Teil von denselben Bromverbindungen, die im Kuhmagen die Methanbildung bremsen.",
+              "hook": "die Rotalge Asparagopsis",
+              "children": [],
+              "source": {
+                "title": "Asparagopsis taxiformis – Bishop Museum Algae Key",
+                "url": "https://hbs.bishopmuseum.org/botany/algaekey/html/asptax.htm"
+              }
+            }
+          ],
+          "source": {
+            "title": "Asparagopsis – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Asparagopsis"
+          }
+        },
+        {
+          "id": "2026-10-15-0-2",
+          "title": "Englisch in Südamerika",
+          "text": "Guyana führt den Hoatzin sogar in seinem Staatswappen und ist der einzige Staat Südamerikas mit Englisch als Amtssprache. Das ist ein Erbe der Kolonie Britisch-Guayana, die 1966 unabhängig wurde. Nach dem Ende der Sklaverei holten die Briten ab 1838 Vertragsarbeiter aus Indien ins Land. Ihre Nachfahren bilden heute die größte Bevölkerungsgruppe. Im Landesinneren stürzt der Potaro an den Kaieteur-Fällen rund 226 Meter tief – mehr als viermal so tief wie die Niagarafälle.",
+          "hook": "der Nationalvogel Guyanas",
+          "children": [
+            {
+              "id": "2026-10-15-0-2-0",
+              "title": "Die teuerste Briefmarke",
+              "text": "In der Kolonie Britisch-Guayana entstand 1856 die wohl berühmteste Briefmarke der Welt: Weil eine Lieferung aus London ausblieb, ließ der Postmeister in Georgetown Notmarken bei einer Zeitungsdruckerei herstellen. Von der magentaroten Ein-Cent-Marke ist nur ein einziges Exemplar bekannt. Ein zwölfjähriger Schotte fand es 1873 in Familienpapieren und verkaufte es für ein paar Schilling. 2014 brachte es bei Sotheby's rund 9,5 Millionen Dollar.",
+              "hook": "Kolonie Britisch-Guayana",
+              "children": [],
+              "source": {
+                "title": "British Guiana 1¢ magenta – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/British_Guiana_1%C2%A2_magenta"
+              }
+            },
+            {
+              "id": "2026-10-15-0-2-1",
+              "title": "Der Vater des Premiers",
+              "text": "Die ersten Vertragsarbeiter aus Indien kamen 1838 auf Betreiben des Plantagenbesitzers John Gladstone nach Britisch-Guayana. Kurz zuvor hatte er für die Freilassung seiner Sklaven eine der höchsten Entschädigungen erhalten, die der britische Staat zahlte, rund 100.000 Pfund. Die Befreiten selbst bekamen nichts. Sein Sohn William Ewart Gladstone verteidigte die Plantagenbesitzer in seiner ersten Parlamentsrede und wurde später viermal Premierminister.",
+              "hook": "Vertragsarbeiter aus Indien ins Land",
+              "children": [],
+              "source": {
+                "title": "John Gladstone – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/John_Gladstone"
+              }
+            },
+            {
+              "id": "2026-10-15-0-2-2",
+              "title": "Ein Leben in der Bromelie",
+              "text": "An den Kaieteur-Fällen wachsen Riesenbromelien der Art Brocchinia micrantha, deren Blatttrichter Regenwasser sammeln. Darin verbringt der nur rund zwei Zentimeter große Kaieteur-Goldfrosch sein ganzes Leben. Er jagt, paart sich und laicht in derselben Pflanze, und seine Kaulquappen wachsen im Wasser der Blattachseln heran. Bekannt ist er fast nur vom Plateau rund um die Fälle.",
+              "hook": "an den Kaieteur-Fällen rund 226 Meter",
+              "children": [],
+              "source": {
+                "title": "Goldfrosch – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Goldfrosch"
+              }
+            }
+          ],
+          "source": {
+            "title": "Britisch-Guayana – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Britisch-Guayana"
+          }
+        }
+      ],
+      "source": {
+        "title": "Hoatzin – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Hoatzin"
+      }
+    },
+    {
+      "id": "2026-10-15-1",
+      "category": "wissenschaft",
+      "title": "Das Tunguska-Ereignis",
+      "text": "Am Morgen des 30. Juni 1908 explodierte über der sibirischen Taiga nahe dem Fluss Steinige Tunguska ein Objekt aus dem All. Die Druckwelle knickte auf rund 2000 Quadratkilometern schätzungsweise 60 bis 80 Millionen Bäume um, doch einen Einschlagkrater fand man nie. Erst 1927 erreichte eine wissenschaftliche Expedition unter dem Mineralogen Leonid Kulik das abgelegene Gebiet. Heute gilt als wahrscheinlich, dass ein Asteroid oder ein Kometenbruchstück mehrere Kilometer über dem Boden in der Luft zerbarst.",
+      "children": [
+        {
+          "id": "2026-10-15-1-0",
+          "title": "Glasregen über Tscheljabinsk",
+          "text": "Wie ein Brocken aus dem All in der Luft zerbirst, ließ sich am 15. Februar 2013 über der russischen Stadt Tscheljabinsk dank unzähliger Autokameras genau verfolgen. Der rund 20 Meter große Asteroid explodierte in etwa 30 Kilometern Höhe. Die Druckwelle zerschlug Fenster in Tausenden Gebäuden, und rund 1500 Menschen wurden verletzt, fast alle durch Glassplitter. Im Oktober 2013 hoben Taucher ein gut 500 Kilogramm schweres Bruchstück aus dem Tschebarkulsee.",
+          "hook": "in der Luft zerbarst",
+          "children": [
+            {
+              "id": "2026-10-15-1-0-0",
+              "title": "Warum Russland mitfilmt",
+              "text": "Dass so viele Autokameras liefen, war kein Zufall: In Russland waren Dashcams schon lange vor 2013 verbreitet, weil sich Fahrer gegen Versicherungsbetrug, inszenierte Unfälle und parteiische Verkehrspolizisten absichern wollten. Der kolumbianische Astronom Jorge Zuluaga und sein Kollege Ignacio Ferrín werteten die im Netz geteilten Videos aus und rekonstruierten innerhalb weniger Tage die Bahn des Asteroiden um die Sonne. So halfen Pendler, die eigentlich Beweise für den nächsten Blechschaden sammelten, die Herkunft eines Himmelskörpers zu klären.",
+              "hook": "unzähliger Autokameras",
+              "children": []
+            },
+            {
+              "id": "2026-10-15-1-0-1",
+              "title": "Glas, das nicht zersplittert",
+              "text": "Gegen genau diese Gefahr durch Glassplitter erfand der französische Chemiker Édouard Bénédictus das Verbundglas. Der Überlieferung nach fiel ihm ein Glaskolben herunter, der zwar zersprang, aber in Form blieb, weil ein eingetrockneter Film aus Cellulosenitrat die Scherben zusammenhielt. Ob es diesen Laborunfall wirklich gab, ist nicht belegt, die Anekdote gehört zur Erfindungslegende. Seinen ersten großen Einsatz fand das Sicherheitsglas nicht in Autos, sondern in den Augengläsern von Gasmasken im Ersten Weltkrieg.",
+              "hook": "fast alle durch Glassplitter",
+              "children": [],
+              "source": {
+                "title": "Édouard Bénédictus – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/%C3%89douard_B%C3%A9n%C3%A9dictus"
+              }
+            },
+            {
+              "id": "2026-10-15-1-0-2",
+              "title": "Zwei Besucher an einem Tag",
+              "text": "Für den 15. Februar 2013 hatten Astronomen tatsächlich Besuch aus dem All angekündigt, allerdings nicht über Tscheljabinsk. Rund 16 Stunden nach der Explosion zog der etwa 40 Meter große Asteroid 2012 DA14 in rund 28.000 Kilometern Höhe an der Erde vorbei, näher als die geostationären Fernsehsatelliten. Beide Objekte hatten völlig verschiedene Bahnen und nichts miteinander zu tun. 2016 erklärten die Vereinten Nationen schließlich den 30. Juni zum Internationalen Asteroidentag, den Jahrestag von Tunguska.",
+              "hook": "am 15. Februar 2013",
+              "children": [],
+              "source": {
+                "title": "(367943) Duende – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/(367943)_Duende"
+              }
+            }
+          ],
+          "source": {
+            "title": "Meteor von Tscheljabinsk – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Meteor_von_Tscheljabinsk"
+          }
+        },
+        {
+          "id": "2026-10-15-1-1",
+          "title": "Brian Mays Asteroidentag",
+          "text": "Der 30. Juni ist heute ein offizieller Gedenktag: Die UN-Generalversammlung erklärte ihn 2016 zum Internationalen Asteroidentag. Angestoßen hatten die Initiative 2014 unter anderem der Apollo-9-Astronaut Rusty Schweickart und Queen-Gitarrist Brian May. May hatte Anfang der 1970er Jahre eine Doktorarbeit in Astrophysik begonnen, sie für die Band aber liegen lassen. Erst 2007 reichte er sie am Imperial College London ein, und zwar über interplanetaren Staub, der das Zodiakallicht erzeugt.",
+          "hook": "30. Juni 1908",
+          "children": [
+            {
+              "id": "2026-10-15-1-1-0",
+              "title": "Die falsche Morgendämmerung",
+              "text": "Das Zodiakallicht, dem Brian May seine Doktorarbeit widmete, ist ein schwacher, kegelförmiger Lichtschein, der in sehr dunklen Gegenden vor Sonnenaufgang oder nach Sonnenuntergang über dem Horizont steht. Im islamischen Recht unterscheiden Gelehrte die „falsche Dämmerung“ (al-fadschr al-kadhib) von der echten; erst die echte markiert den Beginn des Morgengebets. Viele deuten die falsche Dämmerung heute als Zodiakallicht. Mays Forschungsgegenstand ist also genau das Licht, auf das Gläubige nicht hereinfallen sollen.",
+              "hook": "Staub, der das Zodiakallicht erzeugt",
+              "children": [],
+              "source": {
+                "title": "Zodiakallicht – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Zodiakallicht"
+              }
+            },
+            {
+              "id": "2026-10-15-1-1-1",
+              "title": "Ein Asteroid namens B612",
+              "text": "Rusty Schweickart testete 1969 bei Apollo 9 die Mondlandefähre in der Erdumlaufbahn. 2002 gründete er mit anderen Forschern die B612 Foundation, die die Erde vor Asteroideneinschlägen schützen will. Der Name stammt aus Saint-Exupérys „Der kleine Prinz“: B 612 ist der winzige Asteroid, auf dem der Prinz lebt. Inzwischen trägt auch ein echter Asteroid einen passenden Namen, nämlich 46610 Bésixdouze, französisch für „B sechs zwölf“. Die Pointe steckt in der Nummer, denn 46610 ergibt im Hexadezimalsystem genau B612.",
+              "hook": "Apollo-9-Astronaut Rusty Schweickart",
+              "children": [],
+              "source": {
+                "title": "B612 Foundation – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/B612_Foundation"
+              }
+            },
+            {
+              "id": "2026-10-15-1-1-2",
+              "title": "Eine Gitarre aus dem Kamin",
+              "text": "Seine berühmteste Gitarre hat der Queen-Gitarrist Brian May nie gekauft: Ab 1963 baute er sie als Teenager zusammen mit seinem Vater Harold, einem Ingenieur. Der Hals ist aus dem Holz eines alten Kaminsimses gefertigt. Für den Vibratohebel verwendeten die beiden unter anderem die Spitze einer Stricknadel und Ventilfedern eines Motorrads. Wegen ihrer rotbraunen Farbe heißt die Gitarre „Red Special“, und May spielt sie bis heute auf der Bühne. Statt eines Plektrums nimmt er dabei eine Münze, ein altes britisches Sixpence-Stück.",
+              "hook": "Queen-Gitarrist Brian May",
+              "children": [],
+              "source": {
+                "title": "Red Special – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Red_Special"
+              }
+            }
+          ],
+          "source": {
+            "title": "Asteroid Day – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Asteroid_Day"
+          }
+        },
+        {
+          "id": "2026-10-15-1-2",
+          "title": "Woher der Schamane kommt",
+          "text": "Der Fluss Steinige Tunguska ist nach den Tungusen benannt, wie Russen früher die Ewenken nannten, ein Volk von Rentierhirten und Jägern der sibirischen Taiga. Aus ihrer Sprache stammt ein Wort, das um die Welt ging: „Schamane“ gelangte im 17. Jahrhundert über das Russische nach Europa. Der niederländische Gelehrte Nicolaes Witsen veröffentlichte 1692 eine der frühesten europäischen Abbildungen eines tungusischen Schamanen. Ewenken leben heute vor allem in Russland und im Norden Chinas, einige auch in der Mongolei.",
+          "hook": "nahe dem Fluss Steinige Tunguska",
+          "children": [
+            {
+              "id": "2026-10-15-1-2-0",
+              "title": "Der Zar auf der Werft",
+              "text": "Nicolaes Witsen war nicht nur Gelehrter, sondern auch Bürgermeister von Amsterdam. 1697 bekam er einen ungewöhnlichen Gast: den jungen Zaren Peter I., der fast inkognito mit der „Großen Gesandtschaft“ durch Europa reiste. Witsen verschaffte ihm Zugang zur Werft der Niederländischen Ostindien-Kompanie, wo Peter über Monate beim Bau eines Schiffs mitarbeitete. Zuvor hatte er einige Tage in einem kleinen Holzhaus in Zaandam gewohnt. Dieses Zar-Peter-Häuschen steht noch heute, geschützt von einer steinernen Hülle, die die Zarenfamilie Ende des 19. Jahrhunderts darum bauen ließ.",
+              "hook": "Nicolaes Witsen",
+              "children": [],
+              "source": {
+                "title": "Große Gesandtschaft – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gro%C3%9Fe_Gesandtschaft"
+              }
+            },
+            {
+              "id": "2026-10-15-1-2-1",
+              "title": "Reiten auf dem Rentier",
+              "text": "Die Ewenken gehören zu den wenigen Völkern, die ihre Rentiere nicht nur hüten, sondern auch reiten. Weil der Rücken eines Rentiers in der Mitte wenig Last trägt, sitzt der Sattel weit vorn über den Schultern. Das Ren ist die einzige Hirschart, die der Mensch in großem Stil domestiziert hat. Für die Polarnacht hat es außerdem einen erstaunlichen Trick: Forscher um Glen Jeffery in London zeigten 2013, dass sich die reflektierende Schicht im Auge arktischer Rentiere im Winter von Gold zu Tiefblau verfärbt. So fangen die Augen mehr vom spärlichen Licht ein.",
+              "hook": "ein Volk von Rentierhirten und Jägern",
+              "children": [],
+              "source": {
+                "title": "Ren – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ren"
+              }
+            },
+            {
+              "id": "2026-10-15-1-2-2",
+              "title": "Das Mammut im Untergrund",
+              "text": "Nicht nur „Schamane“ kam über das Russische nach Europa, sondern auch das Wort „Mammut“. Woher das russische „mamont“ ursprünglich stammt, ist unter Sprachforschern bis heute umstritten. In Sibirien tauchten immer wieder gewaltige Stoßzähne aus dem gefrorenen Boden auf, und manche Bewohner deuteten sie als Überreste riesiger Tiere, die wie Maulwürfe unter der Erde leben und am Tageslicht sterben. Heute wird Mammutelfenbein aus dem tauenden Permafrost legal gehandelt, vor allem nach China, als Ersatz für das weitgehend verbotene Elefantenelfenbein.",
+              "hook": "über das Russische nach Europa",
+              "children": [],
+              "source": {
+                "title": "Wollhaarmammut – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Wollhaarmammut"
+              }
+            }
+          ],
+          "source": {
+            "title": "Ewenken – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Ewenken"
+          }
+        }
+      ],
+      "source": {
+        "title": "Tunguska-Ereignis – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Tunguska-Ereignis"
+      }
+    },
+    {
+      "id": "2026-10-15-2",
+      "category": "orte",
+      "title": "Sokotra",
+      "text": "Sokotra liegt im Arabischen Meer, rund 380 Kilometer südlich der Arabischen Halbinsel, und gehört zum Jemen. Nach Millionen Jahren Isolation kommt etwa ein Drittel der Pflanzenarten nirgendwo sonst auf der Welt vor. Am bekanntesten ist der Drachenblutbaum mit seiner dichten, schirmförmigen Krone; sein rotes Harz wird seit der Antike als Farbstoff und Heilmittel gehandelt. Seit 2008 gehört die Inselgruppe zum UNESCO-Welterbe.",
+      "children": [
+        {
+          "id": "2026-10-15-2-0",
+          "title": "Das Blut der Drachen",
+          "text": "Das rote Harz, das seit der Antike als Farbstoff und Heilmittel gehandelt wird, sorgte schon bei den Römern für Verwirrung. Sie nannten es „cinnabaris“, also genauso wie das giftige Quecksilbererz Zinnober. Plinius der Ältere gab die Legende wieder, der Stoff entstehe aus dem Blut von Drache und Elefant, die sich im Kampf gegenseitig töten. Heute heißen gleich mehrere nicht verwandte Harze „Drachenblut“, etwa das aus südostasiatischen Rattanpalmen der Gattung Daemonorops oder der südamerikanische Baumsaft „Sangre de drago“.",
+          "hook": "als Farbstoff und Heilmittel gehandelt",
+          "children": [
+            {
+              "id": "2026-10-15-2-0-0",
+              "title": "Almadén, Stadt des Quecksilbers",
+              "text": "Das giftige Quecksilbererz Zinnober holten die Römer vor allem aus Sisapo in Hispanien, nahe dem heutigen Almadén; schon Plinius erwähnt die Gruben. Keine Lagerstätte der Welt hat mehr Quecksilber geliefert, und erst 2003 endete dort der Bergbau. Ab dem 16. Jahrhundert ging das Metall per Schiff nach Amerika, wo man damit Silber aus dem Erz löste, vor allem in Mexiko. Neben dem peruanischen Huancavelica speiste so eine Kleinstadt in Kastilien-La Mancha den Silberstrom des spanischen Weltreichs.",
+              "hook": "das giftige Quecksilbererz Zinnober",
+              "children": [],
+              "source": {
+                "title": "Bergwerk Almadén – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bergwerk_Almad%C3%A9n"
+              }
+            },
+            {
+              "id": "2026-10-15-2-0-1",
+              "title": "Plinius' letzte Reise",
+              "text": "Plinius der Ältere, der die Legende vom Drachen- und Elefantenblut überlieferte, kam im Jahr 79 selbst bei einem Naturereignis ums Leben. Als Flottenkommandant in Misenum sah er die Aschewolke über dem Vesuv und fuhr mit Kriegsschiffen los, um Menschen an der Küste zu retten und den Ausbruch aus der Nähe zu beobachten. In Stabiae starb er; ob an giftigen Gasen oder an einem Herzleiden, ist bis heute umstritten. Sein Neffe Plinius der Jüngere beschrieb den Ausbruch später in Briefen an Tacitus so genau, dass Vulkanologen diesen Eruptionstyp heute „plinianisch“ nennen.",
+              "hook": "Plinius der Ältere",
+              "children": [],
+              "source": {
+                "title": "Plinius der Ältere – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Plinius_der_%C3%84ltere"
+              }
+            },
+            {
+              "id": "2026-10-15-2-0-2",
+              "title": "Drachenblut als Arznei",
+              "text": "Der südamerikanische Baumsaft „Sangre de drago“ stammt vor allem vom Wolfsmilchgewächs Croton lechleri, dessen roter Milchsaft im Amazonasgebiet seit Langem auf Wunden gestrichen wird. Forscher gewannen daraus den Wirkstoff Crofelemer. Er hemmt Chloridkanäle in der Darmwand und bremst so den Flüssigkeitsverlust. 2012 ließ die US-Arzneimittelbehörde FDA das Mittel gegen Durchfall bei HIV-Patienten zu. Damit wurde ein Drachenblut zum ersten pflanzlichen Arzneimittel zum Einnehmen, das die FDA je genehmigt hat.",
+              "hook": "der südamerikanische Baumsaft",
+              "children": [],
+              "source": {
+                "title": "FDA approves first orally administered botanical drug – NutraIngredients-USA",
+                "url": "https://www.nutraingredients.com/Article/2013/01/04/FDA-approves-first-orally-administered-botanical-drug/"
+              }
+            }
+          ],
+          "source": {
+            "title": "Drachenblut (Harz) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Drachenblut_(Harz)"
+          }
+        },
+        {
+          "id": "2026-10-15-2-1",
+          "title": "Zwerge und Riesen der Inseln",
+          "text": "Lange Isolation bringt nicht nur neue Arten hervor, sie verändert oft auch die Körpergröße. Der Zoologe J. Bristol Foster beschrieb 1964, dass große Säugetiere auf Inseln häufig kleiner werden und kleine größer. Das Muster ist heute als Inselregel bekannt. Auf Sizilien lebten Zwergelefanten mit kaum einem Meter Schulterhöhe, und in der Höhle Liang Bua auf Flores fand man 2003 Überreste des etwa einen Meter großen Homo floresiensis. Ob dessen Kleinwuchs eine Folge des Insellebens war, ist umstritten.",
+          "hook": "Nach Millionen Jahren Isolation",
+          "children": [
+            {
+              "id": "2026-10-15-2-1-0",
+              "title": "Zyklopen aus Elefanten",
+              "text": "Die Schädel der sizilianischen Zwergelefanten haben in der Mitte eine große Öffnung für den Rüssel, die wie eine einzelne Augenhöhle wirkt. Der Paläontologe Othenio Abel vermutete 1914, solche Funde hätten die antike Sage vom Zyklopen inspiriert. Belegt ist das nicht, doch die Idee hält sich hartnäckig. Passend dazu verlegten antike Autoren wie Euripides die Zyklopen nach Sizilien, an die Hänge des Ätna.",
+              "hook": "Auf Sizilien lebten Zwergelefanten",
+              "children": [],
+              "source": {
+                "title": "Zwergelefant – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Zwergelefant"
+              }
+            },
+            {
+              "id": "2026-10-15-2-1-1",
+              "title": "Die Legende der Ebu Gogo",
+              "text": "Nach dem Fund des Homo floresiensis erinnerten sich Forscher an Erzählungen der Nage im Zentrum von Flores. Sie handeln von kleinen, behaarten Wesen namens Ebu Gogo, was etwa „Großmutter, die alles frisst“ bedeutet. Der Legende nach stahlen sie Essen, bis die Dorfbewohner ihre Höhle in Brand steckten. Eine echte Erinnerung an die Art ist jedoch unwahrscheinlich: Ihre jüngsten bekannten Spuren sind rund 50.000 Jahre alt.",
+              "hook": "Überreste des etwa einen Meter großen",
+              "children": [],
+              "source": {
+                "title": "Ebu Gogo – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ebu_Gogo"
+              }
+            },
+            {
+              "id": "2026-10-15-2-1-2",
+              "title": "Die Riesentaube",
+              "text": "Für die Regel, dass kleine Tiere auf Inseln größer werden, gibt es kaum ein berühmteres Beispiel als den Dodo. Der flugunfähige Vogel von Mauritius stammte von Tauben ab und wog wohl mehr als zehn Kilogramm; sein nächster lebender Verwandter ist die Kragentaube. Nach der Ankunft der Europäer verschwand er binnen weniger Jahrzehnte. Unsterblich machte ihn Lewis Carroll, der sich der Überlieferung nach wegen seines Stotterns als „Do-Do-Dodgson“ im Dodo selbst porträtierte.",
+              "hook": "kleine größer",
+              "children": [],
+              "source": {
+                "title": "Dodo – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dodo"
+              }
+            }
+          ],
+          "source": {
+            "title": "Inselregel – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Inselregel"
+          }
+        },
+        {
+          "id": "2026-10-15-2-2",
+          "title": "Wie Abu Simbel umzog",
+          "text": "Dass es die Welterbeliste gibt, auf der Sokotra seit 2008 steht, geht auf eine Rettungsaktion am Nil zurück. Die Tempel von Abu Simbel drohten im Stausee des Assuan-Staudamms zu versinken. In einer internationalen UNESCO-Kampagne wurden sie in den 1960er-Jahren in über tausend Blöcke zersägt und rund 65 Meter höher wieder aufgebaut. Daraus entstand 1972 die Welterbekonvention. Den Titel kann man auch verlieren: Als erste Stätte strich man 2007 Omans Oryx-Schutzgebiet, 2009 folgte das Dresdner Elbtal.",
+          "hook": "Seit 2008 gehört die Inselgruppe zum UNESCO-Welterbe",
+          "children": [
+            {
+              "id": "2026-10-15-2-2-0",
+              "title": "Die Antilope, die zurückkam",
+              "text": "Omans Schutzgebiet galt der Arabischen Oryx, einer weißen Antilope, deren letzte wilde Exemplare um 1972 geschossen wurden. Gerettet wurde sie aus Zoos, vor allem aus einer Zuchtherde in Phoenix, Arizona; ab 1982 kehrten Tiere nach Oman zurück. Wilderei und die Verkleinerung des Gebiets um rund 90 Prozent kosteten 2007 dennoch den Titel. Seit 2011 gilt die Art nur noch als gefährdet – als erstes Tier, das vom Status „in freier Wildbahn ausgestorben“ so weit zurückkam.",
+              "hook": "Omans Oryx-Schutzgebiet",
+              "children": [],
+              "source": {
+                "title": "Arabische Oryx – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Arabische_Oryx"
+              }
+            },
+            {
+              "id": "2026-10-15-2-2-1",
+              "title": "Tempo 30 für Fledermäuse",
+              "text": "Das Dresdner Elbtal verlor seinen Titel wegen der Waldschlößchenbrücke, die nach Ansicht der UNESCO die Flusslandschaft zerschnitt. Die Dresdner hatten sich 2005 per Bürgerentscheid für den Bau ausgesprochen. Zeitweise gestoppt wurde er 2007 von einer Fledermaus: Die seltene Kleine Hufeisennase jagt in dem Gebiet, und Gerichte stritten über ihren Schutz. Auf der 2013 eröffneten Brücke gilt deshalb in der warmen Jahreszeit nachts Tempo 30.",
+              "hook": "2009 folgte das Dresdner Elbtal",
+              "children": [],
+              "source": {
+                "title": "Dresdner Brückenstreit – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dresdner_Br%C3%BCckenstreit"
+              }
+            },
+            {
+              "id": "2026-10-15-2-2-2",
+              "title": "Ein Tempel in Manhattan",
+              "text": "Nicht alle Tempel, die im Stausee des Assuan-Staudamms zu versinken drohten, blieben in Ägypten. Als Dank für die Hilfe verschenkte das Land mehrere kleinere Bauten, darunter an die USA den Tempel von Dendur, errichtet um 15 v. Chr. unter dem römischen Kaiser Augustus. Er steht heute in einem eigenen Glassaal des Metropolitan Museum in New York, vor einem Wasserbecken, das an den Nil erinnern soll. In seinen Steinen sind noch Namen eingeritzt, die Reisende im 19. Jahrhundert hinterließen.",
+              "hook": "im Stausee des Assuan-Staudamms",
+              "children": [],
+              "source": {
+                "title": "Dendur – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dendur"
+              }
+            }
+          ],
+          "source": {
+            "title": "Tempel von Abu Simbel – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Tempel_von_Abu_Simbel"
+          }
+        }
+      ],
+      "source": {
+        "title": "Sokotra – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Sokotra"
+      }
+    }
+  ]
+}
