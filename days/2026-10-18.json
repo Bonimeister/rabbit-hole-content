@@ -1,0 +1,448 @@
+{
+  "version": 1,
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-16T00:40:11.962Z",
+  "topics": [
+    {
+      "id": "2026-10-18-0",
+      "category": "natur",
+      "title": "Der Bombardierkäfer",
+      "text": "Bombardierkäfer wehren sich mit einer chemischen Explosion aus dem Hinterleib. In einer Reaktionskammer treffen Hydrochinone und Wasserstoffperoxid auf Enzyme. Das Gemisch erhitzt sich auf rund 100 Grad Celsius und schießt als ätzender Strahl heraus, den der Käfer gezielt auf Angreifer richten kann. Bei der afrikanischen Art Stenaptinus insignis wiesen Forscher um Thomas Eisner von der Cornell University nach, dass der Strahl in Pulsen kommt, und zwar mehrere hundert pro Sekunde.",
+      "children": [
+        {
+          "id": "2026-10-18-0-0",
+          "title": "Die Kursk und das Peroxid",
+          "text": "Der Käfer mischt Wasserstoffperoxid nur in winzigen Mengen. Hochkonzentriert diente derselbe Stoff im 20. Jahrhundert als Treibstoff für Torpedos. Am 12. August 2000 sank das russische Atom-U-Boot Kursk in der Barentssee, alle 118 Männer an Bord starben. Laut dem offiziellen Untersuchungsbericht trat in einem Torpedo vom Typ 65-76 sogenanntes High-Test-Peroxide aus. Gut zwei Minuten nach der ersten Explosion folgte eine weit stärkere Detonation, die Seismographen in Norwegen aufzeichneten.",
+          "hook": "Hydrochinone und Wasserstoffperoxid",
+          "children": [
+            {
+              "id": "2026-10-18-0-0-0",
+              "title": "Britanniens einzige Rakete",
+              "text": "High-Test-Peroxide trieb nicht nur Torpedos an, sondern auch Black Arrow, die einzige Trägerrakete, die Großbritannien je selbst entwickelt hat. Sie verbrannte das Peroxid mit Kerosin und startete vom australischen Testgelände Woomera. Am 28. Oktober 1971 brachte sie den Satelliten Prospero in die Umlaufbahn, obwohl das Programm schon gestrichen war. Großbritannien gilt damit als einziges Land, das eine eigene Startfähigkeit entwickelt und danach wieder aufgegeben hat. Prospero kreist noch heute um die Erde.",
+              "hook": "sogenanntes High-Test-Peroxide",
+              "children": [],
+              "source": {
+                "title": "Black Arrow (Rakete) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Black_Arrow_(Rakete)"
+              }
+            },
+            {
+              "id": "2026-10-18-0-0-1",
+              "title": "Ein Winter im Eis",
+              "text": "Die Barentssee ist nach dem niederländischen Seefahrer Willem Barentsz benannt, der eine Nordostpassage nach Asien suchte. 1596 fror sein Schiff vor Nowaja Semlja im Eis fest. Die Mannschaft überwinterte in einer Hütte aus Treibholz und Schiffsplanken, die sie „Behouden Huys“ nannte, also „Bewahrtes Haus“. Barentsz starb 1597 auf der Rückfahrt in offenen Booten. Fast 300 Jahre später, im Jahr 1871, entdeckte der norwegische Kapitän Elling Carlsen die Hütte. Kochgeschirr, Bücher und sogar eine Uhr waren noch erhalten und sind heute im Amsterdamer Rijksmuseum zu sehen.",
+              "hook": "in der Barentssee",
+              "children": [],
+              "source": {
+                "title": "Willem Barents – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Willem_Barents"
+              }
+            },
+            {
+              "id": "2026-10-18-0-0-2",
+              "title": "Erdbebenwarte im ARPANET",
+              "text": "Zu den norwegischen Messstationen gehört NORSAR, ein Netz aus Seismometern, das Norwegen ab 1968 gemeinsam mit den USA aufbaute, um unterirdische Atomtests aufzuspüren. Damit die riesigen Datenmengen schnell in die USA gelangten, wurde NORSAR 1973 an das ARPANET angeschlossen, den Vorläufer des Internets. Zusammen mit dem University College London gehörte die Station damit zu den ersten Knoten außerhalb der Vereinigten Staaten. Dass Europa so früh ans Netz kam, hing also eng mit der Überwachung geheimer Atomtests zusammen.",
+              "hook": "die Seismographen in Norwegen aufzeichneten",
+              "children": [],
+              "source": {
+                "title": "NORSAR – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/NORSAR"
+              }
+            }
+          ],
+          "source": {
+            "title": "Kursk (U-Boot) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Kursk_(U-Boot)"
+          }
+        },
+        {
+          "id": "2026-10-18-0-1",
+          "title": "Das Knattern der V1",
+          "text": "Eisners Team nannte den Käfer 1990 in der Fachzeitschrift Science einen „biologischen Pulsstrahl“. Damit verglichen die Forscher ihn mit dem Antrieb der deutschen Flugbombe V1. Ihr Argus-Triebwerk As 014 zündete etwa 50-mal pro Sekunde, und Klappenventile am Einlass öffneten und schlossen sich im Takt der Verbrennung. Ab Juni 1944 flogen Tausende davon auf London. Wegen des Knatterns nannten die Briten sie „Buzz Bomb“ oder „Doodlebug“. Gefürchtet war vor allem die plötzliche Stille, denn dann stürzte die Bombe ab.",
+          "hook": "der Strahl in Pulsen kommt",
+          "children": [
+            {
+              "id": "2026-10-18-0-1-0",
+              "title": "Der andere Doodlebug",
+              "text": "Schon lange vor der V1 hieß im amerikanischen Englisch ein ganz anderes Wesen „Doodlebug“: die Larve des Ameisenlöwen. Sie gräbt Trichter in lockeren Sand, lauert am Grund und bewirft abrutschende Ameisen mit Sandkörnern, bis sie in ihre Zangen fallen. Den Namen verdankt sie vermutlich den gekritzelten Spuren, die sie bei der Suche nach einem Bauplatz hinterlässt. Am seltsamsten ist ihr Darm: Er hat keinen Ausgang, und erst das erwachsene Insekt scheidet den gesammelten Abfall der ganzen Larvenzeit aus.",
+              "hook": "„Buzz Bomb“ oder „Doodlebug“",
+              "children": [],
+              "source": {
+                "title": "Ameisenlöwe – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ameisenl%C3%B6we"
+              }
+            },
+            {
+              "id": "2026-10-18-0-1-1",
+              "title": "Falsche Treffer für Berlin",
+              "text": "Wo die Flugbomben in London einschlugen, konnte die deutsche Seite kaum überprüfen, denn Aufklärungsflüge über England waren 1944 selten geworden. Sie verließ sich deshalb auf Agenten, die längst für den britischen Geheimdienst MI5 arbeiteten, darunter Eddie Chapman mit dem Decknamen „Zigzag“. Diese meldeten gezielt Einschläge, die zu weit nördlich lagen, damit die Deutschen die Reichweite verkürzten. Wie viel das brachte, ist unter Historikern umstritten. Der bittere Preis war jedoch klar: Mehr Bomben fielen nun auf die südlichen Vororte.",
+              "hook": "flogen Tausende davon auf London",
+              "children": [],
+              "source": {
+                "title": "Double-Cross-System – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Double-Cross-System"
+              }
+            },
+            {
+              "id": "2026-10-18-0-1-2",
+              "title": "Hundert Augen, ein Pfau",
+              "text": "Der Triebwerkshersteller Argus trägt den Namen eines Riesen aus der griechischen Mythologie, der hundert Augen hatte und nie ganz schlief. Nachdem Hermes ihn getötet hatte, setzte Hera der Sage nach seine Augen ins Gefieder des Pfaus. Charles Darwin schrieb 1860 an den Botaniker Asa Gray, schon der Anblick einer Pfauenfeder mache ihn krank, denn sie passte nicht zu seiner Theorie der natürlichen Auslese. 1871 antwortete er darauf mit der sexuellen Selektion. Als Beispiel nahm er ausgerechnet die Augenflecken des Argusfasans.",
+              "hook": "Ihr Argus-Triebwerk As 014",
+              "children": [],
+              "source": {
+                "title": "Argos (Riese) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Argos_(Riese)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Fieseler Fi 103 – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Fieseler_Fi_103"
+          }
+        },
+        {
+          "id": "2026-10-18-0-2",
+          "title": "Der Insektenchemiker Eisner",
+          "text": "Thomas Eisner gilt zusammen mit seinem Cornell-Kollegen Jerrold Meinwald als Mitbegründer der chemischen Ökologie. Dieses Fach erforscht, wie Lebewesen mit Molekülen kämpfen, werben und sich verständigen. Eisner wurde 1929 in Berlin geboren und floh als Kind mit seiner Familie vor den Nationalsozialisten. Er wuchs in Uruguay auf und kam erst 1947 in die USA. Seine jahrzehntelange Forschung fasste er 2003 im Buch „For Love of Insects“ zusammen.",
+          "hook": "Thomas Eisner von der Cornell University",
+          "children": [
+            {
+              "id": "2026-10-18-0-2-0",
+              "title": "Mitgift aus Pflanzengift",
+              "text": "Mit Jerrold Meinwald entschlüsselte Eisner das Liebesleben des Bärenspinners Utetheisa ornatrix. Dessen Raupen fressen Pflanzen mit giftigen Pyrrolizidin-Alkaloiden und speichern sie. Bei der Paarung übergibt das Männchen einen Teil davon mit dem Samen, und das Weibchen schützt damit seine Eier vor Fressfeinden. Weil der Duft des Männchens aus denselben Alkaloiden gebildet wird, verrät er, wie reich die Mitgift ausfällt.",
+              "hook": "seinem Cornell-Kollegen Jerrold Meinwald",
+              "children": [],
+              "source": {
+                "title": "Utetheisa ornatrix – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Utetheisa_ornatrix"
+              }
+            },
+            {
+              "id": "2026-10-18-0-2-1",
+              "title": "Eine halbe Million Falter",
+              "text": "Wie Insekten mit Molekülen werben, zeigte der deutsche Chemiker Adolf Butenandt an einem ersten Beispiel. Für den Lockstoff des Seidenspinners verarbeitete er die Duftdrüsen von rund einer halben Million Weibchen, bis er 1959 die Struktur des Bombykols vorlegte. Im selben Jahr prägten Peter Karlson und Martin Lüscher den Begriff „Pheromon“. Den Nobelpreis hatte Butenandt da schon zwanzig Jahre zuvor zugesprochen bekommen, und zwar für menschliche Sexualhormone.",
+              "hook": "werben und sich verständigen",
+              "children": [],
+              "source": {
+                "title": "Insektenpheromone – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Insektenpheromone"
+              }
+            },
+            {
+              "id": "2026-10-18-0-2-2",
+              "title": "Der Untergang der Graf Spee",
+              "text": "In Uruguay, wo Eisner aufwuchs, spielte sich im Dezember 1939 ein Drama des Seekriegs ab. Nach einem Gefecht mit britischen Kreuzern lief das deutsche Panzerschiff „Admiral Graf Spee“ beschädigt in Montevideo ein, doch das neutrale Uruguay gewährte nur eine kurze Liegefrist. Kapitän Hans Langsdorff ließ das Schiff am 17. Dezember vor dem Hafen selbst versenken und nahm sich drei Tage später in Buenos Aires das Leben. Der 2006 aus dem Wrack geborgene Bronzeadler mit Hakenkreuz sorgt in Uruguay bis heute für Streit.",
+              "hook": "Er wuchs in Uruguay auf",
+              "children": [],
+              "source": {
+                "title": "Gefecht vor dem Río de la Plata – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gefecht_vor_dem_R%C3%ADo_de_la_Plata"
+              }
+            }
+          ],
+          "source": {
+            "title": "Tom Eisner, 'father of chemical ecology' and renowned Cornell biologist, dies at 81 – Cornell Chronicle",
+            "url": "https://news.cornell.edu/stories/2011/03/tom-eisner-father-chemical-ecology-dies-81"
+          }
+        }
+      ],
+      "source": {
+        "title": "Bombardierkäfer – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Bombardierk%C3%A4fer"
+      }
+    },
+    {
+      "id": "2026-10-18-1",
+      "category": "wissenschaft",
+      "title": "Der Naturreaktor von Oklo",
+      "text": "In Oklo im zentralafrikanischen Gabun lief vor rund zwei Milliarden Jahren ein natürlicher Kernreaktor. Damals enthielt Uranerz noch genug spaltbares Uran-235, und Grundwasser bremste die Neutronen so ab, dass immer wieder Kettenreaktionen in Gang kamen. Entdeckt wurde das 1972, weil französischen Fachleuten auffiel, dass dem Uran aus Oklo ein winziger Teil U-235 fehlte. Physiker prüfen an den Reaktorzonen bis heute, ob sich Naturkonstanten seit damals verändert haben.",
+      "children": [
+        {
+          "id": "2026-10-18-1-0",
+          "title": "Sabotage am schweren Wasser",
+          "text": "Was in Oklo das Grundwasser leistete, übernimmt in Reaktoren ein Moderator. Besonders gut eignet sich schweres Wasser, weil es kaum Neutronen schluckt. Im Zweiten Weltkrieg war das Wasserkraftwerk Vemork bei Rjukan in Norwegen die wichtigste Quelle dafür im deutschen Machtbereich und geriet deshalb ins Visier der Alliierten. Im Februar 1943 sprengten norwegische Saboteure bei der Operation Gunnerside die Elektrolysezellen, ohne dass ein Schuss fiel. Ein Jahr später versenkte der Widerstand die Fähre „Hydro“ mit den letzten Fässern auf dem Tinnsjø-See.",
+          "hook": "Grundwasser bremste die Neutronen",
+          "children": [
+            {
+              "id": "2026-10-18-1-0-0",
+              "title": "Die Stadt ohne Wintersonne",
+              "text": "Rjukan in Norwegen hat ein Problem, das mit Sabotage nichts zu tun hat: Die Stadt liegt so tief im Tal, dass von Ende September bis Mitte März kein direktes Sonnenlicht hineinfällt. Norsk Hydro baute deshalb 1928 die Seilbahn Krossobanen, damit die Bewohner im Winter zur Sonne hinauffahren konnten. Schon Firmengründer Sam Eyde soll um 1913 über Spiegel an den Hängen nachgedacht haben. Erst 2013 wurde daraus Wirklichkeit: Seitdem werfen drei computergesteuerte Spiegel hoch über der Stadt einen Lichtfleck auf den Marktplatz.",
+              "hook": "Rjukan in Norwegen",
+              "children": [],
+              "source": {
+                "title": "Rjukan – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Rjukan"
+              }
+            },
+            {
+              "id": "2026-10-18-1-0-1",
+              "title": "Warum schweres Wasser süß ist",
+              "text": "Schweres Wasser unterscheidet sich von normalem nur durch Deuterium, einen Wasserstoff mit zusätzlichem Neutron im Kern. Harold Urey wies dieses Isotop 1931 nach und erhielt dafür 1934 den Chemie-Nobelpreis. In Laboren hielt sich jahrzehntelang das Gerücht, schweres Wasser schmecke süß. 2021 bestätigte ein Team der Hebräischen Universität Jerusalem und der Tschechischen Akademie der Wissenschaften, dass Menschen es tatsächlich als leicht süß wahrnehmen. Ausgelöst wird das über denselben Rezeptor, der auf Zucker reagiert. Mäuse dagegen zeigten keine Vorliebe dafür.",
+              "hook": "schweres Wasser, weil es kaum Neutronen",
+              "children": [],
+              "source": {
+                "title": "Schweres Wasser – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Schweres_Wasser"
+              }
+            },
+            {
+              "id": "2026-10-18-1-0-2",
+              "title": "Saboteure spielen sich selbst",
+              "text": "Die norwegischen Saboteure erlebten ihre Aktion wenige Jahre nach dem Krieg ein zweites Mal, diesmal vor der Kamera. Im norwegisch-französischen Film „Kampen om tungtvannet“ von 1948 spielten mehrere echte Beteiligte sich selbst, darunter Jens-Anton Poulsson, der Anführer der Vorausgruppe. Das britische Kino griff den Stoff 1965 mit Kirk Douglas in „Kennwort ‚Schweres Wasser‘“ auf und dichtete reichlich Dramatik hinzu. Gunnerside-Anführer Joachim Rønneberg starb 2018 mit 99 Jahren als letzter Überlebender des Kommandos.",
+              "hook": "norwegische Saboteure",
+              "children": [],
+              "source": {
+                "title": "Kampf ums schwere Wasser – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kampf_ums_schwere_Wasser"
+              }
+            }
+          ],
+          "source": {
+            "title": "Norwegische Schwerwasser-Sabotage – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Norwegische_Schwerwasser-Sabotage"
+          }
+        },
+        {
+          "id": "2026-10-18-1-1",
+          "title": "Die rätselhafte Zahl 137",
+          "text": "Im Zentrum dieser Prüfungen steht die Feinstrukturkonstante, die angibt, wie stark Licht und Materie wechselwirken. Arnold Sommerfeld führte sie 1916 ein. Ihr Wert liegt nahe bei 1/137, und bis heute kann keine Theorie diese dimensionslose Zahl herleiten. 1976 erkannte der sowjetische Physiker Alexander Schljachter, dass Oklo als Archiv taugt: Samarium-149 fängt Neutronen vor allem bei einer ganz bestimmten Energie ein. Die heutigen Samariummengen zeigen, dass sich die Konstante seither höchstens minimal verändert hat.",
+          "hook": "ob sich Naturkonstanten seit damals verändert haben",
+          "children": [
+            {
+              "id": "2026-10-18-1-1-0",
+              "title": "Der ewige Nobel-Kandidat",
+              "text": "Arnold Sommerfeld, der die Feinstrukturkonstante einführte, war vor allem ein Lehrer mit enormer Wirkung. Bei ihm in München promovierten Werner Heisenberg, Wolfgang Pauli, Peter Debye und Hans Bethe, die später alle den Nobelpreis erhielten. Er selbst wurde laut Nobelarchiv 84-mal für den Physikpreis nominiert, so oft wie kaum ein anderer Forscher, und ging jedes Mal leer aus. Der Mann, der der Physik ihre rätselhafteste Zahl gab, wurde so zum Rekordhalter unter den ewigen Kandidaten.",
+              "hook": "Arnold Sommerfeld führte sie 1916 ein",
+              "children": [],
+              "source": {
+                "title": "Arnold Sommerfeld – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Arnold_Sommerfeld"
+              }
+            },
+            {
+              "id": "2026-10-18-1-1-1",
+              "title": "Sir Arthur Adding-One",
+              "text": "Dass sich die Zahl nicht herleiten lässt, wollte der britische Astrophysiker Arthur Eddington nicht hinnehmen. Ende der 1920er-Jahre glaubte er, allein durch Überlegung beweisen zu können, dass ihr Kehrwert genau 136 beträgt. Als die Messungen eher auf 137 hindeuteten, fand er nachträglich eine Begründung für eine zusätzliche Eins, und Spötter tauften ihn „Sir Arthur Adding-One“. Mit ähnlicher Zahlenlogik bestimmte er sogar die Zahl der Protonen im Universum: exakt 136 mal 2 hoch 256, also rund 10 hoch 79.",
+              "hook": "keine Theorie diese dimensionslose Zahl herleiten",
+              "children": [],
+              "source": {
+                "title": "Arthur Stanley Eddington – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Arthur_Stanley_Eddington"
+              }
+            },
+            {
+              "id": "2026-10-18-1-1-2",
+              "title": "Der Mann hinter Samarium",
+              "text": "Das Element Samarium, das in Oklo als Messinstrument dient, trägt den Namen eines russischen Bergbeamten. Der Franzose Paul-Émile Lecoq de Boisbaudran entdeckte es 1879 im Mineral Samarskit, das nach Oberst Wassili Samarski-Bychowez benannt war. Dieser hatte Forschern lediglich erlaubt, Gesteinsproben aus dem Ural zu untersuchen. So wurde ein Verwaltungsmann zum ersten realen Menschen, nach dem ein chemisches Element benannt ist – wenn auch auf Umwegen und Jahrzehnte vor Curie, Einstein oder Mendelejew.",
+              "hook": "Samarium-149 fängt Neutronen",
+              "children": [],
+              "source": {
+                "title": "Wassili Jewgrafowitsch Samarski-Bychowez – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Wassili_Jewgrafowitsch_Samarski-Bychowez"
+              }
+            }
+          ],
+          "source": {
+            "title": "Feinstrukturkonstante – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Feinstrukturkonstante"
+          }
+        },
+        {
+          "id": "2026-10-18-1-2",
+          "title": "Rätsel von Franceville",
+          "text": "Aus derselben Zeit und demselben Gesteinsbecken bei Franceville stammen Fossilien, die 2010 für Aufsehen sorgten. Der Geologe Abderrazak El Albani von der Universität Poitiers beschrieb in der Fachzeitschrift Nature zentimetergroße, gewellte Gebilde. Sie sind rund 2,1 Milliarden Jahre alt, und er deutet sie als frühe vielzellige Lebewesen. Damit wären sie weit älter als die Ediacara-Fauna, die lange als Beginn großer Lebensformen galt. Viele Fachleute halten die Strukturen jedoch für Bakterienmatten oder Mineralbildungen, die Frage ist weiterhin umstritten.",
+          "hook": "vor rund zwei Milliarden Jahren",
+          "children": [
+            {
+              "id": "2026-10-18-1-2-0",
+              "title": "Die lebenden Steine",
+              "text": "Aus Bakterienmatten kann Gestein werden: Cyanobakterien fangen Sedimentkörner ein und wachsen Schicht für Schicht darüber, so entstehen Stromatolithen. Die ältesten gut belegten sind rund 3,5 Milliarden Jahre alt. Lebende Exemplare fand man Mitte des 20. Jahrhunderts im Hamelin Pool in Australiens Shark Bay. Dort überleben sie, weil das Wasser etwa doppelt so salzig ist wie im offenen Meer und Schnecken fernhält – ein Fenster in die Zeit, bevor Tiere die Matten abweideten.",
+              "hook": "für Bakterienmatten oder Mineralbildungen",
+              "children": [],
+              "source": {
+                "title": "Stromatolith – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Stromatolith"
+              }
+            },
+            {
+              "id": "2026-10-18-1-2-1",
+              "title": "Das Cholesterin-Fossil",
+              "text": "Die Ediacara-Fauna ist nach den Ediacara Hills in Südaustralien benannt, wo der Geologe Reg Sprigg 1946 rätselhafte Abdrücke weicher Organismen fand. Am bekanntesten ist Dickinsonia, ein flaches, geripptes Oval von bis über einem Meter Länge. Ob es ein Tier war, klärte erst 2018 ein Team um Ilya Bobrovskiy: In einem Fossil vom Weißen Meer fand es Abbauprodukte von Cholesterin, einem typischen Tiermerkmal. Nach rund 558 Millionen Jahren hatte sich der Beweis in Fettmolekülen erhalten.",
+              "hook": "die Ediacara-Fauna",
+              "children": [],
+              "source": {
+                "title": "Dickinsonia – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dickinsonia"
+              }
+            },
+            {
+              "id": "2026-10-18-1-2-2",
+              "title": "Ein Element von der Sonne",
+              "text": "Die Fachzeitschrift Nature gründete 1869 der englische Astronom Norman Lockyer, und er blieb rund fünfzig Jahre ihr Herausgeber. Ein Jahr zuvor hatte er im Spektrum der Sonne eine gelbe Linie untersucht, die zu keinem bekannten Element passte. Gemeinsam mit dem Chemiker Edward Frankland benannte er den mutmaßlichen Stoff nach Helios, dem griechischen Sonnengott. Erst 1895 wies William Ramsay Helium auch auf der Erde nach: Das Element war zuerst auf der Sonne entdeckt worden.",
+              "hook": "in der Fachzeitschrift Nature",
+              "children": [],
+              "source": {
+                "title": "Joseph Norman Lockyer – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Joseph_Norman_Lockyer"
+              }
+            }
+          ],
+          "source": {
+            "title": "Gabonionta – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Gabonionta"
+          }
+        }
+      ],
+      "source": {
+        "title": "Naturreaktor Oklo – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Naturreaktor_Oklo"
+      }
+    },
+    {
+      "id": "2026-10-18-2",
+      "category": "kultur",
+      "title": "Der Teppich von Bayeux",
+      "text": "Der Teppich von Bayeux ist eigentlich gar kein Teppich, sondern eine Stickerei aus Wollgarn auf Leinen. Er ist knapp 70 Meter lang und rund einen halben Meter hoch. In Bildern erzählt er, wie der Normannenherzog Wilhelm 1066 England eroberte. In einer Szene zeigen Männer auf einen Stern mit Schweif, darüber steht „Isti mirant stella“. Gemeint ist der Halleysche Komet, der im Frühjahr 1066 zu sehen war. Das Ende der Stickerei fehlt heute, es ist verloren gegangen.",
+      "children": [
+        {
+          "id": "2026-10-18-2-0",
+          "title": "Das blaue Gold Thüringens",
+          "text": "Die Wolle des Teppichs wurde im Wesentlichen mit drei Pflanzenfarben gefärbt: Krapp für Rot, Färberwau für Gelb und Waid für Blau. Waid machte im Spätmittelalter Thüringen reich. Erfurt, Gotha, Arnstadt, Langensalza und Tennstedt galten als die fünf Waidstädte, und das Geld aus dem Handel floss auch in die 1392 eröffnete Universität Erfurt. Als später billigeres Indigo aus Übersee kam, setzten sich die Waidhändler mit Verboten zur Wehr und schmähten die Konkurrenz als „Teufelsfarbe“.",
+          "hook": "Wollgarn auf Leinen",
+          "children": [
+            {
+              "id": "2026-10-18-2-0-0",
+              "title": "Rote Hosen bis 1914",
+              "text": "Krapp lieferte über Jahrhunderte das wichtigste Rot. Das änderte sich 1868, als die Chemiker Carl Graebe und Carl Liebermann seinen Farbstoff Alizarin künstlich herstellten. Danach brach der Krappanbau binnen weniger Jahrzehnte zusammen, besonders in Südfrankreich rund um Avignon. Dort hatte er zuvor auch von der Armee profitiert, denn seit 1829 trugen französische Infanteristen krapprote Hosen. Im August 1914 zogen sie damit noch in den Krieg, weithin sichtbar. Gefärbt waren die Hosen inzwischen mit synthetischem Farbstoff, der größtenteils aus deutschen Fabriken stammte.",
+              "hook": "Krapp für Rot",
+              "children": [],
+              "source": {
+                "title": "Färberkrapp – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/F%C3%A4rberkrapp"
+              }
+            },
+            {
+              "id": "2026-10-18-2-0-1",
+              "title": "Die Uni mit 178 Jahren Pause",
+              "text": "Die Universität Erfurt erhebt Anspruch darauf, die älteste Deutschlands zu sein. Ihr Gründungsprivileg stammt von 1379, doch Heidelberg und Köln begannen früher mit dem Unterricht, deshalb ist der Titel umstritten. Ihr berühmtester Student kam 1501: Martin Luther. Er wurde hier Magister und trat 1505 ins Erfurter Augustinerkloster ein, nachdem er in einem Gewitter bei Stotternheim ein Gelübde abgelegt hatte. 1816 schloss Preußen die Universität. Erst 1994 wurde sie neu gegründet, nach 178 Jahren Pause.",
+              "hook": "1392 eröffnete Universität Erfurt",
+              "children": [],
+              "source": {
+                "title": "Universität Erfurt – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Universit%C3%A4t_Erfurt"
+              }
+            },
+            {
+              "id": "2026-10-18-2-0-2",
+              "title": "Gandhis Kampf ums Indigo",
+              "text": "Ein großer Teil des Indigos, das den Waid verdrängte, kam aus Indien. Dort ließen britische Pflanzer den Farbstoff von Bauern anbauen, oft unter Zwang. In Champaran im heutigen Bundesstaat Bihar mussten Pächter nach dem sogenannten Tinkathia-System drei Zwanzigstel ihres Landes mit Indigo bepflanzen. 1917 reiste Mohandas Gandhi dorthin, missachtete eine Anordnung, den Bezirk zu verlassen, und sammelte Tausende Aussagen von Bauern. Der Zwangsanbau wurde abgeschafft. Gandhis erste große Kampagne in Indien drehte sich also um einen blauen Farbstoff.",
+              "hook": "billigeres Indigo aus Übersee",
+              "children": [],
+              "source": {
+                "title": "Champaran Satyagraha – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Champaran_Satyagraha"
+              }
+            }
+          ],
+          "source": {
+            "title": "Waidstädte – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Waidst%C3%A4dte"
+          }
+        },
+        {
+          "id": "2026-10-18-2-1",
+          "title": "Ein Bauer findet Halley",
+          "text": "Dass der Komet von 1066 regelmäßig wiederkehrt, erkannte erst Edmond Halley. 1705 folgerte er, dass die Kometen von 1531, 1607 und 1682 ein und derselbe waren, und sagte die Rückkehr für 1758 voraus. Halley starb 1742 und erlebte sie nicht mehr. Als Erster entdeckte den Kometen in der Weihnachtsnacht 1758 der Amateurastronom Johann Georg Palitzsch, ein Bauer aus Prohlis bei Dresden.",
+          "hook": "Gemeint ist der Halleysche Komet",
+          "children": [
+            {
+              "id": "2026-10-18-2-1-0",
+              "title": "Sterbetafel aus Breslau",
+              "text": "Edmond Halley ist für den Kometen berühmt, er befasste sich aber auch mit dem menschlichen Tod. 1693 wertete er Geburts- und Sterbedaten aus Breslau aus, die der Pfarrer Caspar Neumann gesammelt hatte, und erstellte daraus eine der ersten wissenschaftlichen Sterbetafeln. Mit ihr berechnete er, was eine Leibrente je nach Alter des Käufers kosten müsste. Das wurde eine Grundlage der Lebensversicherung. Die britische Regierung verkaufte ihre Leibrenten trotzdem noch jahrzehntelang zum selben Preis an Junge wie an Alte.",
+              "hook": "erkannte erst Edmond Halley",
+              "children": [],
+              "source": {
+                "title": "Edmond Halley: An Estimate of the Degrees of the Mortality of Mankind (1693) – Royal Holloway, University of London",
+                "url": "https://gtfp.cs.rhul.ac.uk/pulskamp/Halley/halley.html"
+              }
+            },
+            {
+              "id": "2026-10-18-2-1-1",
+              "title": "Rechnen gegen Jupiter",
+              "text": "Halleys Vorhersage für 1758 war grob, weil er den Einfluss der großen Planeten auf die Bahn nicht genau berechnen konnte. In Paris rechneten Alexis Clairaut, Jérôme Lalande und Nicole-Reine Lepaute deshalb monatelang von Hand nach, wie stark Jupiter und Saturn den Kometen abbremsen. Sie sagten die größte Annäherung an die Sonne für Mitte April 1759 voraus und gaben einen Spielraum von einem Monat an. Der Komet kam am 13. März und lag damit knapp innerhalb dieser Spanne. Lalande zufolge wurde die Hortensie nach Lepaute benannt, doch diese Erklärung ist umstritten.",
+              "hook": "sagte die Rückkehr für 1758 voraus",
+              "children": [],
+              "source": {
+                "title": "Nicole-Reine Etable de Labrière Lepaute – MacTutor History of Mathematics (University of St Andrews)",
+                "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lepaute/"
+              }
+            },
+            {
+              "id": "2026-10-18-2-1-2",
+              "title": "Messiers Störenfriede",
+              "text": "Als Erster entdeckte den Kometen Palitzsch. In Paris suchte Charles Messier dagegen monatelang vergeblich und sah ihn erst im Januar 1759. Bei seiner Jagd störten ihn immer wieder neblige Flecken am Himmel, die man leicht mit Kometen verwechseln konnte. Deshalb legte er eine Liste dieser Störenfriede an. Sie beginnt mit M1, dem Krebsnebel. Messiers Kometen kennen heute fast nur noch Fachleute, sein Verzeichnis der Ärgernisse ist dagegen die berühmteste Objektliste der Amateurastronomie.",
+              "hook": "Als Erster entdeckte den Kometen",
+              "children": [],
+              "source": {
+                "title": "Messier-Katalog – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Messier-Katalog"
+              }
+            }
+          ],
+          "source": {
+            "title": "Halleyscher Komet – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Halleyscher_Komet"
+          }
+        },
+        {
+          "id": "2026-10-18-2-2",
+          "title": "Normannen unter Palmen",
+          "text": "Wilhelm war nicht der einzige erfolgreiche Normanne: Andere Normannen eroberten im selben Jahrhundert Süditalien und Sizilien. Roger II. ließ sich 1130 in Palermo zum König krönen und herrschte über Christen, Muslime und Juden. An seinem Hof arbeitete der arabische Geograf al-Idrisi, der 1154 ein Erdbeschreibungswerk mit Karten vollendete, die Tabula Rogeriana. Wie in der arabischen Kartografie damals üblich, ist auf ihren Karten Süden oben.",
+          "hook": "der Normannenherzog Wilhelm",
+          "children": [
+            {
+              "id": "2026-10-18-2-2-0",
+              "title": "Als Osten oben lag",
+              "text": "Dass Norden oben liegt, ist nur eine Übereinkunft: Christliche Weltkarten des Mittelalters stellten meist Osten nach oben, wo man das Paradies vermutete. Daher kommt das Wort „orientieren“, also sich nach dem Orient ausrichten. Die größte dieser Karten war die Ebstorfer Weltkarte aus der Lüneburger Heide, rund 3,6 Meter breit und aus 30 Pergamentbögen zusammengesetzt. Auf ihr ist die Welt der Leib Christi, mit seinem Kopf im Osten. Das Original verbrannte 1943 bei einem Luftangriff auf Hannover, heute sieht man nur Nachbildungen.",
+              "hook": "ist auf ihren Karten Süden oben",
+              "children": [],
+              "source": {
+                "title": "Ebstorfer Weltkarte – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ebstorfer_Weltkarte"
+              }
+            },
+            {
+              "id": "2026-10-18-2-2-1",
+              "title": "Kaisermantel aus Palermo",
+              "text": "Zu Rogers Königtum gehörte ein Prunkgewand aus der Hofwerkstatt in Palermo: ein roter Seidenmantel mit Goldstickerei und Perlen. Darauf reißen zwei Löwen je ein Kamel nieder, zwischen ihnen steht eine Palme. Eine arabische Inschrift am Saum datiert den Mantel auf das Jahr 528 der Hidschra, also 1133/34. Über Rogers Tochter Konstanze gelangte er an die Staufer und wurde Teil der Reichskleinodien. So trugen römisch-deutsche Kaiser bis ins späte 18. Jahrhundert bei ihrer Krönung einen Mantel mit arabischer Schrift. Heute liegt er in der Wiener Schatzkammer.",
+              "hook": "in Palermo zum König krönen",
+              "children": [],
+              "source": {
+                "title": "Krönungsmantel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kr%C3%B6nungsmantel"
+              }
+            },
+            {
+              "id": "2026-10-18-2-2-2",
+              "title": "Die Mondberge des Nils",
+              "text": "Auf der Tabula Rogeriana entspringt der Nil, wie schon beim antiken Gelehrten Ptolemäus, in den sagenhaften „Mondbergen“ tief im Inneren Afrikas. Europäer hielten sie lange für eine Fabel. Dann beschrieb Henry Morton Stanley 1888 das Ruwenzori-Gebirge an der Grenze zwischen Uganda und Kongo, das seither oft mit den Mondbergen gleichgesetzt wird. Obwohl es fast am Äquator liegt, tragen seine Gipfel Gletscher, der höchste ist gut 5100 Meter hoch. Und tatsächlich fließt ihr Schmelzwasser über den Semliki in den Albertsee und damit in den Nil.",
+              "hook": "die Tabula Rogeriana",
+              "children": [],
+              "source": {
+                "title": "Ruwenzori-Gebirge – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ruwenzori-Gebirge"
+              }
+            }
+          ],
+          "source": {
+            "title": "Roger II. (Sizilien) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Roger_II._(Sizilien)"
+          }
+        }
+      ],
+      "source": {
+        "title": "Teppich von Bayeux – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Teppich_von_Bayeux"
+      }
+    }
+  ]
+}
