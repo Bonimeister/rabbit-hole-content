@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-17T00:40:38.898Z",
+  "topics": [
+    {
+      "id": "2026-10-19-0",
+      "category": "geschichte",
+      "title": "Der Große Gestank",
+      "text": "Im heißen Sommer 1858 stank die Themse so entsetzlich, dass im Londoner Parlament Vorhänge mit Chlorkalk getränkt wurden und Abgeordnete über einen Umzug der Sitzungen nachdachten. Jahrzehntelang waren Abwässer, verstärkt durch die neuen Spülklosetts, direkt in den Fluss geflossen. Der Gestank brachte endlich Geld für den Ingenieur Joseph Bazalgette, der ein Kanalnetz mit rund 1.800 Kilometern Straßenkanälen baute – teils verborgen im neu aufgeschütteten Victoria Embankment.",
+      "children": [
+        {
+          "id": "2026-10-19-0-0",
+          "title": "Semmelweis' Chlorwasser",
+          "text": "Chlorkalk galt damals vor allem als Mittel gegen üble Gerüche, doch der Wiener Arzt Ignaz Semmelweis setzte ihn schon 1847 für etwas viel Wichtigeres ein. Am Allgemeinen Krankenhaus ließ er Ärzte, die aus dem Sektionssaal kamen, ihre Hände in Chlorkalklösung waschen. Danach starben in seiner Abteilung drastisch weniger Mütter am Kindbettfieber. Viele Kollegen lehnten seine Lehre trotzdem ab, denn Krankheitserreger waren noch unbekannt. Semmelweis starb 1865 in einer Anstalt bei Wien, vermutlich an einer Wundinfektion.",
+          "hook": "mit Chlorkalk getränkt",
+          "children": [
+            {
+              "id": "2026-10-19-0-0-0",
+              "title": "Leichen für Edinburgh",
+              "text": "Leichen für die Sektionssäle waren damals knapp, und in Edinburgh führte das 1828 zu einer der berüchtigtsten Mordserien Großbritanniens. William Burke und William Hare töteten 16 Menschen und verkauften die Toten an den Anatomen Robert Knox. Hare sagte gegen seinen Komplizen aus. Burke wurde 1829 gehängt und anschließend selbst öffentlich seziert. Sein Skelett ist bis heute im Anatomischen Museum der Universität Edinburgh zu sehen.",
+              "hook": "aus dem Sektionssaal kamen",
+              "children": [],
+              "source": {
+                "title": "West-Port-Morde – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/West-Port-Morde"
+              }
+            },
+            {
+              "id": "2026-10-19-0-0-1",
+              "title": "Frankensteins Mutter",
+              "text": "Am Kindbettfieber starb 1797 auch die Londoner Schriftstellerin Mary Wollstonecraft, die Autorin der Streitschrift „Verteidigung der Rechte der Frau“. Elf Tage nach der Geburt ihrer Tochter war sie tot. Vermutlich hatte sie sich infiziert, als ein Arzt die Plazenta mit der Hand entfernte. Die Tochter traf sich später am Grab der Mutter auf dem Friedhof St Pancras heimlich mit dem Dichter Percy Shelley. Als Mary Shelley schrieb sie 1818 „Frankenstein“, einen Roman über die künstliche Erschaffung von Leben.",
+              "hook": "Mütter am Kindbettfieber",
+              "children": [],
+              "source": {
+                "title": "Mary Shelley – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Mary_Shelley"
+              }
+            },
+            {
+              "id": "2026-10-19-0-0-2",
+              "title": "Der höchste Schornstein",
+              "text": "Bevor Ärzte ihre Hände in Chlorkalklösung wuschen, bleichte man damit Stoffe: Der Glasgower Unternehmer Charles Tennant ließ das Bleichpulver 1799 patentieren. Bis dahin lagen Leinenbahnen oft monatelang auf Wiesen, wo Sonne und Regen sie bleichten. Tennants Werk in St Rollox wurde zu einer der größten Chemiefabriken der Welt. Um die giftigen Abgase loszuwerden, baute man dort 1842 einen rund 130 Meter hohen Schlot, „Tennant's Stalk“. Er galt damals als höchster Schornstein der Welt.",
+              "hook": "in Chlorkalklösung waschen",
+              "children": [],
+              "source": {
+                "title": "St Rollox: Residues of Glasgow’s Industrial Past – The Hunterian (University of Glasgow)",
+                "url": "https://hunterian.blog/st-rollox/"
+              }
+            }
+          ],
+          "source": {
+            "title": "Ignaz Semmelweis – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Ignaz_Semmelweis"
+          }
+        },
+        {
+          "id": "2026-10-19-0-1",
+          "title": "Das Klo der Königin",
+          "text": "Die Spülklosetts, die Londons Abwasser so anschwellen ließen, hatten eine lange Vorgeschichte. Schon 1596 beschrieb der Höfling John Harington ein Wasserklosett und soll auch eines für seine Patin Elizabeth I. gebaut haben. Den Durchbruch brachte 1775 das Patent des Uhrmachers Alexander Cumming auf einen S-förmigen Siphon, in dem stehendes Wasser die Gerüche zurückhält. Dass Thomas Crapper das Klo erfunden habe, ist dagegen eine Legende. Er war nur ein erfolgreicher Sanitärunternehmer.",
+          "hook": "die neuen Spülklosetts",
+          "children": [
+            {
+              "id": "2026-10-19-0-1-0",
+              "title": "Ajax, der Abort",
+              "text": "John Harington stellte sein Wasserklosett 1596 in einer Schrift vor, deren Titel ein derber Wortwitz war: „The Metamorphosis of Ajax“. Hinter dem griechischen Helden steckte „a jakes“, ein damals gängiges englisches Wort für Abort. Ärger bei Hof hatte der Spötter schon früher. Er soll anzügliche Passagen aus Ariosts Epos „Orlando furioso“ übersetzt und unter den Hofdamen verbreitet haben. Zur Strafe verlangte die Königin der Überlieferung nach das ganze Werk. Harington lieferte, und seine vollständige Übersetzung erschien 1591.",
+              "hook": "der Höfling John Harington",
+              "children": [],
+              "source": {
+                "title": "John Harington – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/John_Harington"
+              }
+            },
+            {
+              "id": "2026-10-19-0-1-1",
+              "title": "Krank durch schlechte Luft",
+              "text": "Gerüche zurückzuhalten war im 19. Jahrhundert eine Gesundheitsfrage. Nach der Miasmentheorie verbreiteten faulige Dünste Krankheiten wie die Cholera. Der Arzt John Snow zweifelte daran und führte 1854 einen Ausbruch in Soho auf eine verseuchte Pumpe in der Broad Street zurück. Bazalgettes Kanäle entstanden vor allem gegen den Gestank, halfen aber trotzdem, die Cholera zurückzudrängen. Beim letzten großen Ausbruch 1866 traf es vor allem das East End, das noch nicht ans neue Netz angeschlossen war.",
+              "hook": "die Gerüche zurückhält",
+              "children": [],
+              "source": {
+                "title": "Miasma – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Miasma"
+              }
+            },
+            {
+              "id": "2026-10-19-0-1-2",
+              "title": "Crappers Kanaldeckel",
+              "text": "Auch das Wort „crap“ hat Thomas Crapper nicht geprägt. Es ist älter und geht auf ein mittelalterliches Wort für Spreu oder Abfall zurück. Den Mythos vom Erfinder des Klos verbreitete vor allem das augenzwinkernde Buch „Flushed with Pride“ von Wallace Reyburn aus dem Jahr 1969. Echt sind dagegen Crappers Patente, etwa auf Verbesserungen an Abflüssen und Spülkästen, und seine Aufträge für königliche Häuser wie Sandringham. Seinen Namen findet man heute noch auf gusseisernen Kanaldeckeln in der Westminster Abbey.",
+              "hook": "ist dagegen eine Legende",
+              "children": [],
+              "source": {
+                "title": "Thomas Crapper – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Thomas_Crapper"
+              }
+            }
+          ],
+          "source": {
+            "title": "Flush toilet – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Flush_toilet"
+          }
+        },
+        {
+          "id": "2026-10-19-0-2",
+          "title": "Die Nadel am Ufer",
+          "text": "Am neu aufgeschütteten Embankment steht seit 1878 ein Fremdling: Cleopatra's Needle, ein rund 3.500 Jahre alter Obelisk aus dem ägyptischen Heliopolis, der mit Kleopatra nichts zu tun hat. Für die Überfahrt steckte man ihn in einen eisernen Schwimmzylinder namens „Cleopatra“. Im Golf von Biskaya musste der Zylinder 1877 in einem Sturm aufgegeben werden, sechs Seeleute starben bei einem Rettungsversuch. Unter dem Sockel liegt eine Zeitkapsel, unter anderem mit Zeitungen, Fotos und einem Eisenbahnfahrplan.",
+          "hook": "im neu aufgeschütteten Victoria Embankment",
+          "children": [
+            {
+              "id": "2026-10-19-0-2-0",
+              "title": "Der Palast des Barons",
+              "text": "Heliopolis heißt heute auch ein Stadtteil Kairos, den der belgische Industrielle Édouard Empain ab 1905 als Wüstenstadt mit eigener Bahnverbindung gründete. Seinen Wohnsitz gestaltete der Architekt Alexandre Marcel nach dem Vorbild hinduistischer Tempel wie Angkor Wat. Jahrzehntelang verfiel der Bau und galt als Spukhaus. Das Gerücht, der Palast drehe sich mit der Sonne, ist eine Legende. Seit der Restaurierung 2020 ist er ein Museum.",
+              "hook": "dem ägyptischen Heliopolis",
+              "children": [],
+              "source": {
+                "title": "Baron Empain Palace – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Baron_Empain_Palace"
+              }
+            },
+            {
+              "id": "2026-10-19-0-2-1",
+              "title": "Post an das Jahr 8113",
+              "text": "Das Wort „Zeitkapsel“ setzte sich erst 1938 durch: Für die New Yorker Weltausstellung versenkte die Firma Westinghouse einen torpedoförmigen Metallzylinder, der im Jahr 6939 geöffnet werden soll. Noch weiter in die Zukunft zielt die „Crypt of Civilization“ an der Oglethorpe University in Atlanta, versiegelt 1940. Ihr Initiator Thornwell Jacobs rechnete rund 6.000 Jahre von den ältesten bekannten Kalenderdaten bis zu seiner Gegenwart und spiegelte sie in die Zukunft. Deshalb soll die Krypta erst im Jahr 8113 wieder aufgehen.",
+              "hook": "eine Zeitkapsel",
+              "children": [],
+              "source": {
+                "title": "Crypt of Civilization – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Crypt_of_Civilization"
+              }
+            },
+            {
+              "id": "2026-10-19-0-2-2",
+              "title": "Zwei Minutenzeiger",
+              "text": "Ein verlässlicher Eisenbahnfahrplan war im frühen viktorianischen England schwierig, denn jede Stadt lebte nach ihrer eigenen Sonnenzeit. Bristol etwa lag gut zehn Minuten hinter London. Die Great Western Railway führte deshalb 1840 eine einheitliche „Railway Time“ nach Londoner Zeit ein, gesetzlich verbindlich wurde die Greenwich-Zeit erst 1880. Am Corn Exchange in Bristol hängt bis heute eine Uhr mit zwei Minutenzeigern: einer zeigt die Zeit von Bristol, der andere die von London.",
+              "hook": "einem Eisenbahnfahrplan",
+              "children": [],
+              "source": {
+                "title": "Railway time – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Railway_time"
+              }
+            }
+          ],
+          "source": {
+            "title": "Nadel der Kleopatra (London) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Nadel_der_Kleopatra_(London)"
+          }
+        }
+      ],
+      "source": {
+        "title": "Der Große Gestank – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Der_Gro%C3%9Fe_Gestank"
+      }
+    },
+    {
+      "id": "2026-10-19-1",
+      "category": "orte",
+      "title": "Surtsey",
+      "text": "Im November 1963 sahen Fischer vor der Südküste Islands Rauch über dem Meer aufsteigen: Ein Unterwasservulkan schob eine neue Insel aus dem Atlantik. Benannt nach dem Feuerriesen Surtr aus der nordischen Mythologie, wuchs Surtsey bis zum Ende der Ausbrüche 1967 auf rund 2,7 Quadratkilometer und schrumpft seitdem durch Erosion. Betreten dürfen sie nur Forschende, die beobachten, wie Leben neues Land besiedelt. Eine Tomatenpflanze, die aus menschlichen Hinterlassenschaften keimte, wurde prompt entfernt.",
+      "children": [
+        {
+          "id": "2026-10-19-1-0",
+          "title": "Surtr und das Weltende",
+          "text": "Der Namensgeber der Insel, der Feuerriese Surtr, spielt beim Weltuntergang der nordischen Mythologie eine Hauptrolle. Laut der Völuspá, dem ersten Gedicht der Lieder-Edda, zieht er bei Ragnarök mit flammendem Schwert von Süden heran und kämpft gegen den Gott Freyr. Der unterliegt, denn er hatte sein eigenes Schwert zuvor weggegeben. Snorri Sturluson schildert im 13. Jahrhundert, wie Surtrs Feuer am Ende die ganze Welt verbrennt. Die Lavahöhle Surtshellir im Westen Islands trägt seinen Namen.",
+          "hook": "Feuerriesen Surtr",
+          "children": [
+            {
+              "id": "2026-10-19-1-0-0",
+              "title": "Das Schiff für die Tasche",
+              "text": "Freyr hatte sein Schwert, das laut Snorri von selbst kämpfte, seinem Diener Skírnir überlassen. Es war der Lohn dafür, dass Skírnir für ihn um die Riesin Gerðr warb, wie es das Eddalied Skírnismál erzählt. Ein noch erstaunlicheres Werkzeug behielt der Gott: Skíðblaðnir, ein von Zwergen gebautes Schiff, das allen Göttern samt Waffen Platz bot und immer guten Wind hatte. Brauchte man es nicht, ließ es sich zusammenfalten wie ein Tuch und in die Tasche stecken.",
+              "hook": "sein eigenes Schwert zuvor weggegeben",
+              "children": [],
+              "source": {
+                "title": "Skidbladnir – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Skidbladnir"
+              }
+            },
+            {
+              "id": "2026-10-19-1-0-1",
+              "title": "Snorris letzter Keller",
+              "text": "Snorri Sturluson, der das Weltende so anschaulich beschrieb, fand selbst ein gewaltsames Ende: Im September 1241 erschlugen ihn Männer seines früheren Schwiegersohns Gissur Þorvaldsson auf seinem Hof Reykholt, im Auftrag des norwegischen Königs Hákon. Laut der Sturlunga saga rief er im Keller „Eigi skal höggva“, sinngemäß „Nicht zuschlagen“. In Reykholt ist bis heute die Snorralaug erhalten, ein gemauertes Rundbecken, das eine heiße Quelle speist. Man kann es noch immer besichtigen.",
+              "hook": "Snorri Sturluson schildert im 13. Jahrhundert",
+              "children": [],
+              "source": {
+                "title": "Snorri Sturluson – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Snorri_Sturluson"
+              }
+            },
+            {
+              "id": "2026-10-19-1-0-2",
+              "title": "Opfergaben für den Riesen",
+              "text": "Die Höhle Surtshellir entstand um das Jahr 900, als kurz nach der Besiedlung Islands der Lavastrom Hallmundarhraun über das Land floss. Tief im Inneren fanden Archäologen um Kevin Smith von der Brown University eine bootsförmige Steinsetzung mit verbrannten Knochen von Rindern, Schafen, Ziegen, Pferden und Schweinen. Sie deuten den Ort als Opferstätte, an der Siedler nach dem Ausbruch den Feuerriesen besänftigen wollten. Die Rituale endeten offenbar um das Jahr 1000, also etwa zu der Zeit, als Island das Christentum annahm.",
+              "hook": "Die Lavahöhle Surtshellir im Westen Islands",
+              "children": [],
+              "source": {
+                "title": "Haffenreffer Museum of Anthropology – Surtshellir Cave Publication",
+                "url": "https://hma.brown.edu/news/2021-03-08/surtshellier-cave-publication"
+              }
+            }
+          ],
+          "source": {
+            "title": "Surt (Mythologie) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Surt_(Mythologie)"
+          }
+        },
+        {
+          "id": "2026-10-19-1-1",
+          "title": "Tomaten aus der Kläranlage",
+          "text": "Dass ausgerechnet eine Tomate auf Surtsey keimte, ist kein Zufall: Ihre Samen überstehen den Weg durch den menschlichen Darm oft unbeschadet, deshalb wachsen Tomatenpflanzen auch an Kläranlagen. Die Wildformen stammen aus Südamerika, gezüchtet wurde die Tomate in Mesoamerika, und das Wort geht auf das aztekische „tomatl“ zurück. In Europa beschrieb sie der Italiener Pietro Andrea Mattioli Mitte des 16. Jahrhunderts als „pomi d’oro“, als Goldäpfel. Lange galt das Nachtschattengewächs vielerorts eher als Zierpflanze denn als Lebensmittel.",
+          "hook": "Eine Tomatenpflanze",
+          "children": [
+            {
+              "id": "2026-10-19-1-1-0",
+              "title": "Der Mann hinter der Levkoje",
+              "text": "Pietro Andrea Mattioli, der die Tomate als Goldapfel beschrieb, war Arzt aus Siena und einer der erfolgreichsten Pflanzenautoren seiner Zeit. Seine kommentierte Ausgabe der Arzneimittellehre des antiken Arztes Dioskurides erschien ab 1544 in vielen Auflagen und Sprachen, darunter Deutsch und Tschechisch. Später wurde er Leibarzt am Habsburger Hof. Wer heute Levkojen im Garten zieht, ehrt ihn, ohne es zu ahnen: Die Pflanzengattung trägt seinen Namen, Matthiola.",
+              "hook": "Pietro Andrea Mattioli",
+              "children": [],
+              "source": {
+                "title": "Pietro Andrea Mattioli – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Pietro_Andrea_Mattioli"
+              }
+            },
+            {
+              "id": "2026-10-19-1-1-1",
+              "title": "Die schöne Frau mit Gift",
+              "text": "Als Nachtschattengewächs ist die Tomate mit Kartoffel, Paprika und Tabak verwandt, aber auch mit der Tollkirsche. Deren Gift Atropin weitet die Pupillen. Der Überlieferung nach träufelten sich Frauen in Italien deshalb Beerensaft in die Augen, daher stammt wohl der Artname belladonna, „schöne Frau“. In der Augenheilkunde wird Atropin bis heute eingesetzt. Den Gattungsnamen Atropa vergab Carl von Linné, nach Atropos, der griechischen Schicksalsgöttin, die den Lebensfaden durchschneidet.",
+              "hook": "das Nachtschattengewächs",
+              "children": [],
+              "source": {
+                "title": "Schwarze Tollkirsche – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Schwarze_Tollkirsche"
+              }
+            },
+            {
+              "id": "2026-10-19-1-1-2",
+              "title": "Aztekisch auf dem Teller",
+              "text": "Das aztekische „tomatl“ ist nicht das einzige Nahuatl-Wort, das über andere Sprachen, meist das Spanische, ins Deutsche gelangt ist: Auch Chili, Kojote, Ozelot und wahrscheinlich Schokolade stammen daher. Nahuatl ist keine tote Sprache, in Mexiko sprechen es heute mehr als 1,6 Millionen Menschen. Die Avocado hieß dort „ahuacatl“, die Spanier machten daraus „aguacate“. Die heutige Form entstand wohl in Anlehnung an „avocado“, eine alte spanische Form von „abogado“. Im Namen der Frucht steckt also ein Anwalt.",
+              "hook": "das aztekische „tomatl“",
+              "children": [],
+              "source": {
+                "title": "Nahuatl – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Nahuatl"
+              }
+            }
+          ],
+          "source": {
+            "title": "Tomate – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Tomate"
+          }
+        },
+        {
+          "id": "2026-10-19-1-2",
+          "title": "Inseln unter dem Giftzelt",
+          "text": "Wie Leben neues Land besiedelt, wollten Daniel Simberloff und Edward O. Wilson nicht nur beobachten, sondern im Experiment nachstellen. 1966 spannten sie in den Florida Keys Zelte über winzige Mangroveninseln und begasten sie mit Methylbromid, um alle Gliederfüßer abzutöten. Innerhalb von etwa einem Jahr waren Insekten und Spinnen zurück, und die Artenzahl näherte sich dem alten Wert, teils allerdings mit anderen Arten. Das Experiment stützte die Inseltheorie, die Wilson mit Robert MacArthur entwickelt hatte.",
+          "hook": "wie Leben neues Land besiedelt",
+          "children": [
+            {
+              "id": "2026-10-19-1-2-0",
+              "title": "Das Gas aus dem Zelt",
+              "text": "Methylbromid, das Gas unter den Zelten, war damals ein gängiges Mittel gegen Schädlinge in Böden, Speichern und Frachträumen. Weil es in der Stratosphäre Ozon zerstört, fiel es unter das Montreal-Protokoll und ist in Industrieländern seit 2005 weitgehend verboten. Ganz verschwinden wird es trotzdem nicht, denn Meeresalgen und andere Organismen bilden es von Natur aus. Für Quarantänebehandlungen bleibt es vielerorts bis heute erlaubt, etwa für Holzladungen, damit keine blinden Passagiere fremdes Land besiedeln.",
+              "hook": "mit Methylbromid",
+              "children": [],
+              "source": {
+                "title": "Brommethan – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Brommethan"
+              }
+            },
+            {
+              "id": "2026-10-19-1-2-1",
+              "title": "Der Junge mit einem Auge",
+              "text": "Edward O. Wilson verlor als etwa Siebenjähriger beim Angeln die Sehkraft auf dem rechten Auge, als ihn der Stachel eines Fisches traf. Er sah nur noch aus der Nähe scharf und hörte zudem hohe Töne schlecht. Also wandte er sich statt Vögeln und Fröschen den Insekten zu, vor allem den Ameisen. Mit 13 Jahren fand er in Mobile, Alabama, eine Kolonie der eingeschleppten Feuerameise, einen der frühesten Nachweise in den USA. Seine erste Invasion hatte der spätere Experte für Inselbesiedlung also schon als Schüler dokumentiert.",
+              "hook": "Edward O. Wilson",
+              "children": [],
+              "source": {
+                "title": "Edward O. Wilson – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Edward_O._Wilson"
+              }
+            },
+            {
+              "id": "2026-10-19-1-2-2",
+              "title": "Die Schneckenrepublik",
+              "text": "Gut 15 Jahre nach dem Experiment erlebten die Florida Keys einen ganz anderen Inselversuch. 1982 errichtete die US-Grenzpolizei auf der einzigen Straße zum Festland eine Kontrollstelle gegen Drogen und illegale Einwanderung. Der Verkehr staute sich, und die Touristen blieben aus. Key Wests Bürgermeister Dennis Wardlow rief daraufhin die „Conch Republic“ aus, benannt nach der Fechterschnecke. Nach rund einer Minute kapitulierte er und verlangte eine Milliarde Dollar Aufbauhilfe. Die Kontrollstelle verschwand bald, gefeiert wird die Republik bis heute.",
+              "hook": "in den Florida Keys",
+              "children": [],
+              "source": {
+                "title": "Conch Republic – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Conch_Republic"
+              }
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Surtsey – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Surtsey"
+      }
+    },
+    {
+      "id": "2026-10-19-2",
+      "category": "kultur",
+      "title": "Die Glasharmonika",
+      "text": "1761 baute Benjamin Franklin ein Instrument aus ineinandergesteckten Glasschalen auf einer drehenden Achse, die man mit feuchten Fingern zum Klingen bringt. Seine „Armonica“ wurde zur Mode: Mozart schrieb 1791 für die blinde Virtuosin Marianne Kirchgessner das Adagio und Rondo KV 617, und der Arzt Franz Anton Mesmer setzte den Klang bei seinen umstrittenen Heilsitzungen ein. Bald kursierten Gerüchte, das Spielen zerrütte die Nerven – belegt wurde das nie.",
+      "children": [
+        {
+          "id": "2026-10-19-2-0",
+          "title": "Franklin prüft Mesmer",
+          "text": "Ausgerechnet Franklin, der Erfinder der Armonica, sollte Mesmers Lehre vom „tierischen Magnetismus“ prüfen: 1784 setzte Ludwig XVI. eine Kommission ein, der auch der Chemiker Antoine Lavoisier und der Arzt Joseph-Ignace Guillotin angehörten. In Franklins Haus in Passy bekamen Versuchspersonen die Augen verbunden. Wie sie reagierten, hing allein davon ab, ob sie glaubten, magnetisiert zu werden. Das Urteil lautete „Einbildung“, und die Untersuchung gilt als eines der frühesten Blindexperimente der Medizin.",
+          "hook": "der Arzt Franz Anton Mesmer",
+          "children": [
+            {
+              "id": "2026-10-19-2-0-0",
+              "title": "Guillotins falscher Ruhm",
+              "text": "Joseph-Ignace Guillotin, der Mesmer mitprüfte, landete wenig später ungewollt im Wörterbuch: 1789 forderte er, alle Verurteilten ohne Standesunterschied auf dieselbe, möglichst schmerzlose Art hinzurichten. Konstruiert wurde die Maschine 1792 nach Vorgaben des Chirurgen Antoine Louis, weshalb sie anfangs „Louisette“ hieß. Den Prototyp baute der deutsche Cembalobauer Tobias Schmidt. Das Symbol des Terrors stammt also aus der Werkstatt eines Instrumentenbauers.",
+              "hook": "Joseph-Ignace Guillotin",
+              "children": [],
+              "source": {
+                "title": "Joseph-Ignace Guillotin – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Joseph-Ignace_Guillotin"
+              }
+            },
+            {
+              "id": "2026-10-19-2-0-1",
+              "title": "Das Porträt mit dem Federhut",
+              "text": "Der Chemiker Antoine Lavoisier ließ sich 1788 mit seiner Frau Marie-Anne von Jacques-Louis David malen. Sie zeichnete die Versuche ihres Mannes und hatte bei David Unterricht genommen. Das Bild im Metropolitan Museum zeigt das Paar zwischen Glaskolben und gilt als Ikone der Wissenschaft. Bei einer Restaurierung ab 2019 zeigten Scans eine ältere Fassung darunter: Marie-Anne mit großem Federhut, ganz ohne Instrumente. Es war erst das Bild reicher Steuerpächter – jenes Amts, für das Lavoisier 1794 hingerichtet wurde.",
+              "hook": "der Chemiker Antoine Lavoisier",
+              "children": [],
+              "source": {
+                "title": "Portrait of Antoine and Marie-Anne Lavoisier – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Portrait_of_Antoine_and_Marie-Anne_Lavoisier"
+              }
+            },
+            {
+              "id": "2026-10-19-2-0-2",
+              "title": "Nürnbergs Kochsalzversuch",
+              "text": "Eines der frühesten Blindexperimente bekam 1835 in Nürnberg einen Nachfolger, der die Homöopathie prüfen sollte. Freiwillige erhielten per Los zugeteilte, nummerierte Fläschchen mit potenziertem Kochsalz oder destilliertem Schneewasser. Nur neun von über 50 Teilnehmern bemerkten etwas Ungewöhnliches, drei davon hatten bloß Wasser bekommen. Die Veranstalter, die sich „Gesellschaft wahrheitsliebender Männer“ nannten, sahen keine Wirkung der Potenz. Ihr Vorgehen nahm Methoden heutiger Studien vorweg.",
+              "hook": "eines der frühesten Blindexperimente",
+              "children": [],
+              "source": {
+                "title": "Löhner G, on behalf of a Society of truth-loving men (1835) – James Lind Library",
+                "url": "https://www.jameslindlibrary.org/lohner-g-on-behalf-of-a-society-of-truth-loving-men-1835/"
+              }
+            }
+          ],
+          "source": {
+            "title": "Royal Commission on Animal Magnetism – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Royal_Commission_on_Animal_Magnetism"
+          }
+        },
+        {
+          "id": "2026-10-19-2-1",
+          "title": "Die Pianistin im Dunkeln",
+          "text": "Kirchgessner war nicht die einzige blinde Musikerin in Mozarts Umfeld: Die Wiener Pianistin Maria Theresia von Paradis war früh erblindet und 1777 sogar Patientin Mesmers. Für sie schrieb Mozart vermutlich sein Klavierkonzert KV 456. Auf einer Konzertreise nach Paris begegnete sie dem Pädagogen Valentin Haüy, der kurz darauf die erste Schule für blinde Kinder gründete. Dort lernte später Louis Braille, der Erfinder der Punktschrift.",
+          "hook": "die blinde Virtuosin Marianne Kirchgessner",
+          "children": [
+            {
+              "id": "2026-10-19-2-1-0",
+              "title": "Die Schrift für die Nacht",
+              "text": "Brailles Punktschrift hatte einen militärischen Vorläufer: Der Artillerieoffizier Charles Barbier hatte eine „Nachtschrift“ entwickelt, mit der man Botschaften ohne Licht ertasten konnte. Seine Zeichen bestanden aus bis zu zwölf Punkten und standen für Laute statt für Buchstaben. Für eine Fingerkuppe war das zu groß. Der etwa 15-jährige Braille verkleinerte das Raster auf sechs Punkte. Als man seine Gebeine 1952 ins Pariser Panthéon überführte, blieben seine Hände in einer Urne in seinem Heimatdorf Coupvray zurück.",
+              "hook": "Louis Braille, der Erfinder der Punktschrift",
+              "children": [],
+              "source": {
+                "title": "Charles Barbier – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Charles_Barbier"
+              }
+            },
+            {
+              "id": "2026-10-19-2-1-1",
+              "title": "Der Bruder mit dem Kalkspat",
+              "text": "Valentin Haüys älterer Bruder René-Just wurde noch berühmter: Der Geistliche gilt als Begründer der modernen Kristallografie. Der Legende nach fiel ihm ein Kalkspat herunter, und er bemerkte, dass die Bruchstücke immer dieselbe schiefe Grundform hatten. Daraus entwickelte er die Idee, dass Kristalle aus winzigen, gleichförmigen Bausteinen aufgebaut sind. Heute trägt das tiefblaue Mineral Hauyn seinen Namen, und sein Name steht als einer von 72 Gelehrten am Eiffelturm.",
+              "hook": "dem Pädagogen Valentin Haüy",
+              "children": [],
+              "source": {
+                "title": "René Just Haüy – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ren%C3%A9_Just_Ha%C3%BCy"
+              }
+            },
+            {
+              "id": "2026-10-19-2-1-2",
+              "title": "Der Test mit den Augenbinden",
+              "text": "Die Behandlung der Paradis endete im Skandal, Mesmer ging nach Paris, und dort prüfte ihn 1784 eine königliche Kommission. Ihr gehörten Benjamin Franklin, der Chemiker Antoine Lavoisier und der Arzt Joseph-Ignace Guillotin an. Die Prüfer verbanden Versuchspersonen die Augen und täuschten sie darüber, ob sie gerade „magnetisiert“ wurden. Die Anfälle traten nur auf, wenn die Leute daran glaubten. Zehn Jahre später starb Lavoisier unter dem Fallbeil, das den Namen seines Kollegen aus der Kommission trug.",
+              "hook": "1777 sogar Patientin Mesmers",
+              "children": [],
+              "source": {
+                "title": "Royal Commission on Animal Magnetism – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Royal_Commission_on_Animal_Magnetism"
+              }
+            }
+          ],
+          "source": {
+            "title": "Maria Theresia Paradis – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Maria_Theresia_Paradis"
+          }
+        },
+        {
+          "id": "2026-10-19-2-2",
+          "title": "Der Mann hinter dem KV",
+          "text": "Das „KV“ in KV 617 steht für Ludwig von Köchel, einen österreichischen Juristen, Botaniker und Mineralogen, der 1862 das erste umfassende Verzeichnis von Mozarts Werken veröffentlichte. Er ordnete die Werke chronologisch, deshalb trägt das unvollendete Requiem die Nummer 626. Spätere Bearbeiter wie Alfred Einstein datierten Stücke neu, was zu Nummern wie „KV 297b“ führte. Eine 2024 in Leipzig entdeckte „Ganz kleine Nachtmusik“ bekam die Nummer KV 648.",
+          "hook": "Adagio und Rondo KV 617",
+          "children": [
+            {
+              "id": "2026-10-19-2-2-0",
+              "title": "Ein Graf als Requiem-Dieb",
+              "text": "Dass das Requiem unvollendet blieb, machte es zum Gegenstand eines Täuschungsmanövers. Bestellt hatte es 1791 anonym Graf Franz von Walsegg. Er wollte es zum Gedenken an seine verstorbene Frau Anna als eigene Komposition aufführen, wie er es schon mit den Werken anderer getan hatte. Constanze ließ die Partitur von Franz Xaver Süßmayr vollenden, um das Honorar zu retten. Walsegg dirigierte das Werk 1793 tatsächlich unter eigenem Namen. Da war es aber schon unter Mozarts Namen öffentlich aufgeführt worden.",
+              "hook": "das unvollendete Requiem",
+              "children": [],
+              "source": {
+                "title": "Franz von Walsegg – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Franz_von_Walsegg"
+              }
+            },
+            {
+              "id": "2026-10-19-2-2-1",
+              "title": "Mozart oder nicht Mozart?",
+              "text": "Hinter „KV 297b“ steckt einer der hartnäckigsten Echtheitsfälle der Mozartforschung. 1778 schrieb Mozart in Paris eine Sinfonia concertante für Flöte, Oboe, Horn und Fagott. Die geplante Aufführung im Concert spirituel platzte jedoch, Mozart vermutete eine Intrige, und das Original gilt als verschollen. Erhalten ist nur eine anonyme Abschrift aus dem Nachlass des Biografen Otto Jahn, mit Klarinette statt Flöte. Ob dieses heute gern gespielte Bläserwerk auf Mozarts Pariser Stück zurückgeht oder überhaupt von ihm stammt, ist bis heute umstritten.",
+              "hook": "zu Nummern wie „KV 297b“ führte",
+              "children": [],
+              "source": {
+                "title": "Sinfonia concertante für vier Bläser Es-Dur KV 297b – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Sinfonia_concertante_f%C3%BCr_vier_Bl%C3%A4ser_Es-Dur_KV_297b"
+              }
+            },
+            {
+              "id": "2026-10-19-2-2-2",
+              "title": "Der andere Einstein",
+              "text": "Alfred Einstein gab 1937 die dritte Auflage des Köchelverzeichnisses heraus, und zwar schon im Exil. Der Münchner Musikwissenschaftler war Kritiker beim „Berliner Tageblatt“, bis er 1933 als Jude Deutschland verlassen musste. Über London und Italien kam er in die USA, wo er ab 1939 am Smith College lehrte. Oft heißt es, er sei ein Cousin Albert Einsteins gewesen, belegt ist eine enge Verwandtschaft aber nicht. Gemeinsam war beiden die Liebe zu Mozart: Der Physiker spielte dessen Violinsonaten leidenschaftlich gern.",
+              "hook": "Spätere Bearbeiter wie Alfred Einstein",
+              "children": [],
+              "source": {
+                "title": "Alfred Einstein – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Alfred_Einstein"
+              }
+            }
+          ],
+          "source": {
+            "title": "Köchelverzeichnis – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/K%C3%B6chelverzeichnis"
+          }
+        }
+      ],
+      "source": {
+        "title": "Glasharmonika – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Glasharmonika"
+      }
+    }
+  ]
+}
