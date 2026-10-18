@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-18T00:41:14.468Z",
+  "topics": [
+    {
+      "id": "2026-10-20-0",
+      "category": "natur",
+      "title": "Die Welwitschia",
+      "text": "Die Welwitschia mirabilis wächst nur in der Namib-Wüste in Namibia und Angola und bildet ihr Leben lang nur zwei Blätter. Diese wachsen ununterbrochen weiter und werden vom Wind in lange Streifen zerfasert. Der österreichische Botaniker Friedrich Welwitsch stieß 1859 auf die Pflanze, große Exemplare werden auf über tausend Jahre geschätzt. Sie ist ein Nacktsamer, also entfernt mit Nadelbäumen verwandt, und ist im Staatswappen Namibias abgebildet.",
+      "children": [
+        {
+          "id": "2026-10-20-0-0",
+          "title": "Käfer im Kopfstand",
+          "text": "Dass in der Namib-Wüste überhaupt etwas lebt, liegt am Nebel: Der kalte Benguelastrom vor der Küste lässt feuchte Luft kondensieren, die nachts landeinwärts zieht. Der Schwarzkäfer Onymacris unguicularis macht auf Dünenkämmen einen Kopfstand gegen den Wind, damit die Tropfen auf seinem Rücken zum Mund rinnen. Die Oberfläche des verwandten Stenocara-Käfers beschrieben Andrew Parker und Chris Lawrence 2001 in „Nature“. Seither dient sie als Vorbild für Netze und Beschichtungen, die Wasser aus Nebel gewinnen.",
+          "hook": "Namib-Wüste in Namibia und Angola",
+          "children": [
+            {
+              "id": "2026-10-20-0-0-0",
+              "title": "Das Wrack in der Wüste",
+              "text": "Wo der kalte Benguelastrom auf die Namib trifft, lassen Nebel und Brandung seit Jahrhunderten Schiffe stranden – berüchtigt ist vor allem die Skelettküste im Norden Namibias. Portugiesische Seefahrer nannten den Küstenstrich „Areias do Inferno“, Sand der Hölle. Weiter südlich, bei der Conception Bay, lief 1909 das deutsche Schiff Eduard Bohlen im Nebel auf Grund. Heute steckt sein Rumpf mitten in den Dünen, mehrere hundert Meter vom Wasser entfernt, weil die Wüste das Ufer seither weit ins Meer hinausgeschoben hat.",
+              "hook": "Der kalte Benguelastrom vor der Küste",
+              "children": [],
+              "source": {
+                "title": "Eduard Bohlen (Schiff) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Eduard_Bohlen_(Schiff)"
+              }
+            },
+            {
+              "id": "2026-10-20-0-0-1",
+              "title": "Der Baum, der regnet",
+              "text": "Wasser aus Nebel gewannen schon die Bimbaches, die Ureinwohner der Kanareninsel El Hierro. Ihr heiliger Baum Garoé kämmte die Feuchtigkeit aus den Wolken, und das herabtropfende Wasser sammelten sie in Felsbecken. Der Legende nach hielten sie den Baum vor den spanischen Eroberern versteckt, bis eine Einheimische das Geheimnis aus Liebe zu einem Spanier verriet. Ein Sturm stürzte den Baum 1610 um. Der heutige Garoé, ein Lorbeergewächs, wurde 1949 gepflanzt und gibt bis heute Wasser.",
+              "hook": "die Wasser aus Nebel gewinnen",
+              "children": [],
+              "source": {
+                "title": "Garoé – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Garo%C3%A9"
+              }
+            },
+            {
+              "id": "2026-10-20-0-0-2",
+              "title": "Als die Tiere sehen lernten",
+              "text": "Andrew Parker, Mitautor der Nature-Studie, erforscht als Zoologe Licht und Farben in der Natur. In seinem Buch „In the Blink of an Eye“ (2003) stellte er die Light-Switch-Hypothese vor: Die Kambrische Explosion vor gut 500 Millionen Jahren sei ausgelöst worden, als Tiere erstmals sehen konnten. Fortan hätten sich Panzer, Stacheln und Tarnung gelohnt. Die These ist umstritten. Fest steht: Trilobiten hatten einige der ältesten bekannten Augen, mit Linsen aus Kalkspat, also aus Stein.",
+              "hook": "Andrew Parker und Chris Lawrence",
+              "children": [],
+              "source": {
+                "title": "Andrew Parker (zoologist) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Andrew_Parker_(zoologist)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Nebeltrinker-Käfer – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Nebeltrinker-K%C3%A4fer"
+          }
+        },
+        {
+          "id": "2026-10-20-0-1",
+          "title": "Ephedra: Strauch mit Folgen",
+          "text": "Unter den Nacktsamern zählt das Meerträubel, die Gattung Ephedra, zu den nächsten Verwandten der Welwitschia. Der unscheinbare Rutenstrauch wird in China als Ma Huang seit rund zwei Jahrtausenden als Heilmittel genutzt. In den 1880er-Jahren isolierte der japanische Chemiker Nagai Nagayoshi daraus das Ephedrin, das die Atemwege erweitert und bis heute in Medikamenten steckt. 1893 synthetisierte er ausgehend von diesem Wirkstoff erstmals Methamphetamin.",
+          "hook": "Sie ist ein Nacktsamer",
+          "children": [
+            {
+              "id": "2026-10-20-0-1-0",
+              "title": "Der Inhalator zum Aufbrechen",
+              "text": "Weil Ephedrin knapp wurde, suchte der US-Chemiker Gordon Alles nach einem künstlichen Ersatz, der ebenfalls die Atemwege erweitert, und testete 1929 Amphetamin im Selbstversuch. Ab 1933 verkaufte Smith, Kline & French es im Benzedrine-Inhalator gegen verstopfte Nasen. Schnell lernten Nutzer, die Röhrchen aufzubrechen und die getränkten Papierstreifen zu schlucken – der Rausch prägte Jazzclubs und die Beat-Generation. 1949 wurde der Wirkstoff ersetzt, als Benzedrex ist der Inhalator bis heute erhältlich.",
+              "hook": "die Atemwege erweitert",
+              "children": [],
+              "source": {
+                "title": "Smith, Kline, and French – Benzedrine (Bad Medicine, Cal Poly Pomona Digital Library)",
+                "url": "https://cppdigitallibrary.org/exhibits/show/bad-medicine/benzedrine"
+              }
+            },
+            {
+              "id": "2026-10-20-0-1-1",
+              "title": "Pervitin im Marschgepäck",
+              "text": "Den Stoff, den Nagai erstmals hergestellt hatte, brachten die Berliner Temmler-Werke 1938 als Tablette Pervitin auf den Markt. Im Westfeldzug 1940 verteilte die Wehrmacht Millionen davon, um Soldaten tagelang wach zu halten. Der Wehrphysiologe Otto Ranke hatte die Wirkung an Studenten erprobt; wegen der Suchtgefahr fiel Pervitin ab 1941 unter das Opiumgesetz. Erhalten sind Feldpostbriefe des jungen Soldaten Heinrich Böll, in denen er seine Eltern um Pervitin-Nachschub bittet.",
+              "hook": "erstmals Methamphetamin",
+              "children": [],
+              "source": {
+                "title": "Drogen für die Wehrmacht (ca. 1940) – German History in Documents and Images",
+                "url": "https://germanhistorydocs.org/de/deutschland-nationalsozialismus-1933-1945/drogen-fuer-die-wehrmacht-ca-1940"
+              }
+            },
+            {
+              "id": "2026-10-20-0-1-2",
+              "title": "Blumen für Neandertaler",
+              "text": "Wie alt die Nutzung von Ephedra als Heilmittel sein könnte, schien die Shanidar-Höhle im irakischen Kurdistan zu zeigen. Im Grab des Neandertalers Shanidar 4 fanden Forscher Pollen vieler Blütenpflanzen, darunter Ephedra. Ausgräber Ralph Solecki sah darin eine Blumenbestattung und nannte sein Buch „Shanidar: The First Flower People“. Heute gelten nüchternere Erklärungen als wahrscheinlicher: Rennmäuse, deren Baue die Höhle durchziehen, oder in der Erde nistende Wildbienen könnten die Pollen eingeschleppt haben.",
+              "hook": "als Heilmittel genutzt",
+              "children": [],
+              "source": {
+                "title": "Shanidar – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Shanidar"
+              }
+            }
+          ],
+          "source": {
+            "title": "Meerträubel – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Meertr%C3%A4ubel"
+          }
+        },
+        {
+          "id": "2026-10-20-0-2",
+          "title": "Das Ende von Prometheus",
+          "text": "Über tausend Jahre sind viel, doch Grannenkiefern (Pinus longaeva) in den White Mountains Kaliforniens bringen es auf ein Vielfaches davon. Der Baum „Methuselah“ ist laut Jahresringzählung mehr als 4800 Jahre alt, sein genauer Standort wird geheim gehalten. Ein noch älterer Baum stand am Wheeler Peak in Nevada. 1964 ließ der Student Donald Currey die als „Prometheus“ bekannte Kiefer mit Genehmigung des Forest Service fällen und zählte danach 4844 Jahresringe.",
+          "hook": "auf über tausend Jahre geschätzt",
+          "children": [
+            {
+              "id": "2026-10-20-0-2-0",
+              "title": "Das Element des Titanen",
+              "text": "Die Kiefer hieß nach dem Titanen, der den Menschen das Feuer brachte. Nach ihm ist auch das chemische Element 61 benannt, das Promethium. Jacob Marinsky, Lawrence Glendenin und Charles Coryell wiesen es 1945 in Oak Ridge unter den Spaltprodukten von Uran nach, den Namen schlug Coryells Frau Grace vor. Alle Isotope sind radioaktiv, in der gesamten Erdkruste gibt es Schätzungen zufolge nur wenige hundert Gramm davon. Astronomen glauben, Spuren im Licht des fernen Przybylski-Sterns entdeckt zu haben, doch dieser Befund ist umstritten.",
+              "hook": "die als „Prometheus“ bekannte Kiefer",
+              "children": [],
+              "source": {
+                "title": "Promethium – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Promethium"
+              }
+            },
+            {
+              "id": "2026-10-20-0-2-1",
+              "title": "Wikinger im Baumring",
+              "text": "Die Jahresringzählung geht auf den Astronomen Andrew Ellicott Douglass zurück. Er suchte in Arizona eigentlich nach Spuren des Sonnenfleckenzyklus in Bäumen. Heute reichen lückenlos verkettete Chronologien wie der Hohenheimer Jahrringkalender mehr als 12.000 Jahre zurück. Um das Jahr 993 hinterließ ein Strahlungsereignis, vermutlich ein Sonnensturm, in Bäumen weltweit einen Ausschlag an Kohlenstoff-14. Mit diesem Marker konnten Forscher 2021 zeigen, dass Wikinger in L'Anse aux Meadows auf Neufundland genau im Jahr 1021 Holz geschlagen haben.",
+              "hook": "laut Jahresringzählung",
+              "children": [],
+              "source": {
+                "title": "Dendrochronologie – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dendrochronologie"
+              }
+            },
+            {
+              "id": "2026-10-20-0-2-2",
+              "title": "Ein Bär mit Postleitzahl",
+              "text": "Der Forest Service, der die Fällung genehmigte, hat seit 1944 ein berühmtes Maskottchen: Smokey Bear, der später mit dem Satz „Only you can prevent forest fires“ bekannt wurde. 1950 fanden Helfer nach einem Waldbrand in den Capitan Mountains in New Mexico ein angesengtes Bärenjunges. Es lebte danach als echter Smokey im Nationalzoo in Washington. Der Bär bekam so viele Briefe, dass ihm die US-Post 1964 eine eigene Postleitzahl gab, nämlich 20252.",
+              "hook": "mit Genehmigung des Forest Service",
+              "children": [],
+              "source": {
+                "title": "Smokey Bear: A Short History of the New Mexico Bear Cub – Library of Congress Blogs",
+                "url": "https://blogs.loc.gov/law/2021/10/smokey-bear-a-short-history-of-the-new-mexico-bear-cub/"
+              }
+            }
+          ],
+          "source": {
+            "title": "Prometheus (Baum) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Prometheus_(Baum)"
+          }
+        }
+      ],
+      "source": {
+        "title": "Welwitschie – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Welwitschie"
+      }
+    },
+    {
+      "id": "2026-10-20-1",
+      "category": "geschichte",
+      "title": "Die Explosion von Halifax",
+      "text": "Am 6. Dezember 1917 stieß im Hafen von Halifax in Kanada der französische Munitionsfrachter Mont-Blanc mit dem norwegischen Schiff Imo zusammen. Rund 20 Minuten später explodierte die Ladung. Es war eine der größten nicht-nuklearen Explosionen der Geschichte, und etwa 2.000 Menschen starben. Der Fahrdienstleiter Vince Coleman telegrafierte noch eine Warnung an herannahende Züge und kam dabei ums Leben. Weil Boston sofort Hilfe schickte, schenkt die Provinz Nova Scotia der Stadt bis heute jedes Jahr einen Weihnachtsbaum.",
+      "children": [
+        {
+          "id": "2026-10-20-1-0",
+          "title": "Der Knall von Helgoland",
+          "text": "Zu den größten nicht-nuklearen Explosionen zählt auch der „Big Bang“ von Helgoland: Am 18. April 1947 zündete die Royal Navy rund 6.700 Tonnen Munition, um Bunker und U-Boot-Anlagen der Insel zu zerstören. Die Insel blieb stehen, doch ihr Südteil wurde zu einer Kraterlandschaft, dem heutigen Mittelland. Danach nutzten die Briten Helgoland als Bombenziel. Ende 1950 besetzten zwei Heidelberger Studenten die Insel, der Protest wuchs, und 1952 wurde sie an Deutschland zurückgegeben.",
+          "hook": "größten nicht-nuklearen Explosionen der Geschichte",
+          "children": [
+            {
+              "id": "2026-10-20-1-0-0",
+              "title": "Hymne von britischem Boden",
+              "text": "Zurückgegeben wurde Helgoland 1952 nicht zum ersten Mal: Die Insel war seit 1807 britisch und kam erst 1890 durch den Helgoland-Sansibar-Vertrag an das Deutsche Reich. Berlin verzichtete im Gegenzug auf Ansprüche in Ostafrika, etwa auf Witu, und erkannte das britische Protektorat über Sansibar an. Knapp fünfzig Jahre vorher, im August 1841, schrieb ein Badegast auf Helgoland ein Gedicht: Hoffmann von Fallersleben verfasste dort „Das Lied der Deutschen“. Die deutsche Nationalhymne entstand also auf britischem Boden.",
+              "hook": "an Deutschland zurückgegeben",
+              "children": [],
+              "source": {
+                "title": "Vertrag zwischen dem Deutschen Reich und dem Vereinigten Königreich über die Kolonien und Helgoland – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Vertrag_zwischen_dem_Deutschen_Reich_und_dem_Vereinigten_K%C3%B6nigreich_%C3%BCber_die_Kolonien_und_Helgoland"
+              }
+            },
+            {
+              "id": "2026-10-20-1-0-1",
+              "title": "Hawaiis Bombeninsel",
+              "text": "Als Bombenziel diente auch eine Insel am anderen Ende der Welt: Kahoʻolawe auf Hawaii, das die US-Marine von 1941 bis 1990 beschoss. 1965 zündete sie dort bei den Tests „Sailor Hat“ jeweils rund 500 Tonnen Sprengstoff, um die Wirkung von Atomexplosionen auf Kriegsschiffe zu simulieren. Wie auf Helgoland brachten Besetzungen die Wende, ab 1976 durch hawaiische Aktivisten. Seit 1994 gehört die Insel dem Bundesstaat, der sie per Gesetz für eine künftige souveräne hawaiische Nation verwaltet.",
+              "hook": "als Bombenziel",
+              "children": [],
+              "source": {
+                "title": "Kahoʻolawe – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kaho%CA%BBolawe"
+              }
+            },
+            {
+              "id": "2026-10-20-1-0-2",
+              "title": "Der Bunker an der Weser",
+              "text": "Bunker und U-Boot-Anlagen baute das NS-Regime nicht nur auf Helgoland. Der größte U-Boot-Bunker in Deutschland ist der Bunker Valentin in Bremen-Farge, rund 420 Meter lang und mit einer bis zu sieben Meter dicken Decke. Ab 1943 mussten Tausende Zwangsarbeiter und KZ-Häftlinge ihn bauen, mehr als tausend von ihnen kamen ums Leben. Fertig wurde er nie: Im März 1945 durchschlugen britische „Grand Slam“-Bomben eine dünnere Stelle der Decke. Heute ist der Bunker ein Gedenkort, und das Loch in der Decke sieht man noch.",
+              "hook": "Bunker und U-Boot-Anlagen",
+              "children": [],
+              "source": {
+                "title": "U-Boot-Bunker Valentin – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/U-Boot-Bunker_Valentin"
+              }
+            }
+          ],
+          "source": {
+            "title": "Sprengung von Bunkeranlagen auf Helgoland – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Sprengung_von_Bunkeranlagen_auf_Helgoland"
+          }
+        },
+        {
+          "id": "2026-10-20-1-1",
+          "title": "Pikrinsäure: gelb und heikel",
+          "text": "Die Mont-Blanc hatte neben TNT vor allem über 2.000 Tonnen Pikrinsäure geladen, einen Stoff mit erstaunlicher Karriere. Ab Mitte des 19. Jahrhunderts färbte man mit der gelben Verbindung Seide und Wolle, bis Frankreich sie in den 1880er-Jahren als Sprengstoff „Melinit“ einführte. Die Briten nannten ihre Variante „Lyddit“, nach dem Testgelände bei Lydd in Kent. Getrocknet wird Pikrinsäure stoßempfindlich, weshalb bis heute gelegentlich Bombenentschärfer vergessene Fläschchen aus Schullaboren holen.",
+          "hook": "französische Munitionsfrachter Mont-Blanc",
+          "children": [
+            {
+              "id": "2026-10-20-1-1-0",
+              "title": "Jules Verne vor Gericht",
+              "text": "Erfunden hatte das „Melinit“ der Chemiker Eugène Turpin, der sich vom französischen Staat um Ruhm und Geld betrogen fühlte. 1896 erkannte er sich in Jules Vernes Roman „Face au drapeau“ wieder: Darin verkauft der verbitterte Erfinder Thomas Roch seine Superwaffe an Piraten. Turpin verklagte Verne wegen Verleumdung, verlor aber. Verteidigt hatte den Schriftsteller ein Anwalt namens Raymond Poincaré, der 1913 Präsident Frankreichs wurde.",
+              "hook": "als Sprengstoff „Melinit“ einführte",
+              "children": [],
+              "source": {
+                "title": "Die Erfindung des Verderbens – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Die_Erfindung_des_Verderbens"
+              }
+            },
+            {
+              "id": "2026-10-20-1-1-1",
+              "title": "Die Kanarienvögel von Preston",
+              "text": "Die gelbe Farbe blieb nicht nur in der Wolle: In britischen Munitionsfabriken des Ersten Weltkriegs färbten Sprengstoffe wie TNT die Haut der Arbeiterinnen gelb, weshalb man sie „Canary Girls“ nannte. Viele dieser Fabriken stellten Frauenfußballteams auf. Die Dick, Kerr Ladies aus Preston lockten 1920 rund 53.000 Zuschauer in den Goodison Park in Liverpool. Ein Jahr später verbannte der englische Fußballverband Frauen von den Plätzen seiner Vereine, und erst 1971 hob er das Verbot auf.",
+              "hook": "der gelben Verbindung Seide und Wolle",
+              "children": [],
+              "source": {
+                "title": "Dick, Kerr Ladies – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dick,_Kerr_Ladies"
+              }
+            },
+            {
+              "id": "2026-10-20-1-1-2",
+              "title": "Mit dem Auto übers Meer",
+              "text": "Ganz in der Nähe von Lydd eröffnete 1954 der Flugplatz Ferryfield, gebaut für eine kuriose Idee: Autos sollten fliegen. Die Gesellschaft Silver City Airways fuhr Wagen in Frachtflugzeuge vom Typ Bristol Freighter, deren Bug sich wie ein Scheunentor aufklappen ließ. Nach gut 20 Minuten landeten Auto und Fahrer in Le Touquet in Frankreich. Erst Hovercrafts und große Autofähren beendeten in den 1970er-Jahren die Zeit, in der Briten ihr Auto per Flugzeug in den Urlaub mitnahmen.",
+              "hook": "nach dem Testgelände bei Lydd",
+              "children": [],
+              "source": {
+                "title": "Flughafen Lydd – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Flughafen_Lydd"
+              }
+            }
+          ],
+          "source": {
+            "title": "Pikrinsäure – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Pikrins%C3%A4ure"
+          }
+        },
+        {
+          "id": "2026-10-20-1-2",
+          "title": "Oslos Baum für London",
+          "text": "Halifax ist nicht die einzige Stadt, die sich mit einem Weihnachtsbaum bedankt: Seit 1947 schickt Oslo jedes Jahr eine Fichte nach London, als Dank für die britische Hilfe im Zweiten Weltkrieg. König Haakon VII. und die norwegische Regierung hatten den Krieg im Londoner Exil verbracht. Der rund 20 Meter hohe Baum stammt aus den Wäldern um Oslo und wird traditionell im Beisein des Lord Mayor of Westminster gefällt. Auf dem Trafalgar Square trägt er dann norwegischen Schmuck: schlichte Lichterketten, die senkrecht herabhängen.",
+          "hook": "jedes Jahr einen Weihnachtsbaum",
+          "children": [
+            {
+              "id": "2026-10-20-1-2-0",
+              "title": "Der König, der Nein sagte",
+              "text": "König Haakon VII. landete nicht zufällig in London: Im April 1940 verlangten die deutschen Besatzer, er solle den Kollaborateur Vidkun Quisling zum Regierungschef ernennen, und er weigerte sich. Sein Monogramm „H7“ wurde danach heimlich an Wände gemalt und zum Zeichen des Widerstands. Dabei war er gar kein gebürtiger Norweger, sondern der dänische Prinz Carl. Den Thron nahm er 1905 erst an, als die Norweger in einer Volksabstimmung zugestimmt hatten. Norwegen hat sich seinen König also gewissermaßen selbst gewählt.",
+              "hook": "König Haakon VII.",
+              "children": [],
+              "source": {
+                "title": "Haakon VII. – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Haakon_VII."
+              }
+            },
+            {
+              "id": "2026-10-20-1-2-1",
+              "title": "Der leere Sockel",
+              "text": "Auf dem Trafalgar Square steht neben Nelsons Säule eine Kuriosität: Ein Sockel in der Nordwestecke blieb mehr als 150 Jahre lang leer. Um 1841 war er für ein Reiterstandbild gebaut worden, doch das Geld reichte nie. Seit 1999 wechseln dort zeitgenössische Kunstwerke, von einem riesigen Buddelschiff bis zu einem knallblauen Hahn. 2009 ließ Antony Gormley den „Fourth Plinth“ 100 Tage lang rund um die Uhr besetzen: 2.400 Freiwillige standen je eine Stunde darauf. Der Sockel bekam also doch noch Denkmäler, nur eben lebende.",
+              "hook": "Auf dem Trafalgar Square",
+              "children": [],
+              "source": {
+                "title": "Fourth plinth – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Fourth_plinth"
+              }
+            },
+            {
+              "id": "2026-10-20-1-2-2",
+              "title": "Der Shetland-Bus",
+              "text": "Zur britischen Hilfe im Zweiten Weltkrieg gehörte eine verwegene Verbindung über die Nordsee, der sogenannte Shetland-Bus. Norwegische Fischer fuhren mit ihren Kuttern von den Shetlandinseln an die besetzte Küste, brachten Agenten und Waffen hin und Flüchtlinge zurück, meist im Schutz der langen Winternächte. Die Verluste waren hoch, bis die US-Marine 1943 drei schnelle U-Jäger stellte: Hessa, Hitra und Vigra. Danach ging kein einziges Boot mehr verloren, und die Hitra ist heute noch als fahrtüchtiges Museumsschiff erhalten.",
+              "hook": "britische Hilfe im Zweiten Weltkrieg",
+              "children": [],
+              "source": {
+                "title": "Shetland Bus – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Shetland_Bus"
+              }
+            }
+          ],
+          "source": {
+            "title": "Trafalgar Square Christmas Tree – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Trafalgar_Square_Christmas_Tree"
+          }
+        }
+      ],
+      "source": {
+        "title": "Halifax-Explosion – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Halifax-Explosion"
+      }
+    },
+    {
+      "id": "2026-10-20-2",
+      "category": "orte",
+      "title": "Der Krater von Darvaza",
+      "text": "In der Karakum-Wüste in Turkmenistan brennt seit Jahrzehnten Erdgas in einem rund 70 Meter breiten Krater, der „Tor zur Hölle“ genannt wird. Wie er entstanden ist, ist umstritten: Die verbreitete Geschichte von einer sowjetischen Bohrung im Jahr 1971 ist nicht belegt, und turkmenische Geologen datieren den Einsturz in die 1960er-Jahre. 2013 stieg der Kanadier George Kourounis als Erster hinab, um Bodenproben zu nehmen. 2022 ordnete die Regierung an, das Feuer zu löschen.",
+      "children": [
+        {
+          "id": "2026-10-20-2-0",
+          "title": "Ein Fluss durch die Wüste",
+          "text": "Quer durch die Karakum-Wüste zieht sich einer der längsten Bewässerungskanäle der Welt, der über 1.000 Kilometer lange Karakum-Kanal. Die Sowjetunion begann 1954 mit dem Bau, um Wasser aus dem Amudarja für riesige Baumwollfelder abzuzweigen. Weil der Kanal größtenteils unbefestigt ist, versickert und verdunstet unterwegs ein erheblicher Teil des Wassers. Die Folgen zeigen sich bis heute am Aralsee, denn der Amudarja war einer seiner beiden Hauptzuflüsse.",
+          "hook": "Karakum-Wüste in Turkmenistan",
+          "children": [
+            {
+              "id": "2026-10-20-2-0-0",
+              "title": "Baumwolle aus dem Nichts",
+              "text": "Für die Baumwolle Zentralasiens gab es in der Sowjetunion ein eigenes Wort: „weißes Gold“. Moskau verlangte Jahr für Jahr höhere Ernten, und die Usbekische SSR unter Parteichef Scharaf Raschidow meldete über Jahre weit mehr Baumwolle, als tatsächlich geerntet wurde. Ab 1983, dem Jahr von Raschidows Tod, deckten Ermittler die sogenannte Baumwollaffäre auf, einen der größten Korruptionsfälle der Sowjetgeschichte. Moskau hatte Unsummen für eine Ernte gezahlt, die zum Teil nur auf dem Papier existierte.",
+              "hook": "riesige Baumwollfelder",
+              "children": [],
+              "source": {
+                "title": "Uzbek cotton scandal – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Uzbek_cotton_scandal"
+              }
+            },
+            {
+              "id": "2026-10-20-2-0-1",
+              "title": "Die Insel der Erreger",
+              "text": "Als der Aralsee schrumpfte, verlor die Insel Wosroschdenije ihren natürlichen Schutz. Ihr Name bedeutet „Wiedergeburt“. Auf ihr betrieb die Sowjetunion jahrzehntelang ein geheimes Testgelände für Biowaffen, und 1988 wurden dort große Mengen Milzbrandsporen in Erdgruben vergraben. Um 2001 wuchs die Insel durch das zurückweichende Wasser mit dem Festland zusammen, und Fachleute fürchteten, Tiere könnten die Erreger verschleppen. 2002 rückte ein von den USA finanziertes Team an, um ausgerechnet auf der Insel der Wiedergeburt den Tod unschädlich zu machen.",
+              "hook": "bis heute am Aralsee",
+              "children": [],
+              "source": {
+                "title": "Insel der Wiedergeburt – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Insel_der_Wiedergeburt"
+              }
+            },
+            {
+              "id": "2026-10-20-2-0-2",
+              "title": "Der Schatz vom Oxus",
+              "text": "In der Antike hieß der Amudarja Oxus. An seinem Ufer im heutigen Tadschikistan kam um 1880 einer der bedeutendsten Goldfunde des alten Persiens zum Vorschein. Der Oxus-Schatz umfasst rund 180 Objekte aus Gold und Silber aus der Zeit der Achämeniden, darunter ein winziges goldenes Wagenmodell mit Pferdegespann. Der Großteil liegt heute im British Museum, doch ganz geklärt ist der Bestand bis heute nicht: Händler auf dem Weg nach Britisch-Indien sollen Kopien angefertigt haben, und einige Stücke gelten als zweifelhaft.",
+              "hook": "Wasser aus dem Amudarja",
+              "children": [],
+              "source": {
+                "title": "Oxos-Schatz – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Oxos-Schatz"
+              }
+            }
+          ],
+          "source": {
+            "title": "Karakumkanal – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Karakumkanal"
+          }
+        },
+        {
+          "id": "2026-10-20-2-1",
+          "title": "Leben, wo es kocht",
+          "text": "In Kourounis' Bodenproben fanden Forscher Bakterien, die in der Hitze am Kraterboden leben. Solche Extremophile haben die Wissenschaft schon einmal verändert: In den 1960er-Jahren entdeckte der Mikrobiologe Thomas Brock in heißen Quellen des Yellowstone-Nationalparks das Bakterium Thermus aquaticus. Sein hitzebeständiges Enzym, die Taq-Polymerase, machte die Polymerase-Kettenreaktion (PCR) erst praxistauglich. Für die Erfindung der PCR erhielt Kary Mullis 1993 den Chemie-Nobelpreis.",
+          "hook": "um Bodenproben zu nehmen",
+          "children": [
+            {
+              "id": "2026-10-20-2-1-0",
+              "title": "Conan, das Bakterium",
+              "text": "Zu den zähesten Extremophilen gehört Deinococcus radiodurans, Spitzname „Conan, das Bakterium“. Entdeckt wurde es 1956 in Oregon in Fleischkonserven, die mit Gammastrahlen sterilisiert worden waren. Es hatte überlebt. Es verträgt rund tausendmal so viel Strahlung wie ein Mensch, weil es zerschossene DNA rasch wieder zusammensetzt. Beim japanischen Tanpopo-Experiment überstanden Zellklumpen drei Jahre an der Außenseite der ISS.",
+              "hook": "Solche Extremophile",
+              "children": [],
+              "source": {
+                "title": "Deinococcus radiodurans – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Deinococcus_radiodurans"
+              }
+            },
+            {
+              "id": "2026-10-20-2-1-1",
+              "title": "Die Zone des Todes",
+              "text": "Die heißen Quellen, an denen Brock forschte, liegen im ersten Nationalpark der Welt: Yellowstone, gegründet 1872. Weil der Park über drei Bundesstaaten reicht, entdeckte der Jurist Brian Kalt 2005 darin eine Lücke. Der ganze Park gehört zum Gerichtsbezirk Wyoming, doch ein unbewohnter Streifen liegt in Idaho. Die Verfassung verlangt Geschworene aus Staat und Bezirk des Tatorts. Dort ließe sich also keine Jury bilden, und vor Gericht geklärt wurde diese „Zone des Todes“ bis heute nicht.",
+              "hook": "heißen Quellen des Yellowstone-Nationalparks",
+              "children": []
+            },
+            {
+              "id": "2026-10-20-2-1-2",
+              "title": "Die Idee am Steuer",
+              "text": "Kary Mullis kam die Idee zur PCR 1983 nicht im Labor, sondern nachts am Steuer, auf einer Fahrt durch die Hügel Nordkaliforniens zu seiner Hütte. Er arbeitete damals für die Biotech-Firma Cetus, die das Verfahren patentieren ließ. 1991 verkaufte Cetus die Rechte für rund 300 Millionen Dollar an Hoffmann-La Roche. Mullis selbst hatte für seine Erfindung einen Bonus von 10.000 Dollar bekommen.",
+              "hook": "Kary Mullis",
+              "children": [],
+              "source": {
+                "title": "Kary Mullis – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kary_Mullis"
+              }
+            }
+          ],
+          "source": {
+            "title": "Thermus aquaticus – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Thermus_aquaticus"
+          }
+        },
+        {
+          "id": "2026-10-20-2-2",
+          "title": "Ein Tempel für die Flamme",
+          "text": "Brennendes Erdgas aus dem Boden lockte am Kaspischen Meer schon vor Jahrhunderten Pilger an. Bei Baku in Aserbaidschan steht der Ateschgah, ein Feuertempel, den vor allem indische Händler im 17. und 18. Jahrhundert ausbauten. Davon zeugen Inschriften in Sanskrit, Punjabi und Persisch. Die natürliche Flamme erlosch 1969, als die Erdgasförderung in der Region den Druck im Untergrund senkte. Seitdem wird das Feuer über eine Leitung aus dem städtischen Gasnetz gespeist.",
+          "hook": "brennt seit Jahrzehnten Erdgas",
+          "children": [
+            {
+              "id": "2026-10-20-2-2-0",
+              "title": "Kaufleute aus Multan",
+              "text": "Die indischen Händler am Ateschgah gehörten zu einem weiten Handelsnetz, das von Städten wie Multan im heutigen Pakistan bis nach Persien, Zentralasien und Russland reichte. Diese Kaufleute verliehen vor allem Geld und finanzierten Karawanen, Bauern und sogar Fürsten. In Astrachan an der Wolgamündung hatten sie seit dem 17. Jahrhundert einen eigenen Handelshof. Aus Ehen indischer Männer mit Tatarinnen ging dort eine eigene Bevölkerungsgruppe hervor, die Agryschanen.",
+              "hook": "vor allem indische Händler",
+              "children": [],
+              "source": {
+                "title": "Multanis – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Multanis"
+              }
+            },
+            {
+              "id": "2026-10-20-2-2-1",
+              "title": "Ein Tanker namens Zoroaster",
+              "text": "Die Förderung von Erdgas bei Baku folgte auf einen viel älteren Rohstoffboom: Im 19. Jahrhundert machte das Erdöl die Stadt reich. Die Brüder Ludvig und Robert Nobel bauten dort mit Branobel einen der größten Ölkonzerne der Welt auf. 1878 ließen sie in Schweden die Zoroaster bauen, einen der ersten erfolgreichen Öltanker, der Petroleum nicht in Fässern, sondern direkt im Rumpf transportierte. Auch Alfred Nobel war an der Firma beteiligt. Ein Teil des Vermögens hinter dem Nobelpreis stammt also aus Baku.",
+              "hook": "die Erdgasförderung in der Region",
+              "children": [],
+              "source": {
+                "title": "Zoroaster (Schiff) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Zoroaster_(Schiff)"
+              }
+            },
+            {
+              "id": "2026-10-20-2-2-2",
+              "title": "Die Bucht, die verdampfte",
+              "text": "Am Ostufer des Kaspischen Meeres liegt Kara-Bogas-Gol, eine flache Bucht, die nur durch eine schmale Meerenge mit dem Meer verbunden ist. Dort verdunstet so viel Wasser, dass sie zu den salzigsten Gewässern der Erde gehört. Weil der Spiegel des Kaspischen Meeres jahrzehntelang gesunken war, sperrten sowjetische Planer die Meerenge 1980 mit einem Damm, um Wasser zu sparen. Dass das Meer seit 1978 schon wieder stieg, wussten sie nicht. Innerhalb weniger Jahre trocknete die Bucht fast völlig aus, und Salzstaub wehte über das Land. 1992 wurde der Damm entfernt.",
+              "hook": "am Kaspischen Meer",
+              "children": [],
+              "source": {
+                "title": "Kara-Bogas-Gol – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kara-Bogas-Gol"
+              }
+            }
+          ],
+          "source": {
+            "title": "Ateschgah von Baku – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Ateschgah_von_Baku"
+          }
+        }
+      ],
+      "source": {
+        "title": "Krater von Derweze – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Krater_von_Derweze"
+      }
+    }
+  ]
+}
