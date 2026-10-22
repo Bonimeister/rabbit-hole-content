@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-22T00:57:35.177Z",
+  "topics": [
+    {
+      "id": "2026-10-24-0",
+      "category": "geschichte",
+      "title": "Operation Mincemeat",
+      "text": "Im Frühjahr 1943 wollte der britische Geheimdienst die deutsche Führung glauben machen, die Alliierten würden in Griechenland und auf Sardinien landen statt auf Sizilien. Dazu setzte das U-Boot HMS Seraph vor der spanischen Küste bei Huelva eine Leiche aus, ausstaffiert als „Major William Martin“ mit gefälschten Geheimbriefen. Der Tote war in Wahrheit Glyndwr Michael, ein mittelloser Waliser, der an Rattengift gestorben war. Ausgedacht hatten sich die Täuschung Ewen Montagu und Charles Cholmondeley.",
+      "children": [
+        {
+          "id": "2026-10-24-0-0",
+          "title": "Fußball am roten Fluss",
+          "text": "An der Küste bei Huelva waren Briten nichts Ungewöhnliches: Seit 1873 betrieb die britische Rio Tinto Company im Hinterland die Kupferminen am gleichnamigen Fluss. Gelöstes Eisen färbt den Río Tinto tiefrot und macht ihn stark sauer. Die britischen Bergleute und Ingenieure brachten auch den Fußball mit. 1889 entstand Recreativo de Huelva, der älteste noch bestehende Fußballverein Spaniens, bis heute „El Decano“ genannt.",
+          "hook": "spanischen Küste bei Huelva",
+          "children": [
+            {
+              "id": "2026-10-24-0-0-0",
+              "title": "Ein Stück Mars in Andalusien",
+              "text": "Wegen seines sauren, eisenroten Wassers mit einem pH-Wert um 2 gilt der Río Tinto Astrobiologen als eines der besten Mars-Modelle der Erde. Trotzdem lebt der Fluss: Bakterien, Algen und Pilze, die von Eisen und Schwefel leben, gedeihen hier. Um 2003 erprobten NASA und das spanische Centro de Astrobiología im Projekt MARTE hier die Suche nach Mikroben im Untergrund. Kurz darauf fand der Rover Opportunity auf dem Mars Jarosit, ein Mineral, das in saurem Wasser entsteht und auch am Río Tinto vorkommt.",
+              "hook": "tiefrot und macht ihn stark sauer",
+              "children": [],
+              "source": {
+                "title": "Río Tinto: A Geochemical and Mineralogical Terrestrial Analogue of Mars – PMC",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4206857/"
+              }
+            },
+            {
+              "id": "2026-10-24-0-0-1",
+              "title": "Von Huelva nach Australien",
+              "text": "Die britische Rio Tinto Company verkaufte 1954 den Großteil ihrer spanischen Minen, behielt aber den Namen des Flusses. Daraus wurde einer der größten Bergbaukonzerne der Welt, der vor allem Eisenerz in Westaustralien fördert. Dort sprengte Rio Tinto im Mai 2020 Felsunterkünfte in der Juukan-Schlucht, die Menschen rund 46.000 Jahre lang genutzt hatten. Nach dem weltweiten Aufschrei musste Konzernchef Jean-Sébastien Jacques zurücktreten.",
+              "hook": "die britische Rio Tinto Company",
+              "children": [],
+              "source": {
+                "title": "Rio Tinto Group – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Rio_Tinto_Group"
+              }
+            },
+            {
+              "id": "2026-10-24-0-0-2",
+              "title": "Gestreift wie eine Matratze",
+              "text": "Auch im Baskenland brachten britische Bergleute und Werftarbeiter den Fußball mit, weshalb der Athletic Club aus Bilbao bis heute einen englischen Namen trägt. Laut gängiger Überlieferung brachte Juan Elorduy 1909 aus England rot-weiß gestreifte Trikots mit, angeblich die von Southampton. Einen Teil gab er an den Madrider Ableger des Klubs weiter, das heutige Atlético Madrid. Dessen Fans heißen bis heute „Colchoneros“, Matratzenmacher, denn rot-weiß gestreifter Stoff war damals typisch für Matratzenbezüge.",
+              "hook": "brachten auch den Fußball mit",
+              "children": [],
+              "source": {
+                "title": "Atlético Madrid – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Atl%C3%A9tico_Madrid"
+              }
+            }
+          ],
+          "source": {
+            "title": "Recreativo Huelva – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Recreativo_Huelva"
+          }
+        },
+        {
+          "id": "2026-10-24-0-1",
+          "title": "Seraphs geheime Passagiere",
+          "text": "Für die HMS Seraph war die Fahrt nach Huelva nicht der erste Geheimauftrag. Im Oktober 1942 setzte sie den US-General Mark Clark bei Cherchell an der algerischen Küste ab, wo er heimlich mit französischen Offizieren über die Landung in Nordafrika verhandelte. Kurz darauf holte sie General Henri Giraud aus Südfrankreich. Weil Giraud den Briten misstraute, stand das Boot dabei offiziell unter dem Befehl des Amerikaners Jerauld Wright.",
+          "hook": "das U-Boot HMS Seraph",
+          "children": [
+            {
+              "id": "2026-10-24-0-1-0",
+              "title": "Ein General ohne Hose",
+              "text": "Das Geheimtreffen von Mark Clark bei Cherchell wäre beinahe aufgeflogen: Als die französische Polizei an der Strandvilla auftauchte, versteckten sich Clark und seine Begleiter im Weinkeller. Auf der hastigen Rückfahrt zur Seraph kenterte sein Faltboot in der Brandung, und der General verlor seine Hose. Von 1954 bis 1965 leitete Clark die Militärakademie The Citadel in South Carolina. Dort liegt er begraben, und auf dem Gelände erinnert ein Denkmal an die HMS Seraph.",
+              "hook": "den US-General Mark Clark",
+              "children": [],
+              "source": {
+                "title": "Mark W. Clark – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Mark_W._Clark"
+              }
+            },
+            {
+              "id": "2026-10-24-0-1-1",
+              "title": "Flucht am Seil mit 63",
+              "text": "Dass Henri Giraud in Südfrankreich auf ein U-Boot warten konnte, verdankte er einer waghalsigen Flucht. Im April 1942 seilte sich der 63-jährige General von der sächsischen Festung Königstein ab, an einem Seil aus Schnur und Draht, die in Paketen eingeschmuggelt worden waren. Über die Schweiz erreichte er das unbesetzte Frankreich. Im Januar 1943 drängte Roosevelt ihn in Casablanca zu einem Händedruck mit seinem Rivalen de Gaulle für die Fotografen. Doch noch im selben Jahr drängte de Gaulle ihn politisch ins Abseits.",
+              "hook": "General Henri Giraud aus Südfrankreich",
+              "children": [],
+              "source": {
+                "title": "Henri Giraud – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Henri_Giraud"
+              }
+            },
+            {
+              "id": "2026-10-24-0-1-2",
+              "title": "Kapitän nur zum Schein",
+              "text": "Jerauld Wright war kein Fremder an Bord: Er hatte bereits zu Mark Clarks Delegation in Cherchell gehört. Das tatsächliche Kommando über die Seraph behielt Leutnant Norman Jewell, denn Wright sollte vor allem Girauds Stolz schonen. Nach dem Krieg machte der Amerikaner steile Karriere und war von 1954 bis 1960 Supreme Allied Commander Atlantic, also Oberbefehlshaber der NATO im Atlantik. Der Mann, der einst nur auf dem Papier ein britisches U-Boot führte, befehligte am Ende die Seestreitkräfte eines ganzen Bündnisses im Atlantik.",
+              "hook": "Amerikaners Jerauld Wright",
+              "children": [],
+              "source": {
+                "title": "Jerauld Wright – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Jerauld_Wright"
+              }
+            }
+          ],
+          "source": {
+            "title": "Seraph (U-Boot) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Seraph_(U-Boot)"
+          }
+        },
+        {
+          "id": "2026-10-24-0-2",
+          "title": "Der Bruder am Pingpongtisch",
+          "text": "Ewen Montagus jüngerer Bruder Ivor führte ein ganz anderes Leben. Er war 1926 Gründungspräsident des Tischtennis-Weltverbands ITTF und blieb über 40 Jahre im Amt. Daneben arbeitete er als Filmproduzent mit Alfred Hitchcock, etwa an „Die 39 Stufen“. Der überzeugte Kommunist taucht zudem in entschlüsselten sowjetischen Funksprüchen des Venona-Projekts auf, die nahelegen, dass er als „Intelligentsia“ für den sowjetischen Militärgeheimdienst spionierte.",
+          "hook": "Ewen Montagu",
+          "children": [
+            {
+              "id": "2026-10-24-0-2-0",
+              "title": "Der Fehler im Einmalblock",
+              "text": "Das Venona-Projekt startete am 1. Februar 1943 in Arlington Hall bei Washington. Angestoßen hatte es Gene Grabeel, eine frühere Hauswirtschaftslehrerin. Der Durchbruch gelang, weil Moskau unter dem Druck des Krieges Seiten seiner eigentlich unknackbaren Einmalblöcke doppelt hatte drucken lassen. Auf diesem Weg kamen die Analytiker unter anderem Klaus Fuchs und den Rosenbergs auf die Spur. Die Pointe: Durch Spitzel wie William Weisband und Kim Philby wusste Stalin früh von Venona, während Präsident Truman vermutlich nie im Detail eingeweiht wurde.",
+              "hook": "entschlüsselten sowjetischen Funksprüchen des Venona-Projekts",
+              "children": [],
+              "source": {
+                "title": "Venona-Papiere – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Venona-Papiere"
+              }
+            },
+            {
+              "id": "2026-10-24-0-2-1",
+              "title": "Vom Thriller nach Ottawa",
+              "text": "Hitchcocks „Die 39 Stufen“ geht auf einen Roman von John Buchan zurück, den dieser 1914 schrieb, als er krank im Bett lag. Der Film nimmt sich große Freiheiten: Den Gedächtniskünstler Mr. Memory und die Heldin, die mit Handschellen an den Helden gefesselt ist, gibt es im Buch nicht. Dort sind die 39 Stufen schlicht eine Treppe zum Meer in Kent. Buchan selbst wurde 1935 als Lord Tweedsmuir Generalgouverneur von Kanada und stiftete dort einen Literaturpreis, der bis heute vergeben wird.",
+              "hook": "etwa an „Die 39 Stufen“",
+              "children": [],
+              "source": {
+                "title": "Die neununddreißig Stufen – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Die_neununddrei%C3%9Fig_Stufen"
+              }
+            },
+            {
+              "id": "2026-10-24-0-2-2",
+              "title": "Pingpong-Diplomatie",
+              "text": "Bei der Tischtennis-WM der ITTF 1971 im japanischen Nagoya wurde der Sport plötzlich zur Weltpolitik. Der US-Spieler Glenn Cowan stieg in den Bus der chinesischen Mannschaft, und der Weltmeister Zhuang Zedong schenkte ihm ein Seidenbild der Huangshan-Berge. Cowan revanchierte sich mit einem T-Shirt, auf dem ein Friedenszeichen und der Schriftzug „Let It Be“ standen. Kurz darauf reiste das US-Team als erste offizielle amerikanische Delegation seit 1949 nach Peking. Damit begann der Weg zu Nixons China-Besuch 1972.",
+              "hook": "Gründungspräsident des Tischtennis-Weltverbands ITTF",
+              "children": [],
+              "source": {
+                "title": "Ping-Pong-Diplomatie – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ping-Pong-Diplomatie"
+              }
+            }
+          ],
+          "source": {
+            "title": "Ivor Montagu – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Ivor_Montagu"
+          }
+        }
+      ],
+      "source": {
+        "title": "Operation Mincemeat – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Operation_Mincemeat"
+      }
+    },
+    {
+      "id": "2026-10-24-1",
+      "category": "technik",
+      "title": "Der Thames Tunnel",
+      "text": "Der Thames Tunnel in London wurde 1843 eröffnet und gilt als erster Tunnel, der erfolgreich unter einem schiffbaren Fluss gebaut wurde. Marc Isambard Brunel nahm sich für seinen Vortriebsschild die Schiffsbohrmuschel zum Vorbild, die sich mit ihren Schalen durch Holz frisst. Bei einem Wassereinbruch 1828 wäre sein Sohn Isambard Kingdom Brunel beinahe ertrunken. Nach fast zwei Jahrzehnten Bauzeit kamen Besucher zu Tausenden, heute fahren Züge der London Overground hindurch.",
+      "children": [
+        {
+          "id": "2026-10-24-1-0",
+          "title": "Die Termite der Meere",
+          "text": "Die Schiffsbohrmuschel, Brunels Vorbild, sieht aus wie ein Wurm, ist aber eine echte Muschel: Teredo navalis benutzt ihre zwei winzigen Schalen am Vorderende als Raspel. Holz verdauen kann sie nur mithilfe von Bakterien in ihren Kiemen, die Cellulose aufschließen und Stickstoff binden. In den 1730er-Jahren zerfraß sie die hölzernen Pfähle niederländischer Deiche, worauf man dort zu Verkleidungen aus Stein überging. Dass die Vasa in Stockholm so gut erhalten blieb, liegt auch am geringen Salzgehalt der Ostsee, den die Muschel meidet.",
+          "hook": "die Schiffsbohrmuschel zum Vorbild",
+          "children": [
+            {
+              "id": "2026-10-24-1-0-0",
+              "title": "Die Muschel-Lady von Harvard",
+              "text": "Die Bakterien in den Kiemen der Schiffsbohrmuschel tragen heute den Namen Teredinibacter turnerae. Benannt sind sie nach der Harvard-Zoologin Ruth Turner, der führenden Expertin für holzbohrende Muscheln. Sie versenkte Holzblöcke in der Tiefsee und wies so nach, dass Bohrmuscheln selbst in Tausenden Metern Tiefe gesunkenes Holz verwerten. Für diese Forschung tauchte sie 1971 als erste Wissenschaftlerin mit eigener Mission im Tauchboot Alvin, das fünf Jahre zuvor vor Spanien eine verlorene Wasserstoffbombe aufgespürt hatte.",
+              "hook": "Bakterien in ihren Kiemen",
+              "children": [],
+              "source": {
+                "title": "Ruth D. Turner – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ruth_D._Turner"
+              }
+            },
+            {
+              "id": "2026-10-24-1-0-1",
+              "title": "Eine Stadt auf Baumstämmen",
+              "text": "Während die Pfähle niederländischer Deiche im Salzwasser zerfressen wurden, blieben die Holzpfähle unter Amsterdam verschont. Sie stecken in Süßwasser und sauerstoffarmem Boden, wo weder Bohrmuscheln noch die meisten Pilze überleben. Der Königliche Palast am Dam, im 17. Jahrhundert als Rathaus erbaut, ruht auf 13.659 solcher Pfähle. Besonders gefährlich wird es, wenn das Grundwasser sinkt: Dann gelangt Sauerstoff an das Holz, und Pilze und Bakterien zersetzen in wenigen Jahrzehnten, was zuvor Jahrhunderte gehalten hat.",
+              "hook": "Pfähle niederländischer Deiche",
+              "children": []
+            },
+            {
+              "id": "2026-10-24-1-0-2",
+              "title": "Gekentert nach 1300 Metern",
+              "text": "Die Vasa in Stockholm sank 1628 auf ihrer Jungfernfahrt nach nur etwa 1300 Metern. Schon vor der Abfahrt hatte man ihre Stabilität geprüft: Rund 30 Männer rannten über das Deck von einer Seite zur anderen, bis das Schiff so stark krängte, dass der Test abgebrochen wurde. Gesegelt wurde trotzdem. Nach der Hebung 1961 besprühte man den Rumpf rund 17 Jahre lang mit Polyethylenglykol, einem Stoff, der auch in Hautcremes steckt. So zerfiel das durchnässte Holz beim Trocknen nicht.",
+              "hook": "Vasa in Stockholm",
+              "children": [],
+              "source": {
+                "title": "Vasa – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Vasa"
+              }
+            }
+          ],
+          "source": {
+            "title": "Schiffsbohrwurm – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Schiffsbohrwurm"
+          }
+        },
+        {
+          "id": "2026-10-24-1-1",
+          "title": "Die verschluckte Goldmünze",
+          "text": "Isambard Kingdom Brunel, der 1828 im Tunnel beinahe ertrank, geriet 1843 auf ganz andere Weise in Lebensgefahr: Bei einem Zaubertrick für seine Kinder verschluckte er einen Half Sovereign, eine kleine Goldmünze, die in seiner Luftröhre stecken blieb. Der berühmte Chirurg Benjamin Brodie versuchte vergeblich, sie mit einem Luftröhrenschnitt herauszuholen. Schließlich ließ sich Brunel auf einem selbst entworfenen Brett festschnallen und kopfüber schwenken. Nach rund sechs Wochen fiel die Münze heraus.",
+          "hook": "sein Sohn Isambard Kingdom Brunel",
+          "children": [
+            {
+              "id": "2026-10-24-1-1-0",
+              "title": "Die Medaille ohne Prägung",
+              "text": "Der Half Sovereign gehört zur Familie des Sovereign, dessen Rückseite seit 1817 meist dasselbe Motiv zeigt: den heiligen Georg im Kampf mit dem Drachen, entworfen vom italienischen Gemmenschneider Benedetto Pistrucci. Wenig später gab ihm der Prinzregent eine Medaille auf den Sieg bei Waterloo in Auftrag. Pistrucci arbeitete rund dreißig Jahre an den Prägestempeln und vollendete sie erst 1849. Sie waren so groß, dass sich mit ihnen nie eine Medaille prägen ließ. Es gibt nur Abdrücke und galvanische Kopien.",
+              "hook": "einen Half Sovereign, eine kleine Goldmünze",
+              "children": [],
+              "source": {
+                "title": "Waterloo Medal (Pistrucci) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Waterloo_Medal_(Pistrucci)"
+              }
+            },
+            {
+              "id": "2026-10-24-1-1-1",
+              "title": "Die Eselin Wouralia",
+              "text": "Benjamin Brodie hatte schon Jahrzehnte zuvor erforscht, wie man ein Lebewesen über die Luftröhre am Leben hält. Er zeigte an Tieren, dass das Pfeilgift Curare die Atemmuskeln lähmt, das Herz aber weiterschlagen lässt, und dass künstliche Beatmung deshalb Leben retten kann. 1814 wurde in London eine vergiftete Eselin über einen Luftröhrenschnitt stundenlang mit einem Blasebalg beatmet. Der Naturforscher Charles Waterton nahm sie auf sein Gut, nannte sie Wouralia, und sie lebte noch rund 25 Jahre.",
+              "hook": "Der berühmte Chirurg Benjamin Brodie",
+              "children": [],
+              "source": {
+                "title": "Bottle of three wourali poisoned arrowheads, 1839 – Wakefield Museums and Castles",
+                "url": "https://museumsandcastles.wakefield.gov.uk/discover/collections/people/charles-waterton/wourali"
+              }
+            },
+            {
+              "id": "2026-10-24-1-1-2",
+              "title": "Der Griff des Dr. Heimlich",
+              "text": "Gegen Fremdkörper in der Luftröhre gab es zu Brunels Zeit vor allem Schwerkraft, Zange und Skalpell. Den heute bekannten Oberbauchstoß beschrieb der US-Chirurg Henry Heimlich erst 1974: Ein ruckartiger Druck zwischen Nabel und Brustbein presst Luft aus der Lunge, die den Fremdkörper hinausschleudern soll. 2016 rettete Heimlich mit 96 Jahren in seinem Seniorenheim in Cincinnati eine Mitbewohnerin, die sich verschluckt hatte. Er nannte es seinen ersten Ernstfall, hatte aber früher schon von einem anderen berichtet.",
+              "hook": "die in seiner Luftröhre stecken blieb",
+              "children": [],
+              "source": {
+                "title": "Heimlich-Manöver – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Heimlich-Man%C3%B6ver"
+              }
+            }
+          ],
+          "source": {
+            "title": "Ramachandran & Aronson: The diagnosis of art – Brunel's coin (Journal of the Royal Society of Medicine, PMC)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3078617/"
+          }
+        },
+        {
+          "id": "2026-10-24-1-2",
+          "title": "Vom KdF-Schiff zur Windrush",
+          "text": "Die Overground-Strecke durch Brunels Tunnel heißt seit Ende 2024 Windrush line, benannt nach der HMT Empire Windrush. Das Schiff lief 1930 in Hamburg als Monte Rosa vom Stapel, diente später der NS-Organisation „Kraft durch Freude“ für Kreuzfahrten und fiel nach dem Krieg als Kriegsbeute an Großbritannien. Im Juni 1948 brachte es in Tilbury rund tausend Passagiere an Land, viele davon aus Jamaika und von anderen Karibikinseln. Ihre Ankunft gilt als Symbol der Einwanderung aus dem Commonwealth. Seit 2018 erinnert der Windrush Day am 22. Juni daran.",
+          "hook": "Züge der London Overground",
+          "children": [
+            {
+              "id": "2026-10-24-1-2-0",
+              "title": "Prora: Urlaub für 20.000",
+              "text": "Die NS-Organisation „Kraft durch Freude“ veranstaltete nicht nur Kreuzfahrten. Ab 1936 ließ sie auf Rügen auch das Seebad Prora errichten: einen Gebäuderiegel von rund viereinhalb Kilometern Länge für etwa 20.000 Urlauber, jedes Zimmer mit Meerblick. Das Modell gewann 1937 auf der Weltausstellung in Paris einen Grand Prix, doch mit Kriegsbeginn wurde der Bau eingestellt. Ein regulärer Urlaubsgast zog nie ein. Zu DDR-Zeiten diente der „Koloss von Rügen“ als Kaserne, heute werden darin Ferienwohnungen verkauft.",
+              "hook": "Kraft durch Freude",
+              "children": [],
+              "source": {
+                "title": "Prora – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Prora"
+              }
+            },
+            {
+              "id": "2026-10-24-1-2-1",
+              "title": "Der Berg, der nicht rosa ist",
+              "text": "Die Monte Rosa trug den Namen des vergletscherten Massivs zwischen der Schweiz und Italien. Mit der Farbe Rosa hat der Name vermutlich nichts zu tun, er geht wohl auf ein altes Dialektwort für Gletscher zurück. Der höchste Gipfel, die 4634 Meter hohe Dufourspitze, ist zugleich der höchste Punkt der Schweiz. Auf der benachbarten Signalkuppe steht seit 1893 das höchstgelegene Gebäude Europas: die Capanna Regina Margherita. Benannt ist die Hütte nach Italiens Königin, die im Jahr der Eröffnung selbst zu ihr hinaufstieg.",
+              "hook": "als Monte Rosa vom Stapel",
+              "children": [],
+              "source": {
+                "title": "Monte Rosa – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Monte_Rosa"
+              }
+            },
+            {
+              "id": "2026-10-24-1-2-2",
+              "title": "Elisabeths Rede in Tilbury",
+              "text": "Schon 1588 war Tilbury an der Themsemündung Schauplatz eines symbolträchtigen Moments: Elisabeth I. sprach dort zu ihren Truppen, die eine Landung der spanischen Armada abwehren sollten. Überliefert ist ihr Satz, sie habe zwar den Körper einer schwachen Frau, aber das Herz eines Königs. Schriftlich belegt ist der Wortlaut allerdings erst Jahrzehnte später, seine Echtheit ist daher umstritten. Ironischerweise war die Armada, als die Königin sprach, nach der Schlacht bei Gravelines bereits nach Norden abgedrängt worden.",
+              "hook": "in Tilbury rund tausend Passagiere",
+              "children": [],
+              "source": {
+                "title": "Tilbury-Rede – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Tilbury-Rede"
+              }
+            }
+          ],
+          "source": {
+            "title": "HMT Empire Windrush – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/HMT_Empire_Windrush"
+          }
+        }
+      ],
+      "source": {
+        "title": "Thames Tunnel – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Thames_Tunnel"
+      }
+    },
+    {
+      "id": "2026-10-24-2",
+      "category": "wissenschaft",
+      "title": "Rosetta und Philae",
+      "text": "Die ESA-Sonde Rosetta startete 2004 und brauchte rund zehn Jahre, um den Kometen 67P/Tschurjumow-Gerassimenko einzuholen. Im November 2014 landete ihr Lander Philae als erstes Gerät auf einem Kometenkern. Seine Harpunen lösten allerdings nicht aus, er hüpfte in eine schattige Ecke, und dort ging ihm der Solarstrom aus. Benannt ist die Mission nach dem Stein von Rosette, der bei der Entzifferung der Hieroglyphen half. Im September 2016 ließ man Rosetta selbst gezielt auf dem Kometen aufschlagen.",
+      "children": [
+        {
+          "id": "2026-10-24-2-0",
+          "title": "Ein Steuererlass als Schlüssel",
+          "text": "Der Stein von Rosette, nach dem die Mission benannt ist, trägt keinen heiligen Text, sondern einen Priesterbeschluss aus dem Jahr 196 v. Chr. zu Ehren des jungen Königs Ptolemaios V. Er steht dort dreimal: in Hieroglyphen, in demotischer Schrift und auf Griechisch. Französische Soldaten fanden den Granodioritblock 1799 bei Raschid im Nildelta, als sie eine Festung ausbauten. Nach der französischen Kapitulation ging er an die Briten und steht seit 1802 im British Museum. Ägyptische Archäologen fordern ihn bis heute zurück.",
+          "hook": "dem Stein von Rosette",
+          "children": [
+            {
+              "id": "2026-10-24-2-0-0",
+              "title": "Die Schrift des Volkes",
+              "text": "Die demotische Schrift auf dem Stein war die Alltagsschrift Ägyptens. Diese stark verkürzte Schreibschrift kam um 650 v. Chr. auf und wurde für Verträge, Briefe und Quittungen benutzt. Ihren Namen hat sie von Herodot, der sie als „Volksschrift“ bezeichnete, griechisch dēmotika. Schreiber kamen damit viel schneller voran als mit Hieroglyphen, doch bei vielen Zeichen sieht man das ursprüngliche Bild kaum noch. Die letzte datierte demotische Inschrift ritzte jemand 452 n. Chr. in den Isistempel auf der Nilinsel Philae. Nach genau dieser Insel ist der Kometenlander benannt.",
+              "hook": "in demotischer Schrift",
+              "children": [],
+              "source": {
+                "title": "Demotische Schrift – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Demotische_Schrift"
+              }
+            },
+            {
+              "id": "2026-10-24-2-0-1",
+              "title": "Der Kinderkönig",
+              "text": "Ptolemaios V. war erst fünf oder sechs Jahre alt, als er um 204 v. Chr. König wurde. Zwei Höflinge hielten den Tod seines Vaters zunächst geheim und regierten in seinem Namen. Seine Familie stammte von einem makedonischen General Alexanders des Großen ab, und am Hof sprach man Griechisch. Deshalb steht auf dem Stein überhaupt eine griechische Fassung. Plutarch berichtet, dass erst Kleopatra VII., die letzte Herrscherin der Dynastie, nach rund zweieinhalb Jahrhunderten Ptolemäerherrschaft die Sprache ihrer Untertanen lernte.",
+              "hook": "des jungen Königs Ptolemaios V.",
+              "children": [],
+              "source": {
+                "title": "Ptolemaios V. – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ptolemaios_V."
+              }
+            },
+            {
+              "id": "2026-10-24-2-0-2",
+              "title": "Kriegsasyl unter London",
+              "text": "Ganz ohne Unterbrechung stand der Stein seit 1802 nicht im British Museum. Aus Angst vor deutschen Luftangriffen brachte das Museum ihn 1917 zusammen mit anderen Schätzen in eine Station der Londoner Post-Untergrundbahn bei Holborn, rund 15 Meter unter der Erde. Erst nach Kriegsende kam er zurück in die Ausstellung. Ins Ausland reiste er seitdem nur ein einziges Mal: 1972 lieh das Museum ihn für einen Monat an den Louvre, zum 150. Jahrestag von Champollions Entzifferung. Ausgerechnet Frankreich bekam ihn also kurz zurück.",
+              "hook": "steht seit 1802 im British Museum",
+              "children": [],
+              "source": {
+                "title": "Stein von Rosette – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Stein_von_Rosette"
+              }
+            }
+          ],
+          "source": {
+            "title": "Stein von Rosette – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Stein_von_Rosette"
+          }
+        },
+        {
+          "id": "2026-10-24-2-1",
+          "title": "Die Insel der letzten Zeichen",
+          "text": "Der Lander Philae ist nach einer Nilinsel bei Assuan benannt. Ein Obelisk von dort half Champollion, den Namen Kleopatra in Hieroglyphen zu lesen, und steht heute in einem Landsitz in Dorset. Im Isis-Tempel von Philae wurde im Jahr 394 die letzte bekannte datierte Hieroglypheninschrift eingemeißelt. Weil die Stauseen von Assuan die Insel überfluteten, zerlegte man den Tempel in den 1970er-Jahren in rund 40.000 Blöcke und baute ihn auf der höheren Nachbarinsel Agilkia wieder auf.",
+          "hook": "ihr Lander Philae",
+          "children": [
+            {
+              "id": "2026-10-24-2-1-0",
+              "title": "Der Zirkus-Samson am Nil",
+              "text": "Der Landsitz in Dorset heißt Kingston Lacy. Sein Besitzer William John Bankes ließ den Obelisken von Philae nach England bringen. Den Transport organisierte Giovanni Belzoni, ein hünenhafter Mann aus Padua, der zuvor in London als „Patagonischer Samson“ auf der Bühne gestanden hatte. Bankes selbst floh 1841 nach einer Anklage wegen Homosexualität ins Ausland und ließ Kingston Lacy fortan per Brief aus Italien ausstatten. Einer Legende nach kehrte er kurz vor seinem Tod heimlich zurück, um sein Haus noch einmal zu sehen.",
+              "hook": "steht heute in einem Landsitz in Dorset",
+              "children": [],
+              "source": {
+                "title": "William John Bankes – Linda Hall Library",
+                "url": "https://www.lindahall.org/about/news/scientist-of-the-day/william-john-bankes/"
+              }
+            },
+            {
+              "id": "2026-10-24-2-1-1",
+              "title": "Die Schlange im Alphabet",
+              "text": "Nach der letzten Hieroglypheninschrift lebte die ägyptische Sprache in einer neuen Schrift weiter, dem Koptischen. Es besteht aus griechischen Buchstaben und einigen Zusatzzeichen aus dem Demotischen. Eines davon, das Fai für den Laut f, geht über mehrere Zwischenstufen auf die Hieroglyphe einer Hornviper zurück. Champollion hatte Koptisch gelernt und erkannte darin die Sprache hinter den Hieroglyphen. Im Alltag ist es längst verschwunden, doch in der Liturgie der koptischen Kirche wird es bis heute gesungen.",
+              "hook": "die letzte bekannte datierte Hieroglypheninschrift",
+              "children": [],
+              "source": {
+                "title": "Koptische Schrift – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Koptische_Schrift"
+              }
+            },
+            {
+              "id": "2026-10-24-2-1-2",
+              "title": "Ein Tempel für Madrid",
+              "text": "Der Assuan-Hochdamm bedrohte nicht nur Philae, sondern Dutzende nubische Monumente. Deshalb startete die UNESCO ab 1960 eine internationale Rettungskampagne. Am bekanntesten ist Abu Simbel: Der Tempel wurde in über tausend Blöcke zersägt und rund 65 Meter höher wieder aufgebaut. Als Dank schenkte Ägypten mehreren Helferstaaten kleinere Tempel. Darum steht der Tempel von Debod heute in einem Park in Madrid und der Tempel von Dendur in einer Glashalle des Metropolitan Museum in New York.",
+              "hook": "Stauseen von Assuan die Insel überfluteten",
+              "children": [],
+              "source": {
+                "title": "Tempel von Debod – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Tempel_von_Debod"
+              }
+            }
+          ],
+          "source": {
+            "title": "Tempel von Philae – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Tempel_von_Philae"
+          }
+        },
+        {
+          "id": "2026-10-24-2-2",
+          "title": "Absturz als Keimschutz",
+          "text": "Dass eine Sonde ihre Mission mit einem gezielten Aufprall beendet, kommt in der Raumfahrt öfter vor, manchmal aus Schutz vor Keimen. Cassini stürzte sich im September 2017 in die Saturnatmosphäre, damit sie nie unkontrolliert auf den Monden Enceladus oder Titan landen und irdische Mikroben einschleppen konnte. Aus demselben Grund war die Sonde Galileo schon 2003 in den Jupiter gelenkt worden, um den Eismond Europa zu schützen. Grundlage ist der Weltraumvertrag von 1967, der die Staaten verpflichtet, eine schädliche Verunreinigung fremder Himmelskörper zu vermeiden.",
+          "hook": "gezielt auf dem Kometen aufschlagen",
+          "children": [
+            {
+              "id": "2026-10-24-2-2-0",
+              "title": "Keime vom Mond?",
+              "text": "Ob irdische Mikroben auf fremden Welten überleben könnten, schien 1969 schon beantwortet. Die Astronauten von Apollo 12 brachten eine Kamera der Sonde Surveyor 3 mit, die rund zweieinhalb Jahre auf dem Mond gestanden hatte. Im Labor wuchsen darauf Streptokokken, und lange galt das als Beweis, dass Bakterien das Vakuum überstehen. Heute halten viele Fachleute eine Verunreinigung nach der Rückkehr für wahrscheinlicher, denn die Kamera wurde unter mangelhaften Sterilbedingungen untersucht.",
+              "hook": "irdische Mikroben einschleppen",
+              "children": [],
+              "source": {
+                "title": "Reports of Streptococcus mitis on the Moon – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Reports_of_Streptococcus_mitis_on_the_Moon"
+              }
+            },
+            {
+              "id": "2026-10-24-2-2-1",
+              "title": "Wem gehört der Orbit?",
+              "text": "Der Weltraumvertrag von 1967 verbietet auch, dass ein Staat Teile des Weltraums für sich beansprucht. 1976 versuchten es acht Äquatorstaaten trotzdem: In der Erklärung von Bogotá erklärten sie die geostationären Bahnen über ihrem Gebiet zu ihrem Hoheitsgebiet. Ihr Argument lautete, dieser Orbit sei ein knappes Naturgut, das allein durch die Schwerkraft der Erde entstehe. International anerkannt wurde der Anspruch nie, und die Satelliten über Kolumbien oder Kenia kreisen bis heute ohne Erlaubnis von unten.",
+              "hook": "Weltraumvertrag von 1967",
+              "children": [],
+              "source": {
+                "title": "Bogota Declaration – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bogota_Declaration"
+              }
+            },
+            {
+              "id": "2026-10-24-2-2-2",
+              "title": "Europas Taufpate",
+              "text": "Seinen Namen verdankt der Eismond Europa nicht Galileo Galilei, der ihn 1610 entdeckte, sondern einem Hofastronomen aus Ansbach. Simon Marius beobachtete die vier großen Jupitermonde fast zur selben Zeit und schlug 1614 die Namen Io, Europa, Ganymed und Kallisto vor, angeregt durch Johannes Kepler. Galilei warf ihm Plagiat vor und nannte die Monde lieber Mediceische Gestirne, nach seinen Gönnern in Florenz. Durchgesetzt haben sich erst im 20. Jahrhundert die Namen seines Rivalen.",
+              "hook": "den Eismond Europa zu schützen",
+              "children": [],
+              "source": {
+                "title": "Simon Marius – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Simon_Marius"
+              }
+            }
+          ],
+          "source": {
+            "title": "Vorwärts-Kontamination – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Vorw%C3%A4rts-Kontamination"
+          }
+        }
+      ],
+      "source": {
+        "title": "Rosetta (Raumsonde) – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Rosetta_(Raumsonde)"
+      }
+    }
+  ]
+}

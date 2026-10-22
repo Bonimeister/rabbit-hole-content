@@ -1,0 +1,440 @@
+{
+  "version": 1,
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-22T00:47:21.534Z",
+  "topics": [
+    {
+      "id": "2026-10-23-0",
+      "category": "natur",
+      "title": "Der Nacktmull",
+      "text": "Der Nacktmull lebt in Ostafrika in unterirdischen Kolonien mit teils über hundert Tieren. Ähnlich wie bei Bienen pflanzt sich dort nur eine einzige Königin fort. Für ein Nagetier seiner Größe wird er erstaunlich alt: Belegt sind über 30 Jahre, eine Maus schafft kaum drei. Im Labor überlebte er rund 18 Minuten ganz ohne Sauerstoff, weil sein Stoffwechsel auf Fruchtzucker umschaltete. Säure auf der Haut spürt er zudem kaum als Schmerz.",
+      "children": [
+        {
+          "id": "2026-10-23-0-0",
+          "title": "Für zwei Brüder sterben",
+          "text": "Dass bei Bienen Tausende Arbeiterinnen auf eigenen Nachwuchs verzichten, schien lange Darwins Theorie zu widersprechen. 1964 lieferte der Brite William D. Hamilton die Erklärung: Wer Verwandten hilft, verbreitet indirekt auch die eigenen Gene. Durch die sogenannte Haplodiploidie sind Bienenschwestern mit demselben Vater sogar zu rund 75 Prozent miteinander verwandt. Dem Genetiker J. B. S. Haldane wird dazu der Spruch zugeschrieben, er gäbe sein Leben für zwei Brüder oder acht Cousins. Überliefert ist er allerdings nur aus zweiter Hand.",
+          "hook": "Ähnlich wie bei Bienen",
+          "children": [
+            {
+              "id": "2026-10-23-0-0-0",
+              "title": "Hamiltons letzte Reise",
+              "text": "William D. Hamilton suchte auch nach seiner Verwandtschaftstheorie gern nach unbequemen Erklärungen. Anfang 2000 reiste er in den Kongo, um Belege für die These zu sammeln, ein Polio-Impfstoff der 1950er-Jahre habe HIV auf den Menschen übertragen. Dort erkrankte er an Malaria und starb im März 2000 in London an den Folgen. Die Impfstoff-These gilt heute als widerlegt. Einst wünschte er sich, im brasilianischen Regenwald von Aaskäfern zersetzt zu werden. Begraben wurde er nahe Wytham Woods bei Oxford.",
+              "hook": "William D. Hamilton",
+              "children": [],
+              "source": {
+                "title": "William D. Hamilton – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/William_D._Hamilton"
+              }
+            },
+            {
+              "id": "2026-10-23-0-0-1",
+              "title": "Haldanes Weg nach Indien",
+              "text": "Der Genetiker J. B. S. Haldane war auch für riskante Selbstversuche bekannt: In Druckkammern, in denen er Tauchbedingungen testete, rissen ihm mehrfach die Trommelfelle. 1957 verließ er Großbritannien, unter anderem aus Protest gegen die britische Suez-Politik, und zog nach Indien. Dort nahm er die Staatsbürgerschaft an und trug meist indische Kleidung. Als er 1964 in Bhubaneswar an Krebs starb, hatte er vorgesorgt: Seinen Körper vermachte er einem medizinischen College in Kakinada, damit Studierende daran lernen konnten.",
+              "hook": "Genetiker J. B. S. Haldane",
+              "children": [],
+              "source": {
+                "title": "J. B. S. Haldane – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/J._B._S._Haldane"
+              }
+            },
+            {
+              "id": "2026-10-23-0-0-2",
+              "title": "Drohnen ohne Vater",
+              "text": "Bei der sogenannten Haplodiploidie entstehen aus befruchteten Eiern Weibchen und aus unbefruchteten Eiern Männchen. Eine Drohne hat deshalb eine Mutter, aber keinen Vater, wohl aber einen Großvater. Weil sich Honigbienen-Königinnen meist mit zehn oder mehr Drohnen paaren, sind viele Arbeiterinnen ohnehin nur Halbschwestern. Zählt man die Vorfahren einer Drohne Generation für Generation, ergibt sich 1, 2, 3, 5, 8, 13. Das ist die Fibonacci-Folge, die Leonardo von Pisa 1202 am Beispiel sich vermehrender Kaninchen beschrieb.",
+              "hook": "sogenannte Haplodiploidie",
+              "children": [],
+              "source": {
+                "title": "Drohne (Hautflügler) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Drohne_(Hautfl%C3%BCgler)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Verwandtenselektion – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Verwandtenselektion"
+          }
+        },
+        {
+          "id": "2026-10-23-0-1",
+          "title": "Süßer Sirup aus Mais",
+          "text": "Fruchtzucker steckt längst nicht mehr nur in Obst, sondern massenhaft in Limonaden, und zwar als Maissirup. Möglich machte das das Enzym Glucose-Isomerase, das Traubenzucker aus Maisstärke teilweise in Fruchtzucker umwandelt. Industriell nutzbar machten es japanische Forscher um Yoshiyuki Takasaki Ende der 1960er-Jahre. In den USA verdrängte „High Fructose Corn Syrup“ danach den Rohrzucker, auch weil Einfuhrquoten importierten Zucker verteuerten. Coca-Cola stellte seine US-Abfüllung bis Mitte der 1980er-Jahre darauf um.",
+          "hook": "auf Fruchtzucker umschaltete",
+          "children": [
+            {
+              "id": "2026-10-23-0-1-0",
+              "title": "New Coke: 79 Tage Flop",
+              "text": "Mitte der 1980er-Jahre stellte Coca-Cola nicht nur den Zucker um. Im April 1985 änderte der Konzern auch das Rezept: „New Coke“ war süßer und sollte Pepsi Paroli bieten. In Blindtests hatte die neue Variante gut abgeschnitten, doch Zehntausende Kunden protestierten per Brief und Telefon. Nach nur 79 Tagen kehrte das alte Rezept als „Coca-Cola Classic“ zurück. Manche behaupten, der Wirbel habe nur den Wechsel zum Maissirup verschleiern sollen. Diese Theorie ist populär, aber nicht belegt.",
+              "hook": "Coca-Cola stellte seine US-Abfüllung",
+              "children": [],
+              "source": {
+                "title": "New Coke debuts in one of the biggest product flops in history – HISTORY",
+                "url": "https://www.history.com/this-day-in-history/april-23/new-coke-debuts-one-of-the-biggest-product-flops-in-history"
+              }
+            },
+            {
+              "id": "2026-10-23-0-1-1",
+              "title": "Napoleons Rübenzucker",
+              "text": "Teurer Importzucker trieb schon rund zwei Jahrhunderte früher die Suche nach Ersatz voran, damals in Europa. Der Berliner Chemiker Andreas Sigismund Marggraf entdeckte 1747, dass Rüben denselben Zucker enthalten wie Zuckerrohr. Sein Schüler Franz Carl Achard eröffnete um 1801 im schlesischen Cunern die erste Rübenzuckerfabrik der Welt. Den Durchbruch brachte Napoleons Kontinentalsperre, die Rohrzucker aus der Karibik knapp machte. Heute stammt etwa ein Fünftel des Weltzuckers aus Rüben, und chemisch ist er nicht vom Rohrzucker zu unterscheiden.",
+              "hook": "Einfuhrquoten importierten Zucker verteuerten",
+              "children": [],
+              "source": {
+                "title": "Zuckerrübe – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Zuckerr%C3%BCbe"
+              }
+            },
+            {
+              "id": "2026-10-23-0-1-2",
+              "title": "Stärke, auf der man läuft",
+              "text": "Bevor Maisstärke zu Sirup wird, ist sie ein unscheinbares weißes Pulver mit einer verblüffenden Eigenschaft. Verrührt man sie mit etwa halb so viel Wasser, fließt die Masse bei sanftem Druck, wird bei einem Schlag aber plötzlich fest. Man spricht dann von einer nicht-newtonschen Flüssigkeit. Im Englischen heißt sie oft „Oobleck“, nach einer klebrigen grünen Masse aus einem Kinderbuch von Dr. Seuss von 1949. Wer schnell genug rennt, kann über ein Becken davon laufen. Wer stehen bleibt, sinkt langsam ein.",
+              "hook": "Traubenzucker aus Maisstärke",
+              "children": [],
+              "source": {
+                "title": "Dilatanz (Fluid) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dilatanz_(Fluid)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Isoglucose – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Isoglucose"
+          }
+        },
+        {
+          "id": "2026-10-23-0-2",
+          "title": "Der Junge ohne Schmerz",
+          "text": "Auch manche Menschen spüren kaum oder gar keinen Schmerz. 2006 beschrieben Forscher um Geoffrey Woods Familien aus Nordpakistan. Darunter war ein Junge, der als Straßenkünstler über glühende Kohlen lief und sich Messer durch die Arme stach. Er starb vor seinem 14. Geburtstag nach einem Sprung von einem Hausdach. Ursache war ein Defekt im Gen SCN9A, das den Natriumkanal Nav1.7 in Schmerznerven bildet. Seitdem gilt dieser Kanal als Hoffnungsträger für Schmerzmittel ohne Suchtgefahr.",
+          "hook": "kaum als Schmerz",
+          "children": [
+            {
+              "id": "2026-10-23-0-2-0",
+              "title": "Barfuß über die Glut",
+              "text": "Über glühende Kohlen laufen können auch Menschen, die Schmerz ganz normal spüren. Das liegt an der Physik: Holzglut leitet Wärme schlecht, eine Ascheschicht isoliert zusätzlich, und bei zügigen Schritten berührt der Fuß den Boden nur einen Augenblick. In Bulgarien zählt der Feuertanz Nestinarstvo zum immateriellen Kulturerbe der UNESCO, in Nordgriechenland heißt das Ritual Anastenaria. Dasselbe Prinzip kennt man vom Backofen: Bei 200 Grad kann man kurz hineinfassen, das Blech darin aber nicht.",
+              "hook": "über glühende Kohlen lief",
+              "children": [],
+              "source": {
+                "title": "Feuerlauf – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Feuerlauf"
+              }
+            },
+            {
+              "id": "2026-10-23-0-2-1",
+              "title": "Das Gift im Kugelfisch",
+              "text": "Nav1.7 ist einer von neun Natriumkanälen, über die Nerven ihre Signale leiten. Viele davon blockiert Tetrodotoxin, das Gift des Kugelfischs. Schon winzige Mengen lähmen die Atmung, und ein Gegenmittel gibt es nicht. In Japan dürfen deshalb nur Köche mit Lizenz Fugu zubereiten. 1975 starb der Kabuki-Star Bandō Mitsugorō VIII., nachdem er mehrere Portionen Leber gegessen hatte. Dabei stellt der Fisch das Gift gar nicht selbst her: Es stammt von Bakterien in seiner Nahrung. Mit dem richtigen Futter gezüchtet, ist ein Fugu daher nahezu ungiftig.",
+              "hook": "den Natriumkanal Nav1.7",
+              "children": [],
+              "source": {
+                "title": "Tetrodotoxin – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Tetrodotoxin"
+              }
+            },
+            {
+              "id": "2026-10-23-0-2-2",
+              "title": "Kein Schmerz, kein Duft",
+              "text": "Der Defekt im Gen SCN9A hat eine Folge, die erst Jahre nach der Entdeckung auffiel: Die Betroffenen können nichts riechen. 2011 testete ein Team um den Homburger Neurophysiologen Frank Zufall Menschen ohne funktionierenden Nav1.7-Kanal mit verschiedenen Alltagsgerüchen. Sie nahmen keinen einzigen wahr. Der Kanal sitzt nämlich auch in den Riechzellen der Nase und leitet deren Signale ans Gehirn weiter. Wem er fehlt, der spürt keine Verbrennung und riecht auch keinen Rauch. So fehlen ihm gleich zwei Warnsignale vor Feuer.",
+              "hook": "Defekt im Gen SCN9A",
+              "children": []
+            }
+          ],
+          "source": {
+            "title": "Congenital insensitivity to pain – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain"
+          }
+        }
+      ],
+      "source": {
+        "title": "Nacktmull – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Nacktmull"
+      }
+    },
+    {
+      "id": "2026-10-23-1",
+      "category": "geschichte",
+      "title": "Phineas Gage",
+      "text": "Am 13. September 1848 jagte eine verfrühte Sprengung beim Eisenbahnbau in Vermont dem Vorarbeiter Phineas Gage eine gut einen Meter lange und rund sechs Kilogramm schwere Eisenstange durch den Schädel. Er überlebte. Laut seinem Arzt John Harlow war er danach aber ein anderer Mensch, wobei Historiker heute darüber streiten, wie stark er sich wirklich verändert hat. Später fuhr er sogar Postkutschen in Chile. Sein Schädel liegt samt Stange im Warren Anatomical Museum in Harvard.",
+      "children": [
+        {
+          "id": "2026-10-23-1-0",
+          "title": "Der Tag des Äthers",
+          "text": "Das Warren Anatomical Museum geht auf den Chirurgen John Collins Warren zurück, der 1847 seine Sammlung an Harvard gab. Ein Jahr zuvor hatte er Medizingeschichte geschrieben: Am 16. Oktober 1846 entfernte er im Massachusetts General Hospital dem Patienten Gilbert Abbott einen Tumor am Hals. Der Zahnarzt William Morton hatte Abbott dabei mit Äther betäubt. Es war die erste erfolgreiche öffentliche Vorführung einer Äthernarkose, und der Hörsaal heißt heute „Ether Dome“.",
+          "hook": "Warren Anatomical Museum in Harvard",
+          "children": [
+            {
+              "id": "2026-10-23-1-0-0",
+              "title": "Die Ätherpartys von Georgia",
+              "text": "Mit Äther betäubt hatte schon vier Jahre vor Boston ein Landarzt in Georgia: Crawford Long. Er kannte das Mittel von sogenannten „ether frolics“. Auf diesen Partys atmeten junge Leute Äther ein, stießen sich im Rausch und spürten keinen Schmerz. Am 30. März 1842 entfernte Long in Jefferson dem Patienten James Venable eine Geschwulst am Nacken, veröffentlichte seine Ergebnisse aber erst 1849. Sein Operationstag wird heute in den USA als nationaler Doctors' Day gefeiert.",
+              "hook": "mit Äther betäubt",
+              "children": [],
+              "source": {
+                "title": "Crawford W. Long – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Crawford_W._Long"
+              }
+            },
+            {
+              "id": "2026-10-23-1-0-1",
+              "title": "Ein Denkmal ohne Namen",
+              "text": "Der Zahnarzt William Morton wollte mit seiner Entdeckung Geld verdienen. Er versetzte den Äther mit Duftstoffen, nannte ihn „Letheon“ und ließ ihn noch 1846 patentieren, gemeinsam mit dem Chemiker Charles Jackson. Bald beanspruchten mehrere die Entdeckung für sich, darunter Jackson selbst und Mortons früherer Kompagnon Horace Wells, dessen Vorführung mit Lachgas 1845 gescheitert war. Der Streit verbitterte alle Beteiligten. Das Äther-Denkmal, das Boston 1868 im Public Garden aufstellte, nennt bezeichnenderweise keinen einzigen Namen.",
+              "hook": "Der Zahnarzt William Morton",
+              "children": [],
+              "source": {
+                "title": "William Thomas Green Morton – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/William_Thomas_Green_Morton"
+              }
+            },
+            {
+              "id": "2026-10-23-1-0-2",
+              "title": "Die Mumie im Ether Dome",
+              "text": "Das Massachusetts General Hospital nahm 1821 in einem Bau des Architekten Charles Bulfinch seinen Betrieb auf und bekam bald einen ungewöhnlichen Bewohner. 1823 schenkte ein niederländischer Kaufmann aus Smyrna dem Krankenhaus eine ägyptische Mumie: Padihershef, einen Steinmetz aus Theben, der vor rund 2500 Jahren gestorben war. Um Geld zu sammeln, schickte das Hospital ihn durch Städte an der Ostküste und verlangte Eintritt. Heute liegt Padihershef ausgerechnet im Ether Dome.",
+              "hook": "im Massachusetts General Hospital",
+              "children": [],
+              "source": {
+                "title": "Mass General Mummy – WBUR News",
+                "url": "https://www.wbur.org/news/2013/06/10/mass-general-mummy"
+              }
+            }
+          ],
+          "source": {
+            "title": "Äther-Dom – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/%C3%84ther-Dom"
+          }
+        },
+        {
+          "id": "2026-10-23-1-1",
+          "title": "Valparaíso vor dem Kanal",
+          "text": "Gages Kutschen verkehrten zwischen Santiago und der Hafenstadt Valparaíso, die damals ihre Glanzzeit erlebte. Viele Schiffe, die von der US-Ostküste um Kap Hoorn nach Kalifornien segelten, legten hier an, und im Goldrausch ab 1848 versorgte Chile die Goldgräber mit Weizen und Mehl. Mit der Eröffnung des Panamakanals 1914 war die lange Route um Südamerika nicht mehr nötig, und der Niedergang des Hafens begann. Geblieben sind die Standseilbahnen, die seit 1883 die steilen Hügel der Stadt hinauffahren.",
+          "hook": "Postkutschen in Chile",
+          "children": [
+            {
+              "id": "2026-10-23-1-1-0",
+              "title": "Kap Hoorn ist holländisch",
+              "text": "Kap Hoorn hat seinen Namen nicht von einem Horn, sondern von einer Kleinstadt in Nordholland. 1616 umsegelten die Niederländer Willem Schouten und Jacob Le Maire als erste Europäer die Südspitze Amerikas. Sie benannten das Kap nach Hoorn, Schoutens Heimatstadt, deren Kaufleute die Fahrt mitfinanziert hatten. Ihr zweites Schiff, das ebenfalls „Hoorn“ hieß, war schon vorher in Patagonien abgebrannt, als die Mannschaft den Rumpf reinigte. Nach altem Seemannsbrauch durfte jeder, der das Kap unter Segeln umrundet hatte, einen goldenen Ohrring tragen.",
+              "hook": "um Kap Hoorn nach Kalifornien",
+              "children": [],
+              "source": {
+                "title": "Kap Hoorn – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kap_Hoorn"
+              }
+            },
+            {
+              "id": "2026-10-23-1-1-1",
+              "title": "36 Cent für den Kanal",
+              "text": "Offiziell eröffnet wurde der Panamakanal am 15. August 1914 mit der Durchfahrt des Fracht- und Passagierdampfers SS Ancon. Gefeiert wurde kaum, denn gut zwei Wochen vorher hatte der Erste Weltkrieg begonnen. Die Gebühr richtet sich nach der Größe des Schiffs, und große Containerschiffe zahlen heute Hunderttausende Dollar. Den niedrigsten Betrag zahlte der US-Abenteurer Richard Halliburton, der den Kanal 1928 durchschwamm. Man berechnete ihn nach seinem Körpergewicht wie einen Frachter und verlangte 36 Cent.",
+              "hook": "Eröffnung des Panamakanals 1914",
+              "children": [],
+              "source": {
+                "title": "Panamakanal – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Panamakanal"
+              }
+            },
+            {
+              "id": "2026-10-23-1-1-2",
+              "title": "Die Bahn, die Abwasser fährt",
+              "text": "Viele Standseilbahnen des 19. Jahrhunderts, anfangs auch in Valparaíso, fuhren ohne Motor: Der Wagen oben bekam einen Tank voll Wasser, wurde schwerer als der Wagen unten und zog ihn am Seil nach oben. In Freiburg im Üechtland in der Schweiz fährt eine solche Bahn noch heute nach diesem Prinzip, und zwar seit 1899. Gefüllt wird ihr Tank aber nicht mit Quellwasser, sondern mit dem Abwasser der Oberstadt, das unten wieder abgelassen wird. Angetrieben wird die Bahn also von der Kanalisation.",
+              "hook": "Standseilbahnen, die seit 1883",
+              "children": [],
+              "source": {
+                "title": "Standseilbahn Neuveville–Saint-Pierre – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Standseilbahn_Neuveville%E2%80%93Saint-Pierre"
+              }
+            }
+          ],
+          "source": {
+            "title": "Valparaíso – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Valpara%C3%ADso"
+          }
+        },
+        {
+          "id": "2026-10-23-1-2",
+          "title": "Schnitte ins Stirnhirn",
+          "text": "Die Vorstellung, dass ein verletzter Stirnlappen die Persönlichkeit verändert, nahm im 20. Jahrhundert eine düstere Wendung. 1935 ließ der portugiesische Neurologe Egas Moniz in Lissabon erstmals Nervenbahnen im Stirnhirn durchtrennen, um psychisch Kranke ruhigzustellen. Dafür erhielt er 1949 den Medizin-Nobelpreis. In den USA entwickelte Walter Freeman die transorbitale Lobotomie, bei der er ein eispickelartiges Instrument durch die Augenhöhle ins Gehirn trieb. Die Sowjetunion verbot den Eingriff bereits 1950.",
+          "hook": "ein anderer Mensch",
+          "children": [
+            {
+              "id": "2026-10-23-1-2-0",
+              "title": "Der Ritter mit dem Strick",
+              "text": "Egas Moniz hieß eigentlich António Caetano de Abreu Freire; seinen berühmten Namen verdankt er einem Paten, der die Familie auf einen Adligen des 12. Jahrhunderts zurückführte. Jener Egas Moniz war Erzieher von Afonso Henriques, dem ersten König Portugals. Der Legende nach erschien er mit Frau und Kindern, Stricke um den Hals, vor dem König von León, um mit seinem Leben für ein gebrochenes Versprechen seines Zöglings zu bürgen. Der König war so beeindruckt, dass er ihn verschonte.",
+              "hook": "portugiesische Neurologe Egas Moniz",
+              "children": [],
+              "source": {
+                "title": "Egas Moniz (o Aio) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Egas_Moniz_(o_Aio)"
+              }
+            },
+            {
+              "id": "2026-10-23-1-2-1",
+              "title": "Der Eispickel von Coyoacán",
+              "text": "Ein echter Eispickel wurde zu einer der bekanntesten Mordwaffen des 20. Jahrhunderts: 1940 schlug der sowjetische Agent Ramón Mercader damit in Coyoacán bei Mexiko-Stadt Leo Trotzki nieder, der am nächsten Tag starb. Mercader saß rund 20 Jahre in mexikanischer Haft und wurde danach in Moskau als Held der Sowjetunion geehrt. Die Waffe verschwand jahrzehntelang in Privatbesitz, unter anderem bei der Tochter eines Polizisten. Heute ist sie im International Spy Museum in Washington zu sehen.",
+              "hook": "eispickelartiges Instrument",
+              "children": [],
+              "source": {
+                "title": "Ramón Mercader – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ram%C3%B3n_Mercader"
+              }
+            },
+            {
+              "id": "2026-10-23-1-2-2",
+              "title": "Der andere Nobelpreisträger",
+              "text": "Den Medizin-Nobelpreis von 1949 teilte sich Moniz mit dem Schweizer Walter Rudolf Hess, der mit dem fast gleichnamigen Hitler-Stellvertreter nichts zu tun hatte. Hess, ursprünglich Augenarzt, pflanzte in Zürich wachen Katzen haarfeine Elektroden ins Zwischenhirn. Je nach Reizort schliefen die Tiere ein oder fauchten plötzlich angriffslustig. Seine Methode gilt als Vorläufer der Tiefen Hirnstimulation, mit der heute weltweit Parkinson-Kranke behandelt werden.",
+              "hook": "1949 den Medizin-Nobelpreis",
+              "children": [],
+              "source": {
+                "title": "Walter Hess – Biographical – NobelPrize.org",
+                "url": "https://www.nobelprize.org/prizes/medicine/1949/hess/biographical/"
+              }
+            }
+          ],
+          "source": {
+            "title": "Lobotomie – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Lobotomie"
+          }
+        }
+      ],
+      "source": {
+        "title": "Phineas Gage – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Phineas_Gage"
+      }
+    },
+    {
+      "id": "2026-10-23-2",
+      "category": "kultur",
+      "title": "Das Voynich-Manuskript",
+      "text": "Das Voynich-Manuskript ist ein Buch mit rund 240 Seiten in einer Schrift, die bis heute niemand lesen kann. Es ist bebildert mit unbekannten Pflanzen, Sternkarten und badenden Frauen. Seinen Namen hat es vom Antiquar Wilfrid Voynich, der es 1912 kaufte. Nach einer Radiokarbondatierung stammt das Pergament aus dem frühen 15. Jahrhundert. Heute liegt es als „MS 408“ in der Beinecke-Bibliothek in Yale. Ob es eine Sprache, einen Code oder bloßen Unsinn enthält, ist umstritten.",
+      "children": [
+        {
+          "id": "2026-10-23-2-0",
+          "title": "Die Frau des Antiquars",
+          "text": "Der Antiquar Wilfrid Voynich hieß eigentlich Michał Habdank-Wojnicz. Er war als polnischer Untergrundkämpfer nach Sibirien verbannt worden, bevor er 1890 nach London floh. Dort heiratete er Ethel Lilian Boole, eine Tochter des Mathematikers George Boole, auf dessen Logik heute jeder Computer beruht. Ihr Roman „Die Bremse“ von 1897 über einen italienischen Revolutionär wurde in der Sowjetunion zum Millionenbestseller, und für die Verfilmung von 1955 schrieb Dmitri Schostakowitsch die Musik.",
+          "hook": "vom Antiquar Wilfrid Voynich",
+          "children": [
+            {
+              "id": "2026-10-23-2-0-0",
+              "title": "Lenins Jagdjahre",
+              "text": "Im Zarenreich war die Verbannung nach Sibirien die übliche Strafe für politische Gegner, und sie konnte erstaunlich milde ausfallen. Lenin lebte von 1897 bis 1900 im Dorf Schuschenskoje am Jenissei, ging auf die Jagd, spielte Schach und schrieb dort ein Buch über die Entwicklung des Kapitalismus in Russland. 1898 heiratete er dort Nadeschda Krupskaja, die ihm in die Verbannung gefolgt war. Seinen Lebensunterhalt zahlte ausgerechnet der Staat, den er stürzen wollte: acht Rubel im Monat.",
+              "hook": "nach Sibirien verbannt worden",
+              "children": []
+            },
+            {
+              "id": "2026-10-23-2-0-1",
+              "title": "Die wichtigste Masterarbeit",
+              "text": "Dass Computer einmal auf Booles Logik beruhen würden, war lange nicht abzusehen. Entscheidend war 1937 Claude Shannon: In seiner Masterarbeit am MIT zeigte der 21-Jährige, dass sich Relais-Schaltkreise mit Boolescher Algebra beschreiben und entwerfen lassen. Der Psychologe Howard Gardner nannte sie die womöglich wichtigste Masterarbeit des Jahrhunderts. Privat baute Shannon gern skurrile Geräte, etwa nach einer Idee von Marvin Minsky eine Kiste, die nur dazu da ist, sich selbst auszuschalten.",
+              "hook": "auf dessen Logik heute jeder Computer beruht",
+              "children": [],
+              "source": {
+                "title": "Claude Shannon – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Claude_Shannon"
+              }
+            },
+            {
+              "id": "2026-10-23-2-0-2",
+              "title": "Der Spion und die Romanze",
+              "text": "Aus Schostakowitschs Musik zu „Die Bremse“ wurde vor allem ein Stück berühmt: die „Romanze“, die später in einer Konzertsuite erschien. In Großbritannien kennt man sie als Titelmelodie der ITV-Serie „Reilly, Ace of Spies“ von 1983. Die Serie handelt von Sidney Reilly, einem britischen Agenten aus dem Zarenreich, der 1925 in der Sowjetunion gefasst und dort erschossen wurde. Angeblich soll Reilly eine Affäre mit Ethel Voynich gehabt und ihr als Vorbild für ihren Revolutionär gedient haben. Belegt ist das nicht, aber so führt die Melodie zurück zu ihrem Roman.",
+              "hook": "Dmitri Schostakowitsch die Musik",
+              "children": [],
+              "source": {
+                "title": "Reilly, Ace of Spies – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Reilly,_Ace_of_Spies"
+              }
+            }
+          ],
+          "source": {
+            "title": "Ethel Lilian Voynich – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Ethel_Lilian_Voynich"
+          }
+        },
+        {
+          "id": "2026-10-23-2-1",
+          "title": "Die Atombombe als Uhr",
+          "text": "Die Methode, mit der das Voynich-Pergament datiert wurde, entwickelte der US-Chemiker Willard Libby Ende der 1940er-Jahre in Chicago. Dafür erhielt er 1960 den Nobelpreis für Chemie. Gemessen wird der Zerfall von Kohlenstoff-14, dessen Halbwertszeit rund 5730 Jahre beträgt. Die oberirdischen Atomtests der 1950er- und 60er-Jahre haben den C-14-Gehalt der Luft fast verdoppelt. Mit diesem „Bombenpeak“ lassen sich heute Zellen im menschlichen Körper oder geschmuggeltes Elfenbein auf wenige Jahre genau datieren.",
+          "hook": "Nach einer Radiokarbondatierung",
+          "children": [
+            {
+              "id": "2026-10-23-2-1-0",
+              "title": "Die Frau am ersten Reaktor",
+              "text": "Willard Libby heiratete 1966 die Physikerin Leona Woods, die schon vor ihm Geschichte geschrieben hatte. Mit 23 Jahren war sie die einzige Frau in Enrico Fermis Team, das unter der Tribüne des Stagg-Field-Stadions in Chicago den ersten Kernreaktor baute. Sie fertigte die Neutronendetektoren, mit denen am 2. Dezember 1942 die erste kontrollierte Kettenreaktion gemessen wurde. Später verbarg sie ihre Schwangerschaft unter weiten Overalls, um weiterarbeiten zu können, und arbeitete danach am Reaktor in Hanford.",
+              "hook": "US-Chemiker Willard Libby",
+              "children": [],
+              "source": {
+                "title": "Leona Woods – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Leona_Woods"
+              }
+            },
+            {
+              "id": "2026-10-23-2-1-1",
+              "title": "Das Alter unserer Zellen",
+              "text": "Den Bombenpeak zur Altersbestimmung menschlicher Zellen nutzte zuerst der Stammzellforscher Jonas Frisén am Karolinska-Institut in Stockholm. Bei jeder Zellteilung entsteht neue DNA, die den C-14-Gehalt des jeweiligen Jahres speichert. So zeigte sein Team, dass sich Fettzellen jährlich zu rund zehn Prozent erneuern, Herzmuskelzellen dagegen nur zu etwa einem Prozent. Die Nervenzellen der Großhirnrinde sind so alt wie ihr Besitzer. Die Behauptung, der Körper erneuere sich alle sieben Jahre komplett, ist damit widerlegt.",
+              "hook": "Zellen im menschlichen Körper",
+              "children": [],
+              "source": {
+                "title": "Jonas Frisén – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Jonas_Fris%C3%A9n"
+              }
+            },
+            {
+              "id": "2026-10-23-2-1-2",
+              "title": "Die Gegenwart ist 1950",
+              "text": "Libby selbst rechnete noch mit einer Halbwertszeit von 5568 Jahren. Der genauere Wert von rund 5730 Jahren wurde erst Anfang der 1960er-Jahre bestimmt. Trotzdem werden Radiokarbonalter per Konvention bis heute mit Libbys altem Wert berechnet, damit alle Messungen vergleichbar bleiben. Korrigiert wird erst danach, mit Kalibrierkurven aus Baumringen. Die Ergebnisse werden in „BP“ angegeben, also „before present“. Diese Gegenwart wurde auf das Jahr 1950 festgelegt und rückt nie weiter.",
+              "hook": "Halbwertszeit rund 5730 Jahre",
+              "children": [],
+              "source": {
+                "title": "Radiokarbonmethode – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Radiokarbonmethode"
+              }
+            }
+          ],
+          "source": {
+            "title": "Radiokarbonmethode – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Radiokarbonmethode"
+          }
+        },
+        {
+          "id": "2026-10-23-2-2",
+          "title": "Marmor, der leuchtet",
+          "text": "Auch das Gebäude, in dem das Voynich-Manuskript liegt, ist eine Kuriosität: Die 1963 eröffnete Beinecke-Bibliothek in Yale hat keine gewöhnlichen Fenster. Ihre Fassade besteht aus rund drei Zentimeter dünnen Platten aus Vermonter Marmor, die nur gedämpftes, bernsteinfarbenes Licht hereinlassen und so die Bücher vor Sonne schützen. Entworfen hat den Bau Gordon Bunshaft vom Architekturbüro Skidmore, Owings & Merrill. Im Inneren steht ein sechsstöckiger Glasturm voller Bücher, und zu den Schätzen der Bibliothek gehört eine Gutenberg-Bibel.",
+          "hook": "Beinecke-Bibliothek in Yale",
+          "children": [
+            {
+              "id": "2026-10-23-2-2-0",
+              "title": "Lesbar ohne Brille",
+              "text": "Die Gutenberg-Bibel in Yale ist eines von rund 49 ganz oder teilweise erhaltenen Exemplaren des ersten großen Buchs, das in Europa mit beweglichen Lettern gedruckt wurde. Um 1454 entstanden in Mainz vermutlich etwa 180 Stück, teils auf Papier, teils auf Pergament, mit 42 Zeilen pro Spalte. Kurz darauf verlor Gutenberg einen Prozess gegen seinen Geldgeber Johann Fust. Der älteste erhaltene Bericht über das Werk stammt vom späteren Papst Pius II.: Die Schrift sei so sauber, dass man sie ohne Brille lesen könne.",
+              "hook": "eine Gutenberg-Bibel",
+              "children": [],
+              "source": {
+                "title": "Gutenberg-Bibel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gutenberg-Bibel"
+              }
+            },
+            {
+              "id": "2026-10-23-2-2-1",
+              "title": "Was Marmor und Gollum teilen",
+              "text": "Marmor leuchtet, weil Licht nicht einfach an seiner Oberfläche abprallt. Es dringt ein Stück ins Gestein ein und wird zwischen den Kalkkristallen gestreut. Fachleute nennen das Subsurface Scattering, und dasselbe geschieht in menschlicher Haut. Ohne diesen Effekt wirkten Computerfiguren lange hart und plastikartig. Erst 2001 stellten Henrik Wann Jensen und Kollegen ein praktikables Rechenmodell dafür vor, getestet unter anderem an Marmor. Es half, Gollum in „Der Herr der Ringe“ lebendig wirken zu lassen, und brachte Jensen 2004 einen Technik-Oscar ein.",
+              "hook": "dünnen Platten aus Vermonter Marmor",
+              "children": [],
+              "source": {
+                "title": "Volumenstreuung – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Volumenstreuung"
+              }
+            },
+            {
+              "id": "2026-10-23-2-2-2",
+              "title": "244 Meter für die Eitelkeit",
+              "text": "Skidmore, Owings & Merrill entwarf auch das höchste Gebäude der Welt: den 2010 eröffneten, 828 Meter hohen Burj Khalifa in Dubai. Geplant hat ihn der Architekt Adrian Smith. Der Y-förmige Grundriss soll laut den Planern von einer Wüstenblume inspiriert sein und nimmt dem Wind zugleich Kraft. Nach oben wird der Turm immer schmaler, bis nur noch eine Stahlspitze bleibt. Laut einer Analyse des Council on Tall Buildings von 2013 sind rund 244 Meter davon ungenutzte „Eitelkeitshöhe“. Allein dieser leere Rest wäre schon ein ansehnlicher Wolkenkratzer.",
+              "hook": "Skidmore, Owings & Merrill",
+              "children": [],
+              "source": {
+                "title": "Burj Khalifa – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Burj_Khalifa"
+              }
+            }
+          ],
+          "source": {
+            "title": "Beinecke Rare Book and Manuscript Library – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Beinecke_Rare_Book_and_Manuscript_Library"
+          }
+        }
+      ],
+      "source": {
+        "title": "Voynich-Manuskript – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Voynich-Manuskript"
+      }
+    }
+  ]
+}

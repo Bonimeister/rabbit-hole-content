@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T00:37:25.849Z",
+  "topics": [
+    {
+      "id": "2026-10-22-0",
+      "category": "technik",
+      "title": "Der Eddystone-Leuchtturm",
+      "text": "Gut 20 Kilometer vor Plymouth ragen die Eddystone-Felsen aus dem Ärmelkanal, und an ihnen scheiterten mehrere Leuchttürme. Der erste, gebaut von Henry Winstanley, verschwand 1703 im Großen Sturm samt seinem Erbauer. Der zweite brannte 1755 nieder, laut zeitgenössischen Berichten verschluckte der 94-jährige Wärter Henry Hall dabei flüssiges Blei. Für seinen Turm von 1759 entwickelte John Smeaton einen Kalkmörtel, der unter Wasser härtet und als Vorläufer des modernen Zements gilt.",
+      "children": [
+        {
+          "id": "2026-10-22-0-0",
+          "title": "Defoes Sturmreportage",
+          "text": "Der Große Sturm, der Winstanley mitriss, fegte im November 1703 über Südengland und gilt als einer der schwersten der britischen Geschichte. Daniel Defoe, später Autor von „Robinson Crusoe“, rief per Zeitungsanzeige zu Augenzeugenberichten auf und veröffentlichte sie 1704 als „The Storm“, ein frühes Stück Reportagejournalismus. Auf den Goodwin Sands vor Kent zerschellten mehrere Kriegsschiffe, die Royal Navy verlor wohl weit über tausend Seeleute. In Wells erschlug ein einstürzender Kamin Bischof Richard Kidder und seine Frau im Bett.",
+          "hook": "im Großen Sturm",
+          "children": [
+            {
+              "id": "2026-10-22-0-0-0",
+              "title": "Der echte Robinson",
+              "text": "Als Vorbild für „Robinson Crusoe“ gilt meist der schottische Seemann Alexander Selkirk. Er ließ sich 1704, im Jahr von Defoes Sturmbuch, auf der Pazifikinsel Más a Tierra absetzen, weil er sein Schiff für seeuntüchtig hielt. Er behielt recht: Die „Cinque Ports“ sank wenig später. Selkirk lebte gut vier Jahre allein, bis ihn 1709 der Kaperkapitän Woodes Rogers fand. Chile benannte die Insel 1966 in Isla Robinson Crusoe um. Die Nachbarinsel heißt seither Alejandro Selkirk, obwohl der Schotte sie nie betreten hat.",
+              "hook": "„Robinson Crusoe“",
+              "children": [],
+              "source": {
+                "title": "Alexander Selkirk – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Alexander_Selkirk"
+              }
+            },
+            {
+              "id": "2026-10-22-0-0-1",
+              "title": "Cricket auf dem Wrackfeld",
+              "text": "Die Goodwin Sands, eine rund 16 Kilometer lange Sandbank vor Deal, gelten als einer der gefährlichsten Schiffsfriedhöfe Europas. Einer Legende nach waren sie einst die Insel Lomea, die dem angelsächsischen Earl Godwin gehörte und im 11. Jahrhundert im Meer versank. Shakespeare lässt im „Kaufmann von Venedig“ ein Schiff Antonios genau hier untergehen. Bei Ebbe fallen Teile der Bank trocken. Seit dem 19. Jahrhundert spielen Unerschrockene dort gelegentlich Cricket, bis die Flut das Spielfeld zurückholt.",
+              "hook": "Auf den Goodwin Sands vor Kent",
+              "children": [],
+              "source": {
+                "title": "Goodwin Sands – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Goodwin_Sands"
+              }
+            },
+            {
+              "id": "2026-10-22-0-0-2",
+              "title": "Der eidlose Bischof",
+              "text": "Bischof Richard Kidder saß nur deshalb in Wells, weil sein Vorgänger Thomas Ken 1691 abgesetzt worden war: Ken hatte König Wilhelm III. den Treueid verweigert. Nach Kidders Tod im Sturm bot man ihm das Amt wieder an, doch er lehnte ab. Schon 1688 hatte er als einer der „Sieben Bischöfe“, die sich Jakob II. widersetzten, im Tower gesessen. Bis heute bekannt ist ein Vierzeiler von ihm: „Praise God, from whom all blessings flow“ zählt zu den meistgesungenen Versen der englischsprachigen Christenheit.",
+              "hook": "Bischof Richard Kidder und seine Frau",
+              "children": [],
+              "source": {
+                "title": "Thomas Ken – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Thomas_Ken"
+              }
+            }
+          ],
+          "source": {
+            "title": "Großer Sturm von 1703 – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Gro%C3%9Fer_Sturm_von_1703"
+          }
+        },
+        {
+          "id": "2026-10-22-0-1",
+          "title": "Der Bleiklumpen im Magen",
+          "text": "Dass der Wärter Henry Hall flüssiges Blei verschluckt haben soll, hielten viele für Seemannsgarn, bis der Arzt Edward Spry nach Halls Tod rund zwölf Tage später einen flachen Bleiklumpen von etwa 200 Gramm in dessen Magen fand. Sein Bericht erschien in den „Philosophical Transactions“ der Royal Society, doch die Zweifler blieben. Spry flößte daraufhin Hunden und Hühnern geschmolzenes Blei ein, um zu zeigen, dass so etwas zunächst überlebbar ist. Der Klumpen wird heute in den National Museums Scotland in Edinburgh aufbewahrt.",
+          "hook": "verschluckte der 94-jährige Wärter",
+          "children": [
+            {
+              "id": "2026-10-22-0-1-0",
+              "title": "Post für Herrn Grubendol",
+              "text": "Die „Philosophical Transactions“, in denen Sprys Bericht erschien, gelten als älteste noch erscheinende Wissenschaftszeitschrift der Welt. Der aus Bremen stammende Henry Oldenburg, Sekretär der Royal Society, brachte die erste Ausgabe 1665 heraus. Er unterhielt einen Briefwechsel mit Gelehrten in ganz Europa und ließ sich Post an „Grubendol“ schicken, ein Anagramm seines Namens. Genau diese Auslandskontakte wurden ihm 1667 im Krieg gegen die Niederlande zum Verhängnis: Unter Spionageverdacht saß er rund zwei Monate im Tower.",
+              "hook": "„Philosophical Transactions“ der Royal Society",
+              "children": [],
+              "source": {
+                "title": "Henry Oldenburg – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Henry_Oldenburg"
+              }
+            },
+            {
+              "id": "2026-10-22-0-1-1",
+              "title": "Die Särge vom Arthur's Seat",
+              "text": "Im selben Edinburgher Museum wie der Bleiklumpen liegen acht winzige Särge, jeder knapp zehn Zentimeter lang. Jungen, die 1836 am Hügel Arthur's Seat nach Kaninchen suchten, fanden in einer Felsnische 17 davon, jeder mit einer geschnitzten, bekleideten Holzfigur darin. Wer sie dort versteckt hat, ist bis heute ungeklärt. Eine beliebte, aber strittige Theorie bringt sie mit den 17 Leichen in Verbindung, die die Mörder Burke und Hare 1827 und 1828 an Anatomen verkauften. Am Anfang dieses Rätsels stand also buchstäblich ein Kaninchenbau.",
+              "hook": "National Museums Scotland in Edinburgh",
+              "children": [],
+              "source": {
+                "title": "The Arthur's Seat Coffins – The Old Edinburgh Club",
+                "url": "https://oldedinburghclub.org.uk/the-arthurs-seat-coffins/"
+              }
+            },
+            {
+              "id": "2026-10-22-0-1-2",
+              "title": "Bleigießen ohne Blei",
+              "text": "Henry Hall schluckte flüssiges Blei. In Deutschland gossen es Generationen an Silvester lieber in kaltes Wasser, um aus den erstarrten Formen die Zukunft zu lesen. Fachleute nennen diese Art der Wahrsagerei Molybdomantie. Seit 2018 dürfen in der EU keine Gießsets mit nennenswertem Bleianteil mehr an Privatleute verkauft werden, weil Blei als fortpflanzungsschädigend eingestuft ist. Die Sets enthalten seither meist Zinn oder Wachs, doch der alte Name hält sich hartnäckig: Vielerorts heißt der Brauch immer noch Bleigießen, obwohl kein Blei mehr dabei ist.",
+              "hook": "flüssiges Blei verschluckt haben soll",
+              "children": [],
+              "source": {
+                "title": "Bleigießen – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bleigie%C3%9Fen"
+              }
+            }
+          ],
+          "source": {
+            "title": "Henry Hall (lighthouse keeper) – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Henry_Hall_(lighthouse_keeper)"
+          }
+        },
+        {
+          "id": "2026-10-22-0-2",
+          "title": "Ein Zement namens Portland",
+          "text": "Auf Smeatons Mörtel folgte der Portlandzement, den sich der Maurer Joseph Aspdin aus Leeds 1824 patentieren ließ. Der Name war Werbung: Das erhärtete Material sollte an den hellen Kalkstein von der Isle of Portland erinnern, aus dem Christopher Wren die St Paul's Cathedral errichtet hatte. Aspdins Produkt war allerdings noch schwach gebrannt. Erst sein Sohn William brannte die Rohmischung so heiß, dass Klinker entstand, der Grundstoff des heutigen Zements.",
+          "hook": "Vorläufer des modernen Zements",
+          "children": [
+            {
+              "id": "2026-10-22-0-2-0",
+              "title": "Die Insel ohne Kaninchen",
+              "text": "Auf der Isle of Portland, deren Kalkstein dem Zement seinen Namen gab, meidet man bis heute ein Wort: Kaninchen. Nach altem Aberglauben der Steinbrucharbeiter kündigten die Tiere Felsstürze an, wohl weil ihre Baue das Gestein lockerten. Manche Arbeiter gingen nach Hause, wenn sie eines sahen. Einheimische sagen deshalb lieber „Bunnies“ oder „underground mutton“. Als 2005 der Film „Wallace & Gromit – Auf der Jagd nach dem Riesenkaninchen“ anlief, bekamen die Plakate auf der Insel eigens einen Text ohne das Wort „Rabbit“.",
+              "hook": "Isle of Portland",
+              "children": [],
+              "source": {
+                "title": "Don't say 'rabbit' – The Register",
+                "url": "https://www.theregister.com/offbeat/2005/10/07/for-gods-sake-dont-say-rabbit/781187"
+              }
+            },
+            {
+              "id": "2026-10-22-0-2-1",
+              "title": "Ein Turm als Teleskop",
+              "text": "Christopher Wren war Astronom, bevor er Londons berühmtester Architekt wurde, und das merkt man einem seiner Bauwerke an. Nach dem Großen Brand von 1666 entwarf er gemeinsam mit Robert Hooke das Monument. Die gut 61 Meter hohe Säule steht rund 61 Meter von der Bäckerei in der Pudding Lane entfernt, in der das Feuer ausbrach. Ihr hohler Schaft war zugleich als riesiges Zenitteleskop gedacht, mit einem Labor im Keller. Doch der Straßenverkehr ließ die Säule zu stark vibrieren, und so blieb sie nur ein Denkmal.",
+              "hook": "Christopher Wren",
+              "children": [],
+              "source": {
+                "title": "Monument (London) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Monument_(London)"
+              }
+            },
+            {
+              "id": "2026-10-22-0-2-2",
+              "title": "Der Stein, der ausatmet",
+              "text": "Damit Klinker entsteht, wird Kalkstein bei rund 1450 Grad gebrannt. Dabei entweicht Kohlendioxid nicht nur aus dem Brennstoff, sondern aus dem Gestein selbst, denn Kalziumkarbonat zerfällt zu Kalk und CO₂. So verursacht die Zementherstellung etwa sieben bis acht Prozent der weltweiten CO₂-Emissionen. Wäre sie ein Staat, läge sie nach China und den USA auf Platz drei. Ein Teil davon kehrt jedoch zurück: Über Jahrzehnte nimmt fertiger Beton durch Karbonatisierung einen beachtlichen Teil des freigesetzten Gases wieder auf.",
+              "hook": "dass Klinker entstand",
+              "children": [],
+              "source": {
+                "title": "Zementklinker – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Zementklinker"
+              }
+            }
+          ],
+          "source": {
+            "title": "Joseph Aspdin – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Joseph_Aspdin"
+          }
+        }
+      ],
+      "source": {
+        "title": "Eddystone Lighthouse – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Eddystone_Lighthouse"
+      }
+    },
+    {
+      "id": "2026-10-22-1",
+      "category": "wissenschaft",
+      "title": "ʻOumuamua",
+      "text": "Am 19. Oktober 2017 entdeckte Robert Weryk mit dem Teleskop Pan-STARRS auf Hawaii das erste bekannte Objekt, das aus einem anderen Sternsystem durch unser Sonnensystem flog. Der hawaiische Name bedeutet sinngemäß „Bote aus der Ferne, der als Erster ankommt“. Rätselhaft waren seine extrem längliche oder flache Form und eine leichte Beschleunigung weg von der Sonne, ohne sichtbaren Kometenschweif. Die Erklärungen reichen von verdampfendem Wasserstoffeis bis zu Avi Loebs stark umstrittener Idee eines Lichtsegels.",
+      "children": [
+        {
+          "id": "2026-10-22-1-0",
+          "title": "Haleakalā: Haus der Sonne",
+          "text": "Pan-STARRS steht auf dem Gipfel des Haleakalā auf der Insel Maui, gut 3000 Meter über dem Meer. Der Name bedeutet „Haus der Sonne“: Der Legende nach fing der Halbgott Māui hier die Sonne mit Seilen ein, damit sie langsamer über den Himmel zieht. Nebenan steht heute das Daniel K. Inouye Solar Telescope mit einem vier Meter großen Spiegel, das größte Sonnenteleskop der Welt. Am Krater wächst das Silberschwert, eine Pflanze, die nach Jahrzehnten ein einziges Mal blüht und dann abstirbt.",
+          "hook": "Teleskop Pan-STARRS auf Hawaii",
+          "children": [
+            {
+              "id": "2026-10-22-1-0-0",
+              "title": "Ein Unkraut aus Kalifornien",
+              "text": "Das Silberschwert stammt von unscheinbaren Korbblütlern ab, den Tarweeds, die heute noch an Kaliforniens Wegrändern wachsen. Vor etwa fünf Millionen Jahren erreichte vermutlich ein einziger Samen die Inseln, etwa im Gefieder eines Vogels. Daraus entstanden rund 30 Arten, von Polsterpflanzen im Moor bis zu Bäumen im Regenwald. Die Verwandtschaft ist so eng geblieben, dass Botaniker Silberschwerter erfolgreich mit kalifornischen Tarweeds kreuzen konnten.",
+              "hook": "das Silberschwert",
+              "children": [],
+              "source": {
+                "title": "Silberschwert – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Silberschwert"
+              }
+            },
+            {
+              "id": "2026-10-22-1-0-1",
+              "title": "Der Fisch des Māui",
+              "text": "Der Sonnenfang ist nur eine von vielen Taten des Halbgotts Māui, den man in ganz Polynesien kennt, von Tahiti bis Neuseeland. Mit einem magischen Angelhaken soll er ganze Inseln aus dem Meer gezogen haben. Die Māori nennen Neuseelands Nordinsel deshalb Te Ika-a-Māui, „der Fisch des Māui“, die Südinsel gilt als sein Kanu. Den Haken selbst sieht man bis heute am Himmel: Auf Hawaii heißt das Sternbild Skorpion Ka Makau Nui o Māui, „der große Angelhaken des Māui“.",
+              "hook": "der Halbgott Māui",
+              "children": [],
+              "source": {
+                "title": "Māui (Māori mythology) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/M%C4%81ui_(M%C4%81ori_mythology)"
+              }
+            },
+            {
+              "id": "2026-10-22-1-0-2",
+              "title": "Der Senator mit einem Arm",
+              "text": "Das Sonnenteleskop trägt den Namen von Daniel Inouye, der fast 50 Jahre lang für Hawaii im US-Senat saß. Als Sohn japanischer Einwanderer kämpfte er im Zweiten Weltkrieg im 442. Regiment, einer Einheit aus Japanoamerikanern. Im April 1945 verlor er in Italien bei einem Angriff auf MG-Stellungen seinen rechten Arm und damit seinen Traum, Chirurg zu werden. Die Medal of Honor erhielt er erst im Jahr 2000, nach einer Überprüfung, ob asiatischstämmige Soldaten bei Auszeichnungen benachteiligt worden waren.",
+              "hook": "Daniel K. Inouye Solar Telescope",
+              "children": [],
+              "source": {
+                "title": "Daniel Inouye – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Daniel_Inouye"
+              }
+            }
+          ],
+          "source": {
+            "title": "Haleakalā – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Haleakal%C4%81"
+          }
+        },
+        {
+          "id": "2026-10-22-1-1",
+          "title": "Wasserstoff als Metall",
+          "text": "Wasserstoff gefriert erst bei rund minus 259 Grad, doch unter gewaltigem Druck soll er sich in etwas noch Seltsameres verwandeln: ein Metall. Eugene Wigner und Hillard Huntington sagten das 1935 voraus. Im Inneren des Jupiters gilt flüssiger metallischer Wasserstoff als Quelle des starken Magnetfelds. Im Labor ist der Nachweis bis heute umstritten: 2017 meldeten Ranga Dias und Isaac Silvera aus Harvard den Durchbruch, doch die Probe ging kurz darauf verloren, und viele Fachleute bezweifeln das Ergebnis.",
+          "hook": "verdampfendem Wasserstoffeis",
+          "children": [
+            {
+              "id": "2026-10-22-1-1-0",
+              "title": "Der Fall Ranga Dias",
+              "text": "Ranga Dias, 2017 noch Postdoc bei Isaac Silvera, machte später als Professor in Rochester größere Schlagzeilen. 2020 und 2023 meldete er in „Nature“ Supraleitung bei Raumtemperatur, zuerst in einem Hydrid aus Kohlenstoff, Schwefel und Wasserstoff, dann in Lutetiumhydrid. Beide Artikel wurden zurückgezogen, Kollegen fanden Hinweise auf manipulierte Daten. Seine Universität stellte Fehlverhalten fest, 2024 wurde er entlassen – der Jahrhundertdurchbruch war zum Lehrstück über Datenmanipulation geworden.",
+              "hook": "Ranga Dias und Isaac Silvera",
+              "children": [],
+              "source": {
+                "title": "Ranga Dias (physicist) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ranga_Dias_(physicist)"
+              }
+            },
+            {
+              "id": "2026-10-22-1-1-1",
+              "title": "Jupiters unsichtbarer Riese",
+              "text": "Das Magnetfeld, das der metallische Wasserstoff im Jupiter antreiben soll, erzeugt eines der größten Gebilde im Sonnensystem: die Jupitermagnetosphäre. Auf der sonnenabgewandten Seite reicht ihr Schweif bis über die Umlaufbahn des Saturn hinaus. Gespeist wird sie vor allem vom Mond Io, dessen Vulkane pro Sekunde rund eine Tonne Material ins All abgeben. Könnten wir sie mit bloßem Auge sehen, erschiene sie an unserem Nachthimmel größer als der Vollmond.",
+              "hook": "Quelle des starken Magnetfelds",
+              "children": [],
+              "source": {
+                "title": "Magnetosphere of Jupiter – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Magnetosphere_of_Jupiter"
+              }
+            },
+            {
+              "id": "2026-10-22-1-1-2",
+              "title": "Wigner und die Marsianer",
+              "text": "Eugene Wigner, einer der beiden Autoren der Vorhersage von 1935, stammte aus Budapest und zählte zu den „Marsianern“, ungarischen Ausnahmeforschern wie John von Neumann und Leo Szilard. 1963 erhielt er den Physik-Nobelpreis, vor allem für Symmetrieprinzipien in der Kern- und Teilchenphysik. Berühmt wurde auch sein Essay von 1960 über die „unvernünftige Wirksamkeit der Mathematik“ in den Naturwissenschaften. Und er wurde Schwager eines anderen Großen: Seine Schwester Margit heiratete 1937 Paul Dirac.",
+              "hook": "Eugene Wigner und Hillard Huntington",
+              "children": [],
+              "source": {
+                "title": "Eugene Paul Wigner – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Eugene_Paul_Wigner"
+              }
+            }
+          ],
+          "source": {
+            "title": "Metallischer Wasserstoff – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Metallischer_Wasserstoff"
+          }
+        },
+        {
+          "id": "2026-10-22-1-2",
+          "title": "Breakthrough Starshot",
+          "text": "Lichtsegel beschäftigten Avi Loeb schon vorher: Er leitete den Beirat von Breakthrough Starshot, einem Projekt, das Yuri Milner und Stephen Hawking 2016 vorstellten. Der Plan sieht vor, Sonden von wenigen Gramm an hauchdünnen Segeln mit einer riesigen Laseranlage auf der Erde auf etwa ein Fünftel der Lichtgeschwindigkeit zu beschleunigen. So könnten sie Alpha Centauri, gut vier Lichtjahre entfernt, in rund 20 Jahren erreichen. Milner stellte zunächst 100 Millionen Dollar bereit, doch über Studien und Laborversuche ist das Projekt bislang nicht hinausgekommen.",
+          "hook": "Idee eines Lichtsegels",
+          "children": [
+            {
+              "id": "2026-10-22-1-2-0",
+              "title": "Der unsichtbare Nachbar",
+              "text": "Alpha Centauri ist ein Dreifachsystem. Sein kleinstes Mitglied, Proxima Centauri, ist mit rund 4,2 Lichtjahren der Sonne am nächsten. Mit bloßem Auge sieht man ihn trotzdem nicht: Der rote Zwerg leuchtet so schwach, dass ihn erst 1915 der Astronom Robert Innes in Johannesburg aufspürte. 2016 entdeckte ein Team um Guillem Anglada-Escudé den Planeten Proxima b, der in der habitablen Zone kreist und damit ein naheliegendes Ziel für Starshot ist. Ein Jahr dauert dort nur gut elf Tage.",
+              "hook": "Alpha Centauri, gut vier Lichtjahre entfernt",
+              "children": []
+            },
+            {
+              "id": "2026-10-22-1-2-1",
+              "title": "Party für Zeitreisende",
+              "text": "Stephen Hawking, der Starshot mit vorstellte, dachte auch gern über Zeitreisen nach und prüfte sie 2009 auf seine Weise. Er lud in Cambridge zu einem Empfang mit Champagner und Häppchen ein, verschickte die Einladungen aber erst, als die Party vorbei war. Nur Gäste, die aus der Zukunft zurückreisen könnten, hätten also kommen können. Hawking blieb allein und nahm das mit einem Augenzwinkern als Beleg dafür, dass Reisen in die Vergangenheit wohl nicht möglich sind.",
+              "hook": "Stephen Hawking",
+              "children": [],
+              "source": {
+                "title": "Hawking's time traveller party – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Hawking%27s_time_traveller_party"
+              }
+            },
+            {
+              "id": "2026-10-22-1-2-2",
+              "title": "Segeln im Sonnenwind",
+              "text": "Hauchdünne Segel sind schon im All geflogen: Die japanische Sonde IKAROS entfaltete 2010 auf dem Weg zur Venus ein Segel aus Kunststoff, nur etwa 7,5 Mikrometer dick. Als erstes Raumfahrzeug bewies sie, dass man im interplanetaren Raum allein mit dem Druck des Sonnenlichts steuern kann. Die Idee ist viel älter. Johannes Kepler schlug 1610 in einem offenen Brief an Galileo Galilei vor, Schiffe mit Segeln für die himmlischen Lüfte zu bauen, vermutlich angeregt von Kometenschweifen, die immer von der Sonne weg zeigen.",
+              "hook": "hauchdünnen Segeln",
+              "children": [],
+              "source": {
+                "title": "Sonnensegel (Raumfahrt) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Sonnensegel_(Raumfahrt)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Breakthrough Starshot – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Breakthrough_Starshot"
+          }
+        }
+      ],
+      "source": {
+        "title": "1I/ʻOumuamua – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/1I/%CA%BBOumuamua"
+      }
+    },
+    {
+      "id": "2026-10-22-2",
+      "category": "orte",
+      "title": "Die Catatumbo-Blitze",
+      "text": "Wo der Río Catatumbo in den Maracaibo-See im Nordwesten Venezuelas mündet, toben je nach Quelle in rund 140 bis 260 Nächten im Jahr Gewitter, oft stundenlang. Eine Auswertung von NASA-Satellitendaten erklärte den See 2016 zum blitzreichsten Ort der Erde. Einer Legende nach verriet das Leuchten 1595 die Schiffe von Francis Drake. Lope de Vega griff das Motiv in seinem Epos „La Dragontea“ auf. Heute ziert ein Blitz die Flagge des Bundesstaats Zulia.",
+      "children": [
+        {
+          "id": "2026-10-22-2-0",
+          "title": "Drakes Sarg aus Blei",
+          "text": "Die Karibikfahrt von 1595 wurde für Francis Drake die letzte. Zusammen mit John Hawkins wollte er spanische Häfen plündern. Hawkins starb jedoch im November 1595 vor Puerto Rico, und der Angriff auf San Juan scheiterte. Drake selbst starb im Januar 1596 vor Portobelo im heutigen Panama an der Ruhr. Man bestattete ihn in einem Bleisarg auf See, und bis heute suchen Taucher in der Bucht nach dem Sarg.",
+          "hook": "die Schiffe von Francis Drake",
+          "children": [
+            {
+              "id": "2026-10-22-2-0-0",
+              "title": "Portobello in London",
+              "text": "Portobelo wurde immer wieder von England angegriffen: 1739 eroberte Admiral Edward Vernon den Hafen mit nur sechs Schiffen. In Großbritannien wurde der Sieg so gefeiert, dass man Orte danach benannte, darunter die Portobello Road in London und einen Stadtteil von Edinburgh. Lawrence Washington diente kurz darauf unter Vernon in der Karibik und benannte sein Gut in Virginia nach dem Admiral. Später erbte es sein Halbbruder George. Bekannt ist es bis heute als Mount Vernon.",
+              "hook": "vor Portobelo im heutigen Panama",
+              "children": [],
+              "source": {
+                "title": "Battle of Porto Bello (1739) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Battle_of_Porto_Bello_(1739)"
+              }
+            },
+            {
+              "id": "2026-10-22-2-0-1",
+              "title": "Das Gift des Herrn Shiga",
+              "text": "Die Ruhr, an der Drake starb, wird oft durch Bakterien ausgelöst. Den wichtigsten Erreger entdeckte erst 1897 der japanische Arzt Kiyoshi Shiga während einer schweren Epidemie in Japan. Nach ihm sind die Bakteriengattung Shigella und das Shiga-Toxin benannt, das Darmzellen und Blutgefäße schädigt. Dieses Gift können auch andere Keime bilden: 2011 starben in Deutschland mehr als 50 Menschen bei einem EHEC-Ausbruch. Die Quelle waren Sprossen aus Bockshornkleesamen, die aus Ägypten importiert worden waren.",
+              "hook": "an der Ruhr",
+              "children": [],
+              "source": {
+                "title": "Shiga-Toxin – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Shiga-Toxin"
+              }
+            },
+            {
+              "id": "2026-10-22-2-0-2",
+              "title": "Hawkins' doppeltes Erbe",
+              "text": "John Hawkins, mit dem Drake zuletzt segelte, gilt als erster englischer Sklavenhändler. In den 1560er-Jahren verschleppte er Menschen aus Westafrika und verkaufte sie in der spanischen Karibik. Sein Wappen von 1565 zeigte einen gefesselten Afrikaner. Ab 1577 verwaltete er als Schatzmeister die Finanzen der Royal Navy und setzte niedrigere, wendigere Galeonen durch. Diese Schiffe trugen 1588 wesentlich zum Sieg über die Spanische Armada bei, die am Ende auch Stürme dezimierten.",
+              "hook": "Zusammen mit John Hawkins",
+              "children": [],
+              "source": {
+                "title": "John Hawkins (Seefahrer) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/John_Hawkins_(Seefahrer)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Francis Drake – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Francis_Drake"
+          }
+        },
+        {
+          "id": "2026-10-22-2-1",
+          "title": "Ein Monstrum der Natur",
+          "text": "Lope de Vega kannte den Seekrieg gegen England aus eigener Erfahrung: Der Überlieferung nach diente er 1588 auf einem Schiff der Armada. Später wurde er zum vielleicht produktivsten Dramatiker der Literaturgeschichte. Nach eigener Angabe schrieb er rund 1500 Komödien, von denen einige Hundert erhalten sind. Cervantes nannte ihn ein „Monstrum der Natur“. 1614 wurde Lope zum Priester geweiht, beendete seine Liebesaffären aber nicht.",
+          "hook": "Lope de Vega griff das Motiv",
+          "children": [
+            {
+              "id": "2026-10-22-2-1-0",
+              "title": "Der Salamander im Wrack",
+              "text": "Viele Schiffe der Armada kamen nie nach Hause, darunter die Galeasse „Girona“. Im Oktober 1588 zerschellte sie mit weit über tausend Mann an Bord vor der Küste Nordirlands, unweit des Giant’s Causeway. Nur eine Handvoll überlebte. 1967 fand der belgische Taucher Robert Sténuit das Wrack und barg Goldmünzen, Kameen und Schmuck, die heute im Ulster Museum in Belfast liegen. Das berühmteste Stück ist ein goldener Salamander, der Sage nach ein Tier, das im Feuer überlebt. Den Untergang im Meer hat er nicht verhindert.",
+              "hook": "auf einem Schiff der Armada",
+              "children": [],
+              "source": {
+                "title": "Girona (ship) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Girona_(ship)"
+              }
+            },
+            {
+              "id": "2026-10-22-2-1-1",
+              "title": "Ein Dorf als Täter",
+              "text": "Unter Lopes rund 1500 Komödien sticht eine hervor, die auf einem echten Ereignis beruht: „Fuenteovejuna“. 1476 erschlugen die Bewohner dieses andalusischen Dorfs ihren tyrannischen Komtur Fernán Gómez de Guzmán. Laut Überlieferung ließ ein königlicher Richter sie foltern, doch auf die Frage nach dem Täter antworteten alle nur: „Fuenteovejuna“. Die Wendung „Fuenteovejuna, todos a una“ ist bis heute ein spanisches Sprichwort für Zusammenhalt. Und die Dorfbewohner führen das Stück inzwischen selbst auf ihrem Marktplatz auf.",
+              "hook": "rund 1500 Komödien",
+              "children": [],
+              "source": {
+                "title": "Fuenteovejuna – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Fuenteovejuna"
+              }
+            },
+            {
+              "id": "2026-10-22-2-1-2",
+              "title": "Der falsche Don Quijote",
+              "text": "Hinter Cervantes’ Wort vom „Monstrum der Natur“ steckte eine handfeste Rivalität mit Lope. 1614 erschien in Tarragona eine unautorisierte Fortsetzung des „Don Quijote“ unter dem Decknamen Alonso Fernández de Avellaneda. Ihr Vorwort verhöhnt Cervantes und verteidigt Lope. Wer dahintersteckt, ist bis heute ungeklärt. Cervantes schlug 1615 im echten zweiten Teil zurück: Dort lässt er Don Álvaro Tarfe, eine Figur aus dem falschen Buch, vor einem Bürgermeister zu Protokoll geben, dass dieser Don Quijote nicht der sei, den er kenne.",
+              "hook": "Cervantes nannte ihn ein „Monstrum der Natur“",
+              "children": [],
+              "source": {
+                "title": "Alonso Fernández de Avellaneda – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Alonso_Fern%C3%A1ndez_de_Avellaneda"
+              }
+            }
+          ],
+          "source": {
+            "title": "Lope de Vega – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Lope_de_Vega"
+          }
+        },
+        {
+          "id": "2026-10-22-2-2",
+          "title": "Klein-Venedig im See",
+          "text": "Vermutlich verdankt Venezuela seinen Namen ebenfalls dem Maracaibo-See. Die Expedition von Alonso de Ojeda, an der 1499 auch Amerigo Vespucci teilnahm, stieß dort auf Dörfer aus Pfahlbauten im Wasser. Sie erinnerten die Seefahrer an Venedig, und so entstand der Name „Venezuela“, also Klein-Venedig. Ein Chronist führte den Namen dagegen auf einen indigenen Ortsnamen zurück. Pfahlbauten, die sogenannten Palafitos, bewohnt das Volk der Añú bis heute, etwa in der Lagune von Sinamaica.",
+          "hook": "Maracaibo-See im Nordwesten Venezuelas",
+          "children": [
+            {
+              "id": "2026-10-22-2-2-0",
+              "title": "Amerikas Taufschein",
+              "text": "Weltberühmt wurde Amerigo Vespucci vor allem durch eine Karte aus dem lothringischen Saint-Dié. Dort zeichnete Martin Waldseemüller 1507 eine Weltkarte, auf der der neue Kontinent erstmals „America“ heißt, nach Vespuccis Vornamen. Von den gedruckten Exemplaren blieb nur eines erhalten. Es wurde 1901 auf Schloss Wolfegg in Oberschwaben entdeckt, und 2003 kaufte es die Library of Congress für zehn Millionen Dollar. Waldseemüller selbst hatte den Namen auf späteren Karten schon wieder fallen lassen.",
+              "hook": "auch Amerigo Vespucci teilnahm",
+              "children": [],
+              "source": {
+                "title": "Martin Waldseemüller – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Martin_Waldseem%C3%BCller"
+              }
+            },
+            {
+              "id": "2026-10-22-2-2-1",
+              "title": "Venedigs versunkener Wald",
+              "text": "Auch Venedig selbst steht auf Pfählen, nur sieht man sie nicht: Millionen Stämme aus Eiche, Lärche und Erle wurden in den schlammigen Lagunengrund gerammt. Allein unter der Kirche Santa Maria della Salute sollen es mehr als eine Million sein. Weil im Schlamm kaum Sauerstoff an das Holz gelangt, verrottet es nur äußerst langsam. Das Holz stammte unter anderem aus den Wäldern des Cadore und Istriens, und so wird Venedig gern als umgedrehter Wald beschrieben.",
+              "hook": "erinnerten die Seefahrer an Venedig",
+              "children": [],
+              "source": {
+                "title": "Building Venice: Timber Piles, Infrastructure, and Lasting Lessons in Foundation Engineering – Pile Buck Magazine",
+                "url": "https://pilebuck.com/building-venice-timber-piles-infrastructure-lasting-lessons-foundation-engineering/"
+              }
+            },
+            {
+              "id": "2026-10-22-2-2-2",
+              "title": "Pfahlbaufieber am Zürichsee",
+              "text": "Pfahlbauten gab es vor Tausenden Jahren auch an den Seen rund um die Alpen. Im trockenen Winter 1853/54 sank der Zürichsee bei Obermeilen so stark, dass Reihen alter Pfähle auftauchten. Der Zürcher Gelehrte Ferdinand Keller deutete sie als Dörfer auf Plattformen über dem Wasser, und daraus wurde ein Schweizer Nationalmythos. 2011 erklärte die UNESCO 111 Fundstellen in sechs Ländern zum Welterbe. Heute nehmen viele Forscher an, dass die Häuser meist am Ufer standen, das nur zeitweise überflutet wurde.",
+              "hook": "Pfahlbauten, die sogenannten Palafitos",
+              "children": [],
+              "source": {
+                "title": "Prähistorische Pfahlbauten um die Alpen – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Pr%C3%A4historische_Pfahlbauten_um_die_Alpen"
+              }
+            }
+          ],
+          "source": {
+            "title": "How Did Venezuela Get Its Name? – WorldAtlas",
+            "url": "https://www.worldatlas.com/articles/how-did-venezula-get-its-name.html"
+          }
+        }
+      ],
+      "source": {
+        "title": "Catatumbo-Gewitter – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Catatumbo-Gewitter"
+      }
+    }
+  ]
+}
