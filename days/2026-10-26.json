@@ -1,0 +1,436 @@
+{
+  "version": 1,
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-24T00:49:20.875Z",
+  "topics": [
+    {
+      "id": "2026-10-26-0",
+      "category": "natur",
+      "title": "Die Rafflesia",
+      "text": "Die Rafflesia arnoldii bildet die größte Einzelblüte der Welt. Sie wird bis zu rund einen Meter breit und mehrere Kilogramm schwer. Dabei hat die Pflanze aus den Regenwäldern Sumatras und Borneos weder Blätter noch Stängel noch Wurzeln: Sie lebt als Parasit unsichtbar im Gewebe von Tetrastigma-Lianen. Ihre Blüte riecht nach verwesendem Fleisch und lockt so Aasfliegen zur Bestäubung an. Benannt ist sie nach Stamford Raffles und dem Arzt Joseph Arnold, die sie 1818 auf einer Expedition fanden.",
+      "children": [
+        {
+          "id": "2026-10-26-0-0",
+          "title": "Der Kolonialbeamte und der Zoo",
+          "text": "Stamford Raffles sammelte nicht nur Pflanzen: 1819 gründete er für die Britische Ostindien-Kompanie den Handelsposten Singapur, und 1826 rief er in London die Zoological Society of London ins Leben. Er wurde ihr erster Präsident, starb aber noch im selben Jahr, kurz vor seinem 45. Geburtstag. Der Zoo im Regent's Park öffnete 1828, zunächst nur für Mitglieder als wissenschaftliche Sammlung. Das allgemeine Publikum durfte erst ab 1847 hinein.",
+          "hook": "Stamford Raffles",
+          "children": [
+            {
+              "id": "2026-10-26-0-0-0",
+              "title": "Die Löwenstadt ohne Löwen",
+              "text": "Der Handelsposten Singapur trug schon einen alten Namen: „Singapura“ stammt aus dem Sanskrit und bedeutet „Löwenstadt“. Laut den Malaiischen Annalen, einer Chronik voller Legenden, sah Prinz Sang Nila Utama dort ein fremdes Tier und hielt es für einen Löwen. Frei lebende Löwen gab es in der Region aber nie. Wenn die Geschichte überhaupt stimmt, war es vermutlich ein Tiger. Das heutige Wahrzeichen, der Merlion mit Löwenkopf und Fischschwanz, ist dagegen jung: Er entstand 1964 als Logo der Tourismusbehörde.",
+              "hook": "den Handelsposten Singapur",
+              "children": [],
+              "source": {
+                "title": "Names of Singapore – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Names_of_Singapore"
+              }
+            },
+            {
+              "id": "2026-10-26-0-0-1",
+              "title": "Ein Konzern mit Armee",
+              "text": "Die Britische Ostindien-Kompanie war weit mehr als ein Handelsunternehmen. Elisabeth I. erteilte ihr im Jahr 1600 ein Privileg, und um 1800 unterhielt sie eine Privatarmee von mehr als 200.000 Mann. Sie regierte große Teile Indiens, bis die Krone ihr nach dem Aufstand von 1857 die Herrschaft entzog, 1874 wurde sie aufgelöst. Ihr Name hat überlebt: Der in Mumbai geborene Unternehmer Sanjiv Mehta erwarb die Markenrechte und eröffnete 2010 in London ein Geschäft der „East India Company“, das Tee und Feinkost verkauft.",
+              "hook": "Britische Ostindien-Kompanie",
+              "children": [],
+              "source": {
+                "title": "Britische Ostindien-Kompanie – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Britische_Ostindien-Kompanie"
+              }
+            },
+            {
+              "id": "2026-10-26-0-0-2",
+              "title": "Jumbo, der Publikumsliebling",
+              "text": "Seit das allgemeine Publikum in den Zoo durfte, brauchte er Stars, und der größte kam 1865: ein afrikanischer Elefant namens Jumbo. Jahrelang trug er Kinder auf seinem Rücken. 1882 verkaufte ihn der Zoo trotz heftiger Proteste in Großbritannien an den amerikanischen Zirkusunternehmer P. T. Barnum. Drei Jahre später starb Jumbo im kanadischen St. Thomas, als ihn ein Güterzug erfasste. Sein Name lebt aber weiter: als Wort für alles Riesige, bis hin zum Jumbo-Jet.",
+              "hook": "Das allgemeine Publikum durfte erst",
+              "children": [],
+              "source": {
+                "title": "Jumbo (Elefant) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Jumbo_(Elefant)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Thomas Stamford Raffles – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Thomas_Stamford_Raffles"
+          }
+        },
+        {
+          "id": "2026-10-26-0-1",
+          "title": "Fliegen als Kronzeugen",
+          "text": "Aasfliegen finden einen Leichnam oft schon nach Minuten, und deshalb sind sie in der Kriminalistik nützlich. Der chinesische Beamte Song Ci schilderte 1247 in seinem Handbuch „Xiyuan Jilu“ einen Mordfall, in dem sich Fliegen auf einer einzigen Sichel sammelten, weil daran unsichtbare Blutreste hafteten. Der Franzose Jean Pierre Mégnin zeigte 1894 in „La faune des cadavres“, dass Insekten eine Leiche in festen Wellen besiedeln. Heute schätzen Forensiker die Liegezeit anhand der temperaturabhängigen Entwicklung von Schmeißfliegenlarven.",
+          "hook": "lockt so Aasfliegen zur Bestäubung",
+          "children": [
+            {
+              "id": "2026-10-26-0-1-0",
+              "title": "Maden als Wundärzte",
+              "text": "Dieselben Schmeißfliegenlarven, die Forensikern die Liegezeit verraten, können auch Wunden heilen: Die Maden der Goldfliege Lucilia sericata fressen gezielt abgestorbenes Gewebe. Der US-Chirurg William Baer bemerkte im Ersten Weltkrieg, wie gut madenbefallene Wunden von Soldaten verheilten, und behandelte ab 1929 mit keimfrei gezüchteten Maden. Mit dem Penicillin geriet die Methode in Vergessenheit. 2004 ließ die US-Behörde FDA sie wieder zu, im selben Jahr wie medizinische Blutegel.",
+              "hook": "Entwicklung von Schmeißfliegenlarven",
+              "children": [],
+              "source": {
+                "title": "Madentherapie – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Madentherapie"
+              }
+            },
+            {
+              "id": "2026-10-26-0-1-1",
+              "title": "Leuchtspur Luminol",
+              "text": "Unsichtbare Blutreste machen Ermittler heute nicht mehr mit Fliegen sichtbar, sondern mit Luminol. Der Jenaer Gerichtsmediziner Walter Specht schlug 1937 vor, die Chemikalie an Tatorten zu versprühen: Das Eisen im Hämoglobin bringt sie dazu, im Dunkeln bläulich zu leuchten. So lassen sich selbst weggewischte, alte Spuren finden. Allerdings glimmt Luminol auch bei Bleichmittel, Kupfer und sogar Meerrettich. Es liefert deshalb nur einen Hinweis, keinen Beweis.",
+              "hook": "unsichtbare Blutreste",
+              "children": [],
+              "source": {
+                "title": "Luminol – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Luminol"
+              }
+            },
+            {
+              "id": "2026-10-26-0-1-2",
+              "title": "Chinas Beamtenprüfung",
+              "text": "Seine Stelle als Beamter verdankte Song Ci einer der härtesten Prüfungen der Geschichte, der chinesischen Staatsprüfung, die er 1217 bestand. Rund 1300 Jahre lang, von etwa 600 bis 1905, wählte China so seine Verwaltungselite aus. Die Kandidaten saßen tagelang eingeschlossen in winzigen Zellen, allein in Nanjing gab es über 20.000 davon. Europäischen Reformern galt das System als Vorbild: Großbritannien führte im 19. Jahrhundert ebenfalls Auswahlprüfungen für seine Beamten ein.",
+              "hook": "Der chinesische Beamte Song Ci",
+              "children": [],
+              "source": {
+                "title": "Chinesische Beamtenprüfung – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Chinesische_Beamtenpr%C3%BCfung"
+              }
+            }
+          ],
+          "source": {
+            "title": "Forensische Entomologie – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Forensische_Entomologie"
+          }
+        },
+        {
+          "id": "2026-10-26-0-2",
+          "title": "Gene vom Wirt gestohlen",
+          "text": "Als Parasit lebt die Rafflesia so eng mit ihrer Wirtsliane zusammen, dass sie sogar Teile von deren Erbgut übernommen hat. Ein Team um Charles Davis von der Harvard University fand 2012 heraus, dass rund zwei Prozent ihrer aktiven Gene ursprünglich von Tetrastigma stammen. Dieser horizontale Gentransfer ist eher von Bakterien bekannt. 2014 folgte die nächste Überraschung: Bei Rafflesia lagascae von den Philippinen ließ sich kein Chloroplasten-Genom nachweisen, obwohl die meisten anderen Parasitenpflanzen wenigstens Reste davon behalten.",
+          "hook": "Sie lebt als Parasit unsichtbar",
+          "children": [
+            {
+              "id": "2026-10-26-0-2-0",
+              "title": "Die gentechnische Süßkartoffel",
+              "text": "Gene wandern nicht nur bei Bakterien zwischen Arten, sondern auch bei Nutzpflanzen. 2015 fand ein Team um Tina Kyndt von der Universität Gent im Erbgut der Süßkartoffel DNA des Bodenbakteriums Agrobacterium, und zwar in allen 291 untersuchten Kultursorten. Ausgerechnet dieses Bakterium nutzen Gentechniker seit Jahrzehnten als Werkzeug, um Gene in Pflanzen einzuschleusen. Damit ist die Süßkartoffel ein auf natürlichem Weg entstandener gentechnisch veränderter Organismus und wird seit Jahrtausenden gegessen.",
+              "hook": "eher von Bakterien bekannt",
+              "children": [],
+              "source": {
+                "title": "Süßkartoffel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/S%C3%BC%C3%9Fkartoffel"
+              }
+            },
+            {
+              "id": "2026-10-26-0-2-1",
+              "title": "Die Schnecke mit Solarzellen",
+              "text": "Die Rafflesia hat ihre Chloroplasten aufgegeben, ein Tier dagegen besorgt sich welche: die Meeresschnecke Elysia chlorotica von der Ostküste Nordamerikas. Sie frisst die Alge Vaucheria litorea, verdaut deren Chloroplasten aber nicht, sondern lagert sie in ihre Darmzellen ein. Dort betreiben sie monatelang weiter Photosynthese. Lange nahm man an, die Schnecke habe dafür auch Algengene übernommen. Genomanalysen fanden dafür jedoch keine überzeugenden Belege, und wie die gestohlenen Chloroplasten so lange funktionieren, ist bis heute nicht ganz geklärt.",
+              "hook": "kein Chloroplasten-Genom nachweisen",
+              "children": [],
+              "source": {
+                "title": "A draft genome assembly of the solar-powered sea slug Elysia chlorotica – PMC (NCBI)",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6380222/"
+              }
+            },
+            {
+              "id": "2026-10-26-0-2-2",
+              "title": "Der Botaniker im Exil",
+              "text": "Rafflesia lagascae ist nach dem spanischen Botaniker Mariano Lagasca benannt, der nach 1814 den Königlichen Botanischen Garten in Madrid leitete. Lagasca war auch Politiker: Als liberaler Abgeordneter floh er 1823 mit dem Parlament vor den französischen Truppen nach Sevilla. Dort wurden sein Herbarium und seine Manuskripte vernichtet, die Arbeit vieler Jahre. Er ging ins Exil nach London und kehrte erst nach dem Tod König Ferdinands VII. zurück. Seinen Namen trägt nun eine Blüte, die er selbst nie gesehen hat.",
+              "hook": "Rafflesia lagascae von den Philippinen",
+              "children": [],
+              "source": {
+                "title": "Mariano Lagasca y Segura – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Mariano_Lagasca_y_Segura"
+              }
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Riesenrafflesie – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Riesenrafflesie"
+      }
+    },
+    {
+      "id": "2026-10-26-1",
+      "category": "technik",
+      "title": "Die Wuppertaler Schwebebahn",
+      "text": "Die Wuppertaler Schwebebahn hängt seit 1901 an einem Stahlgerüst, das größtenteils direkt über dem Fluss Wupper verläuft. Erdacht hat das System der Kölner Ingenieur Eugen Langen, und Kaiser Wilhelm II. machte bereits 1900 eine Probefahrt. Mit rund 13 Kilometern Strecke gehört sie zu den ältesten elektrischen Hochbahnen der Welt. Berühmt wurde 1950 die Zirkuselefantin Tuffi, die bei einer Werbefahrt aus dem Wagen in die Wupper sprang und nahezu unverletzt blieb.",
+      "children": [
+        {
+          "id": "2026-10-26-1-0",
+          "title": "Vom Gerüst zum Viertakter",
+          "text": "Bevor Eugen Langen die Schwebebahn erdachte, hatte er schon Motorengeschichte geschrieben: 1864 gründete er mit dem Tüftler Nicolaus August Otto in Köln die Firma N. A. Otto & Cie, die oft als erste Motorenfabrik der Welt gilt. Ihr atmosphärischer Gasmotor gewann 1867 auf der Pariser Weltausstellung eine Goldmedaille. Später arbeiteten im Werk in Deutz Gottlieb Daimler und Wilhelm Maybach, und 1876 baute Otto dort seinen Viertaktmotor. Nach diesem Prinzip laufen bis heute die meisten Benzinmotoren.",
+          "hook": "Kölner Ingenieur Eugen Langen",
+          "children": [
+            {
+              "id": "2026-10-26-1-0-0",
+              "title": "Japan erobert Paris",
+              "text": "Auf derselben Pariser Weltausstellung von 1867, auf der Ottos Motor Gold gewann, trat Japan zum ersten Mal offiziell auf. Das Shogunat schickte Tokugawa Akitake, den jüngeren Bruder des Shoguns, doch die Satsuma-Domäne stellte demonstrativ unter eigenem Namen aus. Das war ein Vorbote des Machtkampfs, der das Shogunat schon 1868 stürzte. Lackarbeiten, Keramik und Farbholzschnitte gaben dem Japonismus in Europa kräftig Auftrieb, und rund zwanzig Jahre später malte Vincent van Gogh Holzschnitte von Hiroshige in Öl nach.",
+              "hook": "1867 auf der Pariser Weltausstellung",
+              "children": []
+            },
+            {
+              "id": "2026-10-26-1-0-1",
+              "title": "Ein Auto namens Mädchen",
+              "text": "Wilhelm Maybach ging mit Daimler von Deutz nach Cannstatt und entwarf dort 1900 einen Wagen, der Autogeschichte schrieb: den Mercedes 35 PS. Bestellt hatte ihn Emil Jellinek, ein Geschäftsmann aus Nizza, der gleich 36 Stück orderte und eine Bedingung stellte. Das Auto sollte so heißen wie seine Tochter Mercedes, die damals etwa elf Jahre alt war. Der Name wurde zur Marke, und 1903 ließ sich Jellinek amtlich in Jellinek-Mercedes umbenennen: Der Vater trug jetzt den Namen seiner Tochter.",
+              "hook": "Gottlieb Daimler und Wilhelm Maybach",
+              "children": [],
+              "source": {
+                "title": "Mercedes 35 PS – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Mercedes_35_PS"
+              }
+            },
+            {
+              "id": "2026-10-26-1-0-2",
+              "title": "Der Römername von Deutz",
+              "text": "Der Kölner Stadtteil Deutz, in dem Ottos Werk stand, hat einen römischen Namen. Um 310 ließ Kaiser Konstantin auf dem rechten Rheinufer gegenüber der Colonia das Kastell Divitia errichten und es durch eine mehr als 400 Meter lange feste Brücke mit der Stadt verbinden. Reste der Festung sind am Rheinufer bis heute zu sehen. Aus Divitia wurde mit der Zeit Deutz, und so steht der Name eines spätrömischen Militärlagers heute auf Motoren und Traktoren in aller Welt.",
+              "hook": "im Werk in Deutz",
+              "children": [],
+              "source": {
+                "title": "Kastell Deutz – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kastell_Deutz"
+              }
+            }
+          ],
+          "source": {
+            "title": "Deutz AG – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Deutz_AG"
+          }
+        },
+        {
+          "id": "2026-10-26-1-1",
+          "title": "Elefanten ohne Flugphase",
+          "text": "Dass Tuffi „sprang“, stimmt streng genommen nicht: Elefanten gehören zu den wenigen Säugetieren, die nicht springen können, Tuffi fiel eher durch die Wagenwand. Selbst im schnellsten Gang behalten sie immer mindestens einen Fuß am Boden. Das zeigte ein Team um den Biomechaniker John Hutchinson 2003 mit Messungen an Elefanten in Thailand. Trotzdem schaffen die Tiere rund 25 Kilometer pro Stunde, und ihr Körperschwerpunkt federt dabei wie beim Rennen. Forscher beschreiben das als Mischform aus Gehen und Laufen.",
+          "hook": "Zirkuselefantin Tuffi",
+          "children": [
+            {
+              "id": "2026-10-26-1-1-0",
+              "title": "Der langsame T. rex",
+              "text": "Bevor der Biomechaniker John Hutchinson Elefanten vermaß, nahm er sich einen noch schwereren Läufer vor: Tyrannosaurus rex. 2002 berechnete er mit Mariano Garcia in „Nature“, wie viel Beinmuskulatur der Saurier für ein Tempo von rund 70 km/h gebraucht hätte. Das Ergebnis war ein anatomisch unmöglicher Anteil seines Körpergewichts. Spätere Studien schätzen eher 20 bis 40 km/h. Die Jeep-Jagd aus „Jurassic Park“ wäre demnach recht gemächlich ausgefallen.",
+              "hook": "Biomechaniker John Hutchinson",
+              "children": [],
+              "source": {
+                "title": "Hutchinson & Garcia: Tyrannosaurus was not a fast runner (Nature 2002) – IDEAS/RePEc",
+                "url": "https://ideas.repec.org/a/nat/nature/v415y2002i6875d10.1038_4151018a.html"
+              }
+            },
+            {
+              "id": "2026-10-26-1-1-1",
+              "title": "Der weiße Elefant",
+              "text": "Wer in Thailand Elefanten untersucht, landet schnell bei ihrem höchsten Rang: dem weißen Elefanten, traditionell ein Symbol königlicher Macht und Eigentum des Königs. Wirklich weiß sind die Tiere selten, eher rosig-hell, und bestimmt werden sie nach Merkmalen wie hellen Augen und Nägeln. Bis 1916 zeigte die Flagge Siams einen weißen Elefanten auf Rot. Daher stammt der englische Ausdruck „white elephant“ für einen teuren, nutzlosen Besitz. Der Legende nach verschenkten Könige solche Tiere an unliebsame Höflinge, die der Unterhalt dann ruinierte.",
+              "hook": "Messungen an Elefanten in Thailand",
+              "children": [],
+              "source": {
+                "title": "Weißer Elefant – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Wei%C3%9Fer_Elefant"
+              }
+            },
+            {
+              "id": "2026-10-26-1-1-2",
+              "title": "Gehen nach Augenmaß",
+              "text": "Was beim Elefanten Biomechanik ist, ist im Gehen eine Wettkampfregel: Ein Fuß muss stets am Boden bleiben. Weltklasse-Geher schaffen so über 20 Kilometer im Schnitt mehr als 15 km/h. Hochgeschwindigkeitskameras zeigen allerdings, dass viele Spitzengeher kurz in der Luft sind. Bestraft wird das nicht, denn laut Reglement zählt nur, was Kampfrichter mit bloßem Auge erkennen können. Zeitlupen oder Sensoren entscheiden darüber im Wettkampf bislang nicht.",
+              "hook": "immer mindestens einen Fuß am Boden",
+              "children": [],
+              "source": {
+                "title": "Gehen (Sport) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gehen_(Sport)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Can elephants really run? Yes and no, say researchers – CU Boulder Today",
+            "url": "https://www.colorado.edu/today/2003/04/01/can-elephants-really-run-yes-and-no-say-researchers"
+          }
+        },
+        {
+          "id": "2026-10-26-1-2",
+          "title": "Die Ur-Elektrobahn von 1879",
+          "text": "Um 1900 war es noch ziemlich neu, Menschen elektrisch zu befördern: Erst 1879 hatte Werner von Siemens auf der Berliner Gewerbeausstellung eine elektrische Bahn für Fahrgäste vorgeführt. Sie gilt als erste brauchbare Elektrolokomotive. Die kleine Lok zog Besucher auf offenen Sitzbänken über einen rund 300 Meter langen Rundkurs, mit etwa sieben Kilometern pro Stunde. Schon 1881 nahm in Lichterfelde bei Berlin eine Strecke den Betrieb auf, die als erste elektrische Straßenbahn der Welt gilt.",
+          "hook": "ältesten elektrischen Hochbahnen der Welt",
+          "children": [
+            {
+              "id": "2026-10-26-1-2-0",
+              "title": "Ein Draht bis Kalkutta",
+              "text": "Reich wurde Werner von Siemens nicht mit Bahnen, sondern mit Telegrafen: Seine Firma begann 1847 als „Telegraphen-Bauanstalt von Siemens & Halske“. Ihr kühnstes Projekt war die Indo-Europäische Telegrafenlinie. Ab 1870 verband sie London über Preußen, Russland und Persien mit Kalkutta, auf rund 11.000 Kilometern Leitung. Nachrichten, die per Schiff Wochen unterwegs gewesen waren, kamen nun in Minuten an. Abgesehen von einer langen Pause im und nach dem Ersten Weltkrieg blieb die Linie bis 1931 in Betrieb.",
+              "hook": "Werner von Siemens",
+              "children": [],
+              "source": {
+                "title": "Indo-europäische Telegrafenlinie – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Indo-europ%C3%A4ische_Telegrafenlinie"
+              }
+            },
+            {
+              "id": "2026-10-26-1-2-1",
+              "title": "Berlins Himmelskanone",
+              "text": "Auf Berliner Gewerbeausstellungen ging es um Technik zum Staunen. 1896 brachte der Astronom Friedrich Simon Archenhold in den Treptower Park ein Riesenfernrohr mit: ein Linsenteleskop mit 21 Metern Brennweite, im Volksmund „Himmelskanone“ genannt. Es gilt bis heute als längstes bewegliches Linsenfernrohr der Welt. Aus dem Provisorium wurde die Archenhold-Sternwarte. Dort hielt Albert Einstein 1915 seinen ersten öffentlichen Berliner Vortrag über die Relativitätstheorie.",
+              "hook": "auf der Berliner Gewerbeausstellung",
+              "children": [],
+              "source": {
+                "title": "Archenhold-Sternwarte – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Archenhold-Sternwarte"
+              }
+            },
+            {
+              "id": "2026-10-26-1-2-2",
+              "title": "Lilienthals Hausberg",
+              "text": "In Lichterfelde wurde gut ein Jahrzehnt später noch einmal Technikgeschichte geschrieben. 1894 ließ Otto Lilienthal dort einen rund 15 Meter hohen Hügel aufschütten, den Fliegeberg, um von seiner Kuppe aus mit seinen Gleitern zu starten. So konnte er bei jeder Windrichtung gegen den Wind abspringen. Fotos dieser Flüge gingen um die Welt und beeindruckten auch die Brüder Wright. In die Kuppe des Hügels war ein Schuppen für die Flugapparate eingebaut, der Berg war also zugleich Startrampe und Hangar.",
+              "hook": "in Lichterfelde bei Berlin",
+              "children": [],
+              "source": {
+                "title": "Fliegeberg – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Fliegeberg"
+              }
+            }
+          ],
+          "source": {
+            "title": "Elektrische Siemens-Lok von 1879 – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Elektrische_Siemens-Lok_von_1879"
+          }
+        }
+      ],
+      "source": {
+        "title": "Wuppertaler Schwebebahn – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Wuppertaler_Schwebebahn"
+      }
+    },
+    {
+      "id": "2026-10-26-2",
+      "category": "wissenschaft",
+      "title": "Enceladus",
+      "text": "Enceladus ist ein Saturnmond mit nur rund 500 Kilometern Durchmesser, den William Herschel 1789 entdeckte. Seine Eiskruste wirft fast das gesamte Sonnenlicht zurück und macht ihn zu einem der hellsten Körper im Sonnensystem. 2005 entdeckte die Sonde Cassini am Südpol Fontänen aus Wasserdampf und Eis, die aus Spalten namens „Tigerstreifen“ schießen und Saturns E-Ring speisen. Darunter liegt ein Ozean, in dessen ausgestoßenem Material Forscher Salze, organische Moleküle und Phosphor nachwiesen.",
+      "children": [
+        {
+          "id": "2026-10-26-2-0",
+          "title": "Der Oboist, der Uranus fand",
+          "text": "Bevor William Herschel Monde entdeckte, lebte er von der Musik: Der 1738 in Hannover geborene Oboist der Militärkapelle der Hannoverschen Garde zog 1757 nach England und wurde später Organist der Octagon Chapel im Kurort Bath. Er schrieb zahlreiche Sinfonien und schliff in seiner freien Zeit gemeinsam mit seiner Schwester Caroline Teleskopspiegel. 1781 entdeckte er im Garten seines Hauses in Bath den Uranus, den er zu Ehren Georgs III. „Georgium Sidus“ nannte. Der König gewährte ihm eine Jahrespension, und so wurde aus dem Musiker ein Astronom.",
+          "hook": "William Herschel 1789 entdeckte",
+          "children": [
+            {
+              "id": "2026-10-26-2-0-0",
+              "title": "Die Kometenjägerin",
+              "text": "Caroline Herschel, die mit ihrem Bruder die Spiegel schliff, wurde selbst zur Pionierin. 1787 setzte Georg III. ihr ein Jahresgehalt von 50 Pfund aus, und damit gilt sie als erste Frau, die für wissenschaftliche Arbeit bezahlt wurde. Sie entdeckte acht Kometen sowie mehrere Nebel und erhielt 1828 die Goldmedaille der Royal Astronomical Society. Nach Williams Tod kehrte sie nach Hannover zurück. Dort verlieh ihr der preußische König 1846 zum 96. Geburtstag die Goldene Medaille für Wissenschaft.",
+              "hook": "seiner Schwester Caroline",
+              "children": [],
+              "source": {
+                "title": "Herschel, Caroline – Deutsche Biographie",
+                "url": "https://www.deutsche-biographie.de/sfz30292.html"
+              }
+            },
+            {
+              "id": "2026-10-26-2-0-1",
+              "title": "Flüche aus der heißen Quelle",
+              "text": "Als Kurort ist Bath bekannt, weil dort die wärmsten Quellen Großbritanniens liegen: Das Wasser kommt mit rund 46 Grad aus dem Boden. Die Römer bauten an dieser Stelle das Bad Aquae Sulis und einen Tempel für Sulis Minerva, in der eine keltische Quellgöttin mit der römischen Minerva verschmolz. In der heiligen Quelle fanden Archäologen rund 130 Fluchtafeln aus Blei und Zinn, auf denen Badegäste die Göttin um Rache baten. Die meisten Flüche gelten Dieben, die ihnen Kleidung oder Münzen gestohlen hatten.",
+              "hook": "im Kurort Bath",
+              "children": [],
+              "source": {
+                "title": "Roman Baths (Bath) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Roman_Baths_(Bath)"
+              }
+            },
+            {
+              "id": "2026-10-26-2-0-2",
+              "title": "Ein Planet tauft ein Element",
+              "text": "Außerhalb Großbritanniens fand der Name „Georgium Sidus“ kaum Anhänger. Der Berliner Astronom Johann Elert Bode schlug deshalb Uranus vor, nach dem Vater des Saturn aus der Mythologie. Der Chemiker Martin Heinrich Klaproth griff den Namen auf und nannte ein neues Element, das er 1789 in Pechblende entdeckt hatte, Uran. In britischen Almanachen hielt sich „Georgian“ noch bis etwa 1850. Anfang der 1940er-Jahre wurden die ersten Elemente jenseits des Urans hergestellt, und man benannte sie wie Klaproth nach Planeten: Neptunium und Plutonium.",
+              "hook": "„Georgium Sidus“ nannte",
+              "children": [],
+              "source": {
+                "title": "Uran – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Uran"
+              }
+            }
+          ],
+          "source": {
+            "title": "Wilhelm Herschel – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Wilhelm_Herschel"
+          }
+        },
+        {
+          "id": "2026-10-26-2-1",
+          "title": "Bagdad liegt auf Enceladus",
+          "text": "Die vier Tigerstreifen heißen Alexandria, Kairo, Bagdad und Damaskus, denn die Internationale Astronomische Union benennt Strukturen auf Enceladus nach Orten und Figuren aus Tausendundeiner Nacht. Krater tragen dort Namen wie Ali Baba oder Aladdin. Jeder Himmelskörper hat sein eigenes Thema: Auf der Venus sind fast alle Strukturen nach Frauen benannt, Merkurkrater nach Künstlern, Musikern und Schriftstellern. Die Uranusmonde wiederum heißen nach Figuren von Shakespeare und Alexander Pope, etwa Miranda, Titania und Ariel.",
+          "hook": "Spalten namens „Tigerstreifen“",
+          "children": [
+            {
+              "id": "2026-10-26-2-1-0",
+              "title": "Eine Haarlocke am Himmel",
+              "text": "Die Uranusmonde Belinda und Umbriel stammen aus Alexander Popes Versepos „The Rape of the Lock“ von 1712. Es verarbeitet einen echten Skandal: Lord Petre hatte der jungen Arabella Fermor heimlich eine Haarlocke abgeschnitten, worauf sich zwei katholische Familien zerstritten. Pope sollte die Wogen glätten und schrieb ein spöttisches Heldenepos über den Streit. Am Ende steigt die geraubte Locke als Stern in den Himmel auf – heute kreist auch ihre Besitzerin dort, als Mond des Uranus.",
+              "hook": "nach Figuren von Shakespeare und Alexander Pope",
+              "children": [],
+              "source": {
+                "title": "The Rape of the Lock – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/The_Rape_of_the_Lock"
+              }
+            },
+            {
+              "id": "2026-10-26-2-1-1",
+              "title": "Ein Mann auf der Venus",
+              "text": "Die Ausnahmen auf der Venus sind älter als die Regel: Alpha Regio, Beta Regio und das Gebirge Maxwell Montes erhielten ihre Namen, bevor die IAU das Frauen-Thema festlegte. Maxwell Montes ehrt den schottischen Physiker James Clerk Maxwell, dessen Gleichungen elektromagnetische Wellen beschreiben. Passend, denn entdeckt wurde das Gebirge per Radar, weil dichte Wolken die Oberfläche verbergen. Mit rund elf Kilometern ist es der höchste Gipfel der Venus – ausgerechnet nach einem Mann benannt.",
+              "hook": "fast alle Strukturen nach Frauen benannt",
+              "children": []
+            },
+            {
+              "id": "2026-10-26-2-1-2",
+              "title": "Aladdins Pariser Herkunft",
+              "text": "Ausgerechnet Aladdin, Namensgeber eines Enceladus-Kraters, steht in keiner bekannten älteren arabischen Handschrift von Tausendundeiner Nacht. Der Franzose Antoine Galland nahm die Geschichte in seine Übersetzung auf, nachdem ihm der syrische Erzähler Hanna Diyab aus Aleppo sie 1709 in Paris vorgetragen hatte. Auch Ali Baba stammt aus dieser Quelle und gilt als sogenannte Waisengeschichte ohne gesicherte Vorlage. Und eines der berühmtesten Märchen des Orients spielt im Original nicht in Arabien, sondern in China.",
+              "hook": "Ali Baba oder Aladdin",
+              "children": [],
+              "source": {
+                "title": "Aladin – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Aladin"
+              }
+            }
+          ],
+          "source": {
+            "title": "Planetare Nomenklatur – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Planetare_Nomenklatur"
+          }
+        },
+        {
+          "id": "2026-10-26-2-2",
+          "title": "Ein Element aus Urin",
+          "text": "Phosphor, den Forscher im Material aus Enceladus fanden, wurde auf der Erde in Urin entdeckt: Um 1669 dampfte der Hamburger Alchemist Hennig Brand große Mengen davon ein, vermutlich auf der Suche nach dem Stein der Weisen. Übrig blieb eine Substanz, die im Dunkeln grünlich leuchtete. Ihr Name bedeutet auf Griechisch „Lichtträger“. Das Leuchten kommt daher, dass weißer Phosphor mit dem Sauerstoff der Luft reagiert. Es ist also Chemolumineszenz und keine Phosphoreszenz. Brand gilt als erster namentlich bekannter Entdecker eines chemischen Elements.",
+          "hook": "Salze, organische Moleküle und Phosphor",
+          "children": [
+            {
+              "id": "2026-10-26-2-2-0",
+              "title": "Newtons geheime Alchemie",
+              "text": "Den Stein der Weisen suchte jahrzehntelang auch Isaac Newton: Neben seiner Physik füllte er Manuskripte mit rund einer Million Wörtern über alchemistische Experimente und Rezepte. Lange war das kaum bekannt, bis seine Papiere 1936 bei Sotheby's in London versteigert wurden. Der Ökonom John Maynard Keynes trug danach einen großen Teil der alchemistischen Schriften zusammen. Nach der Lektüre urteilte er, Newton sei nicht der Erste des Zeitalters der Vernunft gewesen, sondern der letzte der Magier.",
+              "hook": "auf der Suche nach dem Stein der Weisen",
+              "children": [],
+              "source": {
+                "title": "Newton, the Last Magician – National Endowment for the Humanities",
+                "url": "https://www.neh.gov/humanities/2011/januaryfebruary/feature/newton-the-last-magician"
+              }
+            },
+            {
+              "id": "2026-10-26-2-2-1",
+              "title": "Blutspuren, die leuchten",
+              "text": "Chemolumineszenz nutzt auch die Kriminalistik: Die Substanz Luminol leuchtet blau, wenn sie mit Wasserstoffperoxid und einem Katalysator reagiert, etwa dem Eisen im Hämoglobin des Blutes. Der Gerichtsmediziner Walter Specht schlug 1937 in Jena vor, damit Blutspuren am Tatort sichtbar zu machen. Das Verfahren ist so empfindlich, dass es selbst weggewischte Spuren verrät. Allerdings bringt ausgerechnet Bleichmittel, mit dem Täter oft putzen, Luminol ebenfalls zum Leuchten.",
+              "hook": "Chemolumineszenz und keine Phosphoreszenz",
+              "children": [],
+              "source": {
+                "title": "Luminol – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Luminol"
+              }
+            },
+            {
+              "id": "2026-10-26-2-2-2",
+              "title": "Das Gift im Streichholz",
+              "text": "Weißer Phosphor steckte im 19. Jahrhundert in Streichholzköpfen, die sich an jeder rauen Fläche entzünden ließen. Arbeiterinnen atmeten die Dämpfe ein und erkrankten an Phosphornekrose, bei der der Kieferknochen abstirbt. 1888 streikten in London die Arbeiterinnen von Bryant & May, ein Meilenstein der Arbeiterbewegung. Die Lösung kam aus Schweden: Beim Sicherheitszündholz sitzt der weit weniger giftige rote Phosphor nicht im Kopf, sondern in der Reibfläche.",
+              "hook": "weißer Phosphor mit dem Sauerstoff",
+              "children": [],
+              "source": {
+                "title": "Streichholz – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Streichholz"
+              }
+            }
+          ],
+          "source": {
+            "title": "Phosphor – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Phosphor"
+          }
+        }
+      ],
+      "source": {
+        "title": "Enceladus (Mond) – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Enceladus_(Mond)"
+      }
+    }
+  ]
+}

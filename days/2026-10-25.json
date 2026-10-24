@@ -1,0 +1,448 @@
+{
+  "version": 1,
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-24T00:41:06.409Z",
+  "topics": [
+    {
+      "id": "2026-10-25-0",
+      "category": "technik",
+      "title": "Das Telharmonium",
+      "text": "Lange vor dem Radio ließ der Amerikaner Thaddeus Cahill Musik aus der Telefonleitung kommen. Sein Telharmonium erzeugte Töne mit rotierenden Generatoren, im Grunde elektrische Orgelpfeifen. Die zweite Version wog rund 200 Tonnen und füllte ab 1906 ein ganzes Stockwerk der Telharmonic Hall am Broadway in New York. Abonnenten wie Hotels und Restaurants hörten über das Telefonnetz Musik, doch die starken Signale störten andere Gespräche. Um 1914 war das Unternehmen pleite, und kein Exemplar ist erhalten.",
+      "children": [
+        {
+          "id": "2026-10-25-0-0",
+          "title": "Hammonds Tonräder",
+          "text": "Rotierende Generatoren kehrten 1935 im Möbelformat zurück, in der Orgel von Laurens Hammond. Eigentlich verkaufte Hammond elektrische Uhren. Der Synchronmotor, der sie antrieb, hielt nun rund 90 Tonräder auf exakter Drehzahl. Berühmt wurde das Modell B-3, das ab den 1950er-Jahren durch Organisten wie Jimmy Smith zum Klang des Soul-Jazz wurde. Meist kam ein Leslie-Lautsprecher dazu, dessen rotierendes Horn das typische Schweben erzeugt. Hammond selbst lehnte dieses Zubehör lange ab.",
+          "hook": "mit rotierenden Generatoren",
+          "children": [
+            {
+              "id": "2026-10-25-0-0-0",
+              "title": "Wenn Uhren Strom zählen",
+              "text": "Hammonds Uhren hatten kein Pendel. Sie zählten die Schwingungen des Wechselstroms aus der Steckdose. Solche Synchronuhren gehen deshalb nur so genau wie das Stromnetz, in Europa also im Takt von 50 Hertz, und Netzbetreiber gleichen kleine Abweichungen gezielt wieder aus. Anfang 2018 klappte das nicht: Wegen eines Streits zwischen Serbien und Kosovo fehlte im europäischen Verbundnetz wochenlang Energie. Herd- und Radiowecker in 25 Ländern Kontinentaleuropas gingen am Ende bis zu sechs Minuten nach.",
+              "hook": "Eigentlich verkaufte Hammond elektrische Uhren",
+              "children": [],
+              "source": {
+                "title": "Synchronuhr – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Synchronuhr"
+              }
+            },
+            {
+              "id": "2026-10-25-0-0-1",
+              "title": "Trompeter im Zug",
+              "text": "Das Schweben des Leslie-Lautsprechers ist der Doppler-Effekt: Kommt das Horn auf einen zu, klingt es höher, entfernt es sich, klingt es tiefer. Christian Doppler sagte das 1842 voraus. Der Niederländer Buys Ballot prüfte es 1845 bei Utrecht mit Trompetern auf einem fahrenden Zug, während Musiker mit absolutem Gehör am Gleis die Tonhöhe bestimmten. Doppler selbst wollte damit die Farben von Doppelsternen erklären. Damit lag er falsch, doch heute zeigt genau dieses Prinzip, dass ferne Galaxien sich von uns entfernen.",
+              "hook": "rotierendes Horn das typische Schweben",
+              "children": [],
+              "source": {
+                "title": "Doppler-Effekt – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Doppler-Effekt"
+              }
+            },
+            {
+              "id": "2026-10-25-0-0-2",
+              "title": "Jazz im Wohnzimmer",
+              "text": "Organisten wie Jimmy Smith nahmen ihre Platten für Blue Note ab 1956 bei Rudy Van Gelder auf, und zwar im Wohnzimmer seiner Eltern in Hackensack, New Jersey. Van Gelder arbeitete tagsüber als Optometrist und produzierte nebenbei Jazzgeschichte. Thelonious Monk benannte sogar ein Stück nach dem Ort. 1959 zog Van Gelder in ein eigenes Studio in Englewood Cliffs mit hoher Holzdecke um. Dort spielte John Coltrane 1964 „A Love Supreme“ ein.",
+              "hook": "Organisten wie Jimmy Smith",
+              "children": [],
+              "source": {
+                "title": "Rudy Van Gelder – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Rudy_Van_Gelder"
+              }
+            }
+          ],
+          "source": {
+            "title": "Hammondorgel – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Hammondorgel"
+          }
+        },
+        {
+          "id": "2026-10-25-0-1",
+          "title": "Muzak: Musik nach Plan",
+          "text": "Die Idee, Hotels und Restaurants über Leitungen mit Musik zu versorgen, überlebte das Telharmonium. Der US-General George Owen Squier, ein Pionier der Nachrichtentechnik, entwickelte ab etwa 1910 Verfahren, Signale über bestehende Leitungen zu schicken. Aus seiner Firma wurde 1934 Muzak, ein Kunstwort aus „Music“ und „Kodak“. Später verkaufte Muzak Musik als Mittel für mehr Arbeitsleistung: Bei der „Stimulus Progression“ wurde die Musik in Viertelstundenblöcken allmählich anregender.",
+          "hook": "Abonnenten wie Hotels und Restaurants",
+          "children": [
+            {
+              "id": "2026-10-25-0-1-0",
+              "title": "Kodak: ein Wort ohne Sinn",
+              "text": "Die zweite Hälfte von Muzak stammt von Kodak, und auch dieses Wort war frei erfunden. George Eastman ließ es 1888 als Marke eintragen. Er mochte den Buchstaben K, weil er ihn kräftig und prägnant fand, und wollte ein Wort, das in jeder Sprache gleich klingt. Ausgerechnet der Kodak-Ingenieur Steven Sasson baute 1975 die erste Digitalkamera, knapp vier Kilogramm schwer, die Schwarzweißbilder mit 0,01 Megapixeln auf eine Kassette schrieb. Kodak meldete 2012 Insolvenz an, besiegt von einer Technik aus dem eigenen Labor.",
+              "hook": "„Music“ und „Kodak“",
+              "children": [],
+              "source": {
+                "title": "Kodak – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kodak"
+              }
+            },
+            {
+              "id": "2026-10-25-0-1-1",
+              "title": "Der Hawthorne-Effekt",
+              "text": "Musik als Mittel für mehr Arbeitsleistung passte zu einer Idee, die damals viele Fabriken beschäftigte. In den Hawthorne-Werken von Western Electric bei Chicago untersuchten Forscher ab 1924, wie die Beleuchtung die Arbeit beeinflusst. Die Leistung stieg angeblich sogar dann, wenn das Licht gedimmt wurde. Daraus entstand der „Hawthorne-Effekt“: Wer weiß, dass er beobachtet wird, arbeitet anders. Als Ökonomen 2011 die wiederentdeckten Originaldaten neu auswerteten, fanden sie von dem berühmten Effekt allerdings deutlich weniger, als jahrzehntelang erzählt worden war.",
+              "hook": "Mittel für mehr Arbeitsleistung",
+              "children": [],
+              "source": {
+                "title": "Hawthorne-Effekt – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Hawthorne-Effekt"
+              }
+            },
+            {
+              "id": "2026-10-25-0-1-2",
+              "title": "Der General und die Wrights",
+              "text": "Der US-General George Owen Squier beschäftigte sich nicht nur mit Leitungen, sondern auch mit der Luftfahrt. Als Offizier des Signal Corps gehörte er 1908 in Fort Myer bei Washington zu dem Gremium, das das Flugzeug der Brüder Wright für die Armee prüfte, und flog dabei selbst als Passagier mit Orville Wright. Am 17. September nahm Orville den Leutnant Thomas Selfridge mit. Ein Propeller brach, und die Maschine stürzte ab. Selfridge war der erste Mensch, der beim Absturz eines Motorflugzeugs ums Leben kam.",
+              "hook": "US-General George Owen Squier",
+              "children": [],
+              "source": {
+                "title": "Thomas E. Selfridge – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Thomas_E._Selfridge"
+              }
+            }
+          ],
+          "source": {
+            "title": "Muzak (Marke) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Muzak_(Marke)"
+          }
+        },
+        {
+          "id": "2026-10-25-0-2",
+          "title": "Busonis Zukunftsmusik",
+          "text": "Zwar ist kein Exemplar erhalten, doch das Telharmonium wirkte über einen Zeitschriftenartikel in Europa nach. Der Komponist Ferruccio Busoni las 1906 in „McClure’s Magazine“ von Cahills Maschine. In seinem „Entwurf einer neuen Ästhetik der Tonkunst“ feierte er sie als Weg zu Tönen jenseits der zwölf Halbtöne. Er schlug Dritteltöne vor und sogar eine Teilung des Ganztons in sechs Stufen. Die Schrift begeisterte den jungen Edgard Varèse, der Busoni in Berlin kennenlernte und später ein Pionier der elektronischen Musik wurde.",
+          "hook": "kein Exemplar ist erhalten",
+          "children": [
+            {
+              "id": "2026-10-25-0-2-0",
+              "title": "Tarbell gegen Rockefeller",
+              "text": "In derselben Zeitschrift, in der Busoni von Cahill las, war kurz zuvor einer der folgenreichsten Texte des US-Journalismus erschienen. Von 1902 bis 1904 druckte „McClure’s“ Ida Tarbells Serie über die Standard Oil Company, eine akribische Abrechnung mit John D. Rockefellers Methoden. Theodore Roosevelt prägte 1906 für solche Reporter den spöttischen Begriff „Muckraker“, Mistwühler. 1911 ließ der Oberste Gerichtshof Standard Oil zerschlagen. Aus zwei Bruchstücken wurden später Exxon und Mobil, und die fusionierten 1999 wieder.",
+              "hook": "„McClure’s Magazine“",
+              "children": [],
+              "source": {
+                "title": "Ida Tarbell – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ida_Tarbell"
+              }
+            },
+            {
+              "id": "2026-10-25-0-2-1",
+              "title": "Der dreizehnte Ton",
+              "text": "Was Busoni theoretisch forderte, setzte der Mexikaner Julián Carrillo radikal um und nannte es „Sonido 13“, den dreizehnten Ton. Nach seiner eigenen Erzählung teilte er 1895 als junger Geiger die G-Saite mit einer Klinge und hörte zwischen G und A sechzehn verschiedene Töne. Er erfand eine Notenschrift aus Zahlen statt Notenköpfen und ließ beim deutschen Hersteller Sauter Klaviere bauen, die den Ganzton in bis zu sechzehn Stufen teilen. Damit stimmte er feiner, als Busoni es in seinem kühnsten Vorschlag gewagt hatte.",
+              "hook": "Tönen jenseits der zwölf Halbtöne",
+              "children": [],
+              "source": {
+                "title": "Sonido 13 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sonido_13"
+              }
+            },
+            {
+              "id": "2026-10-25-0-2-2",
+              "title": "Ein Gebäude als Instrument",
+              "text": "Rund fünfzig Jahre nach seiner Busoni-Lektüre bekam Edgard Varèse ein ganzes Gebäude für seine Klänge. Zur Weltausstellung 1958 in Brüssel baute Philips einen zeltartigen Pavillon nach einem Entwurf von Le Corbusier. Darin wanderte Varèses „Poème électronique“ über Hunderte Lautsprecher durch den Raum. Die geschwungene Form entwarf weitgehend Le Corbusiers Mitarbeiter Iannis Xenakis, ein Ingenieur, der selbst komponierte. Nach der Ausstellung wurde der Pavillon abgerissen: Die Musik blieb erhalten, ihr Instrument nicht.",
+              "hook": "den jungen Edgard Varèse",
+              "children": [],
+              "source": {
+                "title": "Philips Pavilion – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Philips_Pavilion"
+              }
+            }
+          ],
+          "source": {
+            "title": "Ferruccio Busoni – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Ferruccio_Busoni"
+          }
+        }
+      ],
+      "source": {
+        "title": "Telharmonium – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Telharmonium"
+      }
+    },
+    {
+      "id": "2026-10-25-1",
+      "category": "wissenschaft",
+      "title": "Shoemaker-Levy 9",
+      "text": "Im März 1993 entdeckten Carolyn und Eugene Shoemaker mit David Levy einen Kometen, der wie eine Perlenkette aussah. Bei einer nahen Passage 1992 hatte Jupiters Schwerkraft ihn in rund 20 Bruchstücke zerrissen. Im Juli 1994 stürzten sie nacheinander auf den Planeten – der erste direkt beobachtete Zusammenstoß zweier Himmelskörper im Sonnensystem. Fragment G hinterließ einen dunklen Fleck etwa von Erdgröße. Die Einschläge auf der erdabgewandten Seite sah die Raumsonde Galileo direkt, aus rund 240 Millionen Kilometern.",
+      "children": [
+        {
+          "id": "2026-10-25-1-0",
+          "title": "Die Todeszone der Monde",
+          "text": "Dass Jupiter den Kometen zerreißen konnte, erklärt eine Grenze, die der französische Astronom Édouard Roche 1848 berechnete. Innerhalb dieser Roche-Grenze sind die Gezeitenkräfte eines Planeten stärker als der Zusammenhalt eines lockeren Körpers. Die Ringe des Saturn liegen größtenteils in dieser Zone, weshalb sich ihr Material nie zu einem Mond verklumpen konnte. Dem Marsmond Phobos steht dieses Schicksal bevor: Er nähert sich dem Mars stetig und dürfte in etwa 30 bis 50 Millionen Jahren zerbrechen.",
+          "hook": "rund 20 Bruchstücke zerrissen",
+          "children": [
+            {
+              "id": "2026-10-25-1-0-0",
+              "title": "Algols verkehrte Sterne",
+              "text": "Édouard Roche untersuchte auch Doppelsterne. Nach ihm ist das Roche-Volumen benannt, der tropfenförmige Raum, in dem ein Stern sein Gas gerade noch festhält. Damit ließ sich das Algol-Paradoxon im Sternbild Perseus lösen: Dort ist der leichtere Stern weiter entwickelt als sein schwererer Partner, obwohl schwere Sterne eigentlich schneller altern. Des Rätsels Lösung: Der heute leichtere Stern war einst der schwerere. Er blähte sich über sein Roche-Volumen hinaus auf und gab so viel Gas an den Nachbarn ab, dass sich das Gewichtsverhältnis umkehrte.",
+              "hook": "Astronom Édouard Roche 1848 berechnete",
+              "children": [],
+              "source": {
+                "title": "Algolstern – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Algolstern"
+              }
+            },
+            {
+              "id": "2026-10-25-1-0-1",
+              "title": "Ringe mit Ablaufdatum",
+              "text": "Dass die Ringe des Saturn in der Roche-Zone liegen, heißt nicht, dass es sie für immer gibt. Bei ihren letzten Umläufen im Jahr 2017 maß die Sonde Cassini, dass ständig Ringmaterial als eisiger Regen in die Saturnatmosphäre fällt. Außerdem ergab sich eine Ringmasse von weniger als der Hälfte des kleinen Mondes Mimas. Viele Forschende schließen daraus, dass die Ringe geologisch jung sind, womöglich nur etwa 100 Millionen Jahre alt. Andere halten das für strittig. Haben die Ersten recht, dann sahen die frühesten Dinosaurier einen Saturn ohne Ringe.",
+              "hook": "Die Ringe des Saturn",
+              "children": [],
+              "source": {
+                "title": "Ringe des Saturn – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ringe_des_Saturn"
+              }
+            },
+            {
+              "id": "2026-10-25-1-0-2",
+              "title": "Swifts erfundene Monde",
+              "text": "Phobos wurde erst 1877 von Asaph Hall in Washington entdeckt. Sein größter Krater heißt Stickney, nach dem Mädchennamen von Halls Frau, die ihn zum Weitersuchen ermutigt haben soll. Schon 1726 beschrieb Jonathan Swift jedoch in „Gullivers Reisen“ zwei Marsmonde, die Astronomen der fliegenden Insel Laputa entdeckt hatten. Die beiden erfundenen Monde lagen in Abstand und Umlaufzeit sogar grob richtig. Deshalb tragen heute zwei Krater auf dem zweiten Marsmond Deimos die Namen Swift und Voltaire, denn auch Voltaire erwähnte 1752 zwei Marsmonde.",
+              "hook": "Dem Marsmond Phobos",
+              "children": [],
+              "source": {
+                "title": "Mars Moons: Facts – NASA",
+                "url": "https://science.nasa.gov/mars/moons/facts/"
+              }
+            }
+          ],
+          "source": {
+            "title": "Roche-Grenze – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Roche-Grenze"
+          }
+        },
+        {
+          "id": "2026-10-25-1-1",
+          "title": "Galileos klemmender Schirm",
+          "text": "Die Raumsonde Galileo, die 1994 die Einschläge auf Jupiter verfolgte, war bereits 1989 mit der Raumfähre Atlantis gestartet. Unterwegs ließ sich ihre schirmartige Hauptantenne nicht vollständig entfalten, und die Daten mussten über eine kleine Hilfsantenne zur Erde tröpfeln. Trotzdem fand Galileo Hinweise auf einen salzigen Ozean unter dem Eis des Mondes Europa. Um diesen nicht mit irdischen Mikroben zu verunreinigen, ließ die NASA die Sonde 2003 gezielt in Jupiter stürzen.",
+          "hook": "die Raumsonde Galileo",
+          "children": [
+            {
+              "id": "2026-10-25-1-1-0",
+              "title": "Atlantis, das Segelschiff",
+              "text": "Die Raumfähre Atlantis, die Galileo 1989 ins All brachte, ist nach einem Segelschiff benannt. Ihre Namensgeberin war die Atlantis, das erste Forschungsschiff der Woods Hole Oceanographic Institution in Massachusetts. Ab 1931 erforschte der Zweimaster rund drei Jahrzehnte lang Strömungen und Meeresboden des Atlantiks. Die Raumfähre flog 33 Missionen, darunter im Juli 2011 den allerletzten Flug des Shuttle-Programms. Die Ära der amerikanischen Raumfähren endete also unter dem Namen eines Schiffs, das vom Wind angetrieben wurde.",
+              "hook": "mit der Raumfähre Atlantis gestartet",
+              "children": [],
+              "source": {
+                "title": "Atlantis (Schiff, 1931) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Atlantis_(Schiff,_1931)"
+              }
+            },
+            {
+              "id": "2026-10-25-1-1-1",
+              "title": "Der Mann, der Europa taufte",
+              "text": "Den Namen des Mondes Europa hat nicht Galileo Galilei vergeben, sondern der fränkische Astronom Simon Marius aus Gunzenhausen, angeregt von Johannes Kepler. In seinem Werk „Mundus Iovialis“ von 1614 benannte er die vier großen Jupitermonde nach Geliebten des Zeus: Io, Europa, Ganymed und Kallisto. Marius gab an, die Monde fast zur selben Zeit wie Galileo entdeckt zu haben, und Galileo warf ihm deshalb Plagiat vor. Durchgesetzt haben sich trotzdem die Namen von Marius, allerdings erst im 20. Jahrhundert.",
+              "hook": "des Mondes Europa",
+              "children": [],
+              "source": {
+                "title": "Simon Marius – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Simon_Marius"
+              }
+            },
+            {
+              "id": "2026-10-25-1-1-2",
+              "title": "Blinde Passagiere vom Mond",
+              "text": "Die Sorge, irdische Mikroben könnten fremde Welten verunreinigen, hat eine bekannte Vorgeschichte. 1969 bauten die Apollo-12-Astronauten Pete Conrad und Alan Bean Teile der Kamera von Surveyor 3 ab, einer Sonde, die zweieinhalb Jahre zuvor auf dem Mond gelandet war. Im Labor fand man darin Bakterien der Art Streptococcus mitis und glaubte, sie hätten im Vakuum überlebt. Spätere Untersuchungen halten eine Verunreinigung nach der Rückkehr für wahrscheinlicher. Die angeblich zähesten Überlebenden auf dem Mond kamen also vermutlich erst auf der Erde dazu.",
+              "hook": "mit irdischen Mikroben zu verunreinigen",
+              "children": [],
+              "source": {
+                "title": "Reports of Streptococcus mitis on the Moon – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Reports_of_Streptococcus_mitis_on_the_Moon"
+              }
+            }
+          ],
+          "source": {
+            "title": "Galileo (Raumsonde) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Galileo_(Raumsonde)"
+          }
+        },
+        {
+          "id": "2026-10-25-1-2",
+          "title": "Begraben auf dem Mond",
+          "text": "Eugene Shoemaker, der Mitentdecker des Kometen, hatte schon um 1960 bewiesen, dass der Meteor Crater in Arizona von einem Einschlag stammt: Zusammen mit Edward Chao fand er dort Coesit, eine Quarzform, die nur unter enormem Druck entsteht. Sein Traum, selbst als Astronaut zum Mond zu fliegen, scheiterte an der Addison-Krankheit, also schulte er Apollo-Astronauten in Geologie. 1997 starb er bei einem Autounfall in Australien. Die Sonde Lunar Prospector brachte 1998 eine Kapsel mit seiner Asche zum Mond, wo sie 1999 aufschlug.",
+          "hook": "Carolyn und Eugene Shoemaker",
+          "children": [
+            {
+              "id": "2026-10-25-1-2-0",
+              "title": "Diamanten in der Kirchenmauer",
+              "text": "Mit demselben Coesit wiesen Shoemaker und Edward Chao 1960 nach, dass auch das Nördlinger Ries in Bayern ein Einschlagkrater ist. Der rund 25 Kilometer weite Kessel entstand vor etwa 15 Millionen Jahren, lange hatte man ihn für vulkanisch gehalten. Das beim Einschlag entstandene Gestein Suevit verbauten die Nördlinger jahrhundertelang, auch in ihrer St.-Georgs-Kirche. 1970 übten die Apollo-14-Astronauten im Ries Geologie, und im Suevit der Kirchenmauern stecken winzige Diamanten, die der Einschlag gepresst hat.",
+              "hook": "Coesit, eine Quarzform",
+              "children": [],
+              "source": {
+                "title": "Nördlinger Ries – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/N%C3%B6rdlinger_Ries"
+              }
+            },
+            {
+              "id": "2026-10-25-1-2-1",
+              "title": "Das Geheimnis des Präsidenten",
+              "text": "An der Addison-Krankheit, einer Schwäche der Nebennieren, litt auch ein berühmter Zeitgenosse Shoemakers: John F. Kennedy. Ärzte stellten sie 1947 bei einer Reise nach Großbritannien fest, danach hielt er sich mit Kortison am Leben. Im Wahlkampf 1960 stritt sein Lager die Diagnose ab. Erst Jahrzehnte nach seinem Tod bestätigten seine Krankenakten sie eindeutig. Ausgerechnet der Präsident, der 1961 die Mondlandung zum nationalen Ziel erklärte, hatte also dieselbe Krankheit, die Shoemaker den Flug zum Mond verwehrte.",
+              "hook": "scheiterte an der Addison-Krankheit",
+              "children": [],
+              "source": {
+                "title": "John F. Kennedy – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/John_F._Kennedy"
+              }
+            },
+            {
+              "id": "2026-10-25-1-2-2",
+              "title": "Der Entdecker fliegt zu Pluto",
+              "text": "Shoemaker war der erste Mensch, dessen Asche auf einem anderen Himmelskörper liegt. Ein anderer Astronom ist aber noch weiter gereist: Clyde Tombaugh, der 1930 Pluto entdeckt hatte. Ein Teil seiner Asche flog in einem kleinen Behälter an Bord der Sonde New Horizons, die im Januar 2006 startete. Im Juli 2015 flog sie an Pluto vorbei, inzwischen ist sie auf dem Weg aus dem Sonnensystem. Nur Monate nach dem Start hatte die Internationale Astronomische Union Pluto allerdings zum Zwergplaneten herabgestuft.",
+              "hook": "eine Kapsel mit seiner Asche",
+              "children": [],
+              "source": {
+                "title": "Clyde Tombaugh – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Clyde_Tombaugh"
+              }
+            }
+          ],
+          "source": {
+            "title": "Eugene Shoemaker – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Eugene_Shoemaker"
+          }
+        }
+      ],
+      "source": {
+        "title": "Shoemaker-Levy 9 – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Shoemaker-Levy_9"
+      }
+    },
+    {
+      "id": "2026-10-25-2",
+      "category": "kultur",
+      "title": "Happy Birthday to You",
+      "text": "Das wohl meistgesungene Lied der Welt begann als Morgengruß im Kindergarten. Die Schwestern Mildred und Patty Hill aus Louisville in Kentucky veröffentlichten die Melodie 1893 als „Good Morning to All“. Später beanspruchte der Musikverlag Warner/Chappell das Urheberrecht und nahm Schätzungen zufolge rund zwei Millionen Dollar im Jahr an Lizenzgebühren ein. Erst 2015 erklärte ein US-Bundesrichter diesen Anspruch für ungültig. In der EU ist das Lied seit 2017 gemeinfrei.",
+      "children": [
+        {
+          "id": "2026-10-25-2-0",
+          "title": "Fröbels Holzklötze",
+          "text": "Den Kindergarten, in dem die Hill-Schwestern ihr Morgenlied sangen, hatte ein Thüringer erfunden: Friedrich Fröbel gründete 1840 in Bad Blankenburg die Einrichtung und gab ihr ihren Namen. Herzstück waren seine „Spielgaben“, schlichte Holzkugeln, Würfel und Klötze, mit denen Kinder Formen erkunden sollten. Preußen verbot Kindergärten 1851 als angeblich gottlos und umstürzlerisch, erst 1860 fiel das Verbot. In den USA spielte der junge Frank Lloyd Wright mit Fröbels Klötzen und nannte sie später prägend für seine Architektur.",
+          "hook": "begann als Morgengruß im Kindergarten",
+          "children": [
+            {
+              "id": "2026-10-25-2-0-0",
+              "title": "Ein Hotel trotzt dem Beben",
+              "text": "Der Fröbel-Schüler Frank Lloyd Wright baute später auch in Japan: Sein Imperial Hotel in Tokio sollte am 1. September 1923 eröffnet werden, genau an dem Tag, an dem das Große Kantō-Erdbeben weite Teile der Stadt zerstörte. Das Hotel überstand das Beben weitgehend, und Wright vermarktete das als Beweis für seine Bauweise. 1968 wurde es trotzdem abgerissen. Die Eingangshalle steht heute wiederaufgebaut im Freilichtmuseum Meiji Mura bei Nagoya.",
+              "hook": "der junge Frank Lloyd Wright",
+              "children": [],
+              "source": {
+                "title": "Imperial Hotel (Tokio) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Imperial_Hotel_(Tokio)"
+              }
+            },
+            {
+              "id": "2026-10-25-2-0-1",
+              "title": "Bausteine eines Flugpioniers",
+              "text": "Wenige Kilometer von Bad Blankenburg entfernt, in Rudolstadt, entstand ab 1882 ein berühmter Nachfolger von Fröbels Klötzen: der Anker-Steinbaukasten. Die Steine aus Quarzsand, Kreide und Leinöl hatten die Brüder Otto und Gustav Lilienthal erfunden. Sie verkauften die Idee 1880 an den Unternehmer Friedrich Adolf Richter, der damit reich wurde, während sie selbst kaum etwas verdienten. Otto Lilienthal wandte sich danach dem Fliegen zu und wurde mit seinen Gleitflügen ab 1891 zum Flugpionier.",
+              "hook": "schlichte Holzkugeln, Würfel und Klötze",
+              "children": [],
+              "source": {
+                "title": "Anker-Steinbaukasten – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Anker-Steinbaukasten"
+              }
+            },
+            {
+              "id": "2026-10-25-2-0-2",
+              "title": "Der Kindergarten wandert aus",
+              "text": "Als Preußen die Kindergärten verbot, trugen deutsche Auswanderer die Idee über den Atlantik. Margarethe Schurz, die Fröbels Methode in Hamburg kennengelernt hatte, eröffnete 1856 in Watertown in Wisconsin den ersten Kindergarten der USA, natürlich auf Deutsch. Die Bostonerin Elizabeth Peabody begegnete ihr und gründete 1860 den ersten englischsprachigen Kindergarten. Das Wort reiste unübersetzt mit: „kindergarten“ steht bis heute so in englischen Wörterbüchern.",
+              "hook": "Preußen verbot Kindergärten 1851",
+              "children": [],
+              "source": {
+                "title": "Erster Kindergarten der Vereinigten Staaten – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Erster_Kindergarten_der_Vereinigten_Staaten"
+              }
+            }
+          ],
+          "source": {
+            "title": "Friedrich Fröbel – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Friedrich_Fr%C3%B6bel"
+          }
+        },
+        {
+          "id": "2026-10-25-2-1",
+          "title": "Das gestohlene Fahrrad",
+          "text": "In Louisville, der Heimatstadt der Hill-Schwestern, kam 1942 Cassius Clay zur Welt, der sich später Muhammad Ali nannte. Zum Boxen kam er mit zwölf Jahren, weil ihm sein Fahrrad gestohlen wurde: Der Polizist Joe Martin, bei dem er den Diebstahl meldete, leitete nebenbei eine Boxhalle. 1960 gewann Clay in Rom olympisches Gold im Halbschwergewicht. Er erzählte später, er habe die Medaille aus Wut über Rassismus in den Ohio geworfen. Das gilt als Legende. Bei den Spielen 1996 in Atlanta bekam er eine Ersatzmedaille.",
+          "hook": "aus Louisville in Kentucky",
+          "children": [
+            {
+              "id": "2026-10-25-2-1-0",
+              "title": "Der erste Cassius Clay",
+              "text": "Seinen Geburtsnamen verdankte Ali einem weißen Kentuckier: Cassius Marcellus Clay, Sohn eines der reichsten Sklavenhalter des Bundesstaats, wurde im 19. Jahrhundert zu einem der lautesten Gegner der Sklaverei im Süden. In Lexington gab er ab 1845 die Zeitung „The True American“ heraus und sicherte die Redaktion gegen wütende Mobs mit Kanonen. Abraham Lincoln schickte ihn später als Gesandten an den Zarenhof nach Russland. Ausgerechnet diesen Namen eines Kämpfers gegen die Sklaverei legte Ali 1964 ab, weil er ihn als Sklavennamen empfand.",
+              "hook": "sich später Muhammad Ali nannte",
+              "children": [],
+              "source": {
+                "title": "Cassius Marcellus Clay – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Cassius_Marcellus_Clay"
+              }
+            },
+            {
+              "id": "2026-10-25-2-1-1",
+              "title": "Barfuß durch Rom",
+              "text": "Bei denselben Spielen 1960 in Rom schrieb ein Läufer aus Äthiopien Geschichte: Abebe Bikila gewann den Marathon barfuß und wurde der erste schwarzafrikanische Olympiasieger. Das Rennen endete abends am Konstantinsbogen, die Strecke wurde von Fackeln beleuchtet. Seinen entscheidenden Antritt soll er nahe dem Obelisken von Aksum gesetzt haben, den Mussolinis Regime 1937 aus Äthiopien nach Rom geschafft hatte. Italien gab das Monument erst 2005 zurück, fast ein halbes Jahrhundert nach Bikilas Lauf.",
+              "hook": "1960 gewann Clay in Rom",
+              "children": [],
+              "source": {
+                "title": "Olympische Sommerspiele 1960/Leichtathletik – Marathon (Männer) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Olympische_Sommerspiele_1960/Leichtathletik_%E2%80%93_Marathon_(M%C3%A4nner)"
+              }
+            },
+            {
+              "id": "2026-10-25-2-1-2",
+              "title": "Ein Fluss für Kentucky",
+              "text": "Der Ohio, in dem Alis Medaille angeblich versank, ist der Grund dafür, dass es Louisville überhaupt gibt: An den Stromschnellen der Falls of the Ohio mussten Boote früher entladen werden, und so entstand dort 1778 eine Siedlung. Heute ragt an dieser Stelle ein rund 390 Millionen Jahre altes fossiles Korallenriff aus dem Flussbett. Kurios ist der Grenzverlauf: Die Staatsgrenze verläuft am Nordufer, der Fluss gehört also fast vollständig zu Kentucky. Die Legende von der versenkten Medaille spielt damit in jedem Fall auf Alis Heimatboden.",
+              "hook": "in den Ohio geworfen",
+              "children": [],
+              "source": {
+                "title": "Ohio River – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ohio_River"
+              }
+            }
+          ],
+          "source": {
+            "title": "Muhammad Ali – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Muhammad_Ali"
+          }
+        },
+        {
+          "id": "2026-10-25-2-2",
+          "title": "Micky Maus wird frei",
+          "text": "Gemeinfrei wurde das Lied in der EU, weil das Urheberrecht hier 70 Jahre nach dem Tod des Urhebers erlischt, und Patty Hill starb 1946. In den USA gelten für ältere Werke andere Fristen: Der Trickfilm „Steamboat Willie“ von 1928 mit einer frühen Micky Maus wurde erst am 1. Januar 2024 gemeinfrei. Dass es so lange dauerte, lag am Copyright Term Extension Act von 1998, den Kritiker spöttisch „Mickey Mouse Protection Act“ nannten. Frei ist allerdings nur diese frühe Micky, spätere Versionen und die Marke bleiben geschützt.",
+          "hook": "seit 2017 gemeinfrei",
+          "children": [
+            {
+              "id": "2026-10-25-2-2-0",
+              "title": "Sonny Bonos ewiges Erbe",
+              "text": "Das Gesetz von 1998 trägt offiziell den Namen eines Popstars: Sonny Bono, einst Teil des Duos Sonny & Cher, später Kongressabgeordneter für Kalifornien. Er starb Anfang 1998 bei einem Skiunfall, seine Witwe Mary Bono übernahm den Sitz und warb für das Gesetz. Der Jurist Lawrence Lessig focht es vor Gericht an, unterlag 2003 aber vor dem Supreme Court. Länger wirkte ein Projekt, das er schon 2001 mitgegründet hatte: Creative Commons, unter dessen Lizenzen heute Millionen Werke frei geteilt werden.",
+              "hook": "Copyright Term Extension Act von 1998",
+              "children": [],
+              "source": {
+                "title": "Copyright Term Extension Act – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Copyright_Term_Extension_Act"
+              }
+            },
+            {
+              "id": "2026-10-25-2-2-1",
+              "title": "Keatons fallendes Haus",
+              "text": "Der Titel „Steamboat Willie“ parodierte einen Kinohit desselben Jahres: Buster Keatons Stummfilm „Steamboat Bill, Jr.“. Darin stürzt während eines Sturms eine rund zwei Tonnen schwere Hausfassade auf Keaton, und er überlebt nur, weil er genau dort steht, wo ein offenes Fenster landet. Den Stunt drehte er selbst, mit wenigen Zentimetern Spielraum. Schon 1924 hatte er sich bei Dreharbeiten nach eigener Aussage einen Halswirbel gebrochen und es erst Jahre später bemerkt.",
+              "hook": "Der Trickfilm „Steamboat Willie“",
+              "children": [],
+              "source": {
+                "title": "Steamboat Bill, jr. – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Steamboat_Bill,_jr."
+              }
+            },
+            {
+              "id": "2026-10-25-2-2-2",
+              "title": "Das rote Dreieck Nr. 1",
+              "text": "Anders als das Urheberrecht kann eine Marke unbegrenzt geschützt bleiben, solange sie genutzt und verlängert wird. Als älteste eingetragene Marke Großbritanniens gilt das rote Dreieck der Brauerei Bass, registriert 1876 als Nummer 1. Der Legende nach verbrachte ein Angestellter die Nacht vor dem Amt, um als Erster an der Reihe zu sein. Wenige Jahre später malte Édouard Manet Bierflaschen mit dem Dreieck in sein Gemälde „Bar in den Folies-Bergère“.",
+              "hook": "die Marke bleiben geschützt",
+              "children": [],
+              "source": {
+                "title": "The red triangle that made history: celebrating 150 years of UK trade mark No. 1 – Intellectual Property Office Blog",
+                "url": "https://ipo.blog.gov.uk/2026/01/08/the-red-triangle-that-made-history-celebrating-150-years-of-uk-trade-mark-no-1/"
+              }
+            }
+          ],
+          "source": {
+            "title": "Micky Maus – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Micky_Maus"
+          }
+        }
+      ],
+      "source": {
+        "title": "Happy Birthday to You – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Happy_Birthday_to_You"
+      }
+    }
+  ]
+}
