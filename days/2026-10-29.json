@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T00:39:31.610Z",
+  "topics": [
+    {
+      "id": "2026-10-29-0",
+      "category": "natur",
+      "title": "Der Grönlandhai",
+      "text": "Der Grönlandhai lebt in den eiskalten Tiefen von Nordatlantik und Arktis und wächst nur etwa einen Zentimeter pro Jahr. 2016 datierte ein Team um den dänischen Biologen Julius Nielsen Proteine aus den Augenlinsen mit der Radiokarbonmethode. Das älteste untersuchte Tier war vermutlich rund 400 Jahre alt, damit gilt die Art als langlebigstes bekanntes Wirbeltier. Frisch ist sein Fleisch giftig, in Island wird es deshalb monatelang fermentiert und getrocknet und dann als Hákarl gegessen.",
+      "children": [
+        {
+          "id": "2026-10-29-0-0",
+          "title": "Der Bombenpuls",
+          "text": "Die Radiokarbonmethode ist bei jüngerem Gewebe besonders genau, weil oberirdische Atomwaffentests den Kohlenstoff-14-Gehalt der Atmosphäre bis Mitte der 1960er-Jahre fast verdoppelten. Nach dem Teststoppvertrag von 1963 sinkt der Wert wieder. Diesen Bombenpuls trägt alles in sich, was seither gewachsen ist. Am Karolinska-Institut in Stockholm datierte das Team um Kirsty Spalding damit menschliche Nervenzellen. 2013 berichtete es, dass im Hippocampus Erwachsener täglich rund 700 neue Neuronen pro Hirnhälfte entstehen.",
+          "hook": "mit der Radiokarbonmethode",
+          "children": [
+            {
+              "id": "2026-10-29-0-0-0",
+              "title": "Strahlende Milchzähne",
+              "text": "Bevor der Teststoppvertrag von 1963 zustande kam, sammelten Forscher in St. Louis Milchzähne von Kindern. Ab 1958 schickten Familien Hunderttausende Zähne ein, denn darin lagert sich radioaktives Strontium-90 aus dem Fallout ab, das der Körper wie Kalzium einbaut. Die Messungen zeigten, dass Kinder aus den frühen 1960er-Jahren ein Vielfaches mehr davon trugen als Kinder von 1950. Das floss in die Debatte um den Vertrag ein. 2001 tauchten in einem Lager der Washington University noch rund 85.000 nie untersuchte Zähne auf.",
+              "hook": "Teststoppvertrag von 1963",
+              "children": [],
+              "source": {
+                "title": "Baby Tooth Survey – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Baby_Tooth_Survey"
+              }
+            },
+            {
+              "id": "2026-10-29-0-0-1",
+              "title": "Der Preis fürs Stirnhirn",
+              "text": "Am Karolinska-Institut in Stockholm wählt die Nobelversammlung jedes Jahr die Preisträger für Physiologie oder Medizin aus. 1949 ging der Preis an den portugiesischen Neurologen Egas Moniz für die Leukotomie, bei der Nervenbahnen im Stirnhirn psychisch Kranker durchtrennt wurden. Der Eingriff wurde weltweit zehntausendfach vorgenommen und gilt heute als eines der dunkelsten Kapitel der Psychiatrie. Aberkannt wurde der Preis trotzdem nie, denn die Statuten der Nobelstiftung sehen das gar nicht vor.",
+              "hook": "Karolinska-Institut in Stockholm",
+              "children": [],
+              "source": {
+                "title": "António Egas Moniz – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ant%C3%B3nio_Egas_Moniz"
+              }
+            },
+            {
+              "id": "2026-10-29-0-0-2",
+              "title": "Londons Taxi-Gehirne",
+              "text": "Wie formbar der Hippocampus Erwachsener ist, zeigte die Neurowissenschaftlerin Eleanor Maguire vom University College London an Taxifahrern. Für ihre Lizenzprüfung „The Knowledge“ lernen sie über Jahre rund 25.000 Straßen im Umkreis von sechs Meilen um Charing Cross auswendig. Im Hirnscan war der hintere Teil ihres Hippocampus vergrößert, und zwar umso stärker, je länger sie schon fuhren. Busfahrer auf festen Linien zeigten diesen Effekt nicht. 2003 bekam Maguire für die Studie den Ig-Nobelpreis für Medizin.",
+              "hook": "im Hippocampus Erwachsener",
+              "children": [],
+              "source": {
+                "title": "Eleanor Maguire – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Eleanor_Maguire"
+              }
+            }
+          ],
+          "source": {
+            "title": "Kernwaffen-Effekt – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Kernwaffen-Effekt"
+          }
+        },
+        {
+          "id": "2026-10-29-0-1",
+          "title": "Ming, die uralte Muschel",
+          "text": "Das langlebigste Wirbeltier ist nicht das langlebigste Tier: Unter den Tieren, deren Alter sich genau bestimmen lässt, hält eine Islandmuschel den Rekord. 2006 holten Forscher der walisischen Bangor University das Exemplar vor der Nordküste Islands aus dem Meer, dabei starb die Muschel. Anhand der Wachstumsringe ihrer Schale schätzten sie das Alter zunächst auf etwa 405 Jahre. Sie benannten die Muschel nach der chinesischen Dynastie, in deren Zeit sie zu wachsen begann: Ming. Eine Nachzählung ergab 2013 sogar 507 Jahre.",
+          "hook": "als langlebigstes bekanntes Wirbeltier",
+          "children": [
+            {
+              "id": "2026-10-29-0-1-0",
+              "title": "Die Qualle ohne Alter",
+              "text": "Ming hält den Rekord nur unter Tieren, deren Alter sich genau bestimmen lässt. Bei manchen anderen ergibt die Frage kaum Sinn: Die winzige Qualle Turritopsis dohrnii kann sich bei Stress oder Verletzung in ein frühes Polypenstadium zurückverwandeln und dann erneut heranwachsen. Entdeckt wurde das in den 1980er-Jahren eher zufällig an Tieren aus dem Mittelmeer vor Rapallo, erstmals beschrieben 1992, genauer untersucht 1996. Theoretisch muss sie also nie an Altersschwäche sterben. In der Natur endet ihr Leben trotzdem meist früh, als Futter oder durch Krankheit.",
+              "hook": "deren Alter sich genau bestimmen lässt",
+              "children": [],
+              "source": {
+                "title": "Turritopsis dohrnii – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Turritopsis_dohrnii"
+              }
+            },
+            {
+              "id": "2026-10-29-0-1-1",
+              "title": "Prometheus, gefällt 1964",
+              "text": "Wachstumsringe zählt man nicht nur in Muschelschalen, sondern vor allem im Holz, und auch dort hat ein Rekord das Leben gekostet. 1964 ließ der Geograf Donald Currey am Wheeler Peak in Nevada eine Grannenkiefer fällen, um ihre Jahresringe zu zählen. Er kam auf 4.844 Ringe, eine Nachzählung ergab 4.862. Der später Prometheus genannte Baum war also wohl rund 4.900 Jahre alt. Als ältester damals bekannter Baum erkannt wurde er erst durch seinen Tod. Der Fall trug dazu bei, dass das Gebiet 1986 Teil des Great-Basin-Nationalparks wurde.",
+              "hook": "Wachstumsringe ihrer Schale",
+              "children": [],
+              "source": {
+                "title": "Prometheus (Baum) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Prometheus_(Baum)"
+              }
+            },
+            {
+              "id": "2026-10-29-0-1-2",
+              "title": "Die Giraffe des Kaisers",
+              "text": "Als Ming um 1500 zu wachsen begann, hatte die Ming-Dynastie schon Flotten bis nach Ostafrika geschickt. Unter Admiral Zheng He fuhren zwischen 1405 und 1433 sieben Expeditionen über den Indischen Ozean. Wie groß seine Schatzschiffe wirklich waren, ist bis heute umstritten. 1414 brachten Gesandte aus Bengalen eine Giraffe an den Kaiserhof, die wohl aus Malindi im heutigen Kenia stammte. Am Hof hielt man sie für ein Qilin, ein Glück bringendes Fabelwesen. Bis heute heißt die Giraffe auf Japanisch „kirin“, auf Koreanisch „girin“.",
+              "hook": "chinesischen Dynastie",
+              "children": [],
+              "source": {
+                "title": "Zheng He – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Zheng_He"
+              }
+            }
+          ],
+          "source": {
+            "title": "Ming (Muschel) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Ming_(Muschel)"
+          }
+        },
+        {
+          "id": "2026-10-29-0-2",
+          "title": "Þorrablót im Mittwinter",
+          "text": "Hákarl wird in Island vor allem im Mittwinter gegessen, beim Fest Þorrablót. Es ist nach dem altisländischen Monat Þorri benannt, der an einem Freitag Ende Januar beginnt und bis in den Februar reicht. Zum Þorramatur gehören in Molke eingelegte Widderhoden, gesengte Schafsköpfe namens Svið und dazu der Kümmelschnaps Brennivín. Die Tradition wirkt uralt, als Buffet populär wurde sie aber erst 1958 im Reykjavíker Restaurant Naustið.",
+          "hook": "dann als Hákarl gegessen",
+          "children": [
+            {
+              "id": "2026-10-29-0-2-0",
+              "title": "Island ohne Bier",
+              "text": "Brennivín wird erst seit 1935 legal in Island gebrannt, denn ab 1915 galt dort ein umfassendes Alkoholverbot. Schon 1922 musste das Land Wein wieder zulassen, weil Spanien, ein Hauptabnehmer von isländischem Salzfisch, mit hohen Zöllen drohte. Nach einer Volksabstimmung wurden auch Spirituosen erlaubt. Starkes Bier blieb aber verboten, weil Abstinenzler fürchteten, es verleite zum alltäglichen Trinken. Erst am 1. März 1989 fiel das Bierverbot. Bis heute feiern viele Isländer diesen Tag als Bjórdagurinn.",
+              "hook": "Kümmelschnaps Brennivín",
+              "children": [],
+              "source": {
+                "title": "Prohibition in Island – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Prohibition_in_Island"
+              }
+            },
+            {
+              "id": "2026-10-29-0-2-1",
+              "title": "Schafe, die vorangehen",
+              "text": "Für Svið nimmt man die Köpfe isländischer Schafe. Seit der Landnahme vor über tausend Jahren wurde diese Rasse kaum mit anderen gekreuzt. In ihr steckt eine weltweit einzigartige Linie: das Forystufé, das Leitschaf. Die schlanken, wachsamen Tiere führen die Herde durch Schnee und Flüsse. Alte Erzählungen berichten, dass sie Unwetter vorausahnten und sich dann weigerten, den Stall zu verlassen. Im Nordosten Islands hat diese Linie inzwischen sogar ein eigenes Museum.",
+              "hook": "gesengte Schafsköpfe namens Svið",
+              "children": [],
+              "source": {
+                "title": "Islandschaf – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Islandschaf"
+              }
+            },
+            {
+              "id": "2026-10-29-0-2-2",
+              "title": "Ein Jahr mit 364 Tagen",
+              "text": "Þorri gehört zu einem Kalender, den die Siedler im 10. Jahrhundert festlegten: zwölf Monate zu je 30 Tagen und dazu vier Zusatznächte, zusammen 364 Tage. Weil dieses Jahr gegenüber der Sonne jedes Jahr gut einen Tag verlor, schlug laut der Íslendingabók ein Mann namens Þorsteinn surtr eine regelmäßige Schaltwoche vor, den Sumarauki. Der Kalender kannte nur zwei Jahreszeiten, Winter und Sommer. Ein Rest davon ist heute noch Feiertag: Der „erste Sommertag“ fällt immer auf einen Donnerstag zwischen dem 19. und 25. April.",
+              "hook": "altisländischen Monat Þorri",
+              "children": [],
+              "source": {
+                "title": "Altisländischer Kalender – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Altisl%C3%A4ndischer_Kalender"
+              }
+            }
+          ],
+          "source": {
+            "title": "Þorrablót – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/%C3%9Eorrabl%C3%B3t"
+          }
+        }
+      ],
+      "source": {
+        "title": "Grönlandhai – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Gr%C3%B6nlandhai"
+      }
+    },
+    {
+      "id": "2026-10-29-1",
+      "category": "technik",
+      "title": "Der Jacquard-Webstuhl",
+      "text": "Der Lyoner Weber Joseph-Marie Jacquard stellte 1804 einen Webstuhl vor, der Muster über eine Kette gelochter Karten steuerte: Wo ein Loch war, wurde der Faden gehoben. Die Seidenweber in Lyon fürchteten um ihre Arbeit und wehrten sich heftig gegen die Maschine. Charles Babbage übernahm die Lochkarten später für seine Analytical Engine. Ein berühmtes, in Seide gewebtes Porträt Jacquards brauchte rund 24.000 Karten, und Babbage besaß selbst ein Exemplar.",
+      "children": [
+        {
+          "id": "2026-10-29-1-0",
+          "title": "Der Aufstand der Canuts",
+          "text": "Die Lyoner Seidenweber, die Canuts, bekamen ein eigenes Viertel: Auf dem Hügel der Croix-Rousse entstanden Häuser mit rund vier Meter hohen Räumen, damit die hohen Jacquard-Webstühle hineinpassten. Im November 1831 erhoben sie sich, weil die Fabrikanten einen vereinbarten Mindesttarif für ihre Stücklöhne nicht einhielten. Unter der Losung „Vivre libre en travaillant ou mourir en combattant“ hielten sie die Stadt einige Tage besetzt. Einen zweiten Aufstand im April 1834 schlug die Armee blutig nieder.",
+          "hook": "Die Seidenweber in Lyon fürchteten",
+          "children": [
+            {
+              "id": "2026-10-29-1-0-0",
+              "title": "Abkürzung durchs Haus",
+              "text": "Wer Seide vom Hügel der Croix-Rousse hinunter in die Stadt brachte, nahm oft eine Abkürzung mitten durch die Häuser: die Traboules, überdachte Gänge, die Hinterhöfe und Treppenhäuser miteinander verbinden. So sollen die kostbaren Stoffe auch bei Regen trocken geblieben sein. Die bekannteste ist die Cour des Voraces mit ihrem monumentalen offenen Treppenhaus. Benannt ist sie nach einer Gesellschaft von Canuts. Im Zweiten Weltkrieg entkamen Widerstandskämpfer durch dieses Labyrinth der Gestapo, und 1944 nannte de Gaulle Lyon die „Hauptstadt der Résistance“.",
+              "hook": "Hügel der Croix-Rousse",
+              "children": [],
+              "source": {
+                "title": "Traboule – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Traboule"
+              }
+            },
+            {
+              "id": "2026-10-29-1-0-1",
+              "title": "Der Kaiser kündigt die Loge",
+              "text": "Frei arbeiten oder kämpfend sterben: Vor dieser Wahl sahen sich 1844 auch die Weber im schlesischen Peterswaldau und Langenbielau. Sie wehrten sich gegen Hungerlöhne, bis preußisches Militär in die Menge schoss. Heinrich Heine schrieb darüber sein Weberlied, das zuerst in der Pariser Exilzeitung „Vorwärts!“ erschien, für die auch Karl Marx schrieb. Gerhart Hauptmann machte daraus später das Drama „Die Weber“. Nach der öffentlichen Premiere 1894 in Berlin kündigte Kaiser Wilhelm II. aus Protest seine Loge im Deutschen Theater.",
+              "hook": "Vivre libre en travaillant ou mourir",
+              "children": [],
+              "source": {
+                "title": "Die Weber – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Die_Weber"
+              }
+            },
+            {
+              "id": "2026-10-29-1-0-2",
+              "title": "Kasper mit Weberzopf",
+              "text": "Die berühmteste Lyoner Handpuppe ist selbst ein Canut: Guignol, um 1808 erfunden von Laurent Mourguet, der ursprünglich Seidenweber war. In den Wirren der Revolution verlor er seine Arbeit und zog als Zahnzieher über die Märkte, wobei er mit Puppen Kundschaft anlockte. Bald waren die Puppen gefragter als seine Zange, und Guignol verspottete in Lyoner Mundart Hausbesitzer und Gendarmen. Sein Name gelangte bis Paris: Ab 1897 schockierte dort das Théâtre du Grand-Guignol sein Publikum mit blutigen Horrorstücken.",
+              "hook": "Die Lyoner Seidenweber, die Canuts",
+              "children": [],
+              "source": {
+                "title": "Guignol – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Guignol"
+              }
+            }
+          ],
+          "source": {
+            "title": "Aufstand der Seidenweber in Lyon – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Aufstand_der_Seidenweber_in_Lyon"
+          }
+        },
+        {
+          "id": "2026-10-29-1-1",
+          "title": "Ada und die Anmerkung G",
+          "text": "Die Analytical Engine wurde nie gebaut, doch Ada Lovelace, die Tochter Lord Byrons, beschrieb 1843 genauer als jeder andere, was sie hätte leisten können. Sie übersetzte einen Aufsatz des italienischen Ingenieurs Luigi Menabrea und ergänzte ihn um Anmerkungen, die weit länger waren als das Original – je nach Zählung etwa zwei- bis dreimal so lang. In Anmerkung G steht ein Rechenplan für die Bernoulli-Zahlen, der oft als erstes Computerprogramm gilt. Wie viel davon auf Babbage selbst zurückgeht, ist bis heute umstritten.",
+          "hook": "für seine Analytical Engine",
+          "children": [
+            {
+              "id": "2026-10-29-1-1-0",
+              "title": "Der Vater und die Ludditen",
+              "text": "Ada Lovelaces Vater stand auf der anderen Seite des Maschinenzeitalters. Seine erste Rede im britischen Oberhaus hielt Lord Byron im Februar 1812, um die Ludditen zu verteidigen. Diese Textilarbeiter aus Nottinghamshire zerschlugen Strumpfwirkmaschinen, und ein neues Gesetz sollte darauf die Todesstrafe setzen. Byron schilderte die Not der Strumpfwirker, doch das Gesetz kam trotzdem durch. Seine Tochter sah er nach ihren ersten Lebenswochen nie wieder, und ausgerechnet sie wurde zur Vordenkerin der programmierbaren Maschine.",
+              "hook": "die Tochter Lord Byrons",
+              "children": [],
+              "source": {
+                "title": "Luddismus – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Luddismus"
+              }
+            },
+            {
+              "id": "2026-10-29-1-1-1",
+              "title": "Bernoullis falsche Spirale",
+              "text": "Die Bernoulli-Zahlen gehen auf den Basler Mathematiker Jakob Bernoulli zurück. Er beschrieb sie in seinem Werk „Ars Conjectandi“, das erst 1713 nach seinem Tod erschien. Mit ihnen lassen sich Summen von Potenzen leicht berechnen: Bernoulli rühmte sich, die Summe der zehnten Potenzen von 1 bis 1000 in wenigen Minuten ermittelt zu haben, eine 32-stellige Zahl. Für sein Grab wünschte er sich eine logarithmische Spirale. Der Steinmetz meißelte jedoch eine archimedische, und diese falsche Spirale ist im Basler Münster bis heute zu sehen.",
+              "hook": "die Bernoulli-Zahlen",
+              "children": [],
+              "source": {
+                "title": "Jakob I Bernoulli – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Jakob_I_Bernoulli"
+              }
+            },
+            {
+              "id": "2026-10-29-1-1-2",
+              "title": "Der Ingenieur als Premier",
+              "text": "Luigi Menabrea hatte Babbage 1840 in Turin über die Analytical Engine vortragen hören und fasste dessen Ideen danach auf Französisch zusammen. Der Militäringenieur aus Savoyen leitete später die Pioniertruppen bei der Belagerung von Gaeta (1860/61), einem der letzten Bollwerke des Königreichs beider Sizilien, und stieg zum General auf. Von 1867 bis 1869 war er Ministerpräsident Italiens. In der Geschichte der Informatik kennt man den einstigen Regierungschef trotzdem vor allem als den Mann, dessen Aufsatz von Ada Lovelaces Anmerkungen in den Schatten gestellt wurde.",
+              "hook": "Ingenieurs Luigi Menabrea",
+              "children": [],
+              "source": {
+                "title": "Luigi Federico Menabrea – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Luigi_Federico_Menabrea"
+              }
+            }
+          ],
+          "source": {
+            "title": "Ada Lovelace – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Ada_Lovelace"
+          }
+        },
+        {
+          "id": "2026-10-29-1-2",
+          "title": "Hollerith zählt Amerika",
+          "text": "Mit gelochten Karten wurde die US-Volkszählung von 1890 zur Maschinenarbeit: Herman Hollerith ließ die Angaben jedes Einwohners in Karten stanzen, die eine Maschine elektrisch auslas. Wo ein Loch war, tauchte ein Metallstift in ein Näpfchen mit Quecksilber, schloss einen Stromkreis und rückte ein Zählwerk weiter. Auf die Idee kam er nach eigener Aussage durch Zugschaffner, die Fahrkarten lochten. Seine Firma ging 1911 in einem Zusammenschluss auf, der sich ab 1924 IBM nannte.",
+          "hook": "eine Kette gelochter Karten",
+          "children": [
+            {
+              "id": "2026-10-29-1-2-0",
+              "title": "Verrückt wie ein Hutmacher",
+              "text": "Quecksilber steckte damals nicht nur in Holleriths Zählmaschinen, sondern auch in Hüten: Hutmacher machten Tierfelle mit Quecksilbernitrat filzbar. Die Dämpfe lösten Zittern, Reizbarkeit und krankhafte Scheu aus. In der Hutstadt Danbury in Connecticut nannte man das „Danbury shakes“. Ob Lewis Carrolls verrückter Hutmacher darauf anspielt, ist umstritten. Die Redewendung „mad as a hatter“ war jedenfalls schon vor „Alice im Wunderland“ verbreitet.",
+              "hook": "Näpfchen mit Quecksilber",
+              "children": [],
+              "source": {
+                "title": "Hutmachersyndrom – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Hutmachersyndrom"
+              }
+            },
+            {
+              "id": "2026-10-29-1-2-1",
+              "title": "Die verbrannte Zählung",
+              "text": "Ausgerechnet die US-Volkszählung von 1890, die erste mit Holleriths Maschinen, ist fast vollständig verloren. Im Januar 1921 brach im Keller des Handelsministeriums in Washington ein Feuer aus. Rauch und Löschwasser beschädigten die Originalbögen schwer. Bis auf Fragmente mit Angaben zu rund 6.000 Menschen wurden die Reste später vernichtet. Genehmigt wurde das 1933, fast zeitgleich mit der Grundsteinlegung für das Nationalarchiv.",
+              "hook": "US-Volkszählung von 1890",
+              "children": [],
+              "source": {
+                "title": "United States Census 1890 – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/United_States_Census_1890"
+              }
+            },
+            {
+              "id": "2026-10-29-1-2-2",
+              "title": "Edmondsons Pappfahrkarte",
+              "text": "Die Fahrkarten, die Zugschaffner damals lochten, waren oft Pappkärtchen nach dem System von Thomas Edmondson, einem Bahnhofsvorsteher in Nordengland. In den 1830er-Jahren ersetzte er handgeschriebene Scheine durch fortlaufend nummerierte Karten von etwa 57 mal 30 Millimetern. Dazu baute er eine Presse, die das Datum aufdruckte. Das Format eroberte Bahnen weltweit, in Deutschland als „Edmondsonsche Fahrkarte“. British Rail gab es erst um 1990 auf, manche Museumsbahnen verkaufen es bis heute.",
+              "hook": "Zugschaffner, die Fahrkarten lochten",
+              "children": [],
+              "source": {
+                "title": "Edmondsonsche Fahrkarte – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Edmondsonsche_Fahrkarte"
+              }
+            }
+          ],
+          "source": {
+            "title": "Herman Hollerith – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Herman_Hollerith"
+          }
+        }
+      ],
+      "source": {
+        "title": "Jacquardwebstuhl – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Jacquardwebstuhl"
+      }
+    },
+    {
+      "id": "2026-10-29-2",
+      "category": "orte",
+      "title": "Der Salar de Uyuni",
+      "text": "Der Salar de Uyuni im Südwesten Boliviens ist mit gut 10.000 Quadratkilometern die größte Salzpfanne der Erde und liegt auf rund 3.650 Metern Höhe. Er ist so eben, dass man ihn zur Kalibrierung von Höhenmessern auf Satelliten nutzt. Nach Regen verwandelt ihn eine dünne Wasserschicht in einen riesigen Spiegel. Unter der Kruste liegt Sole mit einem der größten Lithiumvorkommen der Welt, und am Rand bei Uyuni rosten ausgemusterte Dampflokomotiven auf einem Zugfriedhof.",
+      "children": [
+        {
+          "id": "2026-10-29-2-0",
+          "title": "Laserblick aus dem Orbit",
+          "text": "Schon der NASA-Satellit ICESat prüfte seine Lasermessungen über dem Salar. Sein Nachfolger ICESat-2 startete im September 2018 mit der letzten Delta-II-Rakete. Sein Instrument ATLAS feuert rund 10.000 grüne Laserpulse pro Sekunde, aufgeteilt in sechs Strahlen. Von den Billionen Photonen eines Pulses kehrt nur etwa ein Dutzend zurück. Deren Laufzeit reicht, um zu verfolgen, wie die Eisschilde Grönlands und der Antarktis schrumpfen.",
+          "hook": "Kalibrierung von Höhenmessern auf Satelliten",
+          "children": [
+            {
+              "id": "2026-10-29-2-0-0",
+              "title": "Die letzte Delta II",
+              "text": "Mit ICESat-2 endete im September 2018 die Geschichte der Delta II. Die Rakete war seit 1989 rund 155-mal geflogen, und ihr Stammbaum reicht bis zur Thor-Mittelstreckenrakete der 1950er-Jahre zurück. Sie brachte GPS-Satelliten, das Weltraumteleskop Kepler und 2003 die Marsrover Spirit und Opportunity ins All. Opportunity war für etwa 90 Marstage ausgelegt und fuhr fast 15 Jahre lang über 45 Kilometer weit. Im Juni 2018 verstummte er in einem Staubsturm, im selben Jahr, in dem seine Rakete zum letzten Mal flog.",
+              "hook": "mit der letzten Delta-II-Rakete",
+              "children": [],
+              "source": {
+                "title": "Delta II – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Delta_II"
+              }
+            },
+            {
+              "id": "2026-10-29-2-0-1",
+              "title": "Ein retuschierter Beweis",
+              "text": "Das Grün der ATLAS-Pulse entsteht auf einem Umweg: Ein Neodym-Laser erzeugt infrarotes Licht mit 1064 Nanometern, und ein Kristall verdoppelt die Frequenz, sodass grünes Licht mit 532 Nanometern herauskommt. Diesen Effekt wies Peter Franken 1961 an der University of Michigan erstmals nach, indem er Rubinlaserlicht durch Quarz schickte. Der Beweis war ein winziger Fleck auf einer Fotoplatte. Im gedruckten Fachartikel fehlt er allerdings: Bei der Zeitschrift hielt man ihn für Schmutz und retuschierte ihn weg.",
+              "hook": "grüne Laserpulse",
+              "children": [],
+              "source": {
+                "title": "Frequenzverdopplung – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Frequenzverdopplung"
+              }
+            },
+            {
+              "id": "2026-10-29-2-0-2",
+              "title": "Ein Photon vom Mond",
+              "text": "Noch schlechter ist die Ausbeute bei Lasermessungen zum Mond. Seit 1969 stehen dort Reflektoren von Apollo 11, 14 und 15 sowie von den sowjetischen Lunochod-Rovern. Das Observatorium Apache Point in New Mexico schickt rund 10^17 Photonen pro Puls los, und oft kommt davon nicht einmal eines zurück. Trotzdem zeigen die Messungen, dass sich der Mond jedes Jahr um etwa 3,8 Zentimeter von der Erde entfernt. Das ist ungefähr so schnell, wie unsere Fingernägel wachsen.",
+              "hook": "kehrt nur etwa ein Dutzend zurück",
+              "children": [],
+              "source": {
+                "title": "Lunar Laser Ranging – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Lunar_Laser_Ranging"
+              }
+            }
+          ],
+          "source": {
+            "title": "ICESat-2 – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/ICESat-2"
+          }
+        },
+        {
+          "id": "2026-10-29-2-1",
+          "title": "Lithium gegen die Manie",
+          "text": "Lithium aus Salzseen landet heute vor allem in Akkus, seine erste große Karriere machte es aber in der Psychiatrie. 1949 berichtete der australische Arzt John Cade, dass Lithiumsalze manische Patienten beruhigten. Auf die Spur hatten ihn Versuche mit Meerschweinchen gebracht. Bis heute ist Lithium ein Standardmittel gegen bipolare Störungen, verlangt aber Blutkontrollen, weil wirksame und giftige Dosis nah beieinanderliegen.",
+          "hook": "einem der größten Lithiumvorkommen der Welt",
+          "children": [
+            {
+              "id": "2026-10-29-2-1-0",
+              "title": "Ein Abendmahl mit Cuy",
+              "text": "Cades Versuchstiere stammen ursprünglich nicht aus dem Labor, sondern aus den Anden. Dort wurde das Meerschweinchen vor mehreren tausend Jahren domestiziert, und zwar als Fleischlieferant: In Peru isst man „Cuy“ bis heute, oft gegrillt an Festtagen. Nach Europa kam das Tier im 16. Jahrhundert auf spanischen Schiffen, was wohl das „Meer“ in seinem deutschen Namen erklärt. In der Kathedrale von Cusco hängt ein Abendmahlsgemälde aus dem 18. Jahrhundert, auf dem vor Jesus und den Jüngern ein gebratenes Meerschweinchen liegt.",
+              "hook": "Versuche mit Meerschweinchen",
+              "children": [],
+              "source": {
+                "title": "Hausmeerschweinchen – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Hausmeerschweinchen"
+              }
+            },
+            {
+              "id": "2026-10-29-2-1-1",
+              "title": "Nobelpreis mit 97",
+              "text": "Dass Lithium heute vor allem in Akkus steckt, geht auf eine Entwicklung zurück, die in den 1970er-Jahren ausgerechnet beim Ölkonzern Exxon begann. Dort baute Stanley Whittingham eine erste wiederaufladbare Lithiumzelle. John Goodenough fand 1980 ein besseres Kathodenmaterial, und Akira Yoshino entwickelte daraus eine sichere Bauform, die Sony 1991 auf den Markt brachte. 2019 erhielten die drei den Chemie-Nobelpreis, und Goodenough war mit 97 Jahren der älteste Nobelpreisträger aller Zeiten.",
+              "hook": "vor allem in Akkus",
+              "children": [],
+              "source": {
+                "title": "Lithium-Ionen-Akkumulator – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Lithium-Ionen-Akkumulator"
+              }
+            },
+            {
+              "id": "2026-10-29-2-1-2",
+              "title": "Die Limonade mit Lithium",
+              "text": "Wie dicht wirksame und giftige Dosis beieinanderliegen, zeigte sich 1949 in den USA: Herzkranke, die Lithiumchlorid als Kochsalzersatz verwendeten, erlitten schwere Vergiftungen, einige starben daran. Bis dahin hatte Lithium als Gesundheitsversprechen gegolten. Eine Limonade, die 1929 auf den Markt kam und oft als „Bib-Label Lithiated Lemon-Lime Soda“ bezeichnet wird, enthielt sogar Lithiumcitrat. Ende der 1940er-Jahre verschwand der Stoff aus der Rezeptur, und da hieß das Getränk längst 7 Up.",
+              "hook": "wirksame und giftige Dosis",
+              "children": [],
+              "source": {
+                "title": "7 Up – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/7_Up"
+              }
+            }
+          ],
+          "source": {
+            "title": "Lithiumtherapie – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Lithiumtherapie"
+          }
+        },
+        {
+          "id": "2026-10-29-2-2",
+          "title": "Eine Marine ohne Meer",
+          "text": "Die Lokomotiven zogen einst Erz zur Pazifikküste, etwa nach Antofagasta, das bis zum Salpeterkrieg von 1879 bis 1884 bolivianisch war. Mit der Niederlage gegen Chile verlor Bolivien seine gesamte Küste und wurde zum Binnenstaat. Trotzdem unterhält es eine Marine, die auf dem Titicacasee und auf Flüssen patrouilliert, und feiert jeden 23. März den „Tag des Meeres“. 2018 entschied der Internationale Gerichtshof, dass Chile nicht über einen Meerzugang verhandeln muss.",
+          "hook": "ausgemusterte Dampflokomotiven auf einem Zugfriedhof",
+          "children": [
+            {
+              "id": "2026-10-29-2-2-0",
+              "title": "Das weiße Gold der Atacama",
+              "text": "Im Salpeterkrieg ging es um Natriumnitrat aus der Atacama. Der Rohstoff war damals weltweit als Dünger und für Sprengstoff begehrt. Chile finanzierte über Jahrzehnte einen großen Teil seines Staatshaushalts mit Exportzöllen auf Salpeter. Dann gelang es Fritz Haber und Carl Bosch, Stickstoff aus der Luft zu binden, und ab 1913 produzierte BASF in Oppau Ammoniak in großem Maßstab. Der Boom brach zusammen. Salpeterstädte wie Humberstone verfielen zu Geisterstädten und sind heute UNESCO-Welterbe.",
+              "hook": "Salpeterkrieg von 1879 bis 1884",
+              "children": []
+            },
+            {
+              "id": "2026-10-29-2-2-1",
+              "title": "Ein Dampfer auf Maultieren",
+              "text": "Auf dem Titicacasee schwimmt seit 1870 ein Schiff, das in Einzelteilen über die Anden getragen wurde: die Yavari. Perus Regierung hatte das eiserne Kanonenboot in England bestellt. Tausende Teile wurden mit Maultieren und Trägern auf rund 3.800 Meter Höhe gebracht, was Jahre dauerte. Weil es dort oben an Kohle fehlte, soll der Kessel zeitweise mit getrocknetem Lamamist befeuert worden sein. Heute liegt die Yavari als Museumsschiff bei Puno und gilt als eines der ältesten noch schwimmenden Eisenschiffe der Welt.",
+              "hook": "auf dem Titicacasee",
+              "children": [],
+              "source": {
+                "title": "Yavari (ship) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Yavari_(ship)"
+              }
+            },
+            {
+              "id": "2026-10-29-2-2-2",
+              "title": "Ein Palast für den Frieden",
+              "text": "Der Internationale Gerichtshof tagt im Friedenspalast in Den Haag. Bezahlt hat den Bau der schottisch-amerikanische Stahlmagnat Andrew Carnegie mit 1,5 Millionen Dollar. Viele Staaten steuerten Geschenke bei, etwa Seidenwandteppiche aus Japan und große Cloisonné-Vasen aus China. Im Gebäude sitzen außerdem der Ständige Schiedshof und eine der bedeutendsten Bibliotheken zum Völkerrecht. Eröffnet wurde der Palast im August 1913, knapp ein Jahr vor Beginn des Ersten Weltkriegs.",
+              "hook": "Internationale Gerichtshof",
+              "children": [],
+              "source": {
+                "title": "Friedenspalast – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Friedenspalast"
+              }
+            }
+          ],
+          "source": {
+            "title": "Bolivian Navy – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bolivian_Navy"
+          }
+        }
+      ],
+      "source": {
+        "title": "Salar de Uyuni – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Salar_de_Uyuni"
+      }
+    }
+  ]
+}

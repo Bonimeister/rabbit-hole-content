@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-29T01:01:23.839Z",
+  "topics": [
+    {
+      "id": "2026-10-31-0",
+      "category": "wissenschaft",
+      "title": "Der Halloween-Asteroid",
+      "text": "Der Asteroid 2015 TB145 wurde erst am 10. Oktober 2015 vom Teleskop Pan-STARRS auf Hawaii entdeckt. Drei Wochen später, an Halloween, flog er in etwa 1,3-facher Mondentfernung an der Erde vorbei. Auf Radarbildern des Arecibo-Observatoriums sah der rund 600 Meter große Brocken aus wie ein Totenschädel. Weil er nur wenige Prozent des Sonnenlichts zurückwirft, halten ihn Fachleute für einen ausgebrannten Kometen, der sein Eis verloren hat.",
+      "children": [
+        {
+          "id": "2026-10-31-0-0",
+          "title": "Die Botschaft aus Arecibo",
+          "text": "Die Radarbilder kamen aus Puerto Rico, wo das Arecibo-Observatorium mit seiner 305-Meter-Schüssel in einer natürlichen Karstsenke jahrzehntelang das größte Radioteleskop seiner Art war. 1974 schickte man von dort die Arecibo-Botschaft ins All: 1679 Bits, die sich nur als Raster von 23 mal 73 Punkten sinnvoll anordnen lassen und unter anderem eine DNA-Doppelhelix zeigen. Ziel war der Kugelsternhaufen M13, rund 25.000 Lichtjahre entfernt. Am 1. Dezember 2020 stürzte die rund 900 Tonnen schwere Empfängerplattform nach Kabelrissen in die Schüssel.",
+          "hook": "Radarbildern des Arecibo-Observatoriums",
+          "children": [
+            {
+              "id": "2026-10-31-0-0-0",
+              "title": "Primzahlen als Geheimcode",
+              "text": "Die Zahl 1679 war mit Absicht gewählt: Sie ist das Produkt der Primzahlen 23 und 73. Ein Empfänger kann die Bits deshalb nur als 23 mal 73 oder als 73 mal 23 Punkte sinnvoll anordnen. Weil sich sehr große Zahlen dieser Art kaum wieder in ihre Faktoren zerlegen lassen, beruht darauf das RSA-Verfahren, das Rivest, Shamir und Adleman 1977 veröffentlichten und das bis heute Verbindungen im Netz absichert. Der Brite Clifford Cocks hatte die Idee allerdings schon 1973 beim Geheimdienst GCHQ entwickelt. Sie blieb ein Staatsgeheimnis, bis sie 1997 öffentlich gemacht wurde.",
+              "hook": "1679 Bits",
+              "children": [],
+              "source": {
+                "title": "RSA-Kryptosystem – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/RSA-Kryptosystem"
+              }
+            },
+            {
+              "id": "2026-10-31-0-0-1",
+              "title": "Die Liste der Nicht-Kometen",
+              "text": "Das Ziel M13 verdankt seinen Namen dem Katalog des Franzosen Charles Messier, der ab den 1760er-Jahren verwaschene Nebelflecken am Himmel verzeichnete. Messier jagte Kometen, und seine Liste sollte vor allem verhindern, dass man solche Objekte mit neuen Kometen verwechselte. M13 hielt er sogar für einen Nebel ohne einzelne Sterne. Entdeckt hatte den Haufen bereits 1714 Edmond Halley. Messier spürte mehr als ein Dutzend Kometen auf, berühmt wurde aber ausgerechnet seine Liste der Dinge, die er beim Suchen ignorieren wollte.",
+              "hook": "der Kugelsternhaufen M13",
+              "children": [],
+              "source": {
+                "title": "Messier-Katalog – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Messier-Katalog"
+              }
+            },
+            {
+              "id": "2026-10-31-0-0-2",
+              "title": "Das Dorf, das weichen musste",
+              "text": "Auch der Nachfolger im Rekord steht in einer Karstsenke: Das chinesische Teleskop FAST wurde in der Senke Dawodang in der Provinz Guizhou errichtet und 2016 fertiggestellt. Seine 500-Meter-Schüssel besteht aus rund 4.450 Paneelen. Motoren verstellen sie ständig, damit der jeweils genutzte Ausschnitt eine Parabel bildet. Um für Funkstille zu sorgen, wurden in der Umgebung rund 9.000 Menschen umgesiedelt. Wer heute das Besucherzentrum betritt, muss Handy und Kamera abgeben, weil schon schwache Funksignale die Messungen stören würden.",
+              "hook": "in einer natürlichen Karstsenke",
+              "children": [],
+              "source": {
+                "title": "FAST (Radioteleskop) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/FAST_(Radioteleskop)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Arecibo-Observatorium – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Arecibo-Observatorium"
+          }
+        },
+        {
+          "id": "2026-10-31-0-1",
+          "title": "Das Gesicht auf dem Mars",
+          "text": "Dass ein Felsbrocken wie ein Schädel wirkt, liegt an der Pareidolie: Unser Gehirn erkennt Gesichter, wo keine sind. Das berühmteste Beispiel fotografierte 1976 die Sonde Viking 1 in der Marsregion Cydonia, einen etwa drei Kilometer langen Tafelberg, der im Schattenwurf wie ein menschliches Antlitz aussah. Die NASA erklärte das schon damals als Spiel von Licht und Schatten, trotzdem befeuerte das Bild jahrzehntelang Spekulationen über eine Mars-Zivilisation. Erst hochauflösende Aufnahmen des Mars Global Surveyor ab 1998 zeigten einen gewöhnlichen, verwitterten Hügel.",
+          "hook": "aus wie ein Totenschädel",
+          "children": [
+            {
+              "id": "2026-10-31-0-1-0",
+              "title": "Jesus im Toastbrot",
+              "text": "Pareidolie lässt sich sogar im Labor messen: Ein Team um den Psychologen Kang Lee zeigte Versuchspersonen reines Bildrauschen und behauptete, darin sei ein Gesicht versteckt. In rund einem Drittel der Durchgänge sahen die Teilnehmer tatsächlich eines, und im Hirnscanner reagierte dabei ein Areal, das sonst echte Gesichter verarbeitet. Die 2014 veröffentlichte Studie trug den Titel „Seeing Jesus in toast“. Im selben Jahr bekam das Team dafür den Ig-Nobelpreis, der Forschung auszeichnet, die erst zum Lachen und dann zum Nachdenken bringt.",
+              "hook": "Pareidolie: Unser Gehirn erkennt Gesichter",
+              "children": [],
+              "source": {
+                "title": "Canadian-led 'Jesus in toast' study wins Ig Nobel Prize at Harvard – CTV News",
+                "url": "https://www.ctvnews.ca/lifestyle/article/canadian-led-jesus-in-toast-study-wins-ig-nobel-prize-at-harvard/"
+              }
+            },
+            {
+              "id": "2026-10-31-0-1-1",
+              "title": "Leben im Marsboden?",
+              "text": "Viking 1 sollte auf dem Mars nicht nur fotografieren: Ihr Landemodul setzte im Juli 1976 auf und suchte mit drei Biologie-Experimenten nach Mikroben. Beim „Labeled Release“-Versuch tropfte radioaktiv markierte Nährlösung auf Marsboden, und tatsächlich entwich markiertes Gas, als würde etwas die Nahrung verstoffwechseln. Die NASA deutete das Ergebnis schließlich als rein chemische Reaktion, zumal im Boden keine organischen Stoffe gefunden wurden. Versuchsleiter Gilbert Levin blieb jedoch bis zu seinem Tod 2021 überzeugt, damals Leben auf dem Mars nachgewiesen zu haben.",
+              "hook": "die Sonde Viking 1",
+              "children": [],
+              "source": {
+                "title": "Viking lander biological experiments – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Viking_lander_biological_experiments"
+              }
+            },
+            {
+              "id": "2026-10-31-0-1-2",
+              "title": "Vom Mars zur Marmelade",
+              "text": "Die Marsregion Cydonia ist nach einer antiken Stadt benannt: Kydonia lag an der Nordküste Kretas, an ihrer Stelle steht heute Chania. Nach antiker Überlieferung hat auch die Quitte von dort ihren Namen, denn die Griechen nannten sie „kydonischen Apfel“, und botanisch heißt sie bis heute Cydonia oblonga. Die Portugiesen nannten die Frucht marmelo und das daraus eingekochte Mus marmelada. Daraus wurde die Marmelade, die nach EU-Recht im Handel allerdings grundsätzlich nur so heißen darf, wenn sie aus Zitrusfrüchten besteht, also gerade nicht aus Quitten.",
+              "hook": "in der Marsregion Cydonia",
+              "children": [],
+              "source": {
+                "title": "Quitte – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Quitte"
+              }
+            }
+          ],
+          "source": {
+            "title": "Das Mars-Mysterium von Cydonia – ESA",
+            "url": "https://www.esa.int/Space_in_Member_States/Germany/Das_Mars-Mysterium_von_Cydonia"
+          }
+        },
+        {
+          "id": "2026-10-31-0-2",
+          "title": "Phaethon und die Geminiden",
+          "text": "Ein bekannter Grenzfall zwischen Komet und Asteroid ist (3200) Phaethon, 1983 in Daten des Infrarotsatelliten IRAS entdeckt. Er gilt als Ursprung der Geminiden, eines der stärksten Meteorschauer, der jedes Jahr Mitte Dezember seinen Höhepunkt erreicht, obwohl solche Staubspuren normalerweise von Kometen stammen. In Sonnennähe kommt Phaethon näher an die Sonne als Merkur und heizt sich auf mehrere hundert Grad auf. Ob er ein erloschener Komet ist oder ein „Felskomet“, dessen Gestein in der Hitze zerbröselt, ist umstritten. Die japanische Sonde DESTINY+ soll ihn besuchen.",
+          "hook": "einen ausgebrannten Kometen",
+          "children": [
+            {
+              "id": "2026-10-31-0-2-0",
+              "title": "Der Fehlalarm von IRAS",
+              "text": "IRAS, der Satellit, in dessen Daten Phaethon auftauchte, kartierte 1983 fast den ganzen Himmel im Infrarot, bis nach rund zehn Monaten sein Kühlmittel Helium verbraucht war. Ende 1983 berichtete die Washington Post über ein rätselhaftes Objekt in seinen Daten und spekulierte über einen unbekannten Riesenplaneten. Nachuntersuchungen zeigten: Es waren vor allem ferne Galaxien und dazu ein Schleier aus kaltem Staub in der Milchstraße. Der vermeintliche Planet geistert trotzdem bis heute durch Nibiru-Verschwörungstheorien.",
+              "hook": "in Daten des Infrarotsatelliten IRAS",
+              "children": [],
+              "source": {
+                "title": "Infrared Astronomical Satellite – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Infrared_Astronomical_Satellite"
+              }
+            },
+            {
+              "id": "2026-10-31-0-2-1",
+              "title": "Vulkan, der Geisterplanet",
+              "text": "Was näher an die Sonne kommt als Merkur, beschäftigte schon das 19. Jahrhundert: Damals vermutete man dort einen ganzen Planeten. Urbain Le Verrier, der Neptun rechnerisch vorhergesagt hatte, erklärte so 1859 eine winzige Abweichung in Merkurs Bahn; der hypothetische Planet erhielt den Namen Vulkan. Der Landarzt Edmond Lescarbault meldete, ihn vor der Sonnenscheibe gesehen zu haben, und wurde dafür in die Ehrenlegion aufgenommen. Erst Einsteins Relativitätstheorie erklärte 1915 die Abweichung – ganz ohne Vulkan.",
+              "hook": "näher an die Sonne als Merkur",
+              "children": [],
+              "source": {
+                "title": "Vulkan (Planet) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Vulkan_(Planet)"
+              }
+            },
+            {
+              "id": "2026-10-31-0-2-2",
+              "title": "Kastors sechs Sonnen",
+              "text": "Die Geminiden verdanken ihren Namen dem Sternbild Zwillinge, aus dem sie scheinbar hervorschießen, nahe dem hellen Stern Kastor. Was mit bloßem Auge wie ein einzelner Punkt aussieht, ist ein System aus sechs Sternen: drei Paare, die einander umkreisen. Sein Zwilling Pollux ist sogar heller, obwohl Kastor als Alpha der Zwillinge geführt wird. Dafür hat Pollux womöglich etwas, das Kastor fehlt: einen 2006 gemeldeten Gasriesen, mindestens gut doppelt so massereich wie Jupiter – wobei manche Studien das Signal eher der Aktivität des Sterns zuschreiben.",
+              "hook": "Ursprung der Geminiden",
+              "children": [],
+              "source": {
+                "title": "Castor (Stern) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Castor_(Stern)"
+              }
+            }
+          ],
+          "source": {
+            "title": "(3200) Phaethon – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/(3200)_Phaethon"
+          }
+        }
+      ],
+      "source": {
+        "title": "2015 TB145 – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/2015_TB145"
+      }
+    },
+    {
+      "id": "2026-10-31-1",
+      "category": "orte",
+      "title": "Kapuzinergruft Palermo",
+      "text": "Unter einem Kapuzinerkloster in Palermo liegen fast 2000 Tote (oft ist sogar von 8000 die Rede), viele davon bekleidet, aufrecht an den Wänden der Gänge aufgereiht. Ab dem späten 16. Jahrhundert trockneten die Mönche die Leichen in eigenen Kammern, den „Colatoi“, über Terrakotta-Rohren aus. Das berühmteste Kind ist Rosalia Lombardo, die 1920 im Alter von knapp zwei Jahren starb und vom Einbalsamierer Alfredo Salafia erstaunlich lebensecht konserviert wurde. Dass sie scheinbar die Augen öffnet, ist eine optische Täuschung durch wechselndes Licht.",
+      "children": [
+        {
+          "id": "2026-10-31-1-0",
+          "title": "Salafias verlorenes Rezept",
+          "text": "Alfredo Salafia nahm sein Verfahren mit ins Grab. Erst 2009 stieß der Anthropologe Dario Piombino-Mascali auf seine handschriftlichen Notizen: Formalin, Zinksalze, Alkohol, Salicylsäure und Glycerin. Formalin ist eine wässrige Lösung von Formaldehyd, das August Wilhelm von Hofmann 1867 eindeutig beschrieb. Dass es Gewebe hervorragend haltbar macht, bemerkte 1893 der Frankfurter Arzt Ferdinand Blum. Der Überlieferung nach fiel es ihm auf, weil die Haut an seinen Fingern hart wurde.",
+          "hook": "Einbalsamierer Alfredo Salafia",
+          "children": [
+            {
+              "id": "2026-10-31-1-0-0",
+              "title": "Violett statt Chinin",
+              "text": "Am Royal College of Chemistry in London lehrte August Wilhelm von Hofmann, und sein Schüler William Henry Perkin war gerade 18. In den Osterferien 1856 versuchte Perkin zu Hause, das Malariamittel Chinin künstlich herzustellen. Heraus kam ein schwarzer Schlamm, der einen leuchtend violetten Farbstoff enthielt: Mauvein. Perkin wurde damit Fabrikant und machte Violett zur Modefarbe. Synthetisches Chinin gelang erst 1944.",
+              "hook": "August Wilhelm von Hofmann",
+              "children": [],
+              "source": {
+                "title": "Mauveine – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Mauveine"
+              }
+            },
+            {
+              "id": "2026-10-31-1-0-1",
+              "title": "Der Chemiker, der kostete",
+              "text": "Glycerin entdeckte 1779 der in Stralsund geborene Apotheker Carl Wilhelm Scheele, als er Olivenöl mit Bleiglätte kochte und einen süßen Sirup erhielt, das „Ölsüß“. Den Sauerstoff fand er vermutlich vor Joseph Priestley, doch sein Buch erschien zu spät für den Ruhm. Scheele stellte auch Chlor und Blausäure her und notierte oft den Geschmack seiner Substanzen. Er starb 1786 mit 43 Jahren. Ob ihn seine Chemikalien vergiftet haben, ist unbewiesen.",
+              "hook": "Glycerin",
+              "children": [],
+              "source": {
+                "title": "Carl Wilhelm Scheele – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Carl_Wilhelm_Scheele"
+              }
+            },
+            {
+              "id": "2026-10-31-1-0-2",
+              "title": "Die Weide im Aspirin",
+              "text": "Die Salicylsäure hat ihren Namen von der Weide: Aus Salix-Rinde gewann man Salicin, und um 1860 gelang Hermann Kolbe die künstliche Herstellung der Säure. Sie senkte Fieber und linderte Schmerzen, reizte aber stark den Magen. 1897 stellte Felix Hoffmann bei Bayer die verträglichere Acetylsalicylsäure rein her, ab 1899 als Aspirin verkauft. Ob die Idee eigentlich von seinem jüdischen Vorgesetzten Arthur Eichengrün stammte, dessen Rolle in der NS-Zeit verschwiegen wurde, ist bis heute umstritten.",
+              "hook": "Salicylsäure",
+              "children": [],
+              "source": {
+                "title": "Acetylsalicylsäure – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Acetylsalicyls%C3%A4ure"
+              }
+            }
+          ],
+          "source": {
+            "title": "Alfredo Salafia – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Alfredo_Salafia"
+          }
+        },
+        {
+          "id": "2026-10-31-1-1",
+          "title": "Mönche, Kaffee und Affen",
+          "text": "Die Kapuziner verdanken ihren Namen der spitzen Kapuze, italienisch „cappuccio“, an ihrer braunen Kutte. 1528 erkannte Papst Clemens VII. diesen Reformzweig der Franziskaner an. Nach dem Ordensgewand sind auch die Kapuzineraffen Mittel- und Südamerikas benannt. In Wiener Kaffeehäusern hieß ein Kaffee mit einem Schuss Schlagobers „Kapuziner“. Er gilt als Vorläufer des Cappuccino, der seine heutige Form erst im 20. Jahrhundert mit den Espressomaschinen bekam.",
+          "hook": "einem Kapuzinerkloster in Palermo",
+          "children": [
+            {
+              "id": "2026-10-31-1-1-0",
+              "title": "Der Papst in der Engelsburg",
+              "text": "Clemens VII., der die Kapuziner 1528 anerkannte, hatte kurz davor das schlimmste Jahr seines Pontifikats erlebt. Im Mai 1527 stürmten meuternde Söldner Kaiser Karls V. Rom, und der Papst floh über den erhöhten Fluchtgang „Passetto“ in die Engelsburg. Am 6. Mai deckte die Schweizergarde seinen Rückzug, rund 150 der knapp 190 Gardisten fielen. Bis heute legen neue Gardisten ihren Eid jedes Jahr an genau diesem Tag ab.",
+              "hook": "erkannte Papst Clemens VII.",
+              "children": [],
+              "source": {
+                "title": "Sacco di Roma – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Sacco_di_Roma"
+              }
+            },
+            {
+              "id": "2026-10-31-1-1-1",
+              "title": "Steinzeit bei den Affen",
+              "text": "Die Kapuzineraffen tragen nicht nur einen Mönchsnamen, manche von ihnen haben sogar eine eigene Archäologie. Im brasilianischen Nationalpark Serra da Capivara knacken Rückenstreifen-Kapuziner Nüsse mit Steinen auf Ambossen, und Ausgrabungen belegen diese Tradition über rund 3000 Jahre. 2016 zeigten Forscher, dass die Affen außerdem Steine auf Steine schlagen und dabei unabsichtlich scharfkantige Splitter abplatzen. Sie ähneln den Werkzeugen früher Menschen so stark, dass Archäologen bei manchen alten Funden genauer prüfen müssen, wer sie hergestellt hat.",
+              "hook": "Kapuzineraffen Mittel- und Südamerikas",
+              "children": [],
+              "source": {
+                "title": "Rückenstreifen-Kapuziner – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/R%C3%BCckenstreifen-Kapuziner"
+              }
+            },
+            {
+              "id": "2026-10-31-1-1-2",
+              "title": "Das Bohnen-Märchen von 1683",
+              "text": "Zur Herkunft der Wiener Kaffeehäuser, in denen man den „Kapuziner“ bestellte, gibt es eine Legende: Nach der Türkenbelagerung 1683 soll der Kundschafter Georg Franz Kolschitzky erbeutete Kaffeesäcke erhalten und das erste Lokal eröffnet haben. Belegt ist anderes: Das erste Privileg zum Kaffeeausschank erhielt 1685 der Armenier Johannes Diodato. Nach Kolschitzky ist trotzdem eine Gasse benannt, nach Diodato nur ein Park. Seit 2011 steht die Wiener Kaffeehauskultur im österreichischen Verzeichnis des immateriellen Kulturerbes.",
+              "hook": "In Wiener Kaffeehäusern hieß",
+              "children": [],
+              "source": {
+                "title": "Wiener Kaffeehaus – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Wiener_Kaffeehaus"
+              }
+            }
+          ],
+          "source": {
+            "title": "Kapuziner – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Kapuziner"
+          }
+        },
+        {
+          "id": "2026-10-31-1-2",
+          "title": "Palermos Pestheilige",
+          "text": "Ihren Vornamen teilt Rosalia Lombardo mit der Schutzpatronin Palermos, der heiligen Rosalia, einer Einsiedlerin aus dem 12. Jahrhundert. Als 1624 die Pest wütete, fand man der Überlieferung nach ihre Gebeine in einer Grotte am Monte Pellegrino. Nachdem man sie in einer Prozession durch die Stadt getragen hatte, soll die Seuche abgeklungen sein. Goethe stieg 1787 zu dieser Grotte hinauf und beschrieb sie in der „Italienischen Reise“. Jeden Juli feiert Palermo noch heute das „Festino“.",
+          "hook": "Das berühmteste Kind ist Rosalia Lombardo",
+          "children": [
+            {
+              "id": "2026-10-31-1-2-0",
+              "title": "Goethe und der Hochstapler",
+              "text": "In Palermo interessierte sich Goethe 1787 nicht nur für die Heilige, sondern auch für einen berüchtigten Sohn der Stadt: Giuseppe Balsamo, der als „Graf Cagliostro“ durch Europas Salons zog. Unter einem Vorwand verschaffte sich Goethe Zutritt zu dessen verarmter Familie und schilderte den Besuch ausführlich. Cagliostro war in die Pariser Halsbandaffäre verwickelt, die Goethe 1791 in der Komödie „Der Groß-Cophta“ verarbeitete. Der Hochstapler starb 1795 als Gefangener der Inquisition in der Festung San Leo, in einer Zelle, in die man nur durch eine Falltür gelangte.",
+              "hook": "Goethe stieg 1787 zu dieser Grotte",
+              "children": [],
+              "source": {
+                "title": "Alessandro Cagliostro – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Alessandro_Cagliostro"
+              }
+            },
+            {
+              "id": "2026-10-31-1-2-1",
+              "title": "Van Dyck in der Pestfalle",
+              "text": "Als 1624 die Pest ausbrach, saß ein junger Flame in Palermo fest: Anthony van Dyck, der den Vizekönig Emanuele Filiberto von Savoyen porträtieren sollte. Sein Auftraggeber starb noch im selben Sommer an der Seuche. Van Dyck malte stattdessen mehrere Bilder der eben wiederentdeckten Rosalia und prägte damit, wie man sich die Pestheilige vorstellt. Ein Altarbild für Palermos Oratorio del Rosario vollendete er erst nach seiner Abreise in Genua. Es hängt bis heute an dem Ort, für den es bestimmt war.",
+              "hook": "Als 1624 die Pest wütete",
+              "children": []
+            },
+            {
+              "id": "2026-10-31-1-2-2",
+              "title": "Der Geologe und die Ziege",
+              "text": "Die Gebeine aus der Grotte bekamen im 19. Jahrhundert einen ungewöhnlichen Gutachter: Der Oxforder Geologe William Buckland soll sie bei einem Besuch in Palermo als Ziegenknochen erkannt haben. Überliefert ist das allerdings nur als Anekdote. Belegt ist dagegen, dass Buckland 1824 den Megalosaurus beschrieb, den ersten wissenschaftlich benannten Dinosaurier. Außerdem wollte er möglichst jedes Tier kosten. Der Legende nach aß er sogar das einbalsamierte Herz Ludwigs XIV.",
+              "hook": "ihre Gebeine in einer Grotte",
+              "children": [],
+              "source": {
+                "title": "William Buckland – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/William_Buckland"
+              }
+            }
+          ],
+          "source": {
+            "title": "Rosalia (Heilige) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Rosalia_(Heilige)"
+          }
+        }
+      ],
+      "source": {
+        "title": "Kapuzinergruft (Palermo) – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Kapuzinergruft_(Palermo)"
+      }
+    },
+    {
+      "id": "2026-10-31-2",
+      "category": "kultur",
+      "title": "Die Rübenlaterne",
+      "text": "Bevor der Kürbis zum Halloween-Symbol wurde, schnitzte man in Irland und Schottland Fratzen in ausgehöhlte Steckrüben. Dazu gehört die Legende vom geizigen Jack, der den Teufel überlistete und nun mit einem Stück Glut in einer Rübe umherirrt. „Jack-o'-lantern“ hieß im Englischen zuerst ein Mann mit Laterne, später auch Irrlichter über Mooren. In Nordamerika setzte sich im 19. Jahrhundert der größere, leichter zu schnitzende Kürbis durch – oft wird das irischen Einwanderern zugeschrieben.",
+      "children": [
+        {
+          "id": "2026-10-31-2-0",
+          "title": "Voltas brennendes Sumpfgas",
+          "text": "Für die Irrlichter über Mooren suchte die Wissenschaft lange eine natürliche Erklärung. 1776 stocherte Alessandro Volta am Lago Maggiore im Schlamm, fing aufsteigende Blasen auf und stellte fest, dass dieses Sumpfgas brennt. Damit hatte er Methan entdeckt. Später vermutete man eher Phosphan, das sich an der Luft von selbst entzünden kann. Im Labor ließen sich die Lichter aber nie überzeugend nachstellen, und seit die Moore trockengelegt werden, berichtet kaum noch jemand von ihnen.",
+          "hook": "Irrlichter über Mooren",
+          "children": [
+            {
+              "id": "2026-10-31-2-0-0",
+              "title": "Voltas künstlicher Rochen",
+              "text": "Berühmt wurde Alessandro Volta nicht durch das Sumpfgas, sondern durch eine Erfindung, die er einem Fisch abschaute. Zitterrochen erzeugen Stromschläge mit Organen aus gestapelten Zellen, und Volta stapelte um 1799 Scheiben aus Zink und Kupfer oder Silber mit salzgetränkter Pappe dazwischen. Im Bericht an die Royal Society nannte er seine Säule ein künstliches elektrisches Organ. Sie war die erste Batterie, die dauerhaft Strom lieferte, und ihr Vorbild schwimmt bis heute im Mittelmeer.",
+              "hook": "Alessandro Volta am Lago Maggiore",
+              "children": [],
+              "source": {
+                "title": "Voltasche Säule – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Voltasche_S%C3%A4ule"
+              }
+            },
+            {
+              "id": "2026-10-31-2-0-1",
+              "title": "Methanmeere auf Titan",
+              "text": "Das Methan, das Volta aus dem Schlamm auffing, bildet auf dem Saturnmond Titan ganze Meere. Bei rund minus 180 Grad ist es dort flüssig, regnet aus Wolken und füllt zusammen mit Ethan Becken wie das Ligeia Mare, das größer ist als der Obere See in Nordamerika. Die Sonde Cassini durchleuchtete es per Radar bis zum Grund, stellenweise rund 160 Meter tief. Damit ist Titan neben der Erde der einzige bekannte Himmelskörper mit stabilen Flüssigkeiten an der Oberfläche.",
+              "hook": "Damit hatte er Methan entdeckt",
+              "children": [],
+              "source": {
+                "title": "Methanseen auf Titan – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Methanseen_auf_Titan"
+              }
+            },
+            {
+              "id": "2026-10-31-2-0-2",
+              "title": "Das Leuchten aus dem Urin",
+              "text": "Phosphan ist eine Verbindung des Phosphors, und dessen Entdeckung begann mit Bergen von Urin. 1669 dampfte der Hamburger Hennig Brand große Mengen davon ein, weil er darin den Stein der Weisen vermutete. Heraus kam eine wachsartige Substanz, die im Dunkeln grünlich leuchtete und den Namen Phosphor erhielt, griechisch für Lichtträger. Ausgerechnet sein Leuchten ist jedoch keine Phosphoreszenz: Es entsteht, weil der Stoff langsam mit dem Sauerstoff der Luft reagiert.",
+              "hook": "Phosphan, das sich an der Luft",
+              "children": [],
+              "source": {
+                "title": "Hennig Brand – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Hennig_Brand"
+              }
+            }
+          ],
+          "source": {
+            "title": "Irrlicht – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Irrlicht"
+          }
+        },
+        {
+          "id": "2026-10-31-2-1",
+          "title": "Der Steckrübenwinter",
+          "text": "Die Steckrübe, in die man auf den Britischen Inseln Fratzen schnitzte, wurde in Deutschland zum Sinnbild des Hungers. Im Winter 1916/17 vernichtete die Kraut- und Knollenfäule große Teile der Kartoffelernte, gleichzeitig schnitt die britische Seeblockade die Importe ab. Im sogenannten Steckrübenwinter gab es Rübenbrot, Rübenmarmelade und Ersatzkaffee aus Rüben. Wie viele Menschen im ganzen Krieg an den Folgen der Unterernährung starben, ist umstritten, die Schätzungen gehen in die Hunderttausende.",
+          "hook": "ausgehöhlte Steckrüben",
+          "children": [
+            {
+              "id": "2026-10-31-2-1-0",
+              "title": "Die Brühe aus Bordeaux",
+              "text": "Gegen die Kraut- und Knollenfäule gab es damals schon ein Mittel, das im Weinbau entdeckt worden war. Winzer im Médoc bespritzten ihre Reben am Wegesrand mit einer blaugrünen Mischung aus Kupfersulfat und Kalk, damit Diebe die Trauben verschmähten. Der Botaniker Pierre-Marie-Alexis Millardet bemerkte, dass gerade diese Reben vom Falschen Mehltau verschont blieben, und publizierte 1885 das Rezept. Weil sich Kupfer im Boden anreichert, ist die Bordeauxbrühe heute umstritten – und im Ökolandbau trotzdem erlaubt.",
+              "hook": "Kraut- und Knollenfäule",
+              "children": [],
+              "source": {
+                "title": "Bordeauxbrühe – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bordeauxbr%C3%BChe"
+              }
+            },
+            {
+              "id": "2026-10-31-2-1-1",
+              "title": "Friedrichs Kaffeeriecher",
+              "text": "Ersatzkaffee war 1916 nichts Neues: Schon unter Friedrich dem Großen rösteten Preußen Zichorie, weil echter Kaffee teuer und unerwünscht war. 1781 machte der König das Kaffeerösten zum Staatsmonopol, um teure Importe einzudämmen. Ausgediente Soldaten zogen als sogenannte Kaffeeriecher durch die Straßen und schnüffelten nach verbotenem Röstduft. Die Bevölkerung verspottete die Spürnasen, und bald nach Friedrichs Tod wurde das Monopol wieder abgeschafft.",
+              "hook": "Ersatzkaffee aus Rüben",
+              "children": [],
+              "source": {
+                "title": "Kaffeeriecher – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kaffeeriecher"
+              }
+            },
+            {
+              "id": "2026-10-31-2-1-2",
+              "title": "Blockade ohne Krieg",
+              "text": "Die britische Seeblockade endete nicht mit dem Waffenstillstand vom 11. November 1918, sondern blieb noch Monate bestehen. Die Alliierten nutzten sie als Druckmittel, während in deutschen Städten weiter gehungert wurde. Erst ein Abkommen in Brüssel im März 1919 erlaubte Lebensmittellieferungen, im Gegenzug musste Deutschland seine Handelsflotte abgeben und mit Gold bezahlen. Aufgehoben wurde die Blockade erst im Juli 1919, wenige Tage nachdem Deutschland den Versailler Vertrag ratifiziert hatte.",
+              "hook": "die britische Seeblockade",
+              "children": [],
+              "source": {
+                "title": "Blockade of Germany (1914–1919) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Blockade_of_Germany_(1914%E2%80%931919)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Steckrübenwinter – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Steckr%C3%BCbenwinter"
+          }
+        },
+        {
+          "id": "2026-10-31-2-2",
+          "title": "Die Brücke des Teufels",
+          "text": "Ein Teufel, der überlistet wird, kommt in vielen Brückensagen vor. In der Schöllenenschlucht am Gotthard soll er den Urnern eine Brücke gebaut und als Lohn die erste Seele verlangt haben, die hinübergeht. Die Urner schickten einen Ziegenbock. Den riesigen Felsbrocken, den der Teufel aus Wut schleuderte, zeigt man bis heute als Teufelsstein bei Göschenen. In den 1970er-Jahren wurde er für den Bau der Autobahn um gut hundert Meter versetzt.",
+          "hook": "der den Teufel überlistete",
+          "children": [
+            {
+              "id": "2026-10-31-2-2-0",
+              "title": "Der Bock für Asasel",
+              "text": "Ein Ziegenbock, der stellvertretend für die Menschen büßen muss, hat ein biblisches Vorbild. Im Buch Levitikus wird am Versöhnungstag ein Bock symbolisch mit den Sünden des Volkes beladen und in die Wüste geschickt, „für Asasel“. William Tyndale deutete den rätselhaften Namen 1530 als „Ziege, die fortgeht“ und prägte damit das englische Wort „scapegoat“. Viele Forscher halten Asasel dagegen für einen Wüstendämon. Dann hätte man den ersten Sündenbock ausgerechnet einer Art Teufel geschickt.",
+              "hook": "Die Urner schickten einen Ziegenbock.",
+              "children": [],
+              "source": {
+                "title": "Asasel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Asasel"
+              }
+            },
+            {
+              "id": "2026-10-31-2-2-1",
+              "title": "Elfen im Straßenbau",
+              "text": "Auch in Island führt es manchmal zu Streit mit dem Übernatürlichen, wenn ein Felsbrocken einer Straße weichen muss. Im Lavafeld Gálgahraun bei Reykjavík protestierten ab 2013 Naturschützer und Elfengläubige gegen eine neue Straße. Ein Felsen, der als Elfenkirche gilt, wurde schließlich mit einem Kran an einen anderen Platz gehoben. Die Straßenbaubehörde betont, dass sie keinem Volksglauben folgt, nimmt aber Rücksicht auf Menschen, die daran glauben. In Umfragen schließt ein großer Teil der Isländer nicht aus, dass es Elfen gibt.",
+              "hook": "für den Bau der Autobahn",
+              "children": [],
+              "source": {
+                "title": "Aktivismus in Island – taz",
+                "url": "https://taz.de/Aktivismus-in-Island/!5034169/"
+              }
+            },
+            {
+              "id": "2026-10-31-2-2-2",
+              "title": "Russlands Kreuz im Fels",
+              "text": "Im Herbst 1799 kämpfte sich eine russische Armee unter Feldmarschall Alexander Suworow gegen französische Truppen durch die Schöllenenschlucht am Gotthard. Am Ort der Gefechte bei der Teufelsbrücke ließ das Zarenreich 1898 ein rund zwölf Meter hohes Kreuz in die Felswand meißeln. Das Grundstück dafür überließ die Korporation Ursern dem russischen Staat. So steht mitten in den Urner Alpen ein Denkmal auf russischem Besitz, an dem russische Diplomaten bis heute Kränze niederlegen.",
+              "hook": "Schöllenenschlucht am Gotthard",
+              "children": [],
+              "source": {
+                "title": "Suworow-Denkmal – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Suworow-Denkmal"
+              }
+            }
+          ],
+          "source": {
+            "title": "Die Teufelsbrücke in der Schöllenenschlucht – Bergwelten",
+            "url": "https://www.bergwelten.com/a/die-teufelsbruecke-in-der-schoellenenschlucht"
+          }
+        }
+      ],
+      "source": {
+        "title": "Jack O’Lantern – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Jack_O%E2%80%99Lantern"
+      }
+    }
+  ]
+}

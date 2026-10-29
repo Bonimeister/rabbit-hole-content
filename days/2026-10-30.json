@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-29T00:49:00.381Z",
+  "topics": [
+    {
+      "id": "2026-10-30-0",
+      "category": "geschichte",
+      "title": "Der Schweinekrieg",
+      "text": "1859 erschoss der US-Farmer Lyman Cutlar auf San Juan Island ein Schwein, das in seinem Kartoffelacker wühlte. Es gehörte der britischen Hudson's Bay Company. Weil die Grenze dort ungeklärt war, rückte Captain George Pickett mit US-Soldaten an, die Briten schickten Kriegsschiffe. Geschossen wurde nie wieder, stattdessen hielten beide Seiten die Insel rund zwölf Jahre gemeinsam besetzt. Entschieden hat den Streit 1872 der deutsche Kaiser Wilhelm I. als Schiedsrichter, zugunsten der USA.",
+      "children": [
+        {
+          "id": "2026-10-30-0-0",
+          "title": "Picketts verlorener Angriff",
+          "text": "Captain George Pickett verließ San Juan Island 1861, um für die Konföderierten zu kämpfen. Bekannt ist sein Name heute vor allem wegen einer Katastrophe. Am 3. Juli 1863 schickte General Robert E. Lee bei Gettysburg rund 12.500 Mann über fast anderthalb Kilometer offenes Feld gegen die Linien der Union. Mehr als die Hälfte wurde getötet, verwundet oder gefangen genommen. Der Angriff heißt bis heute „Pickett's Charge“, obwohl Pickett nur eine von drei beteiligten Divisionen führte.",
+          "hook": "Captain George Pickett",
+          "children": [
+            {
+              "id": "2026-10-30-0-0-0",
+              "title": "Ein Friedhof als Rache",
+              "text": "Robert E. Lee lebte vor dem Krieg in Arlington House bei Washington, dem Anwesen seiner Frau Mary Custis, einer Urenkelin von Martha Washington. Im Jahr 1864 ließ der Generalquartiermeister der Union, Montgomery Meigs, dort Gefallene begraben, und zwar mit Absicht dicht am Haus, damit die Familie Lee nie zurückkehren könnte. Lees Sohn klagte, und 1882 erklärte der Supreme Court die Beschlagnahme für rechtswidrig. Der Staat musste das Land für 150.000 Dollar zurückkaufen. Erst seit 1883 gehört ihm der Nationalfriedhof Arlington also rechtmäßig.",
+              "hook": "General Robert E. Lee",
+              "children": [],
+              "source": {
+                "title": "Nationalfriedhof Arlington – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Nationalfriedhof_Arlington"
+              }
+            },
+            {
+              "id": "2026-10-30-0-0-1",
+              "title": "Der Maler im Gemetzel",
+              "text": "Das offene Feld des Angriffs malte der Franzose Paul Philippoteaux 1883 als Rundbild, das in einer eigenen Rotunde rings um die Zuschauer verläuft. Für sein Gettysburg-Cyclorama ließ er vor Ort Panoramafotos anfertigen und befragte Veteranen. Das in Gettysburg ausgestellte Exemplar misst rund 115 Meter im Umfang und zeigt den Höhepunkt von Pickett's Charge an der Steinmauer. Mitten im Getümmel lehnt ein Unionsoffizier an einem Baum. Er trägt die Züge des Malers selbst.",
+              "hook": "über fast anderthalb Kilometer offenes Feld",
+              "children": [],
+              "source": {
+                "title": "Gettysburg Cyclorama – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Gettysburg_Cyclorama"
+              }
+            },
+            {
+              "id": "2026-10-30-0-0-2",
+              "title": "Der verfemte General",
+              "text": "Die drei Divisionen standen unter dem Befehl von General James Longstreet, der Lee den Angriff vergeblich ausreden wollte. Nach dem Krieg wurde er Republikaner und unterstützte die Rechte der befreiten Schwarzen. 1874 führte er in New Orleans Miliz und Polizei gegen die rassistische White League. Im Süden galt er danach als Verräter, und Autoren der „Lost Cause“-Legende machten ihn zum Sündenbock für Gettysburg. Ein Denkmal auf dem Schlachtfeld bekam er erst 1998.",
+              "hook": "eine von drei beteiligten Divisionen",
+              "children": [],
+              "source": {
+                "title": "James Longstreet – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/James_Longstreet"
+              }
+            }
+          ],
+          "source": {
+            "title": "Pickett's Charge – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pickett%27s_Charge"
+          }
+        },
+        {
+          "id": "2026-10-30-0-1",
+          "title": "Ein Reich aus Biberfell",
+          "text": "Die britische Hudson's Bay Company war 1859 schon fast 200 Jahre alt. König Karl II. hatte ihr 1670 per Charta das Gebiet rund um die Hudson Bay überlassen, benannt nach seinem Cousin Prinz Rupert. Dieses Rupertsland umfasste etwa 3,9 Millionen Quadratkilometer, gehandelt wurde dort vor allem mit Biberfellen, aus denen in Europa Filzhüte entstanden. 1870 ging das Land für 300.000 Pfund an das junge Kanada. Die Company wurde später zur Kaufhauskette und schloss 2025 ihre letzten Filialen.",
+          "hook": "der britischen Hudson's Bay Company",
+          "children": [
+            {
+              "id": "2026-10-30-0-1-0",
+              "title": "Verrückt wie ein Hutmacher",
+              "text": "Damit Biberhaar zu Filz wurde, bestrichen Hutmacher die Felle mit einer Quecksilberlösung. Die giftigen Dämpfe lösten Zittern, Reizbarkeit und Gedächtnisstörungen aus. In der US-Hutstadt Danbury in Connecticut nannte man das die „Danbury Shakes“. Die Redewendung „mad as a hatter“ war schon vor Lewis Carrolls Hutmacher geläufig. In den USA endete das Verfahren erst um 1941 nach Druck von Gesundheitsbehörde und Gewerkschaften. Dass das Militär das Quecksilber im Krieg für Zünder brauchte, soll dabei nachgeholfen haben.",
+              "hook": "aus denen in Europa Filzhüte entstanden",
+              "children": [],
+              "source": {
+                "title": "Hutmachersyndrom – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Hutmachersyndrom"
+              }
+            },
+            {
+              "id": "2026-10-30-0-1-1",
+              "title": "Der Prinz mit dem Pudel",
+              "text": "Prinz Rupert, der Namensgeber des Rupertslands, kam 1619 in Prag zur Welt, als Sohn des „Winterkönigs“ Friedrich von der Pfalz. Im Englischen Bürgerkrieg führte er die Reiterei seines Onkels Karl I. an. Dabei begleitete ihn sein Pudel Boy, den die gegnerische Propaganda zum Hexenhund erklärte. Bis heute trägt eine physikalische Kuriosität seinen Namen: Glastropfen, deren Kopf Hammerschläge übersteht, die aber zu Pulver zerspringen, wenn man ihr dünnes Schwänzchen abknickt. Auf Englisch heißen sie „Prince Rupert's Drops“.",
+              "hook": "benannt nach seinem Cousin Prinz Rupert",
+              "children": [],
+              "source": {
+                "title": "Ruprecht von der Pfalz, Duke of Cumberland – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ruprecht_von_der_Pfalz,_Duke_of_Cumberland"
+              }
+            },
+            {
+              "id": "2026-10-30-0-1-2",
+              "title": "Gehängt, dann Gründervater",
+              "text": "Beim Verkauf des Rupertslands fragte niemand die Menschen, die dort lebten, etwa die Métis am Red River. Ihr Anführer Louis Riel bildete 1869 eine provisorische Regierung und handelte Bedingungen aus, aus denen 1870 die Provinz Manitoba hervorging. 1885 führte er einen weiteren Aufstand an, wurde wegen Hochverrats verurteilt und in Regina gehängt. Heute ist er per Gesetz als Gründer Manitobas anerkannt, und die Provinz begeht jedes Jahr im Februar den Louis Riel Day als Feiertag.",
+              "hook": "für 300.000 Pfund an das junge",
+              "children": [],
+              "source": {
+                "title": "Louis Riel Day – Government of Manitoba",
+                "url": "https://www.gov.mb.ca/chc/louis_riel/index.html"
+              }
+            }
+          ],
+          "source": {
+            "title": "Hudson’s Bay Company – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Hudson%E2%80%99s_Bay_Company"
+          }
+        },
+        {
+          "id": "2026-10-30-0-2",
+          "title": "Schadenersatz in Gold",
+          "text": "Dass Kaiser Wilhelm I. als Schiedsrichter entschied, geht auf den Vertrag von Washington von 1871 zurück. Derselbe Vertrag gab auch einen viel teureren Streit an ein Schiedsgericht ab. Die USA verlangten von Großbritannien Schadenersatz vor allem für die CSS Alabama, ein in Birkenhead bei Liverpool gebautes Kriegsschiff der Konföderierten, das als Handelsstörer Dutzende Handelsschiffe der Union versenkt oder gekapert hatte. 1872 sprach ein Tribunal in Genf den USA 15,5 Millionen Dollar in Gold zu. Der Saal im Genfer Rathaus heißt bis heute „Salle de l'Alabama“.",
+          "hook": "Kaiser Wilhelm I. als Schiedsrichter",
+          "children": [
+            {
+              "id": "2026-10-30-0-2-0",
+              "title": "Ein Park für New York",
+              "text": "Birkenhead war nicht nur eine Werftstadt, sondern besaß auch einen Pionierpark: Der 1847 eröffnete Birkenhead Park gilt als einer der ersten öffentlich finanzierten Stadtparks der Welt. Entworfen hat ihn Joseph Paxton, der kurz darauf den Kristallpalast für die Londoner Weltausstellung baute. 1850 spazierte der junge Amerikaner Frederick Law Olmsted hindurch und war begeistert, dass der Park allen Bürgern offenstand. Einige Jahre später entwarf er mit Calvert Vaux den Central Park in New York.",
+              "hook": "in Birkenhead bei Liverpool gebautes",
+              "children": [],
+              "source": {
+                "title": "Birkenhead Park – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Birkenhead_Park"
+              }
+            },
+            {
+              "id": "2026-10-30-0-2-1",
+              "title": "Seeschlacht mit Publikum",
+              "text": "Die CSS Alabama endete am 19. Juni 1864 vor dem französischen Hafen Cherbourg, wo die USS Kearsarge der Union sie in rund einer Stunde versenkte. Tausende Schaulustige verfolgten das Gefecht von der Küste aus. Kapitän Raphael Semmes entkam auf einer englischen Jacht. Édouard Manet malte die Szene noch im selben Jahr, ob er selbst zugesehen hat, ist umstritten. Das Wrack fand ein Minenjäger der französischen Marine erst 1984, in rund 60 Metern Tiefe.",
+              "hook": "die CSS Alabama",
+              "children": [],
+              "source": {
+                "title": "Alabama (Schiff, 1862) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Alabama_(Schiff,_1862)"
+              }
+            },
+            {
+              "id": "2026-10-30-0-2-2",
+              "title": "Wiege der Genfer Konvention",
+              "text": "Seinen Namen verdankt der Saal dem Tribunal, Geschichte geschrieben hatte er aber schon acht Jahre zuvor: Am 22. August 1864 unterzeichneten dort zwölf Staaten die erste Genfer Konvention zum Schutz verwundeter Soldaten. Angestoßen hatte sie der Genfer Geschäftsmann Henry Dunant, der 1859 das Elend nach der Schlacht von Solferino miterlebt hatte. Später ging Dunant bankrott und verarmte. Als er 1901 den ersten Friedensnobelpreis erhielt, lebte er zurückgezogen im Bezirksspital des Appenzeller Dorfs Heiden.",
+              "hook": "„Salle de l'Alabama“",
+              "children": []
+            }
+          ],
+          "source": {
+            "title": "Alabamafrage – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Alabamafrage"
+          }
+        }
+      ],
+      "source": {
+        "title": "Schweinekonflikt – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Schweinekonflikt"
+      }
+    },
+    {
+      "id": "2026-10-30-1",
+      "category": "technik",
+      "title": "Die Berliner Rohrpost",
+      "text": "Ab 1865 schoss Berlin Telegramme und Briefe mit Druckluft durch unterirdische Röhren, zuerst zwischen dem Haupttelegrafenamt und der Börse. Das Netz wuchs auf Hunderte Kilometer, und die Sendungen reisten in Metallbüchsen schneller von Postamt zu Postamt als jeder Bote durch den Stadtverkehr. Die Teilung der Stadt zerschnitt auch die Röhren: West-Berlin stellte den Betrieb 1963 ein, Ost-Berlin erst 1976. In Prag lief ein ähnliches System sogar bis zum Hochwasser von 2002.",
+      "children": [
+        {
+          "id": "2026-10-30-1-0",
+          "title": "Berlins Geisterbahnhöfe",
+          "text": "Die Teilung Berlins zerschnitt nicht nur die Rohrpost, sondern auch die U-Bahn, allerdings auf bizarre Weise. Die West-Berliner Linien U6 und U8 sowie die S-Bahn im Nord-Süd-Tunnel fuhren unter Ost-Berlin hindurch, ohne Halt vorbei an abgesperrten, schwach beleuchteten „Geisterbahnhöfen“ mit bewaffneten DDR-Posten. Nur U6 und S-Bahn hielten im Bahnhof Friedrichstraße, einem Grenzübergang mit eigenem Intershop. Nach dem Mauerfall 1989 wurden die stillgelegten Stationen nach und nach wieder geöffnet.",
+          "hook": "Die Teilung der Stadt zerschnitt auch die Röhren",
+          "children": [
+            {
+              "id": "2026-10-30-1-0-0",
+              "title": "Westware gegen Devisen",
+              "text": "Der Intershop im Bahnhof Friedrichstraße gehörte zu einer DDR-Ladenkette, die ab 1962 Westwaren wie Kaffee, Zigaretten und Jeans nur gegen harte Währung verkaufte. Der Staat brauchte dringend Devisen. Als DDR-Bürger ab 1974 legal Westgeld besitzen durften, wurden die Läden auch für sie zum Sehnsuchtsort. 1979 mussten sie ihr Westgeld dann in sogenannte Forumschecks umtauschen. Der Name überlebte die DDR: Ein 1992 in Jena gegründetes Softwareunternehmen für Onlineshops nannte sich bewusst Intershop.",
+              "hook": "mit eigenem Intershop",
+              "children": [],
+              "source": {
+                "title": "Intershop (Handel) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Intershop_(Handel)"
+              }
+            },
+            {
+              "id": "2026-10-30-1-0-1",
+              "title": "Der Palast der Tränen",
+              "text": "Wer am Grenzübergang Bahnhof Friedrichstraße zurück in den Westen reiste, verabschiedete sich ab 1962 in einer Abfertigungshalle aus Glas und Stahl von seinen Angehörigen. Die Berliner tauften sie bald „Tränenpalast“, weil sich davor so viele Familien unter Tränen trennten. Drinnen wurden Pässe kontrolliert und Gepäck durchsucht, oft unter Aufsicht der Stasi. Nach der Wende fanden dort Konzerte und Partys statt. Seit 2011 ist der Bau ein Museum über die deutsche Teilung, und der Eintritt ist frei.",
+              "hook": "Bahnhof Friedrichstraße, einem Grenzübergang",
+              "children": [],
+              "source": {
+                "title": "Tränenpalast Berlin – Stiftung Haus der Geschichte",
+                "url": "https://www.hdg.de/traenenpalast"
+              }
+            },
+            {
+              "id": "2026-10-30-1-0-2",
+              "title": "Wasser im Tunnel",
+              "text": "Der Nord-Süd-Tunnel der S-Bahn entstand in den 1930er-Jahren: Das erste Stück ging 1936 kurz vor den Olympischen Spielen in Betrieb. Am 2. Mai 1945, in den letzten Kriegstagen, wurde die Tunneldecke unter dem Landwehrkanal gesprengt. Oft wird die SS verdächtigt, sicher geklärt ist das nicht. Das Wasser flutete den Tunnel und Teile der U-Bahn, in denen viele Menschen Schutz gesucht hatten. Legenden sprachen lange von Tausenden Toten, Historiker gehen heute von deutlich weniger aus. Die genaue Zahl wird wohl nie bekannt werden.",
+              "hook": "die S-Bahn im Nord-Süd-Tunnel",
+              "children": [],
+              "source": {
+                "title": "Berliner Nordsüd-S-Bahn – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Berliner_Nords%C3%BCd-S-Bahn"
+              }
+            }
+          ],
+          "source": {
+            "title": "Geisterbahnhof – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Geisterbahnhof"
+          }
+        },
+        {
+          "id": "2026-10-30-1-1",
+          "title": "Reuters Brieftauben",
+          "text": "Dass die erste Rohrpostlinie an der Börse endete, war kein Zufall, denn im Handel konnte ein Vorsprung von Minuten viel Geld wert sein. Das wusste auch Paul Julius Reuter, der 1816 in Kassel als Israel Beer Josaphat geboren wurde. Um 1850 überbrückte er mit Brieftauben eine Lücke im Telegrafennetz zwischen Aachen und Brüssel und lieferte Börsenkurse Stunden vor der Eisenbahn. 1851 eröffnete er in London ein Büro in der Nähe der Börse und legte damit den Grundstein für die Nachrichtenagentur Reuters.",
+          "hook": "dem Haupttelegrafenamt und der Börse",
+          "children": [
+            {
+              "id": "2026-10-30-1-1-0",
+              "title": "Die Taube mit Kamera",
+              "text": "Brieftauben trugen bald nicht nur Börsenkurse, sondern auch Kameras. Julius Neubronner, Apotheker in Kronberg im Taunus, verschickte Rezepte per Taube. Um 1907 schnallte er den Tieren winzige Apparate mit Zeitauslöser vor die Brust und ließ die Erfindung patentieren. Seine Luftbilder, auf denen manchmal ein Flügel ins Bild ragt, waren 1909 auf der Photographischen Ausstellung in Dresden eine Attraktion. Die Idee hielt sich lange: Noch in den 1970er-Jahren testete die CIA Taubenkameras für Spionageflüge.",
+              "hook": "mit Brieftauben eine Lücke",
+              "children": [],
+              "source": {
+                "title": "Brieftaubenfotografie – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Brieftaubenfotografie"
+              }
+            },
+            {
+              "id": "2026-10-30-1-1-1",
+              "title": "Die Märchenfrau von Kassel",
+              "text": "Im Kassel, in dem Reuter 1816 zur Welt kam, arbeiteten damals auch Jacob und Wilhelm Grimm an ihren Kinder- und Hausmärchen. Eine ihrer wichtigsten Quellen war Dorothea Viehmann, Frau eines Schneiders aus dem nahen Niederzwehren, von der Dutzende Märchen und Varianten stammen. Die Brüder lobten sie dafür, dass sie ihre Geschichten Wort für Wort gleich wiederholen konnte. Ausgerechnet diese Kronzeugin deutscher Volksüberlieferung kam aber aus einer Hugenottenfamilie, und manche ihrer Märchen hatten französische Wurzeln.",
+              "hook": "1816 in Kassel",
+              "children": [],
+              "source": {
+                "title": "Dorothea Viehmann – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dorothea_Viehmann"
+              }
+            },
+            {
+              "id": "2026-10-30-1-1-2",
+              "title": "Der Hack am Signalmast",
+              "text": "Lange bevor es Lücken in elektrischen Leitungen gab, besaß Frankreich ein optisches Telegrafennetz aus Signalmasten nach dem System von Claude Chappe. In den 1830er-Jahren bestachen die Zwillinge François und Joseph Blanc Telegrafisten bei Tours. Die bauten gezielte Fehler in Regierungsdepeschen ein, an denen man in Bordeaux den Kurs der Pariser Staatsanleihen ablesen konnte. Als der Betrug 1836 aufflog, fehlte ein Gesetz, nach dem man die beiden verurteilen konnte. Sie kamen frei, und der Fall gilt manchen heute als erster Cyberangriff.",
+              "hook": "Lücke im Telegrafennetz",
+              "children": [],
+              "source": {
+                "title": "Wozu das denn? Roulette und Telegrafie – Deutsches Historisches Museum",
+                "url": "https://www.dhm.de/journal/beitrag/wozu-das-denn-roulette-und-telegrafie"
+              }
+            }
+          ],
+          "source": {
+            "title": "Paul Julius Reuter – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Paul_Julius_Reuter"
+          }
+        },
+        {
+          "id": "2026-10-30-1-2",
+          "title": "Ein Seelöwe auf der Elbe",
+          "text": "Das Hochwasser vom August 2002 legte nicht nur die Prager Rohrpost lahm, es überflutete auch den Prager Zoo im Stadtteil Troja. Der Seelöwe Gaston wurde von der Moldau fortgerissen und schwamm über die Elbe bis nach Deutschland, begleitet von Schaulustigen und Kamerateams. Bei Lutherstadt Wittenberg wurde er eingefangen, starb aber kurz darauf, vermutlich an Erschöpfung. Im selben Zoo musste der Elefant Kadir eingeschläfert werden, weil man ihn aus seinem überfluteten Gehege nicht mehr retten konnte.",
+          "hook": "bis zum Hochwasser von 2002",
+          "children": [
+            {
+              "id": "2026-10-30-1-2-0",
+              "title": "Luthers verbrannte Tür",
+              "text": "Den Namenszusatz „Lutherstadt“ trägt Wittenberg, wo Gaston an Land gebracht wurde, offiziell erst seit 1938. Berühmt ist die Stadt für den Thesenanschlag von 1517. Ob Luther seine 95 Thesen aber wirklich an die Schlosskirche nagelte, ist umstritten: Der Kirchenhistoriker Erwin Iserloh hielt das 1961 für eine Legende, eine 2006 entdeckte Notiz von Luthers Mitarbeiter Georg Rörer spricht eher dafür. Die Holztür selbst verbrannte 1760 im Siebenjährigen Krieg. Seit 1858 hängt dort eine Bronzetür, in die der lateinische Text der Thesen gegossen ist.",
+              "hook": "bei Lutherstadt Wittenberg",
+              "children": [],
+              "source": {
+                "title": "95 Thesen – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/95_Thesen"
+              }
+            },
+            {
+              "id": "2026-10-30-1-2-1",
+              "title": "Die Moldau und Israels Hymne",
+              "text": "Den Fluss, der Gaston fortriss, hat Bedřich Smetana 1874 vertont: „Die Moldau“ aus dem Zyklus „Má vlast“ folgt ihm von zwei Quellbächen bis nach Prag. Als Smetana das Stück schrieb, war er bereits völlig ertaubt. Das berühmte Hauptthema ähnelt einer italienischen Melodie aus der Zeit um 1600, die als „La Mantovana“ durch halb Europa wanderte. Zur selben Melodienfamilie gehört auch die Hatikva, die heutige Nationalhymne Israels.",
+              "hook": "von der Moldau fortgerissen",
+              "children": [],
+              "source": {
+                "title": "Die Moldau – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Die_Moldau"
+              }
+            },
+            {
+              "id": "2026-10-30-1-2-2",
+              "title": "Der Elefant als Schnorchler",
+              "text": "Das Schicksal des Elefanten Kadir täuscht leicht darüber hinweg, dass Elefanten ausdauernde Schwimmer sind, die ihren Rüssel als Schnorchel benutzen. Auch ihr Körperbau ist ungewöhnlich: Als einzige Säugetiere haben sie keinen Pleuraspalt, ihre Lunge ist fest mit der Brustwand verwachsen. Der Physiologe John West deutete das 2001 als Schutz beim Schnorcheln unter Wasser und als Spur wasserlebender Vorfahren. Diese These ist umstritten. Zu ihr passt aber, dass die Seekühe zu den nächsten lebenden Verwandten der Elefanten gehören.",
+              "hook": "der Elefant Kadir",
+              "children": [],
+              "source": {
+                "title": "Elefanten – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Elefanten"
+              }
+            }
+          ],
+          "source": {
+            "title": "Hochwasser 2002: Drama um den Prager Zoo – Radio Prag",
+            "url": "https://deutsch.radio.cz/hochwasser-2002-drama-um-den-prager-zoo-8552047"
+          }
+        }
+      ],
+      "source": {
+        "title": "Rohrpost in Berlin – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Rohrpost_in_Berlin"
+      }
+    },
+    {
+      "id": "2026-10-30-2",
+      "category": "kultur",
+      "title": "Monopoly",
+      "text": "Hinter Monopoly steckt eine Erfinderin mit der gegenteiligen Absicht: Elizabeth Magie ließ 1904 ihr „Landlord's Game“ patentieren, um zu zeigen, wie Grundbesitz den Reichtum bei wenigen bündelt. Sie folgte damit dem Ökonomen Henry George und seiner Idee einer Bodensteuer. Das Spiel verbreitete sich in selbstgebastelten Varianten, bis Charles Darrow 1935 eine Version an Parker Brothers verkaufte und lange als Erfinder galt. Magie bekam für ihr Patent nur rund 500 Dollar.",
+      "children": [
+        {
+          "id": "2026-10-30-2-0",
+          "title": "Der Mann mit der Bodensteuer",
+          "text": "Henry George, auf den sich Magie berief, gehörte im späten 19. Jahrhundert zu den bekanntesten Männern Amerikas. Sein Buch „Progress and Poverty“ von 1879 verkaufte sich millionenfach. Er forderte darin, allein den Bodenwert zu besteuern, weil dessen Anstieg der Allgemeinheit zu verdanken sei. 1886 trat George bei der Bürgermeisterwahl in New York an und wurde Zweiter, noch vor dem jungen Theodore Roosevelt. Bei seinem zweiten Anlauf 1897 starb er wenige Tage vor der Wahl.",
+          "hook": "Ökonomen Henry George",
+          "children": [
+            {
+              "id": "2026-10-30-2-0-0",
+              "title": "Roosevelts Bär",
+              "text": "Der junge Theodore Roosevelt, der 1886 hinter George nur Dritter wurde, kam damals gerade von seiner Ranch in den Badlands von Dakota zurück. Dorthin hatte er sich zurückgezogen, nachdem am 14. Februar 1884 seine Mutter und seine Frau Alice im selben Haus gestorben waren. Als Präsident weigerte er sich 1902 auf einer Jagd in Mississippi, einen angebundenen Schwarzbären zu erschießen. Eine Karikatur darüber brachte einen Ladenbesitzer in Brooklyn auf die Idee, einen Stoffbären „Teddy's Bear“ zu nennen. Daraus wurde der Teddybär.",
+              "hook": "noch vor dem jungen Theodore Roosevelt",
+              "children": [],
+              "source": {
+                "title": "Teddybär – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Teddyb%C3%A4r"
+              }
+            },
+            {
+              "id": "2026-10-30-2-0-1",
+              "title": "Bodensteuer in Tsingtau",
+              "text": "Ausgerechnet das deutsche Kaiserreich setzte die Idee einer Bodenwertsteuer um, und zwar in seiner chinesischen Kolonie Kiautschou. Der Kolonialbeamte Wilhelm Schrameier entwarf 1898 eine Landordnung: Wer dort Grund besaß, zahlte jährlich sechs Prozent des Bodenwerts und gab beim Verkauf rund ein Drittel des Wertzuwachses ab. Bodenreformer feierten Tsingtau als Musterfall. Sun Yat-sen, der Gründervater der chinesischen Republik, verehrte Henry George und holte Schrameier in den 1920er-Jahren als Berater nach Kanton.",
+              "hook": "allein den Bodenwert zu besteuern",
+              "children": [],
+              "source": {
+                "title": "Tsingtau – Ein Kapitel deutscher Kolonialgeschichte in China – Deutsches Historisches Museum",
+                "url": "https://www.dhm.de/archiv/ausstellungen/tsingtau/katalog/auf1_6.htm"
+              }
+            },
+            {
+              "id": "2026-10-30-2-0-2",
+              "title": "Tolstois amerikanischer Held",
+              "text": "Zu den Lesern von Georges Bestseller gehörte Leo Tolstoi, der zu einem seiner glühendsten Anhänger wurde. In Briefen und Aufsätzen pries er die Bodensteuer als gerechte Lösung für die russische Landfrage. In seinem Roman „Auferstehung“ von 1899 erklärt Fürst Nechljudow seinen Bauern Georges Lehre und überlässt ihnen das Land. Schon 1882 hatte George bei einem Vortrag in London einen jungen Zuhörer für sich gewonnen: George Bernard Shaw. Nach eigener Aussage brachte ihn dieser Abend überhaupt erst zur Ökonomie.",
+              "hook": "verkaufte sich millionenfach",
+              "children": [],
+              "source": {
+                "title": "Henry George (Ökonom) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Henry_George_(%C3%96konom)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Henry George (Ökonom) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Henry_George_(%C3%96konom)"
+          }
+        },
+        {
+          "id": "2026-10-30-2-1",
+          "title": "Ein Tippfehler auf dem Brett",
+          "text": "Unter den selbstgebastelten Varianten war eine von Quäkern aus Atlantic City, die Anfang der 1930er-Jahre die Felder nach Straßen ihrer Stadt benannten. Über Charles Todd, einen Bekannten aus Philadelphia, gelangte diese Version zu Charles Darrow, der sie samt ihren Eigenheiten übernahm. Deshalb heißt das teuerste Feld der US-Ausgabe bis heute „Boardwalk“, nach der Strandpromenade. Aus demselben Grund steht dort „Marvin Gardens“, ein Schreibfehler für das Viertel Marven Gardens im Nachbarort Margate City.",
+          "hook": "selbstgebastelten Varianten",
+          "children": [
+            {
+              "id": "2026-10-30-2-1-0",
+              "title": "Schokolade statt Schnaps",
+              "text": "Die Quäker aus Atlantic City gehörten zu einer Glaubensgemeinschaft, die in England eine ganze Süßwarenindustrie prägte. Weil Quäker dort lange von Universitäten und vielen Berufen ausgeschlossen waren, gingen viele in den Handel. Familien wie Cadbury, Fry und Rowntree setzten auf Kakao als Alternative zum Alkohol. Die Firma J. S. Fry & Sons in Bristol brachte 1847 eine der ersten Schokoladentafeln zum Essen heraus. Der Schokoriegel verdankt also viel einer Bewegung, die eigentlich zur Mäßigung erziehen wollte.",
+              "hook": "Quäkern aus Atlantic City",
+              "children": [],
+              "source": {
+                "title": "J. S. Fry & Sons – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/J._S._Fry_%26_Sons"
+              }
+            },
+            {
+              "id": "2026-10-30-2-1-1",
+              "title": "Die Stadt, die es nicht gab",
+              "text": "Marvin Gardens entstand durch einen Schreibfehler, Kartografen bauten Fehler dagegen absichtlich ein. In den 1930er-Jahren setzten Otto Lindberg und Ernest Alpers vom Verlag General Drafting den erfundenen Ort Agloe, ein Anagramm ihrer Initialen, auf eine Karte des Staates New York, um Kopierer zu entlarven. Als Agloe später bei Rand McNally auftauchte, lief der Vorwurf ins Leere: Dort stand inzwischen tatsächlich ein „Agloe General Store“. Die Falle für Fälscher hatte sich selbst in die Wirklichkeit geholt.",
+              "hook": "ein Schreibfehler für das Viertel",
+              "children": [],
+              "source": {
+                "title": "Agloe – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Agloe"
+              }
+            },
+            {
+              "id": "2026-10-30-2-1-2",
+              "title": "Ein Elefant als Werbung",
+              "text": "Im Nachbarort Margate City steht ein Bauwerk, das nie ein Monopoly-Feld bekam: Lucy, ein rund 20 Meter hoher Elefant aus Holz und Blech. Der Grundstücksunternehmer James V. Lafferty ließ ihn 1881 errichten, um Käufer für Bauland anzulocken, und ließ sich 1882 sogar Gebäude in Tiergestalt patentieren. Über Treppen in den Beinen gelangt man bis in einen Aussichtsaufbau auf dem Rücken. Ausgerechnet dieses Wahrzeichen war also Werbung für Grundbesitz – genau das, wovor Elizabeth Magie mit ihrem Spiel warnen wollte.",
+              "hook": "Nachbarort Margate City",
+              "children": [],
+              "source": {
+                "title": "Lucy (Bauwerk) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Lucy_(Bauwerk)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Marven Gardens – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Marven_Gardens"
+          }
+        },
+        {
+          "id": "2026-10-30-2-2",
+          "title": "Der Professor gegen Monopoly",
+          "text": "Dass Darrow nicht mehr als Erfinder gilt, ist vor allem einem Rechtsstreit zu verdanken. Der Wirtschaftsprofessor Ralph Anspach aus San Francisco brachte 1973 das Spiel „Anti-Monopoly“ heraus. Daraufhin verklagte ihn der Lebensmittelkonzern General Mills, dem Parker Brothers damals gehörte. Bei seinen Recherchen stieß Anspach auf Magies Patent und die frühen Hausvarianten und argumentierte, „Monopoly“ sei ein Gattungsbegriff. Er setzte sich Anfang der 1980er-Jahre durch, doch 1984 änderte der US-Kongress das Markenrecht, um die Begründung dieses Urteils auszuhebeln.",
+          "hook": "lange als Erfinder galt",
+          "children": [
+            {
+              "id": "2026-10-30-2-2-0",
+              "title": "Die erfundene Betty Crocker",
+              "text": "General Mills, der Konzern hinter der Klage, hatte schon Jahrzehnte zuvor eine eigene Kunstfigur erschaffen: Betty Crocker. Die Vorgängerfirma Washburn Crosby erfand sie 1921, damit Antworten auf Backfragen von Kundinnen persönlicher wirkten. Den Nachnamen lieh ein ehemaliger Direktor, die Unterschrift stammte aus einem Wettbewerb unter Mitarbeiterinnen, und ein Gesicht bekam sie erst 1936. Laut einer oft zitierten Umfrage von 1945 galt sie nach Eleanor Roosevelt als zweitbekannteste Frau der USA, obwohl es sie nie gegeben hat.",
+              "hook": "der Lebensmittelkonzern General Mills",
+              "children": [],
+              "source": {
+                "title": "Betty Crocker – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Betty_Crocker"
+              }
+            },
+            {
+              "id": "2026-10-30-2-2-1",
+              "title": "Der Markentod von Aspirin",
+              "text": "Dass eine Marke zum Gattungsbegriff wird, hat Bayer schon viel früher erlebt: 1899 ließ die Firma den Namen Aspirin schützen. Nach dem Ersten Weltkrieg verlor sie die Marke in mehreren Ländern, und 1921 entschied der US-Richter Learned Hand, dass Aspirin für normale Käufer längst nur noch ein Schmerzmittel bezeichne. Juristen nennen diesen Markentod „Genericide“. In den USA traf er auch die Rolltreppe („Escalator“) und die Thermoskanne. In Deutschland dagegen ist Aspirin bis heute eine eingetragene Marke von Bayer.",
+              "hook": "„Monopoly“ sei ein Gattungsbegriff",
+              "children": [],
+              "source": {
+                "title": "Aspirin (Marke) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Aspirin_(Marke)"
+              }
+            },
+            {
+              "id": "2026-10-30-2-2-2",
+              "title": "Der Tippfehler auf dem Brett",
+              "text": "Eine der frühen Hausvarianten spielten Quäker um 1930 in Atlantic City. Sie setzten die Straßennamen ihrer Stadt aufs Brett, vom Boardwalk bis zum Park Place. Über einen Bekannten namens Charles Todd kam das Spiel zu Darrow, samt einem Schreibfehler: Aus dem Viertel Marven Gardens, benannt nach den Nachbarorten Margate und Ventnor, war „Marvin Gardens“ geworden. Darrow übernahm die falsche Schreibweise unverändert. So steht der Fehler bis heute auf dem amerikanischen Spielbrett, als Fingerabdruck einer Abschrift.",
+              "hook": "die frühen Hausvarianten",
+              "children": [],
+              "source": {
+                "title": "Marven Gardens – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Marven_Gardens"
+              }
+            }
+          ],
+          "source": {
+            "title": "Anti-Monopoly – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Anti-Monopoly"
+          }
+        }
+      ],
+      "source": {
+        "title": "The Landlord’s Game – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/The_Landlord%E2%80%99s_Game"
+      }
+    }
+  ]
+}
