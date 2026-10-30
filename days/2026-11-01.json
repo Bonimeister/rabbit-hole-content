@@ -1,0 +1,448 @@
+{
+  "version": 1,
+  "date": "2026-11-01",
+  "generatedAt": "2026-10-30T00:39:33.133Z",
+  "topics": [
+    {
+      "id": "2026-11-01-0",
+      "category": "natur",
+      "title": "Die Venusfliegenfalle",
+      "text": "Die bekannteste fleischfressende Pflanze der Welt wächst wild nur in einem kleinen Gebiet: in den Sumpfsavannen North und South Carolinas, rund um die Hafenstadt Wilmington. Ihre Falle schnappt erst zu, wenn zwei der feinen Fühlhaare innerhalb von etwa 20 bis 30 Sekunden berührt werden – so verschwendet sie keine Energie an Regentropfen. Ab etwa fünf Berührungen beginnt sie, Verdauungsenzyme abzugeben. Sie zählt also gewissermaßen mit, wie Würzburger Forscher 2016 zeigten.",
+      "children": [
+        {
+          "id": "2026-11-01-0-0",
+          "title": "Wälder, die Feuer brauchen",
+          "text": "Die Sumpfsavannen der Venusfliegenfalle gehören zu einem Ökosystem, das ohne Feuer nicht existieren kann: den Wäldern der Langblättrigen Kiefer (Pinus palustris). Regelmäßige Brände durch Blitzschlag halten Gebüsch kurz, das kleine Pflanzen sonst überschatten würde. Junge Kiefern verharren dafür oft jahrelang in einem feuerfesten „Grasstadium“. Einst bedeckten diese Wälder rund 36 Millionen Hektar im Südosten der USA. Heute sind nur wenige Prozent übrig, auch wegen der Ausbeutung für Harz und Teer, an die North Carolinas Spitzname „Tar Heel State“ erinnert.",
+          "hook": "den Sumpfsavannen North und South Carolinas",
+          "children": [
+            {
+              "id": "2026-11-01-0-0-0",
+              "title": "Teer gegen Schweden",
+              "text": "Harz und Teer aus den Kiefern des Südens waren für Großbritannien strategische Rohstoffe: Rümpfe, Planken und Tauwerk der Holzschiffe wurden damit abgedichtet und geschützt. Lange kam der Teer vor allem aus Schweden, wo eine Handelskompanie mit königlichem Privileg Mengen und Preise bestimmte. London reagierte 1705 mit Prämien für Teer aus den Kolonien, und die Carolinas wurden zum wichtigsten Lieferanten. Ein schwedisches Monopol hat North Carolina also wohl indirekt zu seinem Spitznamen verholfen – auch wenn dessen genaue Herkunft umstritten ist.",
+              "hook": "Ausbeutung für Harz und Teer",
+              "children": [],
+              "source": {
+                "title": "Naval Stores – NCpedia",
+                "url": "https://www.ncpedia.org/naval-stores"
+              }
+            },
+            {
+              "id": "2026-11-01-0-0-1",
+              "title": "Versteinerte Blitze",
+              "text": "Schlagen Blitze in sandigen Boden ein, wie in der Küstenebene der Carolinas, schmilzt der Quarz manchmal zu Glas. So entstehen Fulgurite: hohle, verästelte Röhren, die den Weg des Stroms im Boden nachzeichnen. Charles Darwin beschrieb solche Blitzröhren während der Beagle-Reise aus den Sandhügeln bei Maldonado in Uruguay. 2021 fanden Forscher in einem Fulgurit aus Illinois das Phosphormineral Schreibersit. Blitze könnten also auf der jungen Erde Phosphor für die ersten Bausteine des Lebens geliefert haben.",
+              "hook": "Regelmäßige Brände durch Blitzschlag",
+              "children": [],
+              "source": {
+                "title": "Fulgurit – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Fulgurit"
+              }
+            },
+            {
+              "id": "2026-11-01-0-0-2",
+              "title": "Rauch als Weckruf",
+              "text": "Wie stark Pflanzen auf Feuer angewiesen sein können, zeigt ein Molekül aus dem Rauch: Manche Samen keimen erst, wenn sie Stoffe aus verbrannter Pflanzenmasse wahrnehmen. 2004 isolierten Forscher in Westaustralien den Wirkstoff. Die Stoffgruppe heißt heute Karrikine, nach „karrik“, dem Wort der Noongar für Rauch. Überraschenderweise reagiert auch die Ackerschmalwand darauf, eine Laborpflanze, die nicht an Feuer angepasst ist. Ihr Rezeptor deutet auf ein pflanzeneigenes Hormon hin, das bis heute nicht eindeutig identifiziert ist.",
+              "hook": "ohne Feuer nicht existieren kann",
+              "children": [],
+              "source": {
+                "title": "Karrikine – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Karrikine"
+              }
+            }
+          ],
+          "source": {
+            "title": "Sumpf-Kiefer – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Sumpf-Kiefer"
+          }
+        },
+        {
+          "id": "2026-11-01-0-1",
+          "title": "Der Putsch von Wilmington",
+          "text": "Wilmington, Zentrum der Venusfliegenfallen-Region, war 1898 Schauplatz dessen, was als einziger erfolgreicher Staatsstreich auf US-Boden gilt. Am 10. November vertrieb ein bewaffneter weißer Mob die gewählte, gemischt schwarz-weiße Stadtregierung und brannte die Druckerei der schwarzen Zeitung „Daily Record“ von Alexander Manly nieder. Belegt sind mindestens 14 getötete Schwarze; Schätzungen reichen von 60 bis über 300. Anführer Alfred Moore Waddell ließ sich noch am selben Tag zum Bürgermeister ernennen.",
+          "hook": "rund um die Hafenstadt Wilmington",
+          "children": [
+            {
+              "id": "2026-11-01-0-1-0",
+              "title": "Eine Senatorin für einen Tag",
+              "text": "Alexander Manlys „Daily Record“ geriet ins Visier, weil er im August 1898 auf eine Rede der Georgierin Rebecca Latimer Felton von 1897 antwortete, die gerade erneut abgedruckt worden war. Sie hatte Lynchmorde an schwarzen Männern zum Schutz weißer Frauen gefordert. Manly entgegnete, viele dieser Beziehungen seien einvernehmlich, und seine Gegner nutzten das im Wahlkampf als Brandsatz. Felton machte danach Karriere: 1922 wurde sie mit 87 Jahren als erste Frau in den US-Senat berufen. Im Senat saß sie nur einen einzigen Tag.",
+              "hook": "„Daily Record“ von Alexander Manly",
+              "children": [],
+              "source": {
+                "title": "Rebecca Ann Latimer Felton – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Rebecca_Ann_Latimer_Felton"
+              }
+            },
+            {
+              "id": "2026-11-01-0-1-1",
+              "title": "Hawaiis gestürzte Königin",
+              "text": "Ein noch bekannterer Umsturz zählt nicht als Staatsstreich auf US-Boden, weil er formal im Ausland stattfand: 1893 stürzten vor allem amerikanische Geschäftsleute mit Rückendeckung von US-Marines Königin Liliʻuokalani von Hawaii. Nach einem gescheiterten royalistischen Aufstand stand sie 1895 monatelang unter Arrest in ihrem früheren Palast. Annektiert wurde Hawaii erst 1898, im selben Jahr wie der Putsch von Wilmington. Bis heute bekannt ist ihr Lied „Aloha ʻOe“, Hawaiis berühmtester Abschiedsgesang, den sie schon Jahre vor ihrer Herrschaft geschrieben hatte.",
+              "hook": "einziger erfolgreicher Staatsstreich auf US-Boden",
+              "children": [],
+              "source": {
+                "title": "Liliʻuokalani – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Lili%CA%BBuokalani"
+              }
+            },
+            {
+              "id": "2026-11-01-0-1-2",
+              "title": "Der Letzte für Jahrzehnte",
+              "text": "Die gemischt schwarz-weiße Stadtregierung war ein Produkt der „Fusion“ aus Republikanern und Populisten, die North Carolina Mitte der 1890er regierte. Nach 1898 nahmen die siegreichen Demokraten den meisten Schwarzen mit Lesetests und Wahlsteuer faktisch das Wahlrecht. Der Abgeordnete George Henry White verließ 1901 den Kongress. Danach saß bis 1929 kein Schwarzer mehr dort, für den Süden erst ab 1973 wieder. White zog nach Washington, später nach Philadelphia, und gründete in New Jersey eine Siedlung für schwarze Familien, die bis heute seinen Namen trägt: Whitesboro.",
+              "hook": "gemischt schwarz-weiße Stadtregierung",
+              "children": [],
+              "source": {
+                "title": "George Henry White – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/George_Henry_White"
+              }
+            }
+          ],
+          "source": {
+            "title": "Wilmington-Massaker – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Wilmington-Massaker"
+          }
+        },
+        {
+          "id": "2026-11-01-0-2",
+          "title": "Würzburgs X-Strahlen",
+          "text": "Würzburg, wo das Zählen der Venusfliegenfalle untersucht wurde, war schon einmal Schauplatz einer berühmten Entdeckung: Im November 1895 bemerkte Wilhelm Conrad Röntgen in seinem Institut eine rätselhafte, unsichtbare Strahlung. Kurz darauf entstand eine der ersten Röntgenaufnahmen überhaupt: die Hand seiner Frau Anna Bertha samt Ehering. Röntgen nannte die Strahlen „X-Strahlen“ und verzichtete bewusst auf ein Patent. 1901 erhielt er dafür den allerersten Nobelpreis für Physik.",
+          "hook": "wie Würzburger Forscher 2016 zeigten",
+          "children": [
+            {
+              "id": "2026-11-01-0-2-0",
+              "title": "Nobelgold in Königswasser",
+              "text": "Auf Röntgens Nobelpreis von 1901 folgte 1914 der nächste für seine Strahlen: Max von Laue hatte gezeigt, dass Kristalle sie beugen. Laues goldene Medaille landete 1940 im besetzten Kopenhagen in Königswasser. Am Institut von Niels Bohr löste der Chemiker George de Hevesy sie zusammen mit der Medaille von James Franck auf, damit die deutschen Besatzer sie nicht fanden. Die unscheinbare Flasche überstand den Krieg im Regal. Danach gewann man das Gold zurück und die Nobelstiftung goss daraus neue Medaillen.",
+              "hook": "den allerersten Nobelpreis für Physik",
+              "children": [],
+              "source": {
+                "title": "George de Hevesy – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/George_de_Hevesy"
+              }
+            },
+            {
+              "id": "2026-11-01-0-2-1",
+              "title": "Röntgen im Schuhladen",
+              "text": "Auch weil Röntgen auf ein Patent verzichtete, verbreitete sich die neue Technik rasch – bis an Orte, die heute absurd wirken. Ab den 1920er-Jahren standen in Schuhgeschäften Durchleuchtungsgeräte, auf Deutsch oft Pedoskop genannt: Man stellte die Füße in einen Kasten und sah durch ein Guckloch die eigenen Zehenknochen im neuen Schuh wackeln. Allein in den USA liefen um 1950 schätzungsweise rund 10.000 solcher Geräte, oft kaum abgeschirmt. Belegt ist bis heute nicht, dass die Schuhe dadurch besser passten. Die Geräte waren vor allem ein Verkaufstrick.",
+              "hook": "verzichtete bewusst auf ein Patent",
+              "children": [],
+              "source": {
+                "title": "Pedoskop – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Pedoskop"
+              }
+            },
+            {
+              "id": "2026-11-01-0-2-2",
+              "title": "Warum ausgerechnet X?",
+              "text": "Mit dem Namen „X-Strahlen“ griff Röntgen auf das gängige Zeichen für das Unbekannte zurück. Diese Gewohnheit geht vor allem auf René Descartes zurück. In „La Géométrie“ von 1637 benannte er Unbekannte mit x, y und z, bekannte Größen mit a, b und c. Oft heißt es, das x stamme vom arabischen „schai“ („Ding“), das über eine spanische Umschrift zum x geworden sei. Fachleute halten das für unbelegt. Eine Legende ist auch die Geschichte, Descartes' Drucker habe einfach mehr x-Lettern übrig gehabt als y und z.",
+              "hook": "nannte die Strahlen „X-Strahlen“",
+              "children": [],
+              "source": {
+                "title": "X marks the unknown in algebra, but x's origins are a math mystery – The Conversation",
+                "url": "https://theconversation.com/x-marks-the-unknown-in-algebra-but-xs-origins-are-a-math-mystery-210440"
+              }
+            }
+          ],
+          "source": {
+            "title": "Wilhelm Conrad Röntgen – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Wilhelm_Conrad_R%C3%B6ntgen"
+          }
+        }
+      ],
+      "source": {
+        "title": "Venusfliegenfalle – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Venusfliegenfalle"
+      }
+    },
+    {
+      "id": "2026-11-01-1",
+      "category": "technik",
+      "title": "Die Zuse Z3",
+      "text": "Im Mai 1941 führte Konrad Zuse in Berlin-Kreuzberg die Z3 vor. Sie gilt als erster funktionsfähiger, frei programmierbarer und vollautomatischer Digitalrechner der Welt. Die Maschine rechnete binär mit rund 2000 Telefonrelais, ihre Programme las sie von gelochtem Kinofilm. Pro Sekunde schaffte sie nur wenige Additionen. Bei einem Bombenangriff 1943 wurde das Original zerstört, einen Nachbau aus den 1960er-Jahren zeigt heute das Deutsche Museum in München.",
+      "children": [
+        {
+          "id": "2026-11-01-1-0",
+          "title": "Leibniz und das I Ging",
+          "text": "Dass die Z3 nur mit Nullen und Einsen rechnete, hatte Gottfried Wilhelm Leibniz schon rund 240 Jahre zuvor durchdacht. 1703 veröffentlichte er in Paris seine Abhandlung „Explication de l'Arithmétique Binaire“. Bestärkt hatte ihn der Jesuit Joachim Bouvet, der ihm aus China eine Anordnung der 64 Hexagramme des I Ging geschickt hatte. Leibniz glaubte darin sein Zahlensystem wiederzuerkennen und deutete es auch theologisch: Die Eins stand für Gott, die Null für das Nichts.",
+          "hook": "Die Maschine rechnete binär",
+          "children": [
+            {
+              "id": "2026-11-01-1-0-0",
+              "title": "Die Jesuiten des Kaisers",
+              "text": "Joachim Bouvet war einer von sechs Jesuiten, die Ludwig XIV. 1685 als „Mathematiker des Königs“ nach Asien schickte. In Peking unterrichteten Bouvet und sein Mitbruder Jean-François Gerbillon den Kangxi-Kaiser in Geometrie und verfassten dafür Lektionen auf Mandschurisch. Ihren größten Erfolg hatten die Franzosen aber 1693 als Heiler: Sie kurierten den fiebernden Kaiser mit Chinarinde aus Südamerika. Zum Dank schenkte Kangxi ihnen ein Grundstück mitten in der Kaiserstadt, auf dem bald eine Kirche stand.",
+              "hook": "der Jesuit Joachim Bouvet",
+              "children": [],
+              "source": {
+                "title": "Joachim Bouvet – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Joachim_Bouvet"
+              }
+            },
+            {
+              "id": "2026-11-01-1-0-1",
+              "title": "Die Ordnung des Shao Yong",
+              "text": "Die Anordnung der Hexagramme, die Bouvet schickte, war nicht uralt. Sie stammt vom Gelehrten Shao Yong aus dem 11. Jahrhundert, also aus der Song-Dynastie. Liest man die durchgezogenen Linien als 1 und die gebrochenen als 0, ergeben die 64 Zeichen der Reihe nach genau die Zahlen von 0 bis 63. Shao Yong ging es dabei nicht um Arithmetik, sondern darum, wie die Welt aus Yin und Yang entsteht. Vier der acht Trigramme, aus denen die Hexagramme zusammengesetzt sind, prangen bis heute auf der Flagge Südkoreas.",
+              "hook": "64 Hexagramme des I Ging",
+              "children": [],
+              "source": {
+                "title": "Shao Yong – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Shao_Yong"
+              }
+            },
+            {
+              "id": "2026-11-01-1-0-2",
+              "title": "Die Schöpfung als Medaille",
+              "text": "Dass Gott mit der Eins alles aus dem Nichts erschafft, wollte Leibniz sogar auf einer Medaille verewigen. In einem Neujahrsbrief von 1697 schlug er Herzog Rudolf August von Braunschweig-Wolfenbüttel einen Entwurf mit Binärtabellen und dem Motto „Omnibus ex nihilo ducendis sufficit unum“ vor: Um alles aus dem Nichts herzuleiten, genügt die Eins. Geprägt wurde sie zu seinen Lebzeiten nicht. Schon 1679 hatte er eine binäre Rechenmaschine skizziert, in der Kugeln durch offene Löcher fielen. Gebaut wurde sie nie.",
+              "hook": "die Null für das Nichts",
+              "children": [],
+              "source": {
+                "title": "Gottfried Wilhelm Leibniz – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"
+              }
+            }
+          ],
+          "source": {
+            "title": "Leibniz–Bouvet Correspondence – Swarthmore College",
+            "url": "https://archive.swarthmore.edu/leibniz-bouvet/"
+          }
+        },
+        {
+          "id": "2026-11-01-1-1",
+          "title": "Der Bestatter am Telefon",
+          "text": "Telefonrelais waren zu Zuses Zeit Massenware, weil Vermittlungsstellen Gespräche längst automatisch schalteten. Den Anstoß dazu gab Almon Strowger, ein Bestatter aus Kansas City, der 1891 ein automatisches Wählsystem patentierte. Der Überlieferung nach misstraute er der örtlichen Telefonistin, der Frau eines Konkurrenten, die Anrufe von Trauernden umgeleitet haben soll. 1892 ging in La Porte im US-Bundesstaat Indiana das erste Wählamt nach seinem System in Betrieb.",
+          "hook": "rund 2000 Telefonrelais",
+          "children": [
+            {
+              "id": "2026-11-01-1-1-0",
+              "title": "Die Hello Girls",
+              "text": "Wie unverzichtbar Telefonistinnen blieben, zeigte sich 1917: Das US-Heer suchte für die Front in Frankreich Frauen, die Englisch und Französisch sprachen. Rund 220 dieser „Hello Girls“ vermittelten Gespräche bis nahe an die Kampflinien, angeführt von Grace Banker. Nach dem Krieg galten sie trotz Uniform und Eid als Zivilistinnen. Erst 1977 erkannte der Kongress sie als Veteraninnen an, als nur noch wenige von ihnen lebten.",
+              "hook": "misstraute er der örtlichen Telefonistin",
+              "children": [],
+              "source": {
+                "title": "Hello Girls – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Hello_Girls"
+              }
+            },
+            {
+              "id": "2026-11-01-1-1-1",
+              "title": "Die Witwe von La Porte",
+              "text": "Gut anderthalb Jahrzehnte später wurde La Porte durch eine ganz andere Geschichte berüchtigt: Auf einer Farm am Stadtrand lebte die norwegische Einwanderin Belle Gunness. Über Heiratsanzeigen lockte sie wohlhabende Männer an, die danach spurlos verschwanden. Als ihr Haus 1908 abbrannte, fand man in den Trümmern eine kopflose Frauenleiche und auf dem Grundstück die Überreste zahlreicher Menschen. Ob die Tote wirklich Gunness war, ist bis heute umstritten.",
+              "hook": "La Porte im US-Bundesstaat Indiana",
+              "children": [],
+              "source": {
+                "title": "Belle Gunness – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Belle_Gunness"
+              }
+            },
+            {
+              "id": "2026-11-01-1-1-2",
+              "title": "Warum die 1 oben steht",
+              "text": "Strowgers frühe Wählapparate hatten noch keine Wählscheibe, sondern Tasten, die man für jede Ziffer entsprechend oft drücken musste. Die Fingerlochscheibe setzte sich erst einige Jahre später durch und prägte das Telefonieren über Generationen. 1963 brachte das Bell System in den USA Tastentelefone mit Tonwahl auf den Markt. Ihr Tastenfeld mit der 1 oben links geht auf Nutzertests des Psychologen John Karlin zurück, Taschenrechner dagegen beginnen oben mit der 7.",
+              "hook": "ein automatisches Wählsystem patentierte",
+              "children": [],
+              "source": {
+                "title": "Telefontastatur – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Telefontastatur"
+              }
+            }
+          ],
+          "source": {
+            "title": "Hebdrehwähler – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Hebdrehw%C3%A4hler"
+          }
+        },
+        {
+          "id": "2026-11-01-1-2",
+          "title": "Webstuhl mit Lochkarten",
+          "text": "Die Idee, Anweisungen von gelochten Streifen abzulesen, stammt aus der Textilindustrie. Um 1804 stellte Joseph-Marie Jacquard in Lyon einen Webstuhl vor, der Muster von Lochkarten las: Wo ein Loch war, wurde ein Kettfaden angehoben. Viele Seidenweber fürchteten um ihre Arbeit. Ein mit rund 24.000 Karten gewebtes Seidenporträt Jacquards besaß später Charles Babbage, der Lochkarten auch für seine Analytical Engine vorsah.",
+          "hook": "von gelochtem Kinofilm",
+          "children": [
+            {
+              "id": "2026-11-01-1-2-0",
+              "title": "Aufstand der Canuts",
+              "text": "Die Sorgen der Lyoner Seidenweber, der Canuts, schlugen später in offene Wut um, entzündet vor allem an Hungerlöhnen. Im November 1831 erhoben sie sich auf dem Hügel Croix-Rousse unter dem Motto „Leben, indem man arbeitet, oder sterben, indem man kämpft“ und beherrschten die Stadt einige Tage lang. Der Aufstand gilt als eine der ersten Arbeiterrevolten des Industriezeitalters. Auch Lyons berühmteste Figur stammt aus diesem Milieu: Der Puppenspieler Laurent Mourguet, einst selbst Seidenweber, erfand um 1808 den Guignol.",
+              "hook": "Viele Seidenweber fürchteten um ihre Arbeit",
+              "children": [],
+              "source": {
+                "title": "Aufstand der Seidenweber in Lyon – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Aufstand_der_Seidenweber_in_Lyon"
+              }
+            },
+            {
+              "id": "2026-11-01-1-2-1",
+              "title": "Ada und die Algebra-Muster",
+              "text": "Babbages Analytical Engine wurde nie gebaut, doch Ada Lovelace beschrieb 1843, was sie hätte leisten können. In ihren Anmerkungen zu einem Fachartikel, die länger waren als der Artikel selbst, schrieb sie, die Maschine webe algebraische Muster wie Jacquards Webstuhl Blumen und Blätter. Ihre Notiz G enthält einen Ablauf zur Berechnung von Bernoulli-Zahlen, der oft als erstes Computerprogramm gilt. Um 1980 taufte das US-Verteidigungsministerium eine Programmiersprache auf ihren Namen: Ada.",
+              "hook": "seine Analytical Engine",
+              "children": [],
+              "source": {
+                "title": "Ada Lovelace – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ada_Lovelace"
+              }
+            },
+            {
+              "id": "2026-11-01-1-2-2",
+              "title": "Volkszählung per Lochkarte",
+              "text": "Was bei Jacquard Muster steuerte, konnte auch Daten speichern: Darauf setzte der Ingenieur Herman Hollerith. Für die US-Volkszählung von 1890 baute er Maschinen, die Löcher für Alter, Geschlecht oder Herkunft elektrisch abtasteten. Ein Stift tauchte durch das Loch in ein Quecksilbernäpfchen und schloss so einen Stromkreis. Die Auswertung der vorherigen Zählung hatte noch rund acht Jahre gedauert, nun ging es deutlich schneller. Holleriths Firma ging später in einem Konzern auf, der sich 1924 IBM nannte.",
+              "hook": "der Muster von Lochkarten las",
+              "children": [],
+              "source": {
+                "title": "Tabelliermaschine – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Tabelliermaschine"
+              }
+            }
+          ],
+          "source": {
+            "title": "Jacquardwebstuhl – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Jacquardwebstuhl"
+          }
+        }
+      ],
+      "source": {
+        "title": "Zuse Z3 – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Zuse_Z3"
+      }
+    },
+    {
+      "id": "2026-11-01-2",
+      "category": "kultur",
+      "title": "La Catrina",
+      "text": "Die elegante Skelettdame mit dem ausladenden Federhut ist das Gesicht des mexikanischen Día de los Muertos am 1. und 2. November. Geschaffen hat sie zwischen etwa 1910 und 1913 der Grafiker José Guadalupe Posada, und zwar als Spott: Die „Calavera Garbancera“ verhöhnte Mexikaner, die ihre Herkunft verleugneten und europäisch wirken wollten. Den Namen Catrina und ein ganzes Kleid gab ihr erst Diego Rivera 1947 in seinem Wandbild „Sueño de una tarde dominical en la Alameda Central“.",
+      "children": [
+        {
+          "id": "2026-11-01-2-0",
+          "title": "Die Kichererbse im Namen",
+          "text": "In „Garbancera“ steckt der garbanzo, die Kichererbse. Mit deren Händlern verband man damals in Mexiko Aufsteiger, die ihre indigene Herkunft verbargen. Die Pflanze selbst wurde vor rund 10.000 Jahren im Südosten Anatoliens domestiziert und kam erst mit den Spaniern nach Amerika. Ihr botanischer Name Cicer arietinum heißt etwa „widderartig“, weil der Samen an einen Widderkopf erinnert. Laut Plutarch verdankt auch Cicero seinen Namen dem lateinischen cicer.",
+          "hook": "Calavera Garbancera",
+          "children": [
+            {
+              "id": "2026-11-01-2-0-0",
+              "title": "Steinkreise vor dem Ackerbau",
+              "text": "In derselben Region im Südosten Anatoliens, nahe Şanlıurfa, liegt Göbekli Tepe. Errichtet wurde es um 9500 v. Chr., als dort gerade erst die ersten Pflanzen angebaut wurden. Jäger und Sammler stellten T-förmige Pfeiler von bis zu 5,5 Metern Höhe auf und verzierten sie mit Füchsen, Schlangen und Geiern. Ob es ein frühes Heiligtum war, wie der Ausgräber Klaus Schmidt meinte, ist heute umstritten. Ein Survey von 1963 hatte die Stätte schon erfasst, hielt die Steinplatten aber für mittelalterliche Grabsteine.",
+              "hook": "im Südosten Anatoliens domestiziert",
+              "children": [],
+              "source": {
+                "title": "Göbekli Tepe – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/G%C3%B6bekli_Tepe"
+              }
+            },
+            {
+              "id": "2026-11-01-2-0-1",
+              "title": "Ciceros Kichererbse",
+              "text": "Plutarch zufolge hatte ein Vorfahr Ciceros eine Kerbe in der Nasenspitze, die an eine Kichererbse erinnerte. Freunde rieten dem jungen Politiker, den lächerlichen Beinamen abzulegen. Er soll geantwortet haben, er werde ihn berühmter machen als die Namen Scaurus und Catulus. Als Quästor auf Sizilien ließ er laut Plutarch ein Weihgeschenk mit „Marcus Tullius“ beschriften und statt des dritten Namens eine Kichererbse eingravieren. Sein Ruhm als Redner hielt so lange, dass Italiener später redselige Fremdenführer „Cicerone“ nannten.",
+              "hook": "Laut Plutarch verdankt auch Cicero",
+              "children": [],
+              "source": {
+                "title": "Marcus Tullius Cicero – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Marcus_Tullius_Cicero"
+              }
+            },
+            {
+              "id": "2026-11-01-2-0-2",
+              "title": "Der Widder am Himmel",
+              "text": "Arietinum kommt von aries, dem lateinischen Wort für Widder, nach dem auch das Sternbild und das Tierkreiszeichen benannt sind. Vor gut 2000 Jahren lag dort der Frühlingspunkt, an dem die Sonne zur März-Tagundnachtgleiche den Himmelsäquator kreuzt. Astronomen nennen ihn bis heute „First Point of Aries“. Weil die Erdachse wie ein Kreisel taumelt, mit einem Umlauf in rund 26.000 Jahren, ist der Punkt längst in die Fische gewandert. Wer laut Horoskop Widder ist, wurde daher meist geboren, als die Sonne tatsächlich in den Fischen stand.",
+              "hook": "an einen Widderkopf erinnert",
+              "children": [],
+              "source": {
+                "title": "Präzession – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Pr%C3%A4zession"
+              }
+            }
+          ],
+          "source": {
+            "title": "Kichererbse – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Kichererbse"
+          }
+        },
+        {
+          "id": "2026-11-01-2-1",
+          "title": "Der Mann, der Posada fand",
+          "text": "Dass Posada heute als Ahnherr der mexikanischen Grafik gilt, hat er nicht mehr erlebt: Er starb 1913 verarmt und wurde in einem Armengrab auf dem Panteón de Dolores bestattet. Wiederentdeckt hat ihn der Pariser Maler Jean Charlot, der 1921 nach Mexiko kam und in den 1920er-Jahren über den Verlag Vanegas Arroyo auf Posadas alte Druckplatten stieß. Charlot malte an den Fresken der Escuela Nacional Preparatoria mit und lebte später rund drei Jahrzehnte auf Hawaii.",
+          "hook": "Grafiker José Guadalupe Posada",
+          "children": [
+            {
+              "id": "2026-11-01-2-1-0",
+              "title": "Gräber erster und letzter Klasse",
+              "text": "Der 1875 eröffnete Panteón de Dolores ist der größte Friedhof Mexikos, und er spiegelt die Gegensätze des Landes. Posadas Gebeine kamen später in ein Massengrab, weil niemand für sein Grab bezahlte. Auf demselben Friedhof liegt die Rotonda de las Personas Ilustres, wo Nationalhelden, Orozco und Siqueiros ruhen. Dort liegt auch Diego Rivera, obwohl er sich gewünscht hatte, dass seine Asche mit der Frida Kahlos vermischt wird. Stattdessen wurde er 1957 mit staatlichen Ehren beigesetzt, und zwar unverbrannt.",
+              "hook": "Armengrab auf dem Panteón de Dolores",
+              "children": [],
+              "source": {
+                "title": "Panteón Civil de Dolores – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Pante%C3%B3n_Civil_de_Dolores"
+              }
+            },
+            {
+              "id": "2026-11-01-2-1-1",
+              "title": "Die Schule der Wandmaler",
+              "text": "Die Escuela Nacional Preparatoria war im Antiguo Colegio de San Ildefonso untergebracht, einem ehemaligen Jesuitenkolleg mitten in Mexiko-Stadt. Ab 1922 wurde sie zur Wiege des Muralismo. Diego Rivera malte dort sein erstes großes Wandbild, „La Creación“, während José Clemente Orozco die Wände des Innenhofs mit Bildern von Revolution und Elend füllte. Zu den wenigen Mädchen unter den Schülern gehörte die etwa 15-jährige Frida Kahlo. Laut einer Anekdote spielte sie dem Maler auf dem Gerüst Streiche. Sieben Jahre später heiratete sie ihn.",
+              "hook": "Fresken der Escuela Nacional Preparatoria",
+              "children": [],
+              "source": {
+                "title": "Colegio de San Ildefonso – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Colegio_de_San_Ildefonso"
+              }
+            },
+            {
+              "id": "2026-11-01-2-1-2",
+              "title": "Ein schwarzer Christus",
+              "text": "Nach Hawaii ging Charlot 1949, um an der University of Hawaii zu lehren, und er blieb bis zu seinem Tod 1979 in Honolulu. Er lernte Hawaiianisch, schrieb sogar Theaterstücke in dieser Sprache und malte Fresken über die Geschichte der Inseln. Sein ungewöhnlichstes Werk entstand aber Anfang der 1960er-Jahre auf Fidschi. In der Missionskirche von Naiserelagi malte der Pariser einen schwarzen Christus am Kreuz. Um ihn herum knien Fidschianer, die traditionelle Gaben darbringen.",
+              "hook": "rund drei Jahrzehnte auf Hawaii",
+              "children": [],
+              "source": {
+                "title": "Black Christ and Worshipers – Jean Charlot Foundation",
+                "url": "https://www.jeancharlot.org/murals/black-christ-and-worshipers"
+              }
+            }
+          ],
+          "source": {
+            "title": "Jean Charlot – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Jean_Charlot"
+          }
+        },
+        {
+          "id": "2026-11-01-2-2",
+          "title": "„Dios no existe“",
+          "text": "Auf Riveras Alameda-Bild steht auch der Schriftsteller Ignacio Ramírez, genannt „El Nigromante“, mit einem Zettel in der Hand: „Dios no existe“, ein Satz aus seiner Rede an der Academia de Letrán von 1836. Nach der Enthüllung im Hotel del Prado 1948 kratzten aufgebrachte Studenten die Worte heraus, danach blieb das Wandbild jahrelang verhängt. Erst 1956 ersetzte Rivera den Satz durch einen harmlosen Hinweis auf die Rede.",
+          "hook": "Sueño de una tarde dominical",
+          "children": [
+            {
+              "id": "2026-11-01-2-2-0",
+              "title": "Die Mutter aller Kirchen",
+              "text": "Die Academia de Letrán tagte im Colegio de San Juan de Letrán, das nach der Lateranbasilika in Rom benannt ist. Nicht der Petersdom, sondern sie ist die Kathedrale des Papstes, und eine Inschrift nennt sie „Mutter und Haupt aller Kirchen der Stadt und des Erdkreises“. Rund tausend Jahre residierten die Päpste im Lateranpalast nebenan. Dort wurden 1929 die Lateranverträge unterzeichnet, die den Vatikanstaat schufen. Seither ist die Basilika mitten in Rom exterritorialer Besitz des Heiligen Stuhls.",
+              "hook": "Academia de Letrán",
+              "children": [],
+              "source": {
+                "title": "Lateranbasilika – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Lateranbasilika"
+              }
+            },
+            {
+              "id": "2026-11-01-2-2-1",
+              "title": "Die schwarze Kunst",
+              "text": "Ramírez’ Beiname „El Nigromante“ bedeutet Totenbeschwörer, und das Wort selbst beruht auf einem Missverständnis. Aus dem griechischen nekromanteia, der Weissagung durch Tote, wurde im mittelalterlichen Latein nigromantia, weil man darin niger, also schwarz, zu hören glaubte. So wurde aus der Totenbefragung die „schwarze Kunst“. Im Deutschen nannte man später auch den Buchdruck so, und eine Legende verschmolz Gutenbergs Geldgeber Johann Fust sogar mit dem Zauberer Faust.",
+              "hook": "genannt „El Nigromante“",
+              "children": [],
+              "source": {
+                "title": "Totenbeschwörung – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Totenbeschw%C3%B6rung"
+              }
+            },
+            {
+              "id": "2026-11-01-2-2-2",
+              "title": "Eine Wand auf Reisen",
+              "text": "Das Hotel del Prado überstand das schwere Erdbeben vom 19. September 1985 nicht und wurde später abgerissen. Riveras rund 15 Meter langes Wandbild blieb dagegen weitgehend unversehrt. Ingenieure lösten die ganze Wand, viele Tonnen schwer, in einem Stück heraus und brachten sie nur ein kurzes Stück weiter an den Rand der Alameda. Dort hängt sie seit 1988 im Museo Mural Diego Rivera, einem Museum, das eigens für dieses eine Bild gebaut wurde.",
+              "hook": "im Hotel del Prado 1948",
+              "children": [],
+              "source": {
+                "title": "Museo Mural Diego Rivera – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Museo_Mural_Diego_Rivera"
+              }
+            }
+          ],
+          "source": {
+            "title": "Sueño de una Tarde Dominical en la Alameda Central – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sue%C3%B1o_de_una_Tarde_Dominical_en_la_Alameda_Central"
+          }
+        }
+      ],
+      "source": {
+        "title": "La Catrina – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/La_Catrina"
+      }
+    }
+  ]
+}
