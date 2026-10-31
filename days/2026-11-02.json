@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-11-02",
+  "generatedAt": "2026-10-31T00:37:15.308Z",
+  "topics": [
+    {
+      "id": "2026-11-02-0",
+      "category": "geschichte",
+      "title": "Eugène François Vidocq",
+      "text": "Eugène François Vidocq (1775–1857) war Dieb, Deserteur und mehrfacher Ausbrecher, bevor er die Seiten wechselte. Um 1811 bot er der Pariser Polizei seine Dienste an und baute die Brigade de la Sûreté auf, eine Zivilpolizei, die er großteils mit früheren Kriminellen besetzte. 1833 gründete er eines der ersten privaten Detektivbüros. Seine Lebensgeschichte inspirierte Balzac zur Figur des Vautrin und gilt als Vorbild für Victor Hugos Jean Valjean und Javert zugleich.",
+      "children": [
+        {
+          "id": "2026-11-02-0-0",
+          "title": "Das Auge, das nie schläft",
+          "text": "Knapp zwei Jahrzehnte nach Vidocqs Pariser Büro gründete der schottische Einwanderer Allan Pinkerton um 1850 in Chicago seine eigene Detektei. Ihr Logo zeigte ein offenes Auge mit dem Motto „We Never Sleep“ und gilt als mögliche Herkunft des englischen Ausdrucks „private eye“. 1856 stellte Pinkerton mit Kate Warne eine der ersten Detektivinnen der USA ein. Sie half 1861 dabei, ein mutmaßliches Attentat auf Abraham Lincoln in Baltimore zu vereiteln.",
+          "hook": "eines der ersten privaten Detektivbüros",
+          "children": [
+            {
+              "id": "2026-11-02-0-0-0",
+              "title": "Geheimdienst gegen Blüten",
+              "text": "Ein Attentat auf Abraham Lincoln gelang 1865 doch, und am selben Tag soll er laut Überlieferung noch über die Gründung des Secret Service beraten haben. Dessen Auftrag hatte nichts mit Personenschutz zu tun: Damals galt rund ein Drittel des umlaufenden Papiergelds als gefälscht. Die neue Behörde im Finanzministerium jagte deshalb Geldfälscher. Den dauerhaften Schutz des Präsidenten übernahm sie erst nach dem dritten Präsidentenmord, an William McKinley 1901.",
+              "hook": "ein mutmaßliches Attentat auf Abraham Lincoln",
+              "children": [],
+              "source": {
+                "title": "United States Secret Service – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/United_States_Secret_Service"
+              }
+            },
+            {
+              "id": "2026-11-02-0-0-1",
+              "title": "Der Detektiv, der schrieb",
+              "text": "Zum Inbegriff des „private eye“ machte ein früherer Pinkerton-Mann die Figur: Dashiell Hammett arbeitete ab etwa 1915 für die Agentur, zeitweise in Baltimore. Seine Erfahrungen flossen in den namenlosen „Continental Op“ und 1930 in „Der Malteser Falke“. Hammett behauptete später, man habe ihm einst Geld für den Mord an einem Gewerkschafter angeboten; belegt ist das nicht. Der Ex-Detektiv landete 1951 selbst im Gefängnis, weil er sich weigerte, vor Gericht Namen zu nennen.",
+              "hook": "Herkunft des englischen Ausdrucks",
+              "children": [],
+              "source": {
+                "title": "Dashiell Hammett – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dashiell_Hammett"
+              }
+            },
+            {
+              "id": "2026-11-02-0-0-2",
+              "title": "Fassbinder und Rebell",
+              "text": "Der schottische Einwanderer Allan Pinkerton war in Glasgow Fassbinder und radikaler Chartist gewesen; 1842 verließ er Großbritannien, wohl auch, um einer Verhaftung zu entgehen. Die Chartisten forderten in ihrer „People's Charter“ von 1838 sechs Punkte, darunter das Wahlrecht für alle Männer, geheime Wahlen und Diäten für Abgeordnete. Ihre Massenpetitionen mit Millionen Unterschriften lehnte das Parlament ab. Fünf der sechs Forderungen sind inzwischen erfüllt; nur jährliche Parlamentswahlen kamen nie.",
+              "hook": "der schottische Einwanderer Allan Pinkerton",
+              "children": [],
+              "source": {
+                "title": "Chartisten – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Chartisten"
+              }
+            }
+          ],
+          "source": {
+            "title": "Pinkerton (Detektei) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Pinkerton_(Detektei)"
+          }
+        },
+        {
+          "id": "2026-11-02-0-1",
+          "title": "Hausnummer 36",
+          "text": "Aus Vidocqs Sûreté ging nach mehreren Umbauten die Pariser Kriminalpolizei hervor. Ihre Adresse auf der Île de la Cité wurde in Frankreich zum Inbegriff: 36, Quai des Orfèvres. Dort ließ Georges Simenon seinen Kommissar Maigret ermitteln, und seit 1946 vergibt eine Jury, in der auch Polizeibeamte sitzen, den Krimipreis „Prix du Quai des Orfèvres“. 2017 zog die Behörde in einen Neubau im Viertel Batignolles, passenderweise an die Rue du Bastion Nummer 36.",
+          "hook": "die Brigade de la Sûreté",
+          "children": [
+            {
+              "id": "2026-11-02-0-1-0",
+              "title": "Der Nullpunkt Frankreichs",
+              "text": "Nur wenige Schritte von der alten Adresse der Kriminalpolizei entfernt liegt auf der Île de la Cité, vor dem Portal von Notre-Dame, der Nullpunkt ganz Frankreichs. Eine in den Boden eingelassene Bronzeplatte markiert dort den „Point zéro des routes de France“. Von hier aus werden die Straßenentfernungen zwischen Paris und den übrigen Städten des Landes gemessen. Ein Pariser Aberglaube verspricht außerdem: Wer auf die Platte tritt, kehrt eines Tages nach Paris zurück.",
+              "hook": "Adresse auf der Île de la Cité",
+              "children": [],
+              "source": {
+                "title": "Le parvis de Notre-Dame de Paris retrouve son point zéro – Ville de Paris",
+                "url": "https://www.paris.fr/pages/le-point-zero-reinstalle-sur-le-parvis-de-notre-dame-de-paris-31306"
+              }
+            },
+            {
+              "id": "2026-11-02-0-1-1",
+              "title": "Ein Roman im Glaskasten",
+              "text": "Georges Simenon, der Erfinder Maigrets, schrieb so schnell wie kaum ein anderer: Unter seinem Namen und zahlreichen Pseudonymen veröffentlichte der Belgier mehrere hundert Romane und Erzählungen, manche davon in wenigen Tagen geschrieben. 1927 sollte er für die geplante Zeitung „Paris-Matinal“ vor den Augen von Passanten einen ganzen Roman in einem Glaskasten verfassen. Das Vorhaben platzte, bevor er eine Zeile darin geschrieben hatte. Trotzdem hielt sich die Geschichte jahrzehntelang, und manche wollten ihn dort sogar gesehen haben.",
+              "hook": "ließ Georges Simenon seinen Kommissar Maigret",
+              "children": [],
+              "source": {
+                "title": "Georges Simenon – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Georges_Simenon"
+              }
+            },
+            {
+              "id": "2026-11-02-0-1-2",
+              "title": "Die Maler von Batignolles",
+              "text": "Batignolles war bis 1860 eine eigenständige Gemeinde vor den Toren von Paris. Um 1870 traf sich dort im Café Guerbois ein Kreis junger Maler um Édouard Manet, der als „Groupe des Batignolles“ bekannt wurde, lange bevor man von Impressionisten sprach. Henri Fantin-Latour malte sie 1870 im Bild „Un atelier aux Batignolles“: Manet sitzt an der Staffelei, um ihn stehen Renoir, Monet, Zola und der hochgewachsene Frédéric Bazille. Bazille fiel noch im selben Jahr im Deutsch-Französischen Krieg, mit nur 28 Jahren.",
+              "hook": "im Viertel Batignolles",
+              "children": [],
+              "source": {
+                "title": "Un atelier aux Batignolles – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Un_atelier_aux_Batignolles"
+              }
+            }
+          ],
+          "source": {
+            "title": "36, quai des Orfèvres – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/36,_quai_des_Orf%C3%A8vres"
+          }
+        },
+        {
+          "id": "2026-11-02-0-2",
+          "title": "Balzacs Kaffeepulver",
+          "text": "Balzac kannte Vidocq persönlich. Seine „Comédie humaine“, einen Zyklus aus rund 90 Romanen und Erzählungen mit über 2000 Figuren, schrieb er vor allem in nächtlichen Arbeitsschüben. Sein Treibstoff war Kaffee in gewaltigen Mengen, wobei die oft genannten 50 Tassen am Tag eher Legende als belegt sind. In seinem Essay „Traité des excitants modernes“ von 1839 beschreibt er, fein gemahlenes Kaffeepulver auf nüchternen Magen zu essen. Diese Methode empfahl er nur sehr robusten Naturen.",
+          "hook": "inspirierte Balzac zur Figur des Vautrin",
+          "children": [
+            {
+              "id": "2026-11-02-0-2-0",
+              "title": "Rastignac und Bianchon",
+              "text": "Viele der über 2000 Figuren Balzacs tauchen in mehreren Romanen wieder auf. Diesen Kunstgriff setzte er ab „Le Père Goriot“ (1835) planmäßig ein. Den ehrgeizigen Eugène de Rastignac kennt man deshalb bis heute: Im Französischen heißt ein skrupelloser Aufsteiger „un Rastignac“. Ebenso oft erscheint der Arzt Horace Bianchon, und der Legende nach rief Balzac 1850 auf dem Sterbebett nach ihm, weil nur Bianchon ihn retten könne.",
+              "hook": "mit über 2000 Figuren",
+              "children": [],
+              "source": {
+                "title": "Eugène de Rastignac – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_de_Rastignac"
+              }
+            },
+            {
+              "id": "2026-11-02-0-2-1",
+              "title": "Bachs Kaffeekantate",
+              "text": "Über Kaffee in gewaltigen Mengen machte man sich schon ein Jahrhundert vor Balzac lustig. Johann Sebastian Bach komponierte zwischen 1732 und 1735 die „Kaffeekantate“ BWV 211 für Zimmermanns Kaffeehaus in Leipzig. Darin will ein Vater seiner Tochter Lieschen den Kaffee abgewöhnen und droht, ihr sonst keinen Ehemann zu suchen. Sie gibt scheinbar nach, doch im Schluss, der in Picanders Textvorlage fehlt, lässt sie heimlich verbreiten: Ins Haus kommt nur ein Freier, der ihr den Kaffee im Ehevertrag zusichert.",
+              "hook": "Kaffee in gewaltigen Mengen",
+              "children": [],
+              "source": {
+                "title": "Schweigt stille, plaudert nicht – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Schweigt_stille,_plaudert_nicht"
+              }
+            },
+            {
+              "id": "2026-11-02-0-2-2",
+              "title": "Ein Käse namens Savarin",
+              "text": "Balzacs „Traité des excitants modernes“ erschien 1839 als Anhang zu einer Neuausgabe der „Physiologie du goût“ von Jean Anthelme Brillat-Savarin. Der Jurist hatte das Buch über die Kunst des Essens kurz vor seinem Tod 1826 veröffentlicht. Während der Revolution war er nach Amerika geflohen und hatte sich in New York unter anderem als Geiger in einem Theaterorchester durchgeschlagen. Sein Name lebt heute vor allem auf einem Käse weiter: Der Pariser Käsehändler Henri Androuët benannte in den 1930er-Jahren einen Triple-Crème nach ihm.",
+              "hook": "Traité des excitants modernes",
+              "children": [],
+              "source": {
+                "title": "Jean Anthelme Brillat-Savarin – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Jean_Anthelme_Brillat-Savarin"
+              }
+            }
+          ],
+          "source": {
+            "title": "Honoré de Balzac – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Honor%C3%A9_de_Balzac"
+          }
+        }
+      ],
+      "source": {
+        "title": "Eugène François Vidocq – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Eug%C3%A8ne_Fran%C3%A7ois_Vidocq"
+      }
+    },
+    {
+      "id": "2026-11-02-1",
+      "category": "wissenschaft",
+      "title": "Der Marsmond Phobos",
+      "text": "Phobos, der größere der beiden Marsmonde, ist ein unförmiger Brocken von nur rund 27 Kilometern Länge, 1877 von Asaph Hall entdeckt. Er umkreist den Mars in etwa siebeneinhalb Stunden, also schneller, als der Planet sich dreht, weshalb er von der Marsoberfläche aus im Westen aufgeht. Sein größter Krater heißt Stickney, nach dem Mädchennamen von Halls Frau Angeline. Weil Gezeitenkräfte ihn langsam nach innen ziehen, dürfte er in einigen zehn Millionen Jahren zerbrechen oder auf den Mars stürzen.",
+      "children": [
+        {
+          "id": "2026-11-02-1-0",
+          "title": "Die Bahn, die stillsteht",
+          "text": "Phobos kreist zu schnell. Ein Mond, der genau im Takt der Planetendrehung umliefe, stünde dagegen scheinbar still am Himmel. Über der Erde liegt diese Bahn rund 35.800 Kilometer über dem Äquator. Der slowenische Raumfahrtpionier Herman Potočnik beschrieb sie schon 1928, berühmt machte sie aber Arthur C. Clarke 1945 mit einem Aufsatz in der Zeitschrift „Wireless World“. Ihm zu Ehren heißt sie auch Clarke-Orbit, und heute teilen sich Hunderte Kommunikations- und Wettersatelliten diesen Ring.",
+          "hook": "schneller, als der Planet sich dreht",
+          "children": [
+            {
+              "id": "2026-11-02-1-0-0",
+              "title": "Das Rad des Hermann Noordung",
+              "text": "Potočnik beschrieb die Bahn in einem Buch, das er unter dem Pseudonym Hermann Noordung veröffentlichte: „Das Problem der Befahrung des Weltraums“. Darin entwarf er ein „Wohnrad“, eine Raumstation, die sich dreht, damit ihre Bewohner künstliche Schwerkraft spüren. Stationiert werden sollte sie in genau jener stillstehenden Bahn. Den Ruhm erlebte er nicht mehr, er starb 1929 mit 36 Jahren verarmt in Wien. Das kreisende Rad in Kubricks „2001“, dessen Drehbuch Arthur C. Clarke mitschrieb, dreht sich nach demselben Prinzip.",
+              "hook": "Herman Potočnik beschrieb sie schon 1928",
+              "children": [],
+              "source": {
+                "title": "Herman Potočnik – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Herman_Poto%C4%8Dnik"
+              }
+            },
+            {
+              "id": "2026-11-02-1-0-1",
+              "title": "Der Radaroffizier Clarke",
+              "text": "Bevor Arthur C. Clarke 1945 über Satelliten schrieb, hatte er im Krieg als Radaroffizier der Royal Air Force gedient. Er betreute ein neues System namens Ground Controlled Approach, mit dem Fluglotsen Piloten bei Nebel per Funk bis auf die Landebahn lotsten. Diese Zeit verarbeitete er in „Glide Path“, seinem einzigen Roman ohne Science-Fiction. Entwickelt hatte das System der US-Physiker Luis Alvarez, der 1980 mit seinem Sohn Walter die These aufstellte, ein Asteroideneinschlag habe die Dinosaurier ausgelöscht.",
+              "hook": "Arthur C. Clarke 1945",
+              "children": [],
+              "source": {
+                "title": "Arthur C. Clarke – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Arthur_C._Clarke"
+              }
+            },
+            {
+              "id": "2026-11-02-1-0-2",
+              "title": "Friedhöfe der Raumfahrt",
+              "text": "Weil sich Hunderte Satelliten diesen Ring teilen, ist dort jeder Platz kostbar. Ausgediente Geräte schiebt man deshalb mit dem letzten Treibstoff einige Hundert Kilometer höher in den sogenannten Friedhofsorbit. Für tiefer fliegende Raumfahrzeuge gibt es einen Friedhof auf der Erde: die Gegend um Point Nemo im Südpazifik, rund 2.700 Kilometer von der nächsten Küste entfernt. Dort versank 2001 die Station Mir. Die nächsten Menschen sind an diesem Ort oft die Astronauten der ISS, die rund 400 Kilometer darüber vorbeizieht.",
+              "hook": "Hunderte Kommunikations- und Wettersatelliten diesen Ring",
+              "children": [],
+              "source": {
+                "title": "Raumschifffriedhof – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Raumschifffriedhof"
+              }
+            }
+          ],
+          "source": {
+            "title": "Geosynchrone Umlaufbahn – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Geosynchrone_Umlaufbahn"
+          }
+        },
+        {
+          "id": "2026-11-02-1-1",
+          "title": "Swifts Monde vor der Zeit",
+          "text": "Als Asaph Hall 1877 die Marsmonde fand, standen sie schon seit über 150 Jahren in der Literatur: Jonathan Swift ließ in „Gullivers Reisen“ (1726) die Astronomen der fliegenden Insel Laputa zwei Marsmonde entdecken. Vermutlich griff er eine Idee Johannes Keplers auf, der aus Zahlengründen zwei vermutet hatte, weil die Erde einen und Jupiter damals vier bekannte Monde besaß. Es war ein Zufallstreffer, aber einer, den man gewürdigt hat: Auf Deimos tragen zwei Krater die Namen Swift und Voltaire, der die beiden Monde 1752 ebenfalls erwähnte.",
+          "hook": "1877 von Asaph Hall entdeckt",
+          "children": [
+            {
+              "id": "2026-11-02-1-1-0",
+              "title": "Ein Name mit Beigeschmack",
+              "text": "Die fliegende Insel Laputa, deren Astronomen bei Swift die Marsmonde finden, verspottet weltfremde Gelehrte und schwebt dank eines riesigen Magnetsteins über dem Land. Rebellischen Städten nimmt sie die Sonne oder senkt sich drohend auf sie herab, eine Anspielung auf Englands Druck auf Irland. Den Namen liest man oft als spanisches „la puta“, die Hure. Auch deshalb erschien Hayao Miyazakis Film „Das Schloss im Himmel“ von 1986 in mehreren Ländern, etwa in den USA, Mexiko und Spanien, ohne das Wort Laputa im Titel.",
+              "hook": "fliegenden Insel Laputa",
+              "children": [],
+              "source": {
+                "title": "Laputa (fiktive Insel) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Laputa_(fiktive_Insel)"
+              }
+            },
+            {
+              "id": "2026-11-02-1-1-1",
+              "title": "Keplers falsches Anagramm",
+              "text": "Keplers Idee von zwei Marsmonden hatte auch mit einem Missverständnis zu tun: 1610 teilte Galileo Galilei ihm eine Entdeckung als Buchstabensalat mit, damals ein üblicher Weg, sich die Priorität zu sichern. Kepler ordnete die Buchstaben zu „Salve umbistineum geminatum Martia proles“ und las daraus zwei Begleiter des Mars. Galilei meinte aber „Altissimum planetam tergeminum observavi“: Er hatte den äußersten Planeten dreigestaltig gesehen. Was er an Saturn erspäht hatte, waren die Ringe, die sein Fernrohr noch nicht auflösen konnte.",
+              "hook": "eine Idee Johannes Keplers auf",
+              "children": [],
+              "source": {
+                "title": "Galileo's Anagrams and the Moons of Mars – MathPages",
+                "url": "https://www.mathpages.com/home/kmath151/kmath151.htm"
+              }
+            },
+            {
+              "id": "2026-11-02-1-1-2",
+              "title": "Voltaires Riese vom Sirius",
+              "text": "Voltaire erwähnte die Marsmonde 1752 in „Micromégas“, einer Erzählung, die oft zu den Vorläufern der Science-Fiction gezählt wird. Darin reist ein rund 120.000 Fuß großer Riese vom Sirius mit einem Begleiter vom Saturn durchs Sonnensystem und entdeckt auf der Erde ein Schiff voller Gelehrter, die von einer Polarexpedition heimkehren. Zum Abschied verspricht er den winzigen Philosophen ein Buch, das ihnen den Grund aller Dinge zeigen soll. Als man es in der Pariser Akademie der Wissenschaften aufschlägt, sind alle Seiten leer.",
+              "hook": "Voltaire, der die beiden Monde",
+              "children": [],
+              "source": {
+                "title": "Micromégas – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Microm%C3%A9gas"
+              }
+            }
+          ]
+        },
+        {
+          "id": "2026-11-02-1-2",
+          "title": "Die Grenze des Zerreißens",
+          "text": "Ob Phobos zerbricht, entscheidet die Roche-Grenze: der Abstand, unterhalb dessen die Gezeiten eines Planeten einen Mond stärker auseinanderziehen, als seine eigene Schwerkraft ihn zusammenhält. Berechnet hat sie der französische Astronom Édouard Roche 1848. Zerfällt Phobos, könnte der Mars eine Zeit lang einen Ring tragen, wie Saturn, dessen Hauptringe innerhalb seiner Roche-Grenze liegen. Im Jahr 1992 zerriss Jupiter den Kometen Shoemaker-Levy 9 in über 20 Bruchstücke, die 1994 auf dem Planeten einschlugen.",
+          "hook": "zerbrechen oder auf den Mars stürzen",
+          "children": [
+            {
+              "id": "2026-11-02-1-2-0",
+              "title": "Asche auf dem Mond",
+              "text": "Der Komet ist nach Carolyn und Eugene Shoemaker sowie David Levy benannt, die ihn 1993 am Mount-Palomar-Observatorium entdeckten. Eugene Shoemaker, ein Begründer der Planetengeologie, wollte selbst zum Mond fliegen. Wegen der Addison-Krankheit wurde er ausgemustert und unterrichtete stattdessen Apollo-Astronauten in Geologie. Nach seinem Unfalltod 1997 trug die Sonde Lunar Prospector eine Kapsel mit seiner Asche. Als sie 1999 gezielt nahe dem Südpol aufschlug, wurde er zum ersten Menschen, der auf dem Mond bestattet ist.",
+              "hook": "Kometen Shoemaker-Levy 9",
+              "children": [],
+              "source": {
+                "title": "Eugene Shoemaker – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Eugene_Shoemaker"
+              }
+            },
+            {
+              "id": "2026-11-02-1-2-1",
+              "title": "Der zwinkernde Dämonenstern",
+              "text": "Auf Édouard Roche geht auch das Roche-Volumen zurück: der tropfenförmige Bereich, den die Schwerkraft eines Sterns in einem Doppelsternsystem beherrscht. Damit ließ sich das Rätsel von Algol im Perseus lösen, dessen Name vom arabischen Ausdruck für „Kopf des Dämons“ stammt. Dort ist ausgerechnet der leichtere Stern der ältere, weil er sein Roche-Volumen überschritten und Gas an den Partner abgegeben hat. Dass Algol alle knapp drei Tage verblasst, weil sich die Sterne gegenseitig bedecken, vermutete 1783 der gehörlose John Goodricke. Er starb mit nur 21 Jahren.",
+              "hook": "französische Astronom Édouard Roche",
+              "children": [],
+              "source": {
+                "title": "Algol (Stern) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Algol_(Stern)"
+              }
+            },
+            {
+              "id": "2026-11-02-1-2-2",
+              "title": "Saturns verschwundene Henkel",
+              "text": "Saturns Hauptringe haben einen Durchmesser von rund 270.000 Kilometern, sind aber meist nur zehn Meter bis etwa einen Kilometer dick. Das brachte Galileo Galilei in Verlegenheit: 1610 sah er rätselhafte Anhängsel neben dem Planeten, 1612 waren sie verschwunden. Erst Christiaan Huygens deutete sie 1659 als dünnen, frei schwebenden Ring. Galilei hatte genau auf die Ringkante geblickt. Das wiederholt sich etwa alle 15 Jahre, zuletzt im März 2025, und dann sind die Ringe selbst in großen Teleskopen kaum mehr zu sehen.",
+              "hook": "Saturn, dessen Hauptringe",
+              "children": [],
+              "source": {
+                "title": "Ringe des Saturn – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ringe_des_Saturn"
+              }
+            }
+          ],
+          "source": {
+            "title": "Roche-Grenze – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Roche-Grenze"
+          }
+        }
+      ],
+      "source": {
+        "title": "Phobos (Mond) – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Phobos_(Mond)"
+      }
+    },
+    {
+      "id": "2026-11-02-2",
+      "category": "orte",
+      "title": "Die Bouvetinsel",
+      "text": "Die Bouvetinsel im Südatlantik gilt als entlegenste Insel der Erde: Bis zum nächsten Land, der Küste der Antarktis, sind es rund 1.700 Kilometer. Der Franzose Jean-Baptiste Bouvet de Lozier sichtete sie 1739, hielt sie aber für das Kap eines unbekannten Südkontinents. Seit 1927 beansprucht Norwegen die fast vollständig vergletscherte Insel, auf der niemand lebt. 1964 fand eine Expedition dort ein verlassenes Rettungsboot, dessen Herkunft bis heute ungeklärt ist.",
+      "children": [
+        {
+          "id": "2026-11-02-2-0",
+          "title": "Ein Kontinent aus Theorie",
+          "text": "Den unbekannten Südkontinent, den Bouvet zu sehen glaubte, hatten Gelehrte schon seit der Antike gefordert: Eine große Landmasse im Süden sollte die Länder der Nordhalbkugel ausbalancieren. Im Atlas von Abraham Ortelius von 1570 erschien die „Terra Australis“ als riesiger Erdteil. Erst James Cook räumte mit der Idee auf. Auf seiner zweiten Reise überquerte er im Januar 1773 als Erster nachweislich den südlichen Polarkreis und suchte dabei vergeblich nach Bouvets Kap.",
+          "hook": "unbekannten Südkontinents",
+          "children": [
+            {
+              "id": "2026-11-02-2-0-0",
+              "title": "Der Atlas, der Wegener ahnte",
+              "text": "Das „Theatrum Orbis Terrarum“ des Antwerpener Kartografen Abraham Ortelius gilt als erster moderner Atlas: Karten in einheitlichem Format, zu einem Buch gebunden. Das Werk wurde zum Verkaufserfolg und erschien bis ins 17. Jahrhundert in zahlreichen Auflagen und Sprachen. Beim Vergleichen der Küstenlinien fiel Ortelius etwas auf. 1596 schrieb er, Amerika sei offenbar durch Erdbeben und Fluten von Europa und Afrika fortgerissen worden. Das war mehr als drei Jahrhunderte, bevor Alfred Wegener die Kontinentaldrift beschrieb.",
+              "hook": "Atlas von Abraham Ortelius",
+              "children": [],
+              "source": {
+                "title": "Theatrum Orbis Terrarum – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Theatrum_Orbis_Terrarum"
+              }
+            },
+            {
+              "id": "2026-11-02-2-0-1",
+              "title": "Die Uhr an Cooks Bord",
+              "text": "Auf seiner zweiten Reise erprobte Cook auch eine neue Technik: An Bord der „Resolution“ tickte K1, ein Nachbau von John Harrisons Seeuhr H4, angefertigt vom Londoner Uhrmacher Larcum Kendall. Mit einer genau gehenden Uhr ließ sich auf See der Längengrad bestimmen, das große Navigationsproblem der Epoche. K1 hielt in tropischer Hitze wie im antarktischen Eis die Zeit, und Cook lobte sie ausdrücklich. Danach fuhr sie auf seiner dritten Reise mit und 1787 mit der First Fleet, die in Australien die erste britische Sträflingskolonie gründete.",
+              "hook": "Auf seiner zweiten Reise",
+              "children": [],
+              "source": {
+                "title": "Marine timekeeper 'K1' by Larcum Kendall – Royal Museums Greenwich (Sammlungsobjekt)",
+                "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-79143"
+              }
+            },
+            {
+              "id": "2026-11-02-2-0-2",
+              "title": "Der Heilige der Antipoden",
+              "text": "Wenn es im Süden Land gab, lebten dort vielleicht auch Menschen. Diese Idee von den Antipoden war im Mittelalter heikel: Wie sollten sie von Adam abstammen, wenn niemand die heiße Zone am Äquator durchqueren konnte? Um 748 beschwerte sich Bonifatius beim Papst über den irischen Mönch Virgil, der angeblich eine andere Welt mit anderen Menschen unter der Erde lehrte. Papst Zacharias drohte mit Absetzung. Virgil wurde trotzdem Bischof von Salzburg und 1233 heiliggesprochen.",
+              "hook": "schon seit der Antike gefordert",
+              "children": [],
+              "source": {
+                "title": "Virgil von Salzburg – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Virgil_von_Salzburg"
+              }
+            }
+          ],
+          "source": {
+            "title": "Terra Australis – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Terra_Australis"
+          }
+        },
+        {
+          "id": "2026-11-02-2-1",
+          "title": "Der Doppelblitz von 1979",
+          "text": "Die Gewässer um die Bouvetinsel im Südatlantik wurden 1979 zum Schauplatz eines Rätsels aus dem Atomzeitalter. Am 22. September registrierte der US-Satellit Vela 6911 zwischen Bouvet und den Prinz-Edward-Inseln einen Doppelblitz, wie ihn sonst Kernexplosionen erzeugen. Ein Expertengremium der Carter-Regierung hielt einen Messfehler für möglich, etwa durch einen Mikrometeoriten. Viele Fachleute vermuten dagegen einen geheimen Test Israels und Südafrikas. Offiziell ist der „Vela-Zwischenfall“ bis heute ungeklärt.",
+          "hook": "Die Bouvetinsel im Südatlantik",
+          "children": [
+            {
+              "id": "2026-11-02-2-1-0",
+              "title": "Satelliten auf Bombensuche",
+              "text": "Vela 6911 gehörte zu einer Satellitenserie, die ab 1963 die Einhaltung des Atomteststoppvertrags überwachte; der Name kommt vom spanischen „velar“, wachen. In den Daten stießen Forscher in Los Alamos um Ray Klebesadel auf Gammablitze, die eindeutig nicht von der Erde stammten. Der erste war schon im Juli 1967 aufgezeichnet worden, veröffentlicht wurde die Entdeckung erst 1973. Die Satelliten, die Bomben suchen sollten, hatten die gewaltigsten Explosionen des Universums gefunden: Gammablitze aus fernen Galaxien.",
+              "hook": "US-Satellit Vela 6911",
+              "children": [],
+              "source": {
+                "title": "Gammablitz – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gammablitz"
+              }
+            },
+            {
+              "id": "2026-11-02-2-1-1",
+              "title": "Die Bombe, die verschwand",
+              "text": "Ob Südafrika 1979 beteiligt war, ist umstritten. Sicher ist aber, dass das Land damals heimlich an eigenen Atomwaffen arbeitete. Bis Ende der 1980er-Jahre baute es nahe Pretoria sechs Sprengkörper aus hochangereichertem Uran. 1993 enthüllte Präsident Frederik de Klerk, dass sie bereits zerlegt worden waren, noch vor dem Beitritt zum Atomwaffensperrvertrag 1991. Damit ist Südafrika bis heute das einzige Land, das selbst gebaute Atomwaffen freiwillig vollständig aufgegeben hat.",
+              "hook": "Test Israels und Südafrikas",
+              "children": [],
+              "source": {
+                "title": "Südafrikanisches Atomprogramm – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/S%C3%BCdafrikanisches_Atomprogramm"
+              }
+            },
+            {
+              "id": "2026-11-02-2-1-2",
+              "title": "Fünf Katzen für Marion",
+              "text": "Die größte der Prinz-Edward-Inseln ist die Marion-Insel, auf der Südafrika seit 1948 eine Wetterstation betreibt. 1949 brachte man fünf Hauskatzen dorthin, die gegen eingeschleppte Mäuse helfen sollten. Mitte der 1970er-Jahre streiften rund 2.000 Katzen über die Insel und töteten jedes Jahr Hunderttausende Seevögel. Mit einem Katzenvirus, Fallen und Jägern wurden sie bis 1991 ausgerottet. Seitdem vermehren sich die Mäuse, begünstigt auch durch das wärmere Klima, so stark, dass sie inzwischen Albatrosküken bei lebendigem Leib anfressen.",
+              "hook": "den Prinz-Edward-Inseln",
+              "children": [],
+              "source": {
+                "title": "Marion-Insel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Marion-Insel"
+              }
+            }
+          ],
+          "source": {
+            "title": "Vela-Zwischenfall – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Vela-Zwischenfall"
+          }
+        },
+        {
+          "id": "2026-11-02-2-2",
+          "title": "Die leere Mary Celeste",
+          "text": "Ein verlassenes Rettungsboot gibt Rätsel auf, ein fehlendes aber auch. Im Dezember 1872 trieb die Brigantine Mary Celeste führerlos zwischen den Azoren und Portugal. Die Besatzung der Dei Gratia fand das Schiff seetüchtig und mit rund 1.700 Fässern Alkohol beladen. Kapitän Benjamin Briggs, seine Frau, ihre kleine Tochter und sieben Seeleute waren aber samt Beiboot verschwunden. Viele der heutigen Mythen gehen auf eine Erzählung zurück, die der junge Arthur Conan Doyle 1884 veröffentlichte.",
+          "hook": "ein verlassenes Rettungsboot",
+          "children": [
+            {
+              "id": "2026-11-02-2-2-0",
+              "title": "Doyle und die Papierfeen",
+              "text": "Conan Doyles erfundene Geschichte hielten manche für wahr, und Jahrzehnte später fiel er selbst auf eine Fälschung herein. 1917 fotografierten die Cousinen Elsie Wright und Frances Griffiths im englischen Cottingley angebliche Feen. Doyle, inzwischen überzeugter Spiritist, stellte die Bilder 1920 im Strand Magazine als Beweis vor. Erst 1983 gaben die beiden betagten Frauen zu, dass die Feen aus Papier ausgeschnitten und mit Hutnadeln befestigt waren. Frances blieb allerdings bis zuletzt dabei, das fünfte Foto sei echt.",
+              "hook": "der junge Arthur Conan Doyle",
+              "children": [],
+              "source": {
+                "title": "The Cottingley Fairies – The Victorian Web",
+                "url": "https://victorianweb.org/victorian/authors/doyle/fairies.html"
+              }
+            },
+            {
+              "id": "2026-11-02-2-2-1",
+              "title": "Die Räuber im Schiffsnamen",
+              "text": "Im Wort Brigantine steckt ein rauer Ursprung: Es geht auf das italienische „brigantino“ zurück, verwandt mit „brigante“, dem Räuber. Gemeint waren ursprünglich wendige Segelschiffe des Mittelmeers, wie sie auch Freibeuter gern nutzten. Aus derselben Wortfamilie stammt die Brigantine als Rüstung, ein Wams aus Stoff oder Leder, unter das kleine Eisenplatten genietet waren. Und auch die Brigade geht auf diese Wurzel zurück, auf das italienische „brigata“, eine Schar. Ausgerechnet ein Wort für militärische Ordnung ist also mit dem Räuber verwandt.",
+              "hook": "die Brigantine Mary Celeste",
+              "children": [],
+              "source": {
+                "title": "Brigantine (Schiffstyp) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Brigantine_(Schiffstyp)"
+              }
+            },
+            {
+              "id": "2026-11-02-2-2-2",
+              "title": "Die gottlose Münze",
+              "text": "„Dei Gratia“, also „von Gottes Gnaden“, war nicht nur ein Schiffsname, sondern auch eine Formel, die 1849 in Großbritannien einen Skandal auslöste. Auf dem neuen Florin, einer Zwei-Shilling-Münze und einem ersten Schritt Richtung Dezimalwährung, fehlte hinter Victorias Namen das übliche „D. G.“. Die Öffentlichkeit taufte ihn spöttisch „Godless Florin“, 1851 kam eine neue Version mit der Formel. Kanada unterlief 1911 bei den ersten Münzen Georgs V. derselbe Fehler, und schon im Jahr darauf wurde Gott wieder eingeprägt.",
+              "hook": "Die Besatzung der Dei Gratia",
+              "children": [],
+              "source": {
+                "title": "Florin (britische Münze) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Florin_(britische_M%C3%BCnze)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Mary Celeste – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Mary_Celeste"
+          }
+        }
+      ],
+      "source": {
+        "title": "Bouvetinsel – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Bouvetinsel"
+      }
+    }
+  ]
+}
