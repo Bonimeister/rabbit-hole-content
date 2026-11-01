@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-01T00:38:07.118Z",
+  "topics": [
+    {
+      "id": "2026-11-03-0",
+      "category": "natur",
+      "title": "Der Grottenolm",
+      "text": "Der Grottenolm (Proteus anguinus) ist ein blinder, blassrosa Schwanzlurch, der von Natur aus nur in den Karsthöhlen des Dinarischen Gebirges lebt, vom Nordosten Italiens über Slowenien und Kroatien bis in die Herzegowina. Der Krainer Gelehrte Johann Weichard von Valvasor berichtete 1689, die Einheimischen hielten die Tiere für die Jungen eines Höhlendrachen. Grottenolme werden vermutlich über 100 Jahre alt und können jahrelang ohne Nahrung überleben. In einer Langzeitstudie blieb ein markiertes Tier mehr als sieben Jahre lang fast an derselben Stelle.",
+      "children": [
+        {
+          "id": "2026-11-03-0-0",
+          "title": "Valvasors teures Lebenswerk",
+          "text": "Valvasors Drachenbericht steht in einem riesigen Werk: „Die Ehre deß Hertzogthums Crain“ erschien 1689 in Nürnberg, mit über 3500 Seiten und mehreren hundert Kupferstichen. Schon 1687 hatte ihn die Royal Society in London aufgenommen, weil er den Cerkniško jezero erklärt hatte, einen See, der durch unterirdische Karstkanäle immer wieder verschwindet und zurückkehrt. Den Druck bezahlte Valvasor selbst und ruinierte sich damit. Er musste Schloss Bogenšperk und seine Bibliothek verkaufen, die heute in Zagreb liegt.",
+          "hook": "Johann Weichard von Valvasor berichtete 1689",
+          "children": [
+            {
+              "id": "2026-11-03-0-0-0",
+              "title": "Ein Spion im Tower",
+              "text": "Die Royal Society, 1660 gegründet, verbreitete Berichte wie Valvasors Seebeschreibung vor allem über die Zeitschrift „Philosophical Transactions“. Sie erscheint seit 1665 und gilt als älteste noch bestehende Wissenschaftszeitschrift der Welt. Gegründet und bis zu seinem Tod 1677 herausgegeben hatte sie der Sekretär Henry Oldenburg, ein gebürtiger Bremer, der Briefe mit Gelehrten in ganz Europa wechselte. Genau das wurde ihm zum Verhängnis: 1667, mitten im Krieg gegen die Niederlande, hielt man ihn für einen Spion und sperrte ihn für etwa zwei Monate in den Tower.",
+              "hook": "die Royal Society in London",
+              "children": [],
+              "source": {
+                "title": "Henry Oldenburg – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Henry_Oldenburg"
+              }
+            },
+            {
+              "id": "2026-11-03-0-0-1",
+              "title": "Pferde aus dem Karst",
+              "text": "Das Wort „Karst“ geht auf eine echte Landschaft zurück: Kras, das Kalkplateau zwischen Slowenien und Triest, nach dem Geologen heute solche Gebiete weltweit benennen. Im Dorf Lipica auf diesem Plateau gründete Erzherzog Karl II. 1580 ein Gestüt für den Habsburger Hof. Nach dem Ort heißen die Pferde bis heute: Lipizzaner. Ihr berühmtes Weiß müssen sie sich allerdings erst erwachsen. Die Fohlen kommen dunkel zur Welt und werden erst im Lauf von etwa sechs bis zehn Jahren zu Schimmeln.",
+              "hook": "durch unterirdische Karstkanäle",
+              "children": [],
+              "source": {
+                "title": "Gestüt Lipica – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gest%C3%BCt_Lipica"
+              }
+            },
+            {
+              "id": "2026-11-03-0-0-2",
+              "title": "Eine Stadt für viele",
+              "text": "Dass ein Prachtwerk wie Valvasors Krain in Nürnberg erschien, war kein Zufall: Die Stadt war seit dem 15. Jahrhundert eine Hochburg des illustrierten Buchdrucks. 1493 brachte der Verleger Anton Koberger dort die Schedelsche Weltchronik heraus, mit über 1800 Holzschnitten aus der Werkstatt Michael Wolgemuts, bei dem kurz zuvor der junge Albrecht Dürer gelernt hatte. Gedruckt wurden all diese Bilder aber von nur rund 650 Druckstöcken. So muss im Buch ein und dieselbe Stadtansicht mehrmals für ganz verschiedene Städte herhalten.",
+              "hook": "erschien 1689 in Nürnberg",
+              "children": [],
+              "source": {
+                "title": "Schedelsche Weltchronik – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Schedelsche_Weltchronik"
+              }
+            }
+          ],
+          "source": {
+            "title": "Die Ehre dess Hertzogthums Crain – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Die_Ehre_dess_Hertzogthums_Crain"
+          }
+        },
+        {
+          "id": "2026-11-03-0-1",
+          "title": "Ein Käfer namens Hitler",
+          "text": "Blind ist im slowenischen Karst nicht nur der Olm: In wenigen Höhlen bei Celje lebt der augenlose, etwa fünf Millimeter lange Laufkäfer Anophthalmus hitleri. Der österreichische Sammler Oskar Scheibel benannte ihn 1937 nach Adolf Hitler. Nach den Regeln der zoologischen Nomenklatur lässt sich der Name nicht einfach ändern. Heute ist der Käfer bei Sammlern von NS-Devotionalien begehrt, für ein Exemplar wurden schon über tausend Euro gezahlt, und das bedroht die kleinen Bestände zusätzlich.",
+          "hook": "ein blinder, blassrosa Schwanzlurch",
+          "children": [
+            {
+              "id": "2026-11-03-0-1-0",
+              "title": "Brontosaurus kehrt zurück",
+              "text": "Die Regeln der zoologischen Nomenklatur folgen einem strengen Prioritätsprinzip: Der älteste gültig veröffentlichte Name gewinnt. Das wurde dem Brontosaurus zum Verhängnis. Othniel Charles Marsh hatte 1877 Apatosaurus und 1879 Brontosaurus beschrieben, und als Elmer Riggs 1903 beide derselben Gattung zuordnete, musste der berühmtere Name weichen. Über hundert Jahre später kam eine große Studie 2015 zu dem Schluss, die Unterschiede reichten doch für eine eigene Gattung. Seitdem führen viele Paläontologen den Brontosaurus wieder als gültigen Namen.",
+              "hook": "Regeln der zoologischen Nomenklatur",
+              "children": [],
+              "source": {
+                "title": "Brontosaurus – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Brontosaurus"
+              }
+            },
+            {
+              "id": "2026-11-03-0-1-1",
+              "title": "Der Käfer mit Kanone",
+              "text": "Zu den Laufkäfern gehören auch die Bombardierkäfer. Werden sie angegriffen, mischen sie in einer Kammer im Hinterleib Hydrochinone und Wasserstoffperoxid mit Enzymen. Die Reaktion schießt einen fast 100 Grad heißen, ätzenden Strahl ab, bei manchen Arten in Hunderten Pulsen pro Sekunde. Charles Darwin schildert in seiner Autobiografie, wie er als Student in jeder Hand einen seltenen Käfer hielt, einen dritten entdeckte und einen davon in den Mund steckte. Der spritzte ihm eine brennende Flüssigkeit auf die Zunge, und am Ende waren zwei der drei Käfer verloren.",
+              "hook": "Laufkäfer",
+              "children": [],
+              "source": {
+                "title": "Bombardierkäfer – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bombardierk%C3%A4fer"
+              }
+            },
+            {
+              "id": "2026-11-03-0-1-2",
+              "title": "Kujaus falsche Tagebücher",
+              "text": "Der Markt für NS-Devotionalien brachte 1983 eine der größten Blamagen der deutschen Pressegeschichte hervor: Der „Stern“ präsentierte angebliche Tagebücher Hitlers und hatte dafür rund neun Millionen Mark gezahlt. Geschrieben hatte sie der Stuttgarter Militaria-Händler Konrad Kujau. Nach knapp zwei Wochen fanden Gutachter in Papier und Einband Stoffe, die es erst nach dem Krieg gab. Kujau saß dafür im Gefängnis und verkaufte danach als Maler ganz offen Kopien berühmter Gemälde, als „Original Kujau-Fälschungen“.",
+              "hook": "Sammlern von NS-Devotionalien",
+              "children": [],
+              "source": {
+                "title": "Hitler-Tagebücher – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Hitler-Tageb%C3%BCcher"
+              }
+            }
+          ],
+          "source": {
+            "title": "Anophthalmus hitleri – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Anophthalmus_hitleri"
+          }
+        },
+        {
+          "id": "2026-11-03-0-2",
+          "title": "Methusalem der Tiefsee",
+          "text": "Weit älter als der Grottenolm wird der Grönlandhai, ein träger Bewohner kalter Tiefen im Nordatlantik. 2016 bestimmte ein Team um den dänischen Biologen Julius Nielsen das Alter von 28 Weibchen per Radiokarbonmethode am Kern der Augenlinse, der schon vor der Geburt entsteht. Das größte Tier, gut fünf Meter lang, war demnach etwa 270 bis 510 Jahre alt. Als Zeitmarke diente das „Bombenkarbon“ aus den Atomtests der 1950er- und 60er-Jahre.",
+          "hook": "vermutlich über 100 Jahre alt",
+          "children": [
+            {
+              "id": "2026-11-03-0-2-0",
+              "title": "Der Zeitstempel in uns",
+              "text": "Die Atomtests der 1950er- und 60er-Jahre verdoppelten auf der Nordhalbkugel fast den C-14-Anteil der Luft. Seitdem trägt jede neu gebildete Zelle einen Zeitstempel. Ab 2005 bestimmte das Team des schwedischen Stammzellforschers Jonas Frisén am Karolinska-Institut damit das Alter menschlicher Zellen. So zeigte sich, dass bei Erwachsenen in jedem der beiden Hippocampi täglich rund 700 neue Nervenzellen entstehen. Die Neuronen der Großhirnrinde dagegen sind praktisch so alt wie ihr Besitzer.",
+              "hook": "aus den Atomtests der 1950er- und 60er-Jahre",
+              "children": [],
+              "source": {
+                "title": "Jonas Frisén – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Jonas_Fris%C3%A9n"
+              }
+            },
+            {
+              "id": "2026-11-03-0-2-1",
+              "title": "Warum „heute“ 1950 ist",
+              "text": "Die Radiokarbonmethode entwickelte der US-Chemiker Willard Libby Ende der 1940er-Jahre in Chicago. 1960 erhielt er dafür den Chemie-Nobelpreis. Libby rechnete für C-14 mit einer Halbwertszeit von 5568 Jahren, tatsächlich sind es rund 5730. Trotzdem gibt man konventionelle Radiokarbonalter bis heute mit Libbys Wert an, damit alte und neue Messungen vergleichbar bleiben. Und das „vor heute“ in solchen Angaben meint immer das Jahr 1950, also die Zeit kurz bevor die Atomtests die Atmosphäre verfälschten.",
+              "hook": "per Radiokarbonmethode",
+              "children": [],
+              "source": {
+                "title": "Radiokarbonmethode – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Radiokarbonmethode"
+              }
+            },
+            {
+              "id": "2026-11-03-0-2-2",
+              "title": "Hai, vergraben und vergoren",
+              "text": "Ein träger Bewohner kalter Tiefen braucht eine besondere Chemie. Das Gewebe des Grönlandhais enthält viel Harnstoff und Trimethylaminoxid, das seine Proteine gegen Druck und Kälte stabilisiert. Frisch gegessen gilt das Fleisch deshalb als giftig. In Island macht man daraus Hákarl: Das Fleisch gärt wochenlang, früher meist unter Kies vergraben, und trocknet dann monatelang an der Luft. Das stark nach Ammoniak riechende Ergebnis kommt traditionell zum Mittwinterfest Þorrablót auf den Tisch, gern mit einem Kümmelschnaps namens Brennivín.",
+              "hook": "ein träger Bewohner kalter Tiefen",
+              "children": [],
+              "source": {
+                "title": "Kuriose Delikatessen: Hákarl – Planet Wissen",
+                "url": "https://www.planet-wissen.de/gesellschaft/essen/gourmetkueche/kuriose-delikatessen-hakarl-100.html"
+              }
+            }
+          ],
+          "source": {
+            "title": "Grönlandhai – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Gr%C3%B6nlandhai"
+          }
+        }
+      ],
+      "source": {
+        "title": "Grottenolm – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Grottenolm"
+      }
+    },
+    {
+      "id": "2026-11-03-1",
+      "category": "geschichte",
+      "title": "Die Hündin Laika",
+      "text": "Am 3. November 1957 startete die Sowjetunion Sputnik 2 und mit ihm die Hündin Laika, eine Streunerin aus Moskau. Sie war das erste Tier in einer Erdumlaufbahn, eine Rückkehr war von Anfang an nicht vorgesehen. Lange hieß es offiziell, sie sei nach einigen Tagen schmerzlos gestorben. Erst 2002 wurde bekannt, dass sie schon nach wenigen Stunden an Überhitzung und Stress starb. Die Kapsel verglühte im April 1958 nach rund 2500 Erdumrundungen.",
+      "children": [
+        {
+          "id": "2026-11-03-1-0",
+          "title": "Warum Streunerinnen flogen",
+          "text": "Dass Laika eine Streunerin aus Moskau war, hatte Methode: Sowjetische Raumfahrtmediziner suchten gezielt Straßenhunde aus, weil sie Kälte und Hunger gewohnt waren. Bevorzugt wurden kleine Hündinnen, auch weil sie beim Urinieren nicht das Bein heben und so besser zu den engen Auffangvorrichtungen passten. Im August 1960 kehrten Belka und Strelka mit Sputnik 5 als erste Hunde lebend aus dem Orbit zurück. Strelkas Welpe Puschinka kam 1961 als Geschenk Chruschtschows zu Caroline Kennedy ins Weiße Haus.",
+          "hook": "eine Streunerin aus Moskau",
+          "children": [
+            {
+              "id": "2026-11-03-1-0-0",
+              "title": "Gagarins geheime Landung",
+              "text": "Sputnik 5 war in Wahrheit ein Testflug: Die Kapsel war ein Prototyp der Wostok, mit der Juri Gagarin am 12. April 1961 als erster Mensch die Erde umrundete. Gagarin landete allerdings nicht in seiner Kapsel. In rund sieben Kilometern Höhe schleuderte ihn der Schleudersitz hinaus, und er kam am eigenen Fallschirm herunter. Moskau verschwieg das jahrelang, denn nach den Regeln des Luftsportverbands FAI musste der Pilot für einen Rekord im Fluggerät landen. Anerkannt wurde der Rekord trotzdem.",
+              "hook": "mit Sputnik 5 als erste Hunde",
+              "children": [],
+              "source": {
+                "title": "Juri Alexejewitsch Gagarin – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Juri_Alexejewitsch_Gagarin"
+              }
+            },
+            {
+              "id": "2026-11-03-1-0-1",
+              "title": "Wohin mit dem Urin?",
+              "text": "Wohin mit dem Urin, war auch bei Menschen im All eine Frage. Alan Shepard, der erste Amerikaner im Weltraum, wartete 1961 stundenlang in seiner Kapsel auf den Start und durfte schließlich in seinen Druckanzug urinieren. Vorher hatte man die Messfühler an seinem Körper abgeschaltet. Weil der Flug nur rund 15 Minuten dauern sollte, hatte niemand eine Toilette eingeplant. Heute wird auf der ISS Urin zu Trinkwasser aufbereitet, und seit 2023 gewinnt die Station rund 98 Prozent ihres Wassers zurück.",
+              "hook": "zu den engen Auffangvorrichtungen",
+              "children": [],
+              "source": {
+                "title": "Weltraumtoilette – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Weltraumtoilette"
+              }
+            },
+            {
+              "id": "2026-11-03-1-0-2",
+              "title": "Das Kind des Sputnik-Jahres",
+              "text": "Caroline Kennedy, die Chruschtschows Hundegeschenk bekam, war selbst ein Kind des Sputnik-Jahres: Sie wurde am 27. November 1957 geboren, gut drei Wochen nach Laikas Start. Heute ist sie das einzige noch lebende Kind von John F. und Jacqueline Kennedy, ihr Bruder John Jr. starb 1999 als Erwachsener bei einem Flugzeugabsturz. Sie wurde Juristin und Autorin. Später ging sie selbst in die Diplomatie. 2013 wurde sie die erste Frau als US-Botschafterin in Japan, 2022 schickte Joe Biden sie als Botschafterin nach Australien.",
+              "hook": "Geschenk Chruschtschows zu Caroline Kennedy",
+              "children": [],
+              "source": {
+                "title": "Caroline Kennedy – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Caroline_Kennedy"
+              }
+            }
+          ],
+          "source": {
+            "title": "Von der Strasse in den Orbit – derStandard",
+            "url": "https://www.derstandard.at/2000067062434/von-der-strasse-in-den-orbit-vor-60-jahren-fand"
+          }
+        },
+        {
+          "id": "2026-11-03-1-1",
+          "title": "Fruchtfliegen auf der V-2",
+          "text": "Laika war das erste Tier in einer Erdumlaufbahn, im Weltraum waren aber schon andere vor ihr. Am 20. Februar 1947 schossen US-Forscher in White Sands, New Mexico, Fruchtfliegen mit einer erbeuteten deutschen V-2 über 100 Kilometer hoch. Die Kapsel kam am Fallschirm zurück, die Fliegen lebten. Sie sollten zeigen, wie Strahlung in großer Höhe auf das Erbgut wirkt. 1949 erreichte der Rhesusaffe Albert II. auf einer V-2 den Weltraum, starb aber beim Aufprall, weil sein Fallschirm versagte.",
+          "hook": "das erste Tier in einer Erdumlaufbahn",
+          "children": [
+            {
+              "id": "2026-11-03-1-1-0",
+              "title": "Ein Affe im Blutbild",
+              "text": "Der Rhesusaffe steckt nicht nur in der Raumfahrtgeschichte, sondern auch in jeder Blutgruppenbestimmung. 1940 berichteten Karl Landsteiner und Alexander Wiener, dass sie Rhesusaffenblut in Kaninchen und Meerschweinchen gespritzt hatten; deren Antikörper verklumpten das Blut der meisten getesteten Menschen. So entstand der Name Rhesusfaktor, der etwa in der Schwangerschaftsvorsorge wichtig ist. Später zeigte sich, dass die Tierantikörper ein anderes Merkmal erkannten als das menschliche Rh-Antigen: Der Name beruht auf einem Irrtum.",
+              "hook": "Rhesusaffe Albert II.",
+              "children": [],
+              "source": {
+                "title": "Rhesusfaktor – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Rhesusfaktor"
+              }
+            },
+            {
+              "id": "2026-11-03-1-1-1",
+              "title": "Die Fabrik im Berg",
+              "text": "Bevor die V-2 in amerikanische Hände fiel, wurde sie im Stollensystem des Kohnstein bei Nordhausen gebaut, von Häftlingen des KZ Mittelbau-Dora. Tausende Zwangsarbeiter starben dort an Hunger, Kälte, Misshandlung und Erschöpfung. Historiker schätzen, dass die Herstellung der Rakete mehr Menschenleben kostete als ihr Einsatz gegen London, Antwerpen und andere Städte. Viele beteiligte Ingenieure holten die USA mit der Operation Paperclip ins Land, darunter Wernher von Braun, der später die Mondrakete Saturn V entwickelte.",
+              "hook": "erbeuteten deutschen V-2",
+              "children": [],
+              "source": {
+                "title": "KZ Mittelbau-Dora – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/KZ_Mittelbau-Dora"
+              }
+            },
+            {
+              "id": "2026-11-03-1-1-2",
+              "title": "Fliegen und der Nobelpreis",
+              "text": "Dass Strahlung das Erbgut verändert, hatte der Genetiker Hermann Joseph Muller schon 1927 gezeigt – ebenfalls an Fruchtfliegen. Er bestrahlte sie mit Röntgenstrahlen und fand bei ihren Nachkommen sprunghaft mehr Mutationen. Dafür erhielt er im Dezember 1946 den Nobelpreis, rund zwei Monate vor dem V-2-Start in White Sands. In seiner Nobelrede warnte er, es gebe keine Schwellendosis, unterhalb derer Strahlung genetisch harmlos sei – eine Annahme, die bis heute den Strahlenschutz prägt.",
+              "hook": "Strahlung in großer Höhe",
+              "children": [],
+              "source": {
+                "title": "Hermann J. Muller – Facts – NobelPrize.org",
+                "url": "https://www.nobelprize.org/prizes/medicine/1946/muller/facts/"
+              }
+            }
+          ],
+          "source": {
+            "title": "Fruit flies in space – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fruit_flies_in_space"
+          }
+        },
+        {
+          "id": "2026-11-03-1-2",
+          "title": "Die verschwiegene Explosion",
+          "text": "Dass die Wahrheit über Laika erst 2002 herauskam, war typisch für eine Raumfahrt, die Rückschläge systematisch verschwieg. Am 24. Oktober 1960 explodierte in Baikonur eine R-16-Interkontinentalrakete auf der Startrampe, während Techniker an der betankten Rakete arbeiteten. Wie viele Menschen starben, ist bis heute umstritten: Die Angaben reichen von 78 bis über 120. Unter den Toten war Marschall Mitrofan Nedelin, dessen Tod einem Flugzeugabsturz zugeschrieben wurde. Erst 1989 räumte die Sowjetunion die Katastrophe öffentlich ein.",
+          "hook": "Erst 2002 wurde bekannt",
+          "children": [
+            {
+              "id": "2026-11-03-1-2-0",
+              "title": "Der geliehene Name",
+              "text": "Baikonur, wo die R-16 explodierte, lag eigentlich gar nicht in Baikonur. Der Name gehörte einer Bergbausiedlung rund 300 Kilometer weiter nordöstlich und sollte westliche Geheimdienste in die Irre führen, denn der Startplatz entstand bei der Bahnstation Tjuratam in der kasachischen Steppe. Die zugehörige Stadt hieß lange Leninsk und wurde erst 1995 offiziell in Baikonur umbenannt. Heute trägt also eine ganze Stadt den Tarnnamen, und Russland hat sie von Kasachstan bis 2050 gepachtet.",
+              "hook": "explodierte in Baikonur",
+              "children": [],
+              "source": {
+                "title": "Baikonur – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Baikonur"
+              }
+            },
+            {
+              "id": "2026-11-03-1-2-1",
+              "title": "Der verfluchte 24. Oktober",
+              "text": "Der 24. Oktober 1960 wurde für Baikonur zum Unglücksdatum, und drei Jahre später traf es den Ort am selben Tag erneut: 1963 brach in einem Silo mit einer R-9-Rakete ein Feuer aus, sieben Menschen starben. Seitdem gilt der 24. Oktober dort als Gedenktag, an dem nach Möglichkeit nicht gestartet wird. Auch sonst pflegt die russische Raumfahrt Rituale, etwa den Film „Weiße Sonne der Wüste“ am Abend vor dem Start. Auf dem Weg zur Rampe urinieren Kosmonauten an ein Rad des Busses, so wie es Juri Gagarin 1961 getan haben soll.",
+              "hook": "Am 24. Oktober 1960",
+              "children": []
+            },
+            {
+              "id": "2026-11-03-1-2-2",
+              "title": "Heptyl: Gift im Tank",
+              "text": "Dass die Techniker an der betankten Rakete arbeiteten, war besonders gefährlich: Die R-16 flog mit einem Salpetersäure-Gemisch und unsymmetrischem Dimethylhydrazin, in Russland „Heptyl“ genannt. Beide Stoffe sind hochgiftig und entzünden sich von selbst, sobald sie miteinander in Berührung kommen. Das Militär schätzte solche hypergolen Treibstoffe trotzdem, weil sie sich lange lagern lassen und eine Rakete ohne aufwendige Vorbereitung startklar machen. Auch die Apollo-Mondfähre landete mit einem Treibstoff, der zur Hälfte aus Dimethylhydrazin bestand.",
+              "hook": "an der betankten Rakete arbeiteten",
+              "children": [],
+              "source": {
+                "title": "1,1-Dimethylhydrazin – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/1,1-Dimethylhydrazin"
+              }
+            }
+          ],
+          "source": {
+            "title": "Nedelin-Katastrophe – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Nedelin-Katastrophe"
+          }
+        }
+      ],
+      "source": {
+        "title": "Laika – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Laika"
+      }
+    },
+    {
+      "id": "2026-11-03-2",
+      "category": "technik",
+      "title": "Harrisons Uhr H4",
+      "text": "Der Zimmermann John Harrison aus Yorkshire baute mit der H4 eine Uhr in Taschenuhrformat, mit der sich auf See der Längengrad bestimmen ließ. Das britische Parlament hatte für eine solche Lösung 1714 im Longitude Act bis zu 20.000 Pfund ausgelobt. Auf der Probefahrt nach Jamaika 1761/62 ging die Uhr in rund 81 Tagen nur wenige Sekunden nach. Das Board of Longitude verweigerte ihm trotzdem den vollen Preis. Erst 1773 erhielt Harrison mit Unterstützung von König Georg III. eine Ausgleichszahlung vom Parlament.",
+      "children": [
+        {
+          "id": "2026-11-03-2-0",
+          "title": "Schiffbruch vor Scilly",
+          "text": "Der Longitude Act von 1714 wird oft mit einer Katastrophe sieben Jahre zuvor verbunden: Im Oktober 1707 lief eine britische Flotte unter Admiral Cloudesley Shovell vor den Scilly-Inseln auf die Klippen. Vier Kriegsschiffe sanken, darunter das Flaggschiff HMS Association, und weit über tausend Seeleute starben. Historiker sehen die Ursache allerdings eher in fehlerhaften Seekarten und ungenauer Koppelnavigation als allein im unbekannten Längengrad. Einer Legende nach erreichte Shovell lebend den Strand von St Mary's und wurde dort wegen seines Smaragdrings ermordet.",
+          "hook": "1714 im Longitude Act",
+          "children": [
+            {
+              "id": "2026-11-03-2-0-0",
+              "title": "335 Jahre Krieg mit Holland",
+              "text": "Vor den Scilly-Inseln spielt auch eine der kuriosesten Fußnoten der Kriegsgeschichte. 1651, im Englischen Bürgerkrieg, sollen die Niederlande den royalistisch gehaltenen Inseln den Krieg erklärt haben, weil von dort aus Kaperer ihre Schiffe angriffen. Frieden wurde angeblich nie geschlossen. 1985 fragte der örtliche Historiker Roy Duncan bei der niederländischen Botschaft nach, und 1986 unterzeichnete Botschafter Rein Huydecoper auf den Inseln einen symbolischen Friedensvertrag, nach 335 Jahren ohne einen einzigen Schuss.",
+              "hook": "vor den Scilly-Inseln",
+              "children": [],
+              "source": {
+                "title": "Three Hundred and Thirty Five Years' War – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Three_Hundred_and_Thirty_Five_Years%27_War"
+              }
+            },
+            {
+              "id": "2026-11-03-2-0-1",
+              "title": "Warum Schiffe Knoten fahren",
+              "text": "Bei der Koppelnavigation errechnete man die Position aus Kurs, Zeit und Geschwindigkeit, und Letztere maß man mit dem Log. Man warf ein Holzbrett an einer Leine über Bord und zählte, während eine kleine Sanduhr ablief, wie viele Knoten der abrollenden Leine durch die Hände glitten. Die Abstände der Knoten waren auf die Laufzeit der Sanduhr abgestimmt, sodass ihre Zahl direkt die Fahrt ergab. Daher misst man Schiffsgeschwindigkeit bis heute in Knoten, also Seemeilen pro Stunde.",
+              "hook": "ungenauer Koppelnavigation",
+              "children": [],
+              "source": {
+                "title": "Knoten (Einheit) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Knoten_(Einheit)"
+              }
+            },
+            {
+              "id": "2026-11-03-2-0-2",
+              "title": "Der Admiral mit Perücke",
+              "text": "Am Strand von St Mary's, in der Bucht Porthellick Cove, wurde Shovells Leiche zunächst im Sand verscharrt. Bald darauf ließ man sie exhumieren, einbalsamieren und in der Westminster Abbey beisetzen, wo ein prunkvolles Grabmal an ihn erinnert. Joseph Addison spottete 1711 in der Zeitschrift „The Spectator“, das Denkmal zeige den rauen Seemann als Geck mit langer Perücke, auf Samtkissen ruhend. Auf den Scilly-Inseln erzählt man sich dagegen bis heute, auf seinem ersten Grab wachse kein Gras.",
+              "hook": "Strand von St Mary's",
+              "children": [],
+              "source": {
+                "title": "Sir Clowdisley Shovell – Westminster Abbey",
+                "url": "https://www.westminster-abbey.org/abbey-commemorations/commemorations/sir-clowdisley-shovell"
+              }
+            }
+          ],
+          "source": {
+            "title": "Schiffskatastrophe bei den Scilly-Inseln 1707 – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Schiffskatastrophe_bei_den_Scilly-Inseln_1707"
+          }
+        },
+        {
+          "id": "2026-11-03-2-1",
+          "title": "Die Uhr von Port Royal",
+          "text": "Ziel der Probefahrt war Port Royal auf Jamaika, einst der berüchtigte Hafen der Freibeuter um Henry Morgan. Am 7. Juni 1692 ließ ein Erdbeben große Teile der auf Sand gebauten Stadt im Meer versinken, rund 2.000 Menschen starben sofort. Bei Tauchgrabungen unter Edwin Link im Jahr 1959 fand man eine Taschenuhr aus den 1680er-Jahren. Laut Röntgenbild stehen ihre Zeiger auf 11:43, vermutlich der Moment des Bebens.",
+          "hook": "Probefahrt nach Jamaika 1761/62",
+          "children": [
+            {
+              "id": "2026-11-03-2-1-0",
+              "title": "Vom Freibeuter zum Ritter",
+              "text": "Henry Morgan, der Anführer dieser Freibeuter, plünderte 1671 Panama-Stadt, obwohl England und Spanien kurz zuvor Frieden geschlossen hatten. Er wurde festgenommen und nach London gebracht. Statt bestraft zu werden, wurde er 1674 zum Ritter geschlagen und als Vizegouverneur nach Jamaika zurückgeschickt, wo er nun selbst Piraten verfolgen ließ. Er starb 1688 auf Jamaika und wurde in Port Royal beigesetzt. Sein Grab auf dem Friedhof der Palisadoes versank vier Jahre später beim Erdbeben im Meer.",
+              "hook": "Freibeuter um Henry Morgan",
+              "children": [],
+              "source": {
+                "title": "Henry Morgan – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Henry_Morgan"
+              }
+            },
+            {
+              "id": "2026-11-03-2-1-1",
+              "title": "Die Orgel, die fliegen lehrte",
+              "text": "Edwin Link, der Leiter dieser Tauchgrabungen, war eigentlich Erfinder. Er wuchs in der Orgel- und Klavierfabrik seines Vaters in Binghamton auf und baute 1929 mit Blasebälgen aus dem Orgelbau einen Flugsimulator, die „Blue Box“. Zunächst verkaufte sich das Gerät vor allem als Jahrmarktsattraktion. Das änderte sich 1934: Armeepiloten, die die US-Luftpost flogen, verunglückten damals reihenweise tödlich, oft bei schlechter Sicht. Die Armee bestellte daraufhin sechs Geräte, und im Zweiten Weltkrieg lernten Hunderttausende Piloten darauf den Instrumentenflug.",
+              "hook": "Tauchgrabungen unter Edwin Link",
+              "children": [],
+              "source": {
+                "title": "Biography of Edwin A. Link – Binghamton University Libraries",
+                "url": "https://www.binghamton.edu/libraries/about/special-collections/research-and-collections/link/edwin-link/"
+              }
+            },
+            {
+              "id": "2026-11-03-2-1-2",
+              "title": "Wenn Sand zu Wasser wird",
+              "text": "Dass die auf Sand gebaute Stadt so schnell versank, hat einen Namen: Bodenverflüssigung. Wenn wassergesättigter Sand durchgerüttelt wird, verlieren seine Körner den Halt aneinander, und der Boden verhält sich plötzlich wie eine Flüssigkeit. Systematisch erforscht wurde das Phänomen erst nach zwei Beben im Jahr 1964, in Alaska und im japanischen Niigata. In Niigata kippten im Viertel Kawagishi-chō ganze Wohnblöcke um. Einer legte sich fast flach auf die Seite und blieb dabei selbst weitgehend unbeschädigt.",
+              "hook": "auf Sand gebauten Stadt",
+              "children": [],
+              "source": {
+                "title": "Bodenverflüssigung – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bodenverfl%C3%BCssigung"
+              }
+            }
+          ],
+          "source": {
+            "title": "Port Royal (Jamaika) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Port_Royal_(Jamaika)"
+          }
+        },
+        {
+          "id": "2026-11-03-2-2",
+          "title": "Der Wahnsinn Georgs III.",
+          "text": "Georg III., der Harrison zur Seite sprang, ist vor allem als „verrückter König“ in Erinnerung geblieben. 1966 deuteten die Psychiater Ida Macalpine und Richard Hunter seine Anfälle als Porphyrie, eine erbliche Stoffwechselkrankheit. Eine Haaranalyse von 2005 fand zudem hohe Arsenwerte. Neuere Studien, die die Sprache seiner Briefe auswerten, halten dagegen eine bipolare Störung für plausibler. Die Frage bleibt strittig. Ab 1811 regierte für ihn sein Sohn als Prinzregent.",
+          "hook": "Unterstützung von König Georg III.",
+          "children": [
+            {
+              "id": "2026-11-03-2-2-0",
+              "title": "Porphyrie und Vampire",
+              "text": "Die Porphyrie, mit der man Georgs Anfälle erklären wollte, kam 1985 in ganz anderem Zusammenhang in die Schlagzeilen: Der kanadische Chemiker David Dolphin stellte auf einer Wissenschaftstagung die These vor, die Krankheit stecke hinter den Vampirlegenden. Manche Formen machen die Haut extrem lichtempfindlich, und zurückweichendes Zahnfleisch kann die Zähne länger wirken lassen. Fachleute verwarfen die Idee schnell. Hängen blieb sie trotzdem: Patientenverbände berichteten danach von Kranken, die plötzlich als Vampire beäugt wurden.",
+              "hook": "seine Anfälle als Porphyrie",
+              "children": [],
+              "source": {
+                "title": "Chemistry catches up with the myth of vampires – Canadian Chemistry (Chemical Institute of Canada)",
+                "url": "https://www.cheminst.ca/magazine/article/chemistry-catches-up-with-the-myth-of-vampires/"
+              }
+            },
+            {
+              "id": "2026-11-03-2-2-1",
+              "title": "Das Gift in der Tapete",
+              "text": "Arsen in Georgs Haar ist für seine Zeit weniger exotisch, als es klingt, denn im 19. Jahrhundert steckte das Gift in Arzneien und vor allem in grünen Farben. Das 1775 von Carl Wilhelm Scheele entdeckte „Scheeles Grün“, ein Kupferarsenit, färbte Kleider und Tapeten. In feuchten Räumen konnten Schimmelpilze daraus giftige Arsendämpfe freisetzen. Ausgerechnet der Tapetendesigner William Morris verdankte sein Vermögen zum Teil einer Mine in Devon, die riesige Mengen Arsen förderte, und hielt die Warnungen der Ärzte für übertrieben.",
+              "hook": "fand zudem hohe Arsenwerte",
+              "children": [],
+              "source": {
+                "title": "Kupfer(II)-arsenit – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kupfer(II)-arsenit"
+              }
+            },
+            {
+              "id": "2026-11-03-2-2-2",
+              "title": "Jane Austens Pflichtwidmung",
+              "text": "Der Sohn, der ab 1811 als Prinzregent für Georg III. regierte, gab einer ganzen Epoche den Namen „Regency“ und war ein Bewunderer Jane Austens. 1815 ließ er sie von seinem Bibliothekar James Stanier Clarke durch Carlton House führen und ihr nahelegen, ihm den nächsten Roman zu widmen. Austen hielt wenig von dem verschwenderischen Prinzen, widmete ihm „Emma“ aber notgedrungen. Als Clarke ihr später noch einen Roman über das Haus Sachsen-Coburg vorschlug, lehnte sie höflich ab und verspottete seine Ideen in der Satire „Plan of a Novel“.",
+              "hook": "regierte für ihn sein Sohn als Prinzregent",
+              "children": [],
+              "source": {
+                "title": "Plan of a Novel, According to Hints from Various Quarters – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Plan_of_a_Novel,_According_to_Hints_from_Various_Quarters"
+              }
+            }
+          ],
+          "source": {
+            "title": "Georg III. (Vereinigtes Königreich) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Georg_III._(Vereinigtes_K%C3%B6nigreich)"
+          }
+        }
+      ],
+      "source": {
+        "title": "John Harrison (Uhrmacher) – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/John_Harrison_(Uhrmacher)"
+      }
+    }
+  ]
+}
