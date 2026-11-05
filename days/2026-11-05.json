@@ -1,0 +1,440 @@
+{
+  "version": 1,
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T00:37:30.095Z",
+  "topics": [
+    {
+      "id": "2026-11-05-0",
+      "category": "geschichte",
+      "title": "Die Pulververschwörung",
+      "text": "Am 5. November 1605 wollten katholische Verschwörer um Robert Catesby das englische Parlament samt König Jakob I. in die Luft sprengen. In einem Keller unter dem Oberhaus lagerten rund 36 Fässer Schießpulver, bewacht von Guy Fawkes, der in der Nacht zum 5. November festgenommen wurde. Verraten hatte den Plan ein anonymer Warnbrief an Lord Monteagle. Bis heute erinnert die Bonfire Night daran, und vor jeder feierlichen Parlamentseröffnung durchsuchen Wachen die Keller.",
+      "children": [
+        {
+          "id": "2026-11-05-0-0",
+          "title": "Wie aus Guy ein Kerl wurde",
+          "text": "Aus dem Vornamen von Guy Fawkes wurde eines der häufigsten Wörter des Englischen. Die Strohpuppen, die Kinder am 5. November durch die Straßen trugen und dann verbrannten, hießen „guys“. Im 19. Jahrhundert bezeichnete „guy“ deshalb einen schäbig oder lächerlich gekleideten Menschen. In den USA verlor das Wort seinen Spott und wurde zum neutralen „Kerl“, bis hin zum oft geschlechtsneutralen „you guys“. Fawkes selbst hatte sich bei seiner Festnahme übrigens John Johnson genannt.",
+          "hook": "bewacht von Guy Fawkes",
+          "children": [
+            {
+              "id": "2026-11-05-0-0-0",
+              "title": "Das verschwundene Thou",
+              "text": "„You guys“ braucht es, weil dem Englischen ein eigenes Wort für die Mehrzahl fehlt. „You“ war nämlich ursprünglich selbst Plural und Höflichkeitsform, das vertraute „thou“ dagegen konnte zu Fawkes' Zeit kränken: Im Hochverratsprozess gegen Walter Raleigh 1603 fuhr Kronanwalt Edward Coke ihn an: „I thou thee, thou traitor“. Im Laufe des 17. Jahrhunderts verschwand „thou“ aus der Alltagssprache, nur in einigen Dialekten hielt es sich. Feierlich klingt es heute vor allem wegen Gebeten und der King-James-Bibel von 1611, in der Gott mit „thou“ angeredet wird.",
+              "hook": "geschlechtsneutralen „you guys“",
+              "children": [],
+              "source": {
+                "title": "Thou – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Thou"
+              }
+            },
+            {
+              "id": "2026-11-05-0-0-1",
+              "title": "Die Puppe, die nicht brennt",
+              "text": "Puppen verbrennen nicht nur die Engländer: In Valencia gehen jeden März Hunderte Figuren der Fallas in Flammen auf. Die oft haushohen Gebilde aus Holz und Pappmaché nehmen Politiker und Prominente aufs Korn und werden in der Nacht des Josefstags, am 19. März, in der „Cremà“ angezündet. Seit 2016 gehören die Fallas zum immateriellen Kulturerbe der UNESCO. Nur wenige Figuren kommen davon: Seit 1934 wählt das Publikum jedes Jahr einen „Ninot indultat“, einen begnadigten Ninot, der ins städtische Fallas-Museum kommt – inzwischen zusätzlich einen zweiten aus den Kinder-Fallas.",
+              "hook": "Die Strohpuppen, die Kinder",
+              "children": [],
+              "source": {
+                "title": "„Ninot Indultat“: Die einzige Figur, die in Fallas dem Feuer entkommt – Visit València",
+                "url": "https://www.visitvalencia.com/de/freizeitkalender/ninot-indultat-die-einzige-figur-die-fallas-dem-feuer-entkommt"
+              }
+            },
+            {
+              "id": "2026-11-05-0-0-2",
+              "title": "Der Mann namens Boykott",
+              "text": "Guy Fawkes ist nicht der einzige Mensch, aus dessen Namen ein Alltagswort wurde, bei Charles Boycott ging es sogar schneller. Der englische Gutsverwalter trieb 1880 im irischen County Mayo Pachten ein, als die Landliga dazu aufrief, ihn zu ächten: Arbeiter gingen, Läden verkauften ihm nichts mehr. Binnen Monaten stand „boycott“ in Zeitungen in ganz Europa, im Deutschen wurde es zu „Boykott“. Seine Ernte holten schließlich Freiwillige aus Ulster ein, bewacht von rund tausend Soldaten, und das kostete ein Vielfaches dessen, was die Ernte wert war.",
+              "hook": "Aus dem Vornamen von Guy Fawkes",
+              "children": [],
+              "source": {
+                "title": "Charles Cunningham Boycott – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Charles_Cunningham_Boycott"
+              }
+            }
+          ]
+        },
+        {
+          "id": "2026-11-05-0-1",
+          "title": "Pulver aus dem Kuhstall",
+          "text": "Etwa drei Viertel des Schießpulvers bestanden aus Salpeter, und den gewann man im England dieser Zeit aus Erde, die mit Urin und Mist getränkt war. Die Krone vergab Lizenzen an sogenannte Saltpetremen, die Taubenschläge, Ställe und sogar Wohnhäuser betreten und den Boden aufgraben durften. Die Eingriffe waren so verhasst, dass sich das Parlament wiederholt darüber beschwerte. Erst Salpeter aus Indien, den die East India Company einführte, machte die Grabtrupps im Lauf des 17. Jahrhunderts überflüssig.",
+          "hook": "rund 36 Fässer Schießpulver",
+          "children": [
+            {
+              "id": "2026-11-05-0-1-0",
+              "title": "Türme für Taubenkot",
+              "text": "Dass die Saltpetremen ausgerechnet Taubenschläge aufgruben, hatte einen Grund: Taubenkot ist außergewöhnlich reich an Stickstoff. Im Iran errichtete man deshalb über Jahrhunderte Hunderte Taubentürme, vor allem rund um Isfahan. Im Inneren boten Tausende Nischen Platz für die Vögel, und ihr Kot düngte Melonen- und Gurkenfelder. In den Gerbereien von Fès in Marokko weichen Gerber Tierhäute bis heute in Becken mit Taubenkot ein, damit das Leder geschmeidig wird.",
+              "hook": "Taubenschläge, Ställe und sogar Wohnhäuser",
+              "children": [],
+              "source": {
+                "title": "Castles of the Fields – AramcoWorld (März/April 2011)",
+                "url": "https://archive.aramcoworld.com/issue/201102/castles.of.the.fields.htm"
+              }
+            },
+            {
+              "id": "2026-11-05-0-1-1",
+              "title": "Ein Krieg um Wüstendünger",
+              "text": "Salpeter aus Indien blieb lange unverzichtbar, bis im 19. Jahrhundert eine noch größere Quelle wichtig wurde: die Atacama-Wüste mit ihren riesigen Lagern von Natriumnitrat, dem Chilesalpeter. Um diese Vorkommen kämpften Chile, Peru und Bolivien von 1879 bis 1884 im Salpeterkrieg. Am Ende hatte Bolivien seine gesamte Pazifikküste verloren. Trotzdem unterhält das Binnenland bis heute eine Marine, die unter anderem auf dem Titicacasee übt, und begeht jedes Jahr am 23. März den Tag des Meeres.",
+              "hook": "Salpeter aus Indien",
+              "children": [],
+              "source": {
+                "title": "Salpeterkrieg – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Salpeterkrieg"
+              }
+            },
+            {
+              "id": "2026-11-05-0-1-2",
+              "title": "Geld stinkt nicht",
+              "text": "Urin als Rohstoff war keine englische Erfindung: Im antiken Rom sammelten Tuchwalker, die fullones, Urin in Gefäßen, weil das darin entstehende Ammoniak Wolle reinigte. Kaiser Vespasian erhob auf dieses Geschäft eine Steuer. Laut dem Geschichtsschreiber Sueton hielt er seinem Sohn Titus, der sich darüber beschwerte, eine Münze unter die Nase und fragte, ob sie rieche. Daraus wurde später die Redewendung „Pecunia non olet“, und in Frankreich nannte man öffentliche Pissoirs nach dem Kaiser „vespasiennes“.",
+              "hook": "mit Urin und Mist getränkt",
+              "children": [],
+              "source": {
+                "title": "Pecunia non olet – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Pecunia_non_olet"
+              }
+            }
+          ],
+          "source": {
+            "title": "Salpetersieder – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Salpetersieder"
+          }
+        },
+        {
+          "id": "2026-11-05-0-2",
+          "title": "Die zugeschlagene Tür",
+          "text": "Die Durchsuchung der Keller ist nicht das einzige Ritual bei der Parlamentseröffnung, das an einen alten Konflikt erinnert. Kommt Black Rod, der Bote des Oberhauses, um die Abgeordneten zur Thronrede zu holen, wird ihm die Tür des Unterhauses vor der Nase zugeschlagen. Erst nach drei Schlägen mit dem Stab öffnet sie sich. Das Ritual erinnert an den Januar 1642, als Karl I. ins Unterhaus eindrang, um fünf Abgeordnete verhaften zu lassen. Seitdem hat kein Monarch die Kammer mehr betreten.",
+          "hook": "durchsuchen Wachen die Keller",
+          "children": [
+            {
+              "id": "2026-11-05-0-2-0",
+              "title": "Der schwarze Stab",
+              "text": "Seinen Namen verdankt Black Rod dem Stab, mit dem er an die Tür klopft: einem Ebenholzstock, gekrönt von einem goldenen Löwen. Das Amt entstand im 14. Jahrhundert im Umfeld des Hosenbandordens, des ältesten Ritterordens Englands, dem Black Rod bis heute dient. Über 650 Jahre lang hatten es nur Männer inne, meist ehemalige Offiziere. 2018 übernahm mit Sarah Clarke erstmals eine Frau. Sie kam von einem eher unerwarteten Posten: Zuvor hatte sie als Turnierdirektorin Wimbledon organisiert.",
+              "hook": "Black Rod, der Bote des Oberhauses",
+              "children": [],
+              "source": {
+                "title": "Gentleman Usher of the Black Rod – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gentleman_Usher_of_the_Black_Rod"
+              }
+            },
+            {
+              "id": "2026-11-05-0-2-1",
+              "title": "Der Sprecher, der nicht sah",
+              "text": "Die fünf Abgeordneten, darunter John Pym und John Hampden, waren gewarnt worden und rechtzeitig in die Londoner City geflohen. Karl I. verlangte deshalb vom Sprecher William Lenthall, ihm ihren Aufenthaltsort zu verraten. Lenthall kniete nieder und antwortete sinngemäß, er habe an diesem Ort weder Augen zum Sehen noch eine Zunge zum Sprechen, außer wenn das Haus es ihm auftrage. Bis heute zieren sich neu gewählte Sprecher zum Schein und werden von Kollegen zu ihrem Stuhl gezerrt, weil das Amt einst so gefährlich war.",
+              "hook": "um fünf Abgeordnete verhaften zu lassen",
+              "children": [],
+              "source": {
+                "title": "William Lenthall – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/William_Lenthall"
+              }
+            },
+            {
+              "id": "2026-11-05-0-2-2",
+              "title": "Hinrichtung unter Rubens",
+              "text": "Der gescheiterte Handstreich von 1642 trug dazu bei, England in den Bürgerkrieg zu treiben. An dessen Ende stand Karl I. selbst vor Gericht. Am 30. Januar 1649 wurde er auf einem Schafott vor dem Banqueting House in Whitehall enthauptet. Der Überlieferung nach ging er zuvor durch genau diesen Saal, unter einer Decke, die er bei Peter Paul Rubens in Auftrag gegeben hatte. Die Gemälde verherrlichen das gottgegebene Königtum seines Vaters Jakob I., also jenes Königs, den die Pulververschwörer 1605 hatten töten wollen.",
+              "hook": "als Karl I. ins Unterhaus eindrang",
+              "children": [],
+              "source": {
+                "title": "Karl I. (England) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Karl_I._(England)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Gentleman Usher of the Black Rod – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Gentleman_Usher_of_the_Black_Rod"
+          }
+        }
+      ],
+      "source": {
+        "title": "Gunpowder Plot – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Gunpowder_Plot"
+      }
+    },
+    {
+      "id": "2026-11-05-1",
+      "category": "wissenschaft",
+      "title": "Die HeLa-Zellen",
+      "text": "1951 entnahmen Ärzte am Johns Hopkins Hospital in Baltimore der Afroamerikanerin Henrietta Lacks Gewebe aus einem Gebärmutterhalstumor, ohne sie zu fragen. Im Labor von George Gey teilten sich diese Zellen unbegrenzt weiter. Sie wurden zur ersten „unsterblichen“ menschlichen Zelllinie, benannt nach den Anfangsbuchstaben ihres Namens. In den 1950er-Jahren halfen sie beim Test des Polio-Impfstoffs von Jonas Salk. Ihre Familie erfuhr erst Jahrzehnte später davon, ein Buch von Rebecca Skloot machte den Fall 2010 weltbekannt.",
+      "children": [
+        {
+          "id": "2026-11-05-1-0",
+          "title": "Das Virus im Tumor",
+          "text": "Was den Gebärmutterhalstumor von Henrietta Lacks ausgelöst hatte, klärte erst der deutsche Virologe Harald zur Hausen. Anfang der 1980er-Jahre wies sein Team humane Papillomviren der Typen 16 und 18 in Gebärmutterhalskrebs nach. Auch in den HeLa-Zellen steckt Erbgut von HPV 18. Viele Fachleute hielten die Virus-Idee zunächst für abwegig, doch 2006 kam der erste HPV-Impfstoff auf den Markt. Zur Hausen, lange Chef des Deutschen Krebsforschungszentrums in Heidelberg, erhielt 2008 den Medizin-Nobelpreis.",
+          "hook": "Gebärmutterhalstumor",
+          "children": [
+            {
+              "id": "2026-11-05-1-0-0",
+              "title": "Der Hase mit Hörnern",
+              "text": "Papillomviren befallen nicht nur Menschen: 1933 beschrieb der US-Forscher Richard Shope ein Virus, das nordamerikanischen Baumwollschwanzkaninchen hornartige Warzen am Kopf wachsen lässt. Es gehörte zu den ersten Viren, bei denen sich zeigte, dass sie bei Säugetieren Krebs auslösen können. Vermutlich trugen solche gehörnten Kaninchen zur Legende vom Jackalope bei, einem Fabelwesen aus Hase und Antilope. Die Stadt Douglas in Wyoming stellt bis heute scherzhafte Jagdlizenzen dafür aus, gültig nur am 31. Juni.",
+              "hook": "humane Papillomviren der Typen 16",
+              "children": [],
+              "source": {
+                "title": "Jackalope – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Jackalope"
+              }
+            },
+            {
+              "id": "2026-11-05-1-0-1",
+              "title": "Ein Huhn, 55 Jahre Geduld",
+              "text": "Die Skepsis gegenüber Krebsviren hatte eine lange Vorgeschichte. Schon 1911 übertrug Peyton Rous am Rockefeller Institute in New York einen Tumor einer Plymouth-Rock-Henne auf andere Hühner, und zwar mit einem zellfreien Filtrat. Der Erreger, heute Rous-Sarkom-Virus genannt, galt jahrzehntelang als Kuriosität aus dem Hühnerstall. Den Nobelpreis bekam Rous erst 1966, mit 87 Jahren. Zwischen Entdeckung und Auszeichnung lagen 55 Jahre, einer der längsten Abstände in der Geschichte des Preises.",
+              "hook": "Virus-Idee zunächst für abwegig",
+              "children": [],
+              "source": {
+                "title": "Francis Peyton Rous – Emerging Infectious Diseases (PMC)",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3647430/"
+              }
+            },
+            {
+              "id": "2026-11-05-1-0-2",
+              "title": "Die Nobelkrankheit",
+              "text": "Den Medizin-Nobelpreis 2008 teilte sich zur Hausen mit Françoise Barré-Sinoussi und Luc Montagnier, die 1983 in Paris das HI-Virus entdeckt hatten. Montagnier entfernte sich später weit vom wissenschaftlichen Konsens: Er behauptete etwa, DNA hinterlasse elektromagnetische Spuren in Wasser, was Fachleute als Nähe zur Homöopathie scharf kritisierten. 2020 verbreitete er die widerlegte These, das Coronavirus enthalte künstlich eingefügte HIV-Sequenzen. Unter Forschenden gibt es für solche Wandlungen einen spöttischen Begriff: die „Nobelkrankheit“.",
+              "hook": "2008 den Medizin-Nobelpreis",
+              "children": [],
+              "source": {
+                "title": "Nobelitis – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Nobelitis"
+              }
+            }
+          ],
+          "source": {
+            "title": "Humane Papillomviren – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Humane_Papillomviren"
+          }
+        },
+        {
+          "id": "2026-11-05-1-1",
+          "title": "Der Cutter-Zwischenfall",
+          "text": "Kurz nach seiner Freigabe im April 1955 erlebte der Polio-Impfstoff von Jonas Salk ein Desaster. Die Firma Cutter Laboratories im kalifornischen Berkeley lieferte Chargen aus, in denen das Virus nicht vollständig abgetötet war. Rund 40.000 Kinder erkrankten an einer leichten Form der Polio. Gelähmt wurden geimpfte Kinder, aber auch angesteckte Angehörige, je nach Zählung insgesamt 160 bis 200 Menschen, zehn starben. Nach dem sogenannten Cutter-Zwischenfall kontrollierte der Staat Impfstoffe in den USA deutlich strenger.",
+          "hook": "Polio-Impfstoffs von Jonas Salk",
+          "children": [
+            {
+              "id": "2026-11-05-1-1-0",
+              "title": "Polio auf dem Zuckerwürfel",
+              "text": "Anders als Salk mit seiner Spritze setzte Albert Sabin auf lebende, abgeschwächte Polioviren, die man schlucken konnte. Weil die USA schon auf Salk setzten, testete er seinen Impfstoff Ende der 1950er-Jahre mit Michail Tschumakow in der Sowjetunion an Millionen Kindern. In Westdeutschland warb man in den 1960er-Jahren mit „Schluckimpfung ist süß – Kinderlähmung ist grausam“. Weil die Lebendviren in sehr seltenen Fällen selbst Lähmungen auslösen, kehrte Deutschland 1998 zur Spritze zurück.",
+              "hook": "Polio-Impfstoff von Jonas Salk",
+              "children": [],
+              "source": {
+                "title": "Schluckimpfung – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Schluckimpfung"
+              }
+            },
+            {
+              "id": "2026-11-05-1-1-1",
+              "title": "Die überhörte Warnung",
+              "text": "Dass in den Chargen noch lebendes Virus steckte, hätte man früher wissen können: Bernice Eddy von den National Institutes of Health hatte Affen mit Cutter-Impfstoff geimpft, und mehrere wurden gelähmt. Ihre Warnung blieb folgenlos. Um 1960 entdeckte sie in den Affennieren-Zellen, auf denen Polio-Impfstoff gezüchtet wurde, ein Virus, das bei Hamstern Tumoren auslöste: das spätere SV40. Millionen Amerikaner hatten es mitgeimpft bekommen, ein erhöhtes Krebsrisiko ließ sich aber nie klar belegen.",
+              "hook": "das Virus nicht vollständig abgetötet",
+              "children": [],
+              "source": {
+                "title": "Bernice Eddy – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bernice_Eddy"
+              }
+            },
+            {
+              "id": "2026-11-05-1-1-2",
+              "title": "Detektive mit Loch im Schuh",
+              "text": "Dass man die Erkrankungen so schnell bis zu einzelnen Cutter-Chargen zurückverfolgen konnte, verdankte man dem Epidemic Intelligence Service. Der Epidemiologe Alexander Langmuir hatte diese Truppe junger „Krankheitsdetektive“ 1951 gegründet, auch aus Furcht vor Biowaffen im Koreakrieg. Mit ihrer Jagd nach jedem einzelnen Polio-Fall wurde die Seuchenbehörde CDC im ganzen Land bekannt. Das Abzeichen des Dienstes zeigt bis heute eine Schuhsohle mit Loch, als Sinnbild für Ermittlungen zu Fuß.",
+              "hook": "Rund 40.000 Kinder erkrankten",
+              "children": [],
+              "source": {
+                "title": "Epidemic Intelligence Service – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Epidemic_Intelligence_Service"
+              }
+            }
+          ]
+        },
+        {
+          "id": "2026-11-05-1-2",
+          "title": "Der Mann namens Johns",
+          "text": "Das Johns Hopkins Hospital in Baltimore trägt den Namen eines Kaufmanns, dessen ungewöhnlicher Vorname auf seine Urgroßmutter Margaret Johns zurückgeht. Hopkins wurde mit Handel und Aktien der Baltimore and Ohio Railroad reich. Bei seinem Tod 1873 hinterließ er rund sieben Millionen Dollar für eine Universität und ein Krankenhaus, das 1889 eröffnete. Lange galt der Quäker als Gegner der Sklaverei, doch 2020 veröffentlichte die Universität Volkszählungsdaten, nach denen in seinem Haushalt versklavte Menschen lebten.",
+          "hook": "Johns Hopkins Hospital in Baltimore",
+          "children": [
+            {
+              "id": "2026-11-05-1-2-0",
+              "title": "Lokomotive gegen Pferd",
+              "text": "Die Baltimore and Ohio Railroad, deren Aktien Hopkins reich machten, gilt als erste öffentliche Eisenbahngesellschaft der USA. Den Grundstein legte am 4. Juli 1828 der 90-jährige Charles Carroll, der letzte noch lebende Unterzeichner der Unabhängigkeitserklärung. Auf ihren Gleisen soll Peter Coopers kleine Dampflok „Tom Thumb“ 1830 ein Rennen gegen ein Pferd verloren haben, weil ein Riemen absprang. Die Anekdote ist wohl ausgeschmückt. Bis heute fährt die Bahn auf jedem amerikanischen Monopoly-Brett mit, als „B. & O. Railroad“.",
+              "hook": "Baltimore and Ohio Railroad",
+              "children": [],
+              "source": {
+                "title": "Baltimore and Ohio Railroad – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Baltimore_and_Ohio_Railroad"
+              }
+            },
+            {
+              "id": "2026-11-05-1-2-1",
+              "title": "Die Zitterer",
+              "text": "Dass Hopkins Quäker war, verweist auf eine Bewegung, deren Name als Spott begann: George Fox forderte 1650 einen Richter in Derby auf, vor dem Wort des Herrn zu zittern, worauf dieser von „Quakers“ sprach, also von Zitterern. Die „Freunde“, wie sie sich selbst nennen, halten ihre Andachten ohne Priester ab, oft in gemeinsamem Schweigen. 1947 erhielten zwei ihrer Hilfswerke den Friedensnobelpreis. Mit dem Herrn auf den Haferflocken von Quaker Oats haben sie nichts zu tun: Die Firma wählte den Namen, weil er nach Ehrlichkeit klang.",
+              "hook": "Lange galt der Quäker",
+              "children": [],
+              "source": {
+                "title": "Quäkertum – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Qu%C3%A4kertum"
+              }
+            },
+            {
+              "id": "2026-11-05-1-2-2",
+              "title": "Lochkarten fürs Volk",
+              "text": "Die Volkszählungsdaten über Hopkins' Haushalt stammen aus dem US-Zensus, der laut Verfassung seit 1790 alle zehn Jahre stattfindet. Für den Zensus von 1890 entwickelte Herman Hollerith Lochkarten, die Maschinen elektrisch auszählten. Das beschleunigte die Auswertung enorm. Ausgerechnet die Originalbögen dieses Zensus gingen fast vollständig verloren: Ein Feuer in Washington beschädigte sie 1921 schwer, die Reste ließ die Regierung in den 1930er-Jahren vernichten. Holleriths Firma dagegen überlebte: Sie ging in einem Konzern auf, der sich ab 1924 IBM nannte.",
+              "hook": "veröffentlichte die Universität Volkszählungsdaten",
+              "children": [],
+              "source": {
+                "title": "United States Census 1890 – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/United_States_Census_1890"
+              }
+            }
+          ],
+          "source": {
+            "title": "Johns Hopkins – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Johns_Hopkins"
+          }
+        }
+      ],
+      "source": {
+        "title": "HeLa-Zellen – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/HeLa-Zellen"
+      }
+    },
+    {
+      "id": "2026-11-05-2",
+      "category": "kultur",
+      "title": "Der Struwwelpeter",
+      "text": "Der Frankfurter Arzt Heinrich Hoffmann fand 1844 kein passendes Bilderbuch für seinen dreijährigen Sohn. Also zeichnete und dichtete er selbst eines. 1845 erschien es als „Lustige Geschichten und drollige Bilder“, erst spätere Auflagen trugen den Titel „Der Struwwelpeter“. Der Daumenlutscher, dem der Schneider die Daumen abschneidet, und der verhungernde Suppen-Kaspar wurden mit Übersetzungen in zahlreiche Sprachen weltberühmt. Hoffmann leitete später die Frankfurter Irrenanstalt.",
+      "children": [
+        {
+          "id": "2026-11-05-2-0",
+          "title": "Alzheimers erste Patientin",
+          "text": "Für die Frankfurter Irrenanstalt setzte Hoffmann einen Neubau durch: 1864 zog sie in ein Gebäude auf dem Affensteiner Feld, im Volksmund „Irrenschloss“ genannt. 1888 begann dort der junge Arzt Alois Alzheimer. Im November 1901 nahm er die 51-jährige Auguste Deter auf, deren Gedächtnis auf rätselhafte Weise zerfiel. Nach ihrem Tod untersuchte er ihr Gehirn und stellte den Fall 1906 in Tübingen vor. Die Krankheit trägt heute seinen Namen.",
+          "hook": "die Frankfurter Irrenanstalt",
+          "children": [
+            {
+              "id": "2026-11-05-2-0-0",
+              "title": "Ein Bauplatz mit Geschichte",
+              "text": "Das „Irrenschloss“ auf dem Affensteiner Feld wurde Ende der 1920er-Jahre abgerissen. Auf dem Gelände baute Hans Poelzig die Zentrale des Chemiekonzerns IG Farben, damals eines der größten Bürogebäude Europas. Nach 1945 saß hier das US-Hauptquartier, Dwight D. Eisenhower hatte im Haus sein Büro. Das Land Hessen kaufte den Bau 1996, seit 2001 nutzt ihn die Goethe-Universität. Davor erinnert ein Memorial an Norbert Wollheim: Er überlebte als Zwangsarbeiter im IG-Werk Auschwitz, verklagte 1951 den Konzern und bekam 1953 in erster Instanz recht.",
+              "hook": "auf dem Affensteiner Feld",
+              "children": [],
+              "source": {
+                "title": "I.G. Farben-Gebäude – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/I.G._Farben-Geb%C3%A4ude"
+              }
+            },
+            {
+              "id": "2026-11-05-2-0-1",
+              "title": "Ein Bankier und die Antike",
+              "text": "Ihren Namen gab der Krankheit 1910 Alzheimers Chef Emil Kraepelin in seinem Lehrbuch der Psychiatrie. 1917 gründete Kraepelin in München die Deutsche Forschungsanstalt für Psychiatrie, das heutige Max-Planck-Institut für Psychiatrie. Zu ihren wichtigsten Geldgebern gehörte der Amerikaner James Loeb, Spross einer New Yorker Bankiersfamilie, der selbst an Depressionen litt und nach Bayern gezogen war. Bekannt ist sein Name heute vor allem durch die Loeb Classical Library: antike Texte zweisprachig, die griechischen in grünen, die lateinischen in roten Bänden.",
+              "hook": "Die Krankheit trägt heute seinen Namen",
+              "children": [],
+              "source": {
+                "title": "Loeb, James – Deutsche Biographie",
+                "url": "https://www.deutsche-biographie.de/sfz53627.html"
+              }
+            },
+            {
+              "id": "2026-11-05-2-0-2",
+              "title": "Silber im Gehirn",
+              "text": "Um die Veränderungen in Deters Gehirn sichtbar zu machen, nutzte Alzheimer eine neue Silberfärbung. Silber hatte schon einmal Hirnforschung geschrieben: 1873 entdeckte Camillo Golgi in einer zum Labor umgebauten Küche eines Siechenhauses bei Mailand, dass Silbernitrat einzelne Nervenzellen tiefschwarz hervortreten lässt. Der Spanier Santiago Ramón y Cajal zeigte mit Golgis Methode, dass das Gehirn aus getrennten Zellen besteht. 1906, im Jahr von Alzheimers Vortrag, teilten sich beide den Nobelpreis. Golgi nutzte seine Nobelrede, um Cajals Lehre anzugreifen.",
+              "hook": "untersuchte er ihr Gehirn",
+              "children": [],
+              "source": {
+                "title": "Golgi-Färbung – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Golgi-F%C3%A4rbung"
+              }
+            }
+          ],
+          "source": {
+            "title": "Alois Alzheimer – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Alois_Alzheimer"
+          }
+        },
+        {
+          "id": "2026-11-05-2-1",
+          "title": "Mark Twain übersetzt Peter",
+          "text": "Unter den vielen Übersetzungen ist eine besonders kurios: Mark Twain übertrug den Struwwelpeter um 1891 ins Englische, als er mit seiner Familie in Berlin lebte. Gedruckt wurde seine Fassung „Slovenly Peter“ erst 1935, ein Vierteljahrhundert nach seinem Tod. Mit dem Deutschen rang Twain lange: In seinem Essay „The Awful German Language“ von 1880 spottete er darüber, dass ein Mädchen grammatisch kein Geschlecht habe, eine Rübe aber weiblich sei.",
+          "hook": "Übersetzungen in zahlreiche Sprachen",
+          "children": [
+            {
+              "id": "2026-11-05-2-1-0",
+              "title": "Berlin, das deutsche Chicago",
+              "text": "Das Berlin, in dem Twain mit seiner Familie lebte, beschrieb er 1892 im Essay „The German Chicago“. Die Stadt kam ihm so neu vor, als sei der Großteil erst in der Vorwoche gebaut worden. Dazu lobte er die breiten, geraden und erstaunlich sauberen Straßen. Weit hergeholt war der Vergleich nicht: Seit der Reichsgründung 1871 hatte Berlin seine Einwohnerzahl auf rund anderthalb Millionen fast verdoppelt. Chicago wuchs im selben Zeitraum allerdings noch schneller, auf mehr als das Dreifache.",
+              "hook": "mit seiner Familie in Berlin lebte",
+              "children": [],
+              "source": {
+                "title": "Mark Twain: The Chicago of Europe (April 1892) – twainquotes.com",
+                "url": "https://twainquotes.com/Travel1891/April1892.html"
+              }
+            },
+            {
+              "id": "2026-11-05-2-1-1",
+              "title": "Mit dem Kometen gegangen",
+              "text": "Twains Tod im April 1910 erfüllte eine Ankündigung, die er ein Jahr zuvor gemacht hatte: Er sei 1835 mit dem Halleyschen Kometen gekommen und werde mit ihm wieder gehen. Tatsächlich stand der Komet kurz vor Twains Geburt und erneut einen Tag vor seinem Tod der Sonne am nächsten. Die Wiederkehr von 1910 löste anderswo Angst aus, denn im Schweif war giftiges Cyan nachgewiesen worden, und die Erde sollte ihn im Mai durchqueren. Händler verkauften „Kometenpillen“. Die Erde zog ohne jede Wirkung durch den Schweif.",
+              "hook": "ein Vierteljahrhundert nach seinem Tod",
+              "children": [],
+              "source": {
+                "title": "Halleyscher Komet – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Halleyscher_Komet"
+              }
+            },
+            {
+              "id": "2026-11-05-2-1-2",
+              "title": "Der Steckrübenwinter",
+              "text": "Die Rübe, über deren weibliches Geschlecht Twain spottete, wurde in Deutschland gut drei Jahrzehnte später zum Symbol des Hungers. Im „Steckrübenwinter“ 1916/17 war die Kartoffelernte nach einem nassen Herbst eingebrochen, zugleich schnitt die britische Seeblockade die Einfuhren ab. Steckrüben, bis dahin vor allem Viehfutter, kamen als Suppe, im Brot, als Marmelade und sogar als Kaffee-Ersatz auf den Tisch. Viele, die diesen Winter erlebt hatten, wollten die Rübe danach nie wieder essen.",
+              "hook": "eine Rübe aber weiblich sei",
+              "children": [],
+              "source": {
+                "title": "Steckrübenwinter – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Steckr%C3%BCbenwinter"
+              }
+            }
+          ],
+          "source": {
+            "title": "Mark Twain and the Most Famous Children's Book in Europe – Bauman Rare Books Blog",
+            "url": "https://blog.bookstellyouwhy.com/mark-twain-and-the-most-famous-childrens-book-in-europe"
+          }
+        },
+        {
+          "id": "2026-11-05-2-2",
+          "title": "Vom Hanswurst zum Kasperl",
+          "text": "Der Name des Suppen-Kaspars erinnert an eine Bühnenfigur, die zu Hoffmanns Zeit jedes Kind kannte. Groß wurde der Kasperl in Wien: Ab 1781 machte ihn der Schauspieler Johann Laroche am Leopoldstädter Theater zum Publikumsliebling. Sein Vorgänger Hanswurst galt Aufklärern als zu derb. In Leipzig soll die Theaterprinzipalin Caroline Neuber ihn 1737 symbolisch von der Bühne verbannt haben. Im 19. Jahrhundert wanderte der Kasper dann ins Puppentheater.",
+          "hook": "der verhungernde Suppen-Kaspar",
+          "children": [
+            {
+              "id": "2026-11-05-2-2-0",
+              "title": "Tragödie an der Ringstraße",
+              "text": "Das Leopoldstädter Theater, an dem Laroche spielte, wich 1847 einem Neubau: dem Carltheater des Direktors Carl Carl. Entworfen hatten es Eduard van der Nüll und August Sicard von Sicardsburg, die später die Wiener Hofoper an der Ringstraße bauten. Dort traf sie der Spott der Wiener hart, die das Haus als zu tief liegende „versunkene Kiste“ verhöhnten, und auch der Kaiser äußerte sich kritisch. Van der Nüll nahm sich 1868 das Leben, Sicardsburg starb wenige Wochen später. Die Eröffnung 1869 erlebte keiner von beiden.",
+              "hook": "am Leopoldstädter Theater",
+              "children": [],
+              "source": {
+                "title": "Wiener Staatsoper – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Wiener_Staatsoper"
+              }
+            },
+            {
+              "id": "2026-11-05-2-2-1",
+              "title": "Die Neuberin und Lessing",
+              "text": "Caroline Neuber verbannte den Hanswurst, weil sie ein ernsthaftes deutsches Theater nach französischem Vorbild wollte. 1748 brachte ihre Truppe in Leipzig das erste Stück eines jungen Studenten auf die Bühne: Gotthold Ephraim Lessings Lustspiel „Der junge Gelehrte“. Ihr Lebensabend war weit weniger glanzvoll, sie starb 1760 verarmt in Laubegast bei Dresden. Der Überlieferung nach musste ihr Sarg über die Friedhofsmauer gehoben werden, weil man einer Schauspielerin den Weg durch das Tor verwehrte.",
+              "hook": "Theaterprinzipalin Caroline Neuber",
+              "children": [],
+              "source": {
+                "title": "Neuber, Caroline – Deutsche Biographie",
+                "url": "https://www.deutsche-biographie.de/pnd118738577.html"
+              }
+            },
+            {
+              "id": "2026-11-05-2-2-2",
+              "title": "Der Kasperlgraf von München",
+              "text": "Wie der Kasper ins Puppentheater kam, lässt sich besonders gut in München verfolgen. Dort gründete Joseph Leonhard Schmid, genannt „Papa Schmid“, 1858 ein Marionettentheater. Für diese Bühne schrieb der bayerische Hofbeamte Franz Graf von Pocci viele seiner rund 40 Stücke mit dem „Kasperl Larifari“, was ihm den Spitznamen „Kasperlgraf“ einbrachte. Im Jahr 1900 bekam die Bühne an der Blumenstraße ein eigenes Haus von Theodor Fischer. Es gilt als erster eigens für Marionetten errichteter Theaterbau in Deutschland und wird bis heute bespielt.",
+              "hook": "wanderte der Kasper dann ins Puppentheater",
+              "children": [],
+              "source": {
+                "title": "Josef Leonhard Schmid – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Josef_Leonhard_Schmid"
+              }
+            }
+          ],
+          "source": {
+            "title": "Kasper – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Kasper"
+          }
+        }
+      ],
+      "source": {
+        "title": "Struwwelpeter – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Struwwelpeter"
+      }
+    }
+  ]
+}

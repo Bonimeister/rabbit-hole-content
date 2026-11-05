@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-05T00:45:26.339Z",
+  "topics": [
+    {
+      "id": "2026-11-06-0",
+      "category": "natur",
+      "title": "Der Leierschwanz",
+      "text": "Der Prachtleierschwanz aus den Wäldern Südostaustraliens gehört zu den besten Stimmenimitatoren der Tierwelt. Bei der Balz auf selbst freigescharrten Erdhügeln bauen Männchen die Rufe von Kookaburras und anderen Vögeln in ihren Gesang ein. In David Attenboroughs Serie „The Life of Birds“ von 1998 ahmt ein Tier sogar Kameraverschlüsse und eine Kettensäge nach. Seit 1966 ist der Vogel auf der australischen Zehn-Cent-Münze abgebildet.",
+      "children": [
+        {
+          "id": "2026-11-06-0-0",
+          "title": "Das Lachen im Eukalyptus",
+          "text": "Die Kookaburra-Rufe, die der Leierschwanz kopiert, gehören zu den bekanntesten Geräuschen Australiens: Der Lachende Hans ist der größte Eisvogel der Welt und markiert sein Revier mit schallendem Gelächter im Familienchor. 1932 schrieb Marion Sinclair über ihn das Kinderlied „Kookaburra sits in the old gum tree“. 2010 entschied ein australisches Bundesgericht, dass das Flötenriff im Men-at-Work-Hit „Down Under“ Teile davon übernimmt. Die Rechteinhaber erhielten 5 Prozent der Tantiemen ab 2002.",
+          "hook": "Rufe von Kookaburras",
+          "children": [
+            {
+              "id": "2026-11-06-0-0-0",
+              "title": "Shinkansen mit Eisvogelnase",
+              "text": "Der Lachende Hans gehört zur Familie der Eisvögel, und ein kleiner Verwandter von ihm hat das Gesicht eines japanischen Hochgeschwindigkeitszugs geprägt. Fuhr der Shinkansen in einen Tunnel, schob er die Luft wie einen Kolben vor sich her, und am Ausgang knallte es laut. Ingenieur Eiji Nakatsu, ein begeisterter Vogelbeobachter, dachte an den Eisvogel, der fast ohne Spritzer ins Wasser taucht. Nach dem Vorbild seines Schnabels formte er die Nase der Baureihe 500, die ab 1997 leiser, schneller und mit spürbar weniger Strom fuhr.",
+              "hook": "der größte Eisvogel der Welt",
+              "children": [],
+              "source": {
+                "title": "Shinkansen-Baureihe 500 – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Shinkansen-Baureihe_500"
+              }
+            },
+            {
+              "id": "2026-11-06-0-0-1",
+              "title": "Kaliforniens Fehlpflanzung",
+              "text": "Der „gum tree“ aus dem Lied ist ein Eukalyptus, und der australische Baum hat im 19. Jahrhundert Kalifornien erobert. Anfang des 20. Jahrhunderts pflanzten Spekulanten Blaue Eukalyptusbäume in großem Stil, weil sie auf schnell wachsendes Hartholz für Eisenbahnschwellen hofften. Doch das Holz der jungen Bäume verzog sich und riss beim Trocknen, und der Boom brach zusammen. Die verwilderten Haine stehen bis heute und sind zu einem wichtigen Winterquartier geworden: Monarchfalter hängen dort zu Tausenden in den Zweigen der australischen Einwanderer.",
+              "hook": "in the old gum tree",
+              "children": [],
+              "source": {
+                "title": "Who Eucalyptized Southern California? – PBS SoCal",
+                "url": "https://www.pbssocal.org/shows/lost-la/who-eucalyptized-southern-california"
+              }
+            },
+            {
+              "id": "2026-11-06-0-0-2",
+              "title": "Brotaufstrich aus Bierhefe",
+              "text": "In „Down Under“ reicht ein Mann in Brüssel dem Erzähler ein Vegemite-Sandwich, also Australiens bekanntesten Brotaufstrich. Erfunden hat ihn der Chemiker Cyril Callister 1922 in Melbourne im Auftrag des Unternehmers Fred Walker. Der Rohstoff war übrig gebliebene Hefe aus den Brauereien, und den Namen lieferte ein öffentlicher Wettbewerb. Fast ein Jahrhundert lang war die australische Ikone eng mit dem US-Konzern Kraft und zuletzt dessen Ableger Mondelez verbunden, bis die Molkereifirma Bega Cheese sie 2017 in australische Hand zurückholte.",
+              "hook": "Men-at-Work-Hit „Down Under“",
+              "children": [],
+              "source": {
+                "title": "Vegemite – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Vegemite"
+              }
+            }
+          ],
+          "source": {
+            "title": "Jägerliest – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/J%C3%A4gerliest"
+          }
+        },
+        {
+          "id": "2026-11-06-0-1",
+          "title": "Die Säge aus dem Kreißsaal",
+          "text": "Die Kettensäge, die der Leierschwanz imitiert, wurde ursprünglich nicht für Bäume erfunden, sondern für die Medizin. Ende des 18. Jahrhunderts beschrieben die schottischen Ärzte John Aitken und James Jeffray eine feine Kettensäge, mit der sich bei schweren Geburten Knorpel und Knochen des Beckens durchtrennen ließen. Um 1830 baute der Würzburger Orthopäde Bernhard Heine mit dem Osteotom eine handgekurbelte Version für Knochenoperationen. Erst im 20. Jahrhundert machten Firmen wie die von Andreas Stihl daraus Werkzeuge für Holzfäller.",
+          "hook": "eine Kettensäge",
+          "children": [
+            {
+              "id": "2026-11-06-0-1-0",
+              "title": "Die geheime Zange",
+              "text": "Für schwere Geburten gab es schon vor der Kettensäge ein Werkzeug, das eine Familie wie einen Schatz hütete: die Geburtszange. Die Chamberlens, eine Ärztedynastie hugenottischer Herkunft in England, nutzten sie ab dem frühen 17. Jahrhundert und hielten ihre Bauweise über mehrere Generationen geheim. Überlieferungen zufolge verbanden sie den Gebärenden sogar die Augen und brachten das Instrument in einer verschlossenen Kiste herein. Erst 1813 entdeckte man auf dem Landsitz Woodham Mortimer Hall in Essex Originalzangen der Familie, versteckt unter den Dielen.",
+              "hook": "bei schweren Geburten",
+              "children": [],
+              "source": {
+                "title": "Geburtszange – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Geburtszange"
+              }
+            },
+            {
+              "id": "2026-11-06-0-1-1",
+              "title": "Ein Baum als Wappen",
+              "text": "Das Fach des Würzburgers Bernhard Heine trägt einen Namen, der eigentlich Kinder meint. Der Pariser Arzt Nicolas Andry prägte 1741 den Begriff „Orthopädie“ aus den griechischen Wörtern für „gerade“ und „Kind“, denn sein Buch behandelte Fehlstellungen bei Heranwachsenden. Darin findet sich das Bild eines krumm gewachsenen jungen Baums, der an einen geraden Pfahl gebunden ist. Dieser „Baum des Andry“ ist bis heute das Emblem vieler orthopädischer Fachgesellschaften. Das Fach, aus dem Heines Kettensäge kam, hat also ausgerechnet einen Baum im Wappen.",
+              "hook": "Orthopäde Bernhard Heine",
+              "children": [],
+              "source": {
+                "title": "Nicolas Andry de Boisregard – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Nicolas_Andry_de_Boisregard"
+              }
+            },
+            {
+              "id": "2026-11-06-0-1-2",
+              "title": "Ein Riese aus der Werbung",
+              "text": "Lange bevor Kettensägen durch die Wälder heulten, hatten die Holzfäller Nordamerikas einen Helden: den Riesen Paul Bunyan. Geschichten über ihn erzählte man sich wohl schon in den Holzfällerlagern, landesweit bekannt machte ihn aber ab 1914 der Werbetexter William B. Laughead in Broschüren der Red River Lumber Company. Er schmückte die Figur kräftig aus und machte sie zum Gesicht der Firma. Der Folklorist Richard Dorson prägte 1950 für solche Erfindungen, die sich als Volksgut ausgeben, den Begriff „Fakelore“, und Paul Bunyan wurde zu seinem Paradebeispiel.",
+              "hook": "Werkzeuge für Holzfäller",
+              "children": [],
+              "source": {
+                "title": "Paul Bunyan – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Paul_Bunyan"
+              }
+            }
+          ],
+          "source": {
+            "title": "Kettensäge – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Kettens%C3%A4ge"
+          }
+        },
+        {
+          "id": "2026-11-06-0-2",
+          "title": "Fast hieß der Dollar Royal",
+          "text": "Die Zehn-Cent-Münze mit dem Leierschwanz kam am 14. Februar 1966 in Umlauf, als Australien vom australischen Pfund auf das Dezimalsystem umstellte. Die Regierung von Premierminister Robert Menzies wollte die neue Währung zunächst „Royal“ nennen. Nach öffentlichem Spott blieb es beim Dollar. Die Tiermotive der Münzen, vom Ameisenigel bis zum Schnabeltier, entwarf der junge Silberschmied Stuart Devlin, der später Hofgoldschmied von Königin Elizabeth II. wurde.",
+          "hook": "auf der australischen Zehn-Cent-Münze",
+          "children": [
+            {
+              "id": "2026-11-06-0-2-0",
+              "title": "Verdacht auf Fälschung",
+              "text": "Als um 1799 der erste Schnabeltier-Balg aus Australien nach England kam, hielten ihn manche Naturforscher für einen Scherz: ein Entenschnabel, angenäht an ein Pelztier. Der Zoologe George Shaw soll mit einer Schere nach Nähten gesucht haben. Am Präparat im Londoner Natural History Museum sind bis heute Schnitte zu sehen. Shaw nannte das Tier Platypus anatinus, doch der Gattungsname war schon an einen Käfer vergeben. Darum heißt das Schnabeltier wissenschaftlich Ornithorhynchus, und der verworfene Name lebt nur im englischen Alltagswort „platypus“ weiter.",
+              "hook": "bis zum Schnabeltier",
+              "children": [],
+              "source": {
+                "title": "Schnabeltier – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Schnabeltier"
+              }
+            },
+            {
+              "id": "2026-11-06-0-2-1",
+              "title": "Der Dollar mit dem Loch",
+              "text": "Lange vor dem australischen Pfund litt die Kolonie New South Wales unter chronischem Münzmangel. Gouverneur Lachlan Macquarie ließ deshalb 1813 rund 40.000 spanische Silberdollar mitten durchlöchern. Der Ring, der „Holey Dollar“, galt fünf Schilling, das ausgestanzte Scheibchen, der „Dump“, 15 Pence. Ausgeführt hat die Arbeit der verurteilte Fälscher William Henshall. Die Investmentbank Macquarie Group trägt den durchlöcherten Dollar bis heute im Logo.",
+              "hook": "vom australischen Pfund",
+              "children": [],
+              "source": {
+                "title": "Holey dollar & dump coins, 1813 – Museums of History NSW",
+                "url": "https://mhnsw.au/stories/on-this-day/30-september-1813/"
+              }
+            },
+            {
+              "id": "2026-11-06-0-2-2",
+              "title": "Zehn Stunden pro Tag",
+              "text": "Die Französische Revolution wollte nicht nur Geld und Maße auf das Dezimalsystem umstellen, sondern auch die Zeit. Ab 1794 hatte der Tag offiziell zehn Stunden zu je hundert Minuten, und Uhrmacher bauten Zifferblätter mit nur zehn Ziffern. Weil kaum jemand mitmachte, wurde die Dezimalzeit schon 1795 wieder ausgesetzt. Länger hielt sich der Revolutionskalender mit seinen Zehn-Tage-Wochen: Er galt bis Ende 1805, obwohl die Arbeiter jetzt nur noch jeden zehnten statt jeden siebten Tag frei hatten.",
+              "hook": "auf das Dezimalsystem umstellte",
+              "children": [],
+              "source": {
+                "title": "Decimal time – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Decimal_time"
+              }
+            }
+          ],
+          "source": {
+            "title": "Australischer Dollar – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Australischer_Dollar"
+          }
+        }
+      ],
+      "source": {
+        "title": "Graurücken-Leierschwanz – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Graur%C3%BCcken-Leierschwanz"
+      }
+    },
+    {
+      "id": "2026-11-06-1",
+      "category": "geschichte",
+      "title": "Die Vasa",
+      "text": "Am 10. August 1628 lief das schwedische Kriegsschiff Vasa in Stockholm zu seiner Jungfernfahrt aus. Nach nur rund 1300 Metern sank es, weil es zu kopflastig gebaut war. König Gustav II. Adolf hatte das prachtvolle Schiff mit 64 Kanonen in Auftrag gegeben. Im Brackwasser der Ostsee kommt der holzfressende Schiffsbohrwurm kaum vor, deshalb blieb der Rumpf gut erhalten und konnte 1961 gehoben werden. Heute steht die Vasa zu über 95 Prozent im Originalzustand in einem eigenen Museum.",
+      "children": [
+        {
+          "id": "2026-11-06-1-0",
+          "title": "Die Muschel als Tunnelbauer",
+          "text": "Der Schiffsbohrwurm, der die Vasa verschonte, ist gar kein Wurm. Er ist eine Muschel: Teredo navalis raspelt sich mit zwei winzigen Schalen am Vorderende durchs Holz und verdaut es mithilfe symbiotischer Bakterien in seinen Kiemen, die Zellulose aufspalten. Der Ingenieur Marc Isambard Brunel studierte diese Bohrtechnik und ließ sich 1818 einen Tunnelschild patentieren. Damit entstand ab 1825 der Thames Tunnel in London, der als erster Tunnel unter einem schiffbaren Fluss gilt.",
+          "hook": "holzfressende Schiffsbohrwurm",
+          "children": [
+            {
+              "id": "2026-11-06-1-0-0",
+              "title": "Die Muschel, die nicht isst",
+              "text": "Bei einem Verwandten des Schiffsbohrwurms haben die Kiemenbakterien eine ganz andere Aufgabe. Kuphus polythalamius, eine bis zu rund anderthalb Meter lange Bohrmuschel, war lange nur durch ihre kalkigen Röhren bekannt. Erst 2017 beschrieben Forscher lebende Tiere aus einer Lagune auf den Philippinen. Statt Holz zu fressen, steckt die Muschel im schwefelwasserstoffreichen Schlamm, und ihre Bakterien gewinnen Energie aus Schwefelverbindungen. Ihr Verdauungstrakt ist so stark zurückgebildet, dass ihre Untermieter sie praktisch ernähren.",
+              "hook": "symbiotischer Bakterien in seinen Kiemen",
+              "children": [],
+              "source": {
+                "title": "Kuphus polythalamia – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kuphus_polythalamia"
+              }
+            },
+            {
+              "id": "2026-11-06-1-0-1",
+              "title": "Der Sohn im Tunnel",
+              "text": "Beim Bau des Thames Tunnel arbeitete Marc Isambard Brunels Sohn Isambard Kingdom als leitender Ingenieur mit. 1828 wäre er fast ertrunken, als die Themse in den Stollen brach. Er überlebte schwer verletzt und wurde einer der bekanntesten Ingenieure Großbritanniens: Er baute die Great Western Railway und mehrere Dampfschiffe, zuletzt den Riesen Great Eastern. Als Passagierschiff war die Great Eastern ein Misserfolg, doch 1866 verlegte sie das erste dauerhaft funktionierende Telegrafenkabel durch den Atlantik. Brunel selbst war da schon sieben Jahre tot.",
+              "hook": "Marc Isambard Brunel",
+              "children": [],
+              "source": {
+                "title": "Isambard Kingdom Brunel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Isambard_Kingdom_Brunel"
+              }
+            },
+            {
+              "id": "2026-11-06-1-0-2",
+              "title": "Bohrmaschinen mit Vornamen",
+              "text": "Brunels Tunnelschild gilt als Urahn der heutigen Tunnelbohrmaschinen, und mit ihnen hat sich ein seltsamer Brauch erhalten. Nach alter Tunnelbauer-Tradition soll eine Maschine erst zu bohren beginnen, wenn sie einen Frauennamen trägt. Damit ehrt man die heilige Barbara, die Schutzpatronin der Bergleute. Beim Londoner Bahnprojekt Crossrail hießen die acht Maschinen unter anderem Phyllis, Victoria, Elizabeth und Ada. Ada erinnerte an Ada Lovelace, die als Pionierin des Programmierens gilt.",
+              "hook": "einen Tunnelschild patentieren",
+              "children": [],
+              "source": {
+                "title": "Tunnelpatin – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Tunnelpatin"
+              }
+            }
+          ],
+          "source": {
+            "title": "Schiffsbohrwurm – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Schiffsbohrwurm"
+          }
+        },
+        {
+          "id": "2026-11-06-1-1",
+          "title": "Ein König als Törtchen",
+          "text": "König Gustav II. Adolf wird in Schweden bis heute mit Gebäck geehrt: Am 6. November, seinem Todestag, gibt es die Gustav-Adolf-Bakelse, ein Törtchen mit seinem Profil aus Schokolade oder Marzipan. Besonders in Göteborg wird gefeiert, denn er hat die Stadt 1621 gegründet. Gefallen ist er 1632 in der Schlacht bei Lützen nahe Leipzig, nachdem er im Nebel von seinen Truppen getrennt worden war. An der Stelle erinnert heute der „Schwedenstein“ an ihn.",
+          "hook": "König Gustav II. Adolf",
+          "children": [
+            {
+              "id": "2026-11-06-1-1-0",
+              "title": "Klein-Amsterdam am Kattegat",
+              "text": "Für die Gründung Göteborgs 1621 holte Gustav II. Adolf vor allem Niederländer ins Land. Sie konnten auf sumpfigem Grund bauen und legten die Stadt nach heimischem Vorbild mit Kanälen und Festungswällen an. Im frühen Stadtrat saßen neben Schweden auch Niederländer, Deutsche und Schotten. Die Stadt war schon ein zweiter Versuch: Ein älteres Göteborg auf der Insel Hisingen hatten dänische Truppen 1611 niedergebrannt.",
+              "hook": "die Stadt 1621 gegründet",
+              "children": [],
+              "source": {
+                "title": "Göteborg – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/G%C3%B6teborg"
+              }
+            },
+            {
+              "id": "2026-11-06-1-1-1",
+              "title": "Das Pferd, das heimkehrte",
+              "text": "Aus der Schlacht bei Lützen kam Gustav II. Adolfs Pferd Streiff verwundet und ohne seinen Reiter zurück. Es überlebte den König nur kurz und wurde danach präpariert. Heute steht es in der Livrustkammaren, der königlichen Rüstkammer im Stockholmer Schloss, nicht weit von den blutbefleckten Kleidern, die der König in der Schlacht trug. Streiff gilt als eines der ältesten erhaltenen ausgestopften Pferde der Welt und hat seinen Herrn damit um fast vier Jahrhunderte überdauert.",
+              "hook": "in der Schlacht bei Lützen",
+              "children": [],
+              "source": {
+                "title": "Streiff (Pferd) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Streiff_(Pferd)"
+              }
+            },
+            {
+              "id": "2026-11-06-1-1-2",
+              "title": "Tod durch Sahnebrötchen",
+              "text": "In der schwedischen Königsgeschichte spielt Gebäck auch eine dunklere Rolle: König Adolf Fredrik starb am 12. Februar 1771 nach einem üppigen Mahl. Überliefert ist, dass es Hummer, Kaviar, Sauerkraut und Champagner gab und zum Nachtisch 14 Portionen Semla, damals in heißer Milch serviert. Ob die Zahl stimmt, ist unsicher. In Schweden gilt er trotzdem bis heute als der König, der sich mit Hefebrötchen zu Tode gegessen hat.",
+              "hook": "bis heute mit Gebäck geehrt",
+              "children": [],
+              "source": {
+                "title": "Adolf Friedrich (Schweden) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Adolf_Friedrich_(Schweden)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Gustav II. Adolf – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Gustav_II._Adolf"
+          }
+        },
+        {
+          "id": "2026-11-06-1-2",
+          "title": "Vom Wrack zum Abführmittel",
+          "text": "Als die Vasa 1961 gehoben war, drohte ihr durchnässtes Holz beim Trocknen zu schrumpfen und zu reißen. Deshalb wurde sie rund 17 Jahre lang mit Polyethylenglykol besprüht, einem wachsartigen Kunststoff, der das Wasser in den Holzzellen nach und nach ersetzt. Derselbe Stoff steckt unter dem Namen Macrogol in Abführmitteln, weil er im Darm Wasser bindet. Auch die Bremer Kogge von etwa 1380, die 1962 in der Weser entdeckt wurde, lag viele Jahre in einem Polyethylenglykol-Bad.",
+          "hook": "1961 gehoben",
+          "children": [
+            {
+              "id": "2026-11-06-1-2-0",
+              "title": "Das letzte Treffen der Hanse",
+              "text": "Die Bremer Kogge war der typische Lastensegler der Hanse, jenes Bundes norddeutscher Kaufleute und Städte, der über Jahrhunderte den Handel auf Nord- und Ostsee beherrschte. Zum letzten Hansetag kamen 1669 in Lübeck nur noch Gesandte aus neun Städten, danach traf man sich nie wieder. Lübeck, Hamburg und Bremen trugen den Namen trotzdem weiter, und er fährt bis heute auf Autokennzeichen mit: HH steht für Hansestadt Hamburg, HB für Hansestadt Bremen.",
+              "hook": "Bremer Kogge von etwa 1380",
+              "children": [],
+              "source": {
+                "title": "Hanse – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Hanse"
+              }
+            },
+            {
+              "id": "2026-11-06-1-2-1",
+              "title": "Tarnkappe für Medikamente",
+              "text": "Macrogol kann in der Medizin weit mehr als abführen: Hängt man die langen Polyethylenglykol-Ketten an Arzneistoffe, erkennt und beseitigt der Körper sie langsamer. Mit dieser PEGylierung kam 1990 in den USA Adagen auf den Markt, ein Enzympräparat gegen eine schwere angeborene Immunschwäche. Auch die mRNA-Impfstoffe gegen Covid-19 enthalten PEG als Bestandteil ihrer winzigen Fettkügelchen. Deshalb geriet ausgerechnet dieser sonst so harmlose Stoff in Verdacht, die seltenen allergischen Schocks nach der Impfung mit auszulösen.",
+              "hook": "Macrogol in Abführmitteln",
+              "children": [],
+              "source": {
+                "title": "PEGylierung – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/PEGylierung"
+              }
+            },
+            {
+              "id": "2026-11-06-1-2-2",
+              "title": "Eine Stadt auf Pfählen",
+              "text": "Durchnässtes Holz verrottet kaum, solange kein Sauerstoff herankommt, und genau darauf verlässt sich Amsterdam. Viele ältere Häuser der Stadt stehen auf Holzpfählen, die durch weichen Torf bis in eine tragfähige Sandschicht getrieben wurden und dauerhaft im Grundwasser stecken. Allein der Königspalast am Dam, gebaut im 17. Jahrhundert als Rathaus, ruht auf 13.659 Pfählen. Ein altes Kinderlied fasst das Risiko zusammen: Amsterdam ist auf Pfählen gebaut, und fiele die Stadt einmal um, wer würde das bezahlen?",
+              "hook": "ihr durchnässtes Holz",
+              "children": []
+            }
+          ],
+          "source": {
+            "title": "Nassholzkonservierung – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Nassholzkonservierung"
+          }
+        }
+      ],
+      "source": {
+        "title": "Vasa – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Vasa"
+      }
+    },
+    {
+      "id": "2026-11-06-2",
+      "category": "wissenschaft",
+      "title": "Beteigeuze",
+      "text": "Beteigeuze bildet die Schulter des Sternbilds Orion und ist ein Roter Überriese. An die Stelle der Sonne gesetzt, würde er wohl über die Marsbahn hinausreichen. Ende 2019 verlor der Stern innerhalb weniger Monate mehr als die Hälfte seiner Helligkeit. Aufnahmen des Very Large Telescope in Chile legen nahe, dass eine selbst ausgestoßene Staubwolke ihn teilweise verdeckte. Als Supernova wird er nach den meisten Schätzungen erst in rund 100.000 Jahren explodieren. Sein Name geht auf eine verballhornte arabische Bezeichnung zurück.",
+      "children": [
+        {
+          "id": "2026-11-06-2-0",
+          "title": "Sternwarte in der Wüste",
+          "text": "Das Very Large Telescope steht auf dem Cerro Paranal in der chilenischen Atacamawüste, auf gut 2600 Metern Höhe und in einer der trockensten Gegenden der Erde. Seine vier Hauptteleskope mit je 8,2 Meter großen Spiegeln tragen Namen aus der Sprache der Mapuche: Antu, Kueyen, Melipal und Yepun, also Sonne, Mond, Kreuz des Südens und Venus. Die halb in den Berg gebaute Unterkunft der Astronomen, die Residencia, diente 2008 als Kulisse im James-Bond-Film „Ein Quantum Trost“.",
+          "hook": "Very Large Telescope in Chile",
+          "children": [
+            {
+              "id": "2026-11-06-2-0-0",
+              "title": "Mumien, älter als Ägypten",
+              "text": "Die extreme Trockenheit der Atacama hat ein Erbe bewahrt, das älter ist als die Pyramiden: die Mumien der Chinchorro-Kultur. Fischer an der Küste beim heutigen Arica begannen vor rund 7000 Jahren, ihre Toten künstlich zu mumifizieren, etwa zwei Jahrtausende früher als die Ägypter. Sie zerlegten die Körper, stützten sie mit Holz und Schilf und überzogen sie mit Lehm und Farbe. Ausgerechnet hier droht ihnen nun Feuchtigkeit: Mikroben, begünstigt durch feuchtere Luft, lassen manche Mumien schwarz und schmierig werden.",
+              "hook": "einer der trockensten Gegenden der Erde",
+              "children": [],
+              "source": {
+                "title": "Chinchorro-Kultur – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Chinchorro-Kultur"
+              }
+            },
+            {
+              "id": "2026-11-06-2-0-1",
+              "title": "Ein Franzose als König",
+              "text": "Die Mapuche, aus deren Sprache die Teleskopnamen stammen, gehörten zu den wenigen Völkern Amerikas, die sich den spanischen Eroberern dauerhaft widersetzten. 1641 erkannte Spanien beim Parlament von Quilín den Fluss Biobío faktisch als Grenze ihres Gebiets an. 1860 erklärte sich dort ein französischer Anwalt namens Orélie-Antoine de Tounens zum König von Araukanien und Patagonien, bis Chile ihn verhaftete und nach Frankreich abschob. Sein Phantomkönigreich lebt bis heute fort: In Frankreich erheben Nachfolger noch immer Anspruch auf den Thron.",
+              "hook": "Namen aus der Sprache der Mapuche",
+              "children": [],
+              "source": {
+                "title": "Königreich von Araukanien und Patagonien – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/K%C3%B6nigreich_von_Araukanien_und_Patagonien"
+              }
+            },
+            {
+              "id": "2026-11-06-2-0-2",
+              "title": "Bond als bloßer Zuhörer",
+              "text": "Der Titel „Ein Quantum Trost“ stammt aus einer Kurzgeschichte von Ian Fleming, die 1959 erstmals in der Zeitschrift Cosmopolitan erschien und mit der der Film sonst kaum etwas gemein hat. In „Quantum of Solace“ sitzt Bond nach einer Dinnerparty in Nassau beim Gouverneur der Bahamas, der ihm vom Zerfall einer Ehe erzählt. Seine These lautet: Eine Beziehung übersteht fast alles, solange ein Mindestmaß an Menschlichkeit bleibt, eben ein Quantum Trost. Der Superagent greift kein einziges Mal zur Waffe, und seine eigenen Abenteuer kommen ihm danach geradezu harmlos vor.",
+              "hook": "„Ein Quantum Trost“",
+              "children": [],
+              "source": {
+                "title": "Ein Minimum an Trost – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ein_Minimum_an_Trost"
+              }
+            }
+          ],
+          "source": {
+            "title": "Paranal-Observatorium – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Paranal-Observatorium"
+          }
+        },
+        {
+          "id": "2026-11-06-2-1",
+          "title": "Arabisch am Nachthimmel",
+          "text": "Hinter „Beteigeuze“ steckt vermutlich das arabische „Yad al-Jauza“, die Hand der Jauza. Gemeint ist eine Himmelsgestalt, deren Deutung bis heute unklar ist. Bei der Übertragung ins Lateinische wurde aus dem Y ein B. Vielen Sternnamen erging es ähnlich: Rigel kommt von „Rijl“, Fuß, und Aldebaran bedeutet „der Folgende“. Viele dieser Namen gelangten über Übersetzungen arabischer Werke nach Europa, etwa über das „Buch der Fixsterne“, das der persische Astronom al-Sufi im 10. Jahrhundert verfasste.",
+          "hook": "verballhornte arabische Bezeichnung",
+          "children": [
+            {
+              "id": "2026-11-06-2-1-0",
+              "title": "Al-Sufis kleine Wolke",
+              "text": "In seinem „Buch der Fixsterne“ beschrieb al-Sufi um 964 auch eine „kleine Wolke“ im Sternbild Andromeda. Das ist die älteste bekannte schriftliche Erwähnung der Andromedagalaxie, eines der fernsten Objekte, die man mit bloßem Auge sehen kann. Ihr Licht ist rund 2,5 Millionen Jahre zu uns unterwegs. Lange galt ein Zusammenstoß mit der Milchstraße in etwa 4,5 Milliarden Jahren als sicher. Eine Studie von 2025 sieht dafür in den nächsten zehn Milliarden Jahren aber nur noch eine Chance von ungefähr fünfzig Prozent.",
+              "hook": "al-Sufi im 10. Jahrhundert verfasste",
+              "children": [],
+              "source": {
+                "title": "Andromedagalaxie – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Andromedagalaxie"
+              }
+            },
+            {
+              "id": "2026-11-06-2-1-1",
+              "title": "Sechs Sterne für Subaru",
+              "text": "Aldebaran heißt „der Folgende“, weil er über den Himmel hinter den Plejaden herzieht, dem wohl bekanntesten Sternhaufen. Auf der Himmelsscheibe von Nebra, die Raubgräber 1999 in Sachsen-Anhalt ausgruben, deuten viele Forscher eine Gruppe aus sieben Goldpunkten als die Plejaden. Mit bloßem Auge erkennt man meist nur sechs Sterne, obwohl der Haufen mehr als tausend Mitglieder hat. Auf Japanisch heißen die Plejaden Subaru, und das Logo des gleichnamigen Autoherstellers zeigt genau sechs Sterne.",
+              "hook": "Aldebaran bedeutet „der Folgende“",
+              "children": [],
+              "source": {
+                "title": "Plejaden – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Plejaden"
+              }
+            },
+            {
+              "id": "2026-11-06-2-1-2",
+              "title": "Wenn ein Punkt entscheidet",
+              "text": "Dass aus dem Y ein B wurde, liegt vermutlich an der arabischen Schrift: Am Wortanfang sehen die beiden Buchstaben gleich aus. Erst die Punkte machen den Unterschied, zwei darunter ergeben ein Y, einer ein B. Je nach Punkten steht dieselbe Grundform auch für T, Th oder N. In frühen Handschriften fehlten diese Punkte oft ganz, und man musste das Wort aus dem Zusammenhang erschließen. So konnte ein und dasselbe Schriftbild mehrere ganz verschiedene Wörter bedeuten.",
+              "hook": "aus dem Y ein B",
+              "children": [],
+              "source": {
+                "title": "Arabisches Alphabet – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Arabisches_Alphabet"
+              }
+            }
+          ],
+          "source": {
+            "title": "List of Arabic star names – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/List_of_Arabic_star_names"
+          }
+        },
+        {
+          "id": "2026-11-06-2-2",
+          "title": "Der Gaststern von 1054",
+          "text": "Wie eine nahe Supernova aussieht, hielten chinesische Hofastronomen im Jahr 1054 fest: Ein „Gaststern“ im Sternbild Stier war gut drei Wochen lang sogar am Taghimmel zu sehen. An seiner Stelle findet man heute den Krebsnebel, eine noch immer expandierende Gaswolke. In ihrem Zentrum rotiert ein Pulsar, der Überrest des Sternkerns, etwa 30-mal pro Sekunde. Auffällig ist, dass europäische Quellen aus dieser Zeit kaum eindeutige Hinweise auf die Erscheinung enthalten.",
+          "hook": "Als Supernova wird er",
+          "children": [
+            {
+              "id": "2026-11-06-2-2-0",
+              "title": "Der Kometenjäger Messier",
+              "text": "Der Krebsnebel trägt die Katalognummer M1, weil der französische Astronom Charles Messier ihn 1758 beobachtete und später als ersten Eintrag in sein Verzeichnis aufnahm. Eigentlich jagte Messier Kometen; Ludwig XV. soll ihn das „Frettchen der Kometen“ genannt haben. Seine Liste hatte einen praktischen Zweck: Sie sammelte neblige Objekte, die man mit Kometen verwechseln konnte und deshalb übergehen sollte. Gerade diese Liste der Störenfriede wurde zum berühmtesten Katalog von Galaxien, Nebeln und Sternhaufen.",
+              "hook": "findet man heute den Krebsnebel",
+              "children": [],
+              "source": {
+                "title": "Messier-Katalog – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Messier-Katalog"
+              }
+            },
+            {
+              "id": "2026-11-06-2-2-1",
+              "title": "Ein Pulsar als Plattencover",
+              "text": "Der Pulsar im Krebsnebel war nicht der erste seiner Art: 1967 stieß die Doktorandin Jocelyn Bell in Cambridge auf rätselhaft regelmäßige Radiopulse. Ihr Team nannte die Quelle halb im Scherz „LGM-1“, kurz für „Little Green Men“. Übereinandergestapelte Pulskurven dieses Pulsars, heute PSR B1919+21, erschienen später in einer Astronomie-Enzyklopädie. Der Designer Peter Saville machte daraus 1979 das Cover von Joy Divisions Debütalbum „Unknown Pleasures“, eines der bekanntesten Plattencover überhaupt.",
+              "hook": "In ihrem Zentrum rotiert ein Pulsar",
+              "children": [],
+              "source": {
+                "title": "PSR J1921+2153 – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/PSR_J1921%2B2153"
+              }
+            },
+            {
+              "id": "2026-11-06-2-2-2",
+              "title": "1054: Das Jahr des Bruchs",
+              "text": "Für Europas Kirche war 1054 aus einem anderen Grund ein Schicksalsjahr: Im Juli legte der päpstliche Legat Humbert von Silva Candida eine Bannbulle auf den Altar der Hagia Sophia. Patriarch Michael Kerullarios bannte daraufhin die Gesandten, und das Datum gilt seither als Symbol der Spaltung in katholische und orthodoxe Kirche. Kurios: Papst Leo IX., in dessen Namen Humbert handelte, war bereits im April gestorben. Erst 1965 nahmen Paul VI. und Athenagoras die Bannflüche zurück.",
+              "hook": "europäische Quellen aus dieser Zeit",
+              "children": [],
+              "source": {
+                "title": "Morgenländisches Schisma – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Morgenl%C3%A4ndisches_Schisma"
+              }
+            }
+          ],
+          "source": {
+            "title": "Supernova 1054 – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Supernova_1054"
+          }
+        }
+      ],
+      "source": {
+        "title": "Beteigeuze – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Beteigeuze"
+      }
+    }
+  ]
+}
