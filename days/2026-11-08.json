@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-06T00:51:04.321Z",
+  "topics": [
+    {
+      "id": "2026-11-08-0",
+      "category": "geschichte",
+      "title": "Wilhelm Conrad Röntgen",
+      "text": "Am Abend des 8. November 1895 bemerkte der Physiker Wilhelm Conrad Röntgen in seinem Würzburger Labor, dass ein mit Bariumplatincyanür beschichteter Schirm aufleuchtete, obwohl seine Kathodenstrahlröhre in schwarzen Karton gehüllt war. Er nannte die rätselhafte Strahlung „X-Strahlen“. Kurz vor Weihnachten entstand die berühmte Aufnahme der Hand seiner Frau Anna Bertha samt Ehering. 1901 erhielt er den ersten Nobelpreis für Physik, ein Patent auf seine Entdeckung meldete er nie an.",
+      "children": [
+        {
+          "id": "2026-11-08-0-0",
+          "title": "Röntgenblick im Schuhladen",
+          "text": "Der leuchtende Schirm, der Röntgen auf die Spur brachte, landete bald ausgerechnet in Schuhgeschäften. Ab den 1920er-Jahren standen in Tausenden Läden in Europa und den USA sogenannte Pedoskope. Kunden sahen darin ihre Zehenknochen im neuen Schuh wackeln. Kinder liebten das Gerät, die höchste Strahlendosis bekamen jedoch die Verkäufer ab, durch jahrelange Streustrahlung. Ab Ende der 1950er-Jahre wurden die Apparate nach und nach verboten, in Deutschland erst in den 1970er-Jahren, in der Schweiz verschwanden die letzten um 1990.",
+          "hook": "mit Bariumplatincyanür beschichteter Schirm",
+          "children": [
+            {
+              "id": "2026-11-08-0-0-0",
+              "title": "Edisons hellerer Schirm",
+              "text": "Den leuchtenden Schirm aus Röntgens Labor wollte Thomas Edison 1896 verbessern. Sein Team testete Hunderte Substanzen und stieß auf Calciumwolframat, das deutlich heller leuchtete. Daraus baute Edison ein handliches Durchleuchtungsgerät, das er in New York öffentlich vorführte. Sein Glasbläser Clarence Dally testete die Röhren jahrelang an den eigenen Händen, verlor beide Arme und starb 1904. Edison gab die Röntgenforschung danach auf. Das Calciumwolframat aber blieb jahrzehntelang Standard in den Verstärkerfolien der Röntgenmedizin.",
+              "hook": "Der leuchtende Schirm",
+              "children": []
+            },
+            {
+              "id": "2026-11-08-0-0-1",
+              "title": "Die Radium Girls",
+              "text": "Dass nicht die Kundschaft, sondern die Beschäftigten das größte Strahlenrisiko trugen, zeigte sich besonders drastisch in Orange, New Jersey. Dort bemalten junge Frauen Uhrenziffern mit Leuchtfarbe aus Radium und spitzten die Pinsel mit den Lippen an, nach der Regel „lip, dip, paint“. Viele erkrankten an zerfallenden Kieferknochen und Knochenkrebs. Fünf von ihnen verklagten 1927 die U.S. Radium Corporation. Ihre Krankengeschichten dienten später als Grundlage für die Grenzwerte, die die Arbeiter des Manhattan-Projekts schützen sollten.",
+              "hook": "die höchste Strahlendosis bekamen jedoch die Verkäufer",
+              "children": [],
+              "source": {
+                "title": "Radium Girls – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Radium_Girls"
+              }
+            },
+            {
+              "id": "2026-11-08-0-0-2",
+              "title": "Das Messbrett aus Syracuse",
+              "text": "Neben dem Pedoskop stand in vielen Schuhgeschäften bald ein unscheinbares Metallbrett, das ganz ohne Strahlung auskam. Erfunden hatte es Charles Brannock, Sohn eines Schuhhändlers aus Syracuse im Bundesstaat New York. Mitte der 1920er-Jahre ließ er es patentieren, 1927 gründete er seine eigene Firma. Sein Gerät misst nicht nur Länge und Breite des Fußes, sondern auch den Abstand von der Ferse zum Ballen. Die Pedoskope sind längst verschrottet, das Brannock-Gerät wird dagegen bis heute nahezu unverändert gebaut.",
+              "hook": "in Schuhgeschäften",
+              "children": [],
+              "source": {
+                "title": "Brannock Device – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Brannock_Device"
+              }
+            }
+          ],
+          "source": {
+            "title": "Pedoskop – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Pedoskop"
+          }
+        },
+        {
+          "id": "2026-11-08-0-1",
+          "title": "Röntgens bitterster Rivale",
+          "text": "Mit solchen Kathodenstrahlröhren hatte kurz zuvor auch Philipp Lenard experimentiert. Er versah sie mit einem hauchdünnen Aluminiumfenster, durch das die Strahlen ins Freie traten. Lenard erhielt dafür 1905 selbst den Nobelpreis, fühlte sich aber zeitlebens um die Entdeckung der X-Strahlen betrogen und vermied später sogar den Begriff „Röntgenstrahlen“. Später wurde er zum Wortführer der antisemitischen „Deutschen Physik“, bekämpfte Einsteins Relativitätstheorie und stellte sich schon 1924 öffentlich hinter Hitler.",
+          "hook": "seine Kathodenstrahlröhre",
+          "children": [
+            {
+              "id": "2026-11-08-0-1-0",
+              "title": "Das Metall der Kaiser",
+              "text": "Das Aluminium für Lenards Fenster war wenige Jahrzehnte zuvor noch ein Luxusgut. Weil es sich nur mühsam aus seinen Verbindungen lösen ließ, war es zeitweise kostbarer als Silber. Napoleon III. soll seine vornehmsten Gäste mit Aluminiumbesteck bewirtet haben, und 1884 setzte man dem Washington Monument eine knapp drei Kilogramm schwere Spitze aus Aluminium auf. Billig wurde das Metall erst durch die Schmelzflusselektrolyse, die der Amerikaner Charles Martin Hall und der Franzose Paul Héroult 1886 unabhängig voneinander erfanden. Beide waren 1863 geboren und starben 1914.",
+              "hook": "einem hauchdünnen Aluminiumfenster",
+              "children": [],
+              "source": {
+                "title": "History of aluminium – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/History_of_aluminium"
+              }
+            },
+            {
+              "id": "2026-11-08-0-1-1",
+              "title": "Einsteins Nobelpreis-Umweg",
+              "text": "Weil die Relativitätstheorie so umkämpft war, wagte das Nobelkomitee jahrelang nicht, sie auszuzeichnen. Vor allem der schwedische Augenarzt und Nobelpreisträger Allvar Gullstrand hielt sie für unbewiesen. Den Physikpreis für 1921, vergeben erst 1922, bekam Einstein schließlich für die Erklärung des photoelektrischen Effekts, ausgerechnet jenes Phänomens, dessen Eigenschaften Lenard 1902 gemessen hatte. Das Preisgeld war da längst verplant: Einstein hatte es 1919 im Scheidungsvertrag seiner ersten Frau Mileva Marić zugesagt.",
+              "hook": "bekämpfte Einsteins Relativitätstheorie",
+              "children": [],
+              "source": {
+                "title": "Albert Einstein – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Albert_Einstein"
+              }
+            },
+            {
+              "id": "2026-11-08-0-1-2",
+              "title": "Heisenberg, der „weiße Jude“",
+              "text": "Wie gefährlich die „Deutsche Physik“ werden konnte, bekam Werner Heisenberg zu spüren. 1937 beschimpfte ihn die SS-Zeitung „Das Schwarze Korps“ als „weißen Juden“, weil er Relativitäts- und Quantentheorie lehrte. Daraufhin wandte sich Heisenbergs Mutter an die Mutter Heinrich Himmlers, die sie aus München kannte, und nach monatelangen Ermittlungen ließ Himmler ihn 1938 rehabilitieren. Den Münchner Lehrstuhl Arnold Sommerfelds bekam trotzdem ein anderer: der Aerodynamiker Wilhelm Müller, der als theoretischer Physiker kaum ausgewiesen war.",
+              "hook": "Wortführer der antisemitischen „Deutschen Physik“",
+              "children": [],
+              "source": {
+                "title": "Werner Heisenberg – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Werner_Heisenberg"
+              }
+            }
+          ],
+          "source": {
+            "title": "Philipp Lenard 1862-1947 – LeMO, Deutsches Historisches Museum",
+            "url": "https://www.dhm.de/lemo/biografie/philipp-lenard"
+          }
+        },
+        {
+          "id": "2026-11-08-0-2",
+          "title": "Ein Testament in Paris",
+          "text": "Den Preis gab es nur dank eines Dokuments, das 19 Tage nach Röntgens Entdeckung unterzeichnet wurde: Am 27. November 1895 setzte Alfred Nobel im Schwedisch-Norwegischen Club in Paris sein Testament auf. Der Dynamit-Erfinder vermachte den Großteil seines Vermögens Preisen für Physik, Chemie, Medizin, Literatur und Frieden, zum Entsetzen mancher Verwandter. Erst nach jahrelangem Streit, den sein junger Assistent Ragnar Sohlman als Testamentsvollstrecker ausfocht, konnten 1901 die ersten Preise vergeben werden.",
+          "hook": "den ersten Nobelpreis für Physik",
+          "children": [
+            {
+              "id": "2026-11-08-0-2-0",
+              "title": "Ein Preis, zwei Hauptstädte",
+              "text": "Dass Nobel sein Testament ausgerechnet im Schwedisch-Norwegischen Club unterschrieb, passte zur politischen Lage: Schweden und Norwegen bildeten seit 1814 eine Union unter einem gemeinsamen König. Laut Testament sollte ein fünfköpfiges Komitee des norwegischen Parlaments, des Storting, den Friedenspreis vergeben, schwedische Institutionen die übrigen Preise. Warum Nobel das so verfügte, hat er nie erklärt. 1905 zerbrach die Union, die Aufteilung aber blieb: Bis heute wird nur der Friedenspreis in Oslo überreicht, alle anderen Preise in Stockholm.",
+              "hook": "Schwedisch-Norwegischen Club in Paris",
+              "children": [],
+              "source": {
+                "title": "Norwegisches Nobelkomitee – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Norwegisches_Nobelkomitee"
+              }
+            },
+            {
+              "id": "2026-11-08-0-2-1",
+              "title": "Sprengstoff an der Elbe",
+              "text": "Am Anfang des Dynamits stand ein Unglück: 1864 kam Nobels jüngerer Bruder Emil bei einer Nitroglycerin-Explosion auf dem Familiengelände Heleneborg in Stockholm ums Leben. Danach experimentierte Nobel eine Zeit lang auf einem Kahn im Mälarsee und gründete 1865 bei Geesthacht an der Elbe die Fabrik Krümmel. Dort band er das launische Öl in Kieselgur, ein poröses Gestein, wie es etwa in der Lüneburger Heide abgebaut wurde, und ließ das Ergebnis 1867 patentieren. Ganz in der Nähe der einstigen Sprengstofffabrik lieferte später, ab 1984, das Kernkraftwerk Krümmel Strom.",
+              "hook": "Der Dynamit-Erfinder",
+              "children": [],
+              "source": {
+                "title": "Dynamitfabrik Krümmel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dynamitfabrik_Kr%C3%BCmmel"
+              }
+            },
+            {
+              "id": "2026-11-08-0-2-2",
+              "title": "Revolver in der Droschke",
+              "text": "Ragnar Sohlman war erst 26 Jahre alt, als er erfuhr, dass Nobel ihn zum Testamentsvollstrecker bestimmt hatte. Entscheidend war, wo der rastlose Nobel rechtlich gewohnt hatte, denn davon hing ab, welches Recht galt. Sohlman ließ das Vermögen aus Paris nach Schweden schaffen, nach seinen eigenen Erinnerungen mit Wertpapieren in einer Droschke und einem Revolver griffbereit. Vor Gericht argumentierte er, Nobels Wohnsitz sei das Gut Björkborn beim Rüstungswerk Bofors gewesen. Er setzte sich durch und leitete später selbst fast zwei Jahrzehnte lang die Nobelstiftung.",
+              "hook": "junger Assistent Ragnar Sohlman",
+              "children": [],
+              "source": {
+                "title": "Ragnar Sohlman – executor of the Will – NobelPrize.org",
+                "url": "https://www.nobelprize.org/alfred-nobel/ragnar-sohlman-executor-of-the-will/"
+              }
+            }
+          ],
+          "source": {
+            "title": "Nobelpreis – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Nobelpreis"
+          }
+        }
+      ],
+      "source": {
+        "title": "Wilhelm Conrad Röntgen – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Wilhelm_Conrad_R%C3%B6ntgen"
+      }
+    },
+    {
+      "id": "2026-11-08-1",
+      "category": "orte",
+      "title": "Die Insel Hashima",
+      "text": "Vor Nagasaki liegt Hashima, wegen ihrer Silhouette aus Betonbauten auch Gunkanjima, „Kriegsschiffinsel“, genannt. Mitsubishi förderte hier ab 1890 Steinkohle unter dem Meeresboden. 1959 lebten über 5000 Menschen auf rund sechs Hektar, eine der höchsten je gemessenen Bevölkerungsdichten. Nach der Schließung der Mine 1974 wurde die Insel verlassen. Seit 2015 ist sie UNESCO-Welterbe, was wegen der Zwangsarbeit von Koreanern und Chinesen im Zweiten Weltkrieg umstritten ist.",
+      "children": [
+        {
+          "id": "2026-11-08-1-0",
+          "title": "Das Schlachtschiff Tosa",
+          "text": "Mit ihrer Silhouette soll die Insel Beobachter an das Schlachtschiff Tosa erinnert haben, das 1921 auf der Mitsubishi-Werft in Nagasaki vom Stapel lief. Fertig wurde es nie: Der Washingtoner Flottenvertrag von 1922 begrenzte die Kriegsflotten der Großmächte, und Japan musste den Bau abbrechen. Die Marine nutzte den unfertigen Rumpf für Beschuss- und Torpedoversuche, deren Ergebnisse in spätere Schiffe einflossen. 1925 wurde die Tosa im Bungo-Kanal versenkt.",
+          "hook": "wegen ihrer Silhouette aus Betonbauten",
+          "children": [
+            {
+              "id": "2026-11-08-1-0-0",
+              "title": "Granaten, die tauchen",
+              "text": "Bei den Versuchen an der Tosa zeigte sich, dass zu kurz einschlagende Granaten unter Wasser weiterliefen und den Rumpf unterhalb des Panzergürtels trafen. Japan entwickelte daraus Panzergranaten wie den Typ 91, die solche Unterwasserbahnen gezielt nutzen sollten. Im Oktober 1942 traf vor Guadalcanal eine Granate den US-Kreuzer Boise unter der Wasserlinie, oft als solcher Tauchtreffer gedeutet, und setzte eine Munitionskammer in Brand. Gerettet wurde das Schiff ausgerechnet vom einströmenden Meerwasser, das die Flammen erstickte.",
+              "hook": "Beschuss- und Torpedoversuche",
+              "children": [],
+              "source": {
+                "title": "Japan's Diving Shells in the Battle of Cape Esperance – Warfare History Network",
+                "url": "https://warfarehistorynetwork.com/japans-diving-shells-in-the-battle-of-cape-esperance/"
+              }
+            },
+            {
+              "id": "2026-11-08-1-0-1",
+              "title": "Die Schwarze Kammer",
+              "text": "Bei den Verhandlungen zum Washingtoner Flottenvertrag lasen die USA heimlich mit: Herbert Yardleys Entschlüsselungsbüro, die sogenannte Schwarze Kammer, knackte die Telegramme der japanischen Delegation. So wussten die Amerikaner, dass Tokio notfalls ein Flottenverhältnis von 5 zu 3 akzeptieren würde, und blieben hart. 1929 ließ Außenminister Henry Stimson das Büro schließen. Der arbeitslose Yardley veröffentlichte seine Enthüllungen als Buch, das auch in Japan viele Käufer fand und dort Empörung auslöste.",
+              "hook": "Washingtoner Flottenvertrag von 1922",
+              "children": [],
+              "source": {
+                "title": "Black Chamber – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Black_Chamber"
+              }
+            },
+            {
+              "id": "2026-11-08-1-0-2",
+              "title": "Die Schwester als Träger",
+              "text": "Nicht jedes Schiff, bei dem Japan den Bau abbrechen musste, endete wie die Tosa: Ihr Schwesterschiff Kaga sollte zunächst ebenfalls verschrottet werden. Doch 1923 zerstörte das Große Kantō-Erdbeben den Schlachtkreuzer Amagi, der gerade zum Flugzeugträger umgebaut wurde, und die Kaga rückte an seine Stelle. Als Träger nahm sie 1941 am Angriff auf Pearl Harbor teil und sank im Juni 1942 in der Schlacht um Midway. Ihr Wrack wurde erst 2019 entdeckt, in rund 5400 Metern Tiefe.",
+              "hook": "Japan musste den Bau abbrechen",
+              "children": [],
+              "source": {
+                "title": "Kaga (Schiff, 1928) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kaga_(Schiff,_1928)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Tosa (Schiff) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Tosa_(Schiff)"
+          }
+        },
+        {
+          "id": "2026-11-08-1-1",
+          "title": "Drei Rauten aus Tosa",
+          "text": "Hinter Mitsubishi stand Iwasaki Yatarō, ein Samurai niederen Rangs aus dem Fürstentum Tosa, der um 1870 eine Reederei gründete. Der Name bedeutet etwa „drei Wassernüsse“, denn das Wort hishi steht im Japanischen auch für die Rautenform. Laut Unternehmen verbindet das Logo das Dreiblatt-Wappen der Tosa-Fürsten Yamauchi mit den gestapelten Rauten im Wappen der Familie Iwasaki. Aus der Reederei wuchs ein Zaibatsu, den die Alliierten nach 1945 zerschlugen.",
+          "hook": "Mitsubishi förderte hier ab 1890",
+          "children": [
+            {
+              "id": "2026-11-08-1-1-0",
+              "title": "Die Nuss mit den Hörnern",
+              "text": "Die Pflanze hinter dem Firmennamen, die Wassernuss Trapa natans, treibt mit rautenförmigen Blättern auf stillen Gewässern und bildet harte Früchte mit spitzen Dornen. In Mitteleuropa aßen Menschen sie schon in der Steinzeit. Heute ist sie in Deutschland stark gefährdet, in Nordamerika dagegen eine eingeschleppte Plage. In Japan streuten Krieger die getrockneten Früchte als Fußangeln für ihre Verfolger aus. Diese makibishi wurden später aus Eisen geschmiedet und tragen den Namen der Pflanze bis heute.",
+              "hook": "drei Wassernüsse",
+              "children": [],
+              "source": {
+                "title": "Wassernuss – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Wassernuss"
+              }
+            },
+            {
+              "id": "2026-11-08-1-1-1",
+              "title": "Der Rebell aus Tosa",
+              "text": "Auch Sakamoto Ryōma stammte aus dem Fürstentum Tosa. Er vermittelte 1866 das Bündnis der verfeindeten Domänen Satsuma und Chōshū und bereitete damit den Sturz des Shogunats vor. Seine Handelsgesellschaft Kaientai saß in Nagasaki, wo Iwasaki Yatarō damals die Geschäfte Tosas leitete und mit ihren Finanzen befasst war. Ende 1867 wurde Ryōma in einem Gasthaus in Kyōto ermordet, der Überlieferung nach an seinem Geburtstag. Wer hinter der Tat stand, ist bis heute umstritten.",
+              "hook": "aus dem Fürstentum Tosa",
+              "children": [],
+              "source": {
+                "title": "Sakamoto Ryōma – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ryoma_Sakamoto"
+              }
+            },
+            {
+              "id": "2026-11-08-1-1-2",
+              "title": "Der Club der Freitage",
+              "text": "Bei der Zerschlagung der Zaibatsu lösten die Besatzer die Holdinggesellschaften auf, drängten die Familie Iwasaki aus ihren Anteilen und zerlegten das Handelshaus Mitsubishi Shōji in über hundert Kleinfirmen. Mit dem beginnenden Kalten Krieg lockerten die USA jedoch ihren Kurs, und die Teile fanden wieder zusammen, diesmal als Keiretsu: ein Netz gegenseitiger Beteiligungen ohne Konzernspitze. 1954 entstand die Mitsubishi Corporation neu. Bis heute treffen sich die Chefs der wichtigsten Mitsubishi-Firmen jeden Monat zum Kinyōkai, dem „Freitagsclub“.",
+              "hook": "den die Alliierten nach 1945 zerschlugen",
+              "children": [],
+              "source": {
+                "title": "Mitsubishi – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Mitsubishi"
+              }
+            }
+          ],
+          "source": {
+            "title": "More about the Logo – Mitsubishi Electric",
+            "url": "https://www.mitsubishielectric.com/en/about/history/logo/logo-more/"
+          }
+        },
+        {
+          "id": "2026-11-08-1-2",
+          "title": "Die Stadt ohne Herren",
+          "text": "Noch dichter lebten die Menschen in der Kowloon Walled City in Hongkong: Ende der 1980er-Jahre schätzungsweise über 30.000 auf weniger als drei Hektar. Die frühere chinesische Festung war 1898 aus dem britischen Pachtvertrag ausgenommen worden, deshalb fühlte sich lange keine Regierung wirklich zuständig. In den ineinander verwachsenen Häusern mit bis zu 14 Stockwerken arbeiteten Zahnärzte ohne Zulassung, Garküchen und kleine Fabriken. 1993/94 wurde das Viertel abgerissen, heute ist dort ein Park.",
+          "hook": "höchsten je gemessenen Bevölkerungsdichten",
+          "children": [
+            {
+              "id": "2026-11-08-1-2-0",
+              "title": "Zähne vom Schlachtfeld",
+              "text": "Zahnärzte ohne Zulassung waren lange die Regel: Bis ins 19. Jahrhundert zogen in Europa Zahnreißer über die Jahrmärkte, und für Prothesen nahm man oft echte Menschenzähne. Nach den Schlachten der Napoleonischen Kriege brachen Plünderer Gefallenen Zähne aus; als „Waterloo-Zähne“ beworben, stammten sie aber wohl oft gar nicht von dort. George Washingtons Gebisse waren entgegen der Legende nicht aus Holz, sondern aus Elfenbein, Metall, Tier- und Menschenzähnen. In seinem Rechnungsbuch von 1784 steht eine Zahlung an versklavte Menschen für neun Zähne.",
+              "hook": "Zahnärzte ohne Zulassung",
+              "children": [],
+              "source": {
+                "title": "Waterloo-Zähne – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Waterloo-Z%C3%A4hne"
+              }
+            },
+            {
+              "id": "2026-11-08-1-2-1",
+              "title": "Bier aus der Pachtkolonie",
+              "text": "1898 pachtete nicht nur Großbritannien ein Stück China, sondern auch das Deutsche Reich: Für 99 Jahre ließ es sich die Bucht von Kiautschou mit der Stadt Tsingtau überlassen. Dort entstanden Villen, eine evangelische Kirche und eine Kanalisation nach deutschem Vorbild. Schon 1914 eroberte Japan das Gebiet, nach nur 16 Jahren war die deutsche Herrschaft vorbei. Geblieben ist eine Brauerei, die deutsche und britische Kaufleute 1903 gegründet hatten: Tsingtao zählt heute zu den bekanntesten Bieren Chinas.",
+              "hook": "1898 aus dem britischen Pachtvertrag ausgenommen",
+              "children": [],
+              "source": {
+                "title": "Kiautschou – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kiautschou"
+              }
+            },
+            {
+              "id": "2026-11-08-1-2-2",
+              "title": "Landeanflug über Dächern",
+              "text": "Dass die Häuser bei etwa 14 Stockwerken aufhörten, lag am nahen Flughafen Kai Tak, dessen Einflugschneise eine Höhengrenze vorgab. Kai Tak galt als einer der schwierigsten Flughäfen der Welt. Wer auf Piste 13 landete, flog auf einen rot-weiß karierten Hang zu, den „Checkerboard Hill“, und musste dann tief über den Dächern von Kowloon scharf nach rechts drehen. 1998 zog der Flughafen nach Chek Lap Kok um, und am Ende der alten Landebahn legen heute Kreuzfahrtschiffe an.",
+              "hook": "Häusern mit bis zu 14 Stockwerken",
+              "children": [],
+              "source": {
+                "title": "Flughafen Kai Tak – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Flughafen_Kai_Tak"
+              }
+            }
+          ],
+          "source": {
+            "title": "Kowloon Walled City – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Kowloon_Walled_City"
+          }
+        }
+      ],
+      "source": {
+        "title": "Hashima (Insel) – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Hashima_(Insel)"
+      }
+    },
+    {
+      "id": "2026-11-08-2",
+      "category": "kultur",
+      "title": "Tetris",
+      "text": "1984 programmierte Alexei Paschitnow am Rechenzentrum der Sowjetischen Akademie der Wissenschaften in Moskau ein Spiel auf einem Elektronika-60-Rechner, der keine Grafik darstellen konnte, weshalb die Blöcke aus Textzeichen bestanden. Der Name verbindet „Tetra“, weil jedes Teil aus vier Quadraten besteht, mit Paschitnows Lieblingssport Tennis. Weltruhm brachte 1989 der Game Boy, dem Tetris beilag. Die Rechte lagen beim sowjetischen Staat, Paschitnow bekam erst ab Mitte der 1990er Tantiemen.",
+      "children": [
+        {
+          "id": "2026-11-08-2-0",
+          "title": "Das Tennis am Oszilloskop",
+          "text": "Paschitnows Lieblingssport Tennis stand schon Pate für eines der ersten Videospiele überhaupt. 1958 baute der Physiker William Higinbotham am Brookhaven National Laboratory auf Long Island „Tennis for Two“, um Besucher am Tag der offenen Tür zu unterhalten. Ein Analogrechner berechnete die Flugbahn des Balls, ein kleines Oszilloskop zeigte den Platz von der Seite. Higinbotham, früher am Manhattan-Projekt beteiligt, ließ es nie patentieren; nach 1959 wurde es abgebaut.",
+          "hook": "Paschitnows Lieblingssport Tennis",
+          "children": [
+            {
+              "id": "2026-11-08-2-0-0",
+              "title": "Sonnenjagd im Putzmittel",
+              "text": "Am Brookhaven National Laboratory arbeitete auch der Chemiker Raymond Davis, der ab Ende der 1960er Jahre Neutrinos von der Sonne einfing. Dafür stellte er tief in der Homestake-Goldmine in South Dakota einen Tank mit rund 600 Tonnen Tetrachlorethen auf, einem Mittel aus der chemischen Reinigung. Er fand nur etwa ein Drittel der vorhergesagten Neutrinos. Gelöst wurde das Rätsel erst Jahrzehnte später: Neutrinos wandeln sich unterwegs um. Den Nobelpreis bekam Davis 2002, mit 88 Jahren.",
+              "hook": "Brookhaven National Laboratory auf Long Island",
+              "children": [],
+              "source": {
+                "title": "Raymond Davis junior – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Raymond_Davis_junior"
+              }
+            },
+            {
+              "id": "2026-11-08-2-0-1",
+              "title": "Brauns Röhre ohne Patent",
+              "text": "Ein Oszilloskop wie das von Higinbotham beruht auf einer Erfindung aus Straßburg: Dort lenkte Ferdinand Braun 1897 einen Elektronenstrahl in einer Glasröhre auf einen Leuchtschirm. Aus der Braunschen Röhre wurden später Fernseher und Monitore, patentieren ließ Braun sie nie. 1909 bekam er zusammen mit Guglielmo Marconi den Physik-Nobelpreis. Wegen eines Patentstreits reiste er 1915 nach New York, der Krieg hielt ihn dort fest, und 1918 starb er in Brooklyn, das geografisch auf Long Island liegt.",
+              "hook": "ein kleines Oszilloskop",
+              "children": [],
+              "source": {
+                "title": "Ferdinand Braun – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ferdinand_Braun"
+              }
+            },
+            {
+              "id": "2026-11-08-2-0-2",
+              "title": "Sieben Minuten vor zwölf",
+              "text": "Higinbotham gründete nach dem Krieg die Federation of American Scientists mit, und wie er warnten viele Forscher aus dem Manhattan-Projekt vor ihrer eigenen Erfindung. In Chicago gründeten einige von ihnen das Bulletin of the Atomic Scientists, auf dessen Titelseite 1947 zum ersten Mal die Weltuntergangsuhr zu sehen war. Die Künstlerin Martyl Langsdorf stellte die Zeiger auf sieben vor zwölf, weil das optisch gut aussah. Heute wird die Uhr jedes Jahr neu bewertet und steht weniger als zwei Minuten vor Mitternacht, so nah wie nie zuvor.",
+              "hook": "früher am Manhattan-Projekt beteiligt",
+              "children": [],
+              "source": {
+                "title": "Weltuntergangsuhr – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Weltuntergangsuhr"
+              }
+            }
+          ],
+          "source": {
+            "title": "Tennis for Two – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Tennis_for_Two"
+          }
+        },
+        {
+          "id": "2026-11-08-2-1",
+          "title": "Mathe hinter den Klötzchen",
+          "text": "Formen aus vier Quadraten heißen Tetrominos, den Oberbegriff Polyomino prägte 1953 der US-Mathematiker Solomon Golomb. Paschitnow kannte die Pentominos aus fünf Quadraten von Knobelspielen und reduzierte für Tetris auf vier: Spiegelbilder mitgezählt, gibt es davon nur sieben Formen. Golomb entwickelte am Jet Propulsion Laboratory Codes für die Kommunikation mit Raumsonden. Nach ihm sind die Golomb-Lineale benannt, bei denen jeder Abstand zwischen zwei Markierungen nur einmal vorkommt.",
+          "hook": "jedes Teil aus vier Quadraten besteht",
+          "children": [
+            {
+              "id": "2026-11-08-2-1-0",
+              "title": "Zwölf Teile, 2339 Lösungen",
+              "text": "Von den Pentominos, mit denen Paschitnow anfing, gibt es genau zwölf Formen, wenn man Drehungen und Spiegelungen nicht mitzählt. Zusammen bedecken sie 60 Felder. Ein Rechteck aus 6 mal 10 Feldern lässt sich damit auf 2339 Arten legen, wie das Ehepaar Haselgrove 1960 per Computer ermittelte. Schon 1907 hatte der englische Rätselautor Henry Dudeney ein Puzzle mit diesen Teilen veröffentlicht. Arthur C. Clarke war so begeistert von ihnen, dass er sie in seinen Roman „Imperial Earth“ einbaute.",
+              "hook": "Pentominos aus fünf Quadraten",
+              "children": [],
+              "source": {
+                "title": "Pentomino – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Pentomino"
+              }
+            },
+            {
+              "id": "2026-11-08-2-1-1",
+              "title": "Codes, die sich reparieren",
+              "text": "Für die Kommunikation mit Raumsonden braucht man Codes, die Übertragungsfehler selbst erkennen und beheben. Besonders erfolgreich wurden die Reed-Solomon-Codes, die Irving Reed und Gustave Solomon 1960 vorstellten. Sie kamen unter anderem bei den Voyager-Sonden zum Einsatz. Dieselbe Mathematik steckt in CDs und in QR-Codes, die 1994 bei der japanischen Firma Denso Wave erfunden wurden, um Autoteile zu verfolgen. Auf der höchsten Korrekturstufe bleibt ein QR-Code auch dann lesbar, wenn rund 30 Prozent fehlen. Deshalb kann man ein Logo mitten hineinsetzen.",
+              "hook": "Kommunikation mit Raumsonden",
+              "children": [],
+              "source": {
+                "title": "Reed-Solomon-Code – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Reed-Solomon-Code"
+              }
+            },
+            {
+              "id": "2026-11-08-2-1-2",
+              "title": "Lineal ohne Wiederholung",
+              "text": "Dass jeder Abstand nur einmal vorkommt, ist für Radioastronomen nützlich: Stehen ihre Antennen nach dem Muster eines Golomb-Lineals, misst jedes Antennenpaar eine andere Distanz, und keine Messung ist doppelt. Das kürzeste Lineal für eine bestimmte Zahl von Markierungen zu finden, ist allerdings extrem aufwendig. Beim Projekt distributed.net rechneten Computer von Zehntausenden Freiwilligen rund achteinhalb Jahre lang, bis 2022 feststand, welches Lineal mit 28 Markierungen das kürzeste ist. Es ist 585 Einheiten lang.",
+              "hook": "jeder Abstand zwischen zwei Markierungen",
+              "children": [],
+              "source": {
+                "title": "Golomb-Lineal – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Golomb-Lineal"
+              }
+            }
+          ],
+          "source": {
+            "title": "Polyomino – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Polyomino"
+          }
+        },
+        {
+          "id": "2026-11-08-2-2",
+          "title": "Nintendos Bastler Yokoi",
+          "text": "Der Game Boy, dem Tetris beilag, stammte von Gunpei Yokoi, der bei Nintendo als Wartungstechniker für Maschinen zur Spielkartenherstellung angefangen hatte. Sein ausfahrbarer Greifarm Ultra Hand wurde 1966 ein Spielzeug-Hit, 1980 folgten die Game-&-Watch-Taschenspiele mit Taschenrechner-Displays. Sein Prinzip: billige, bewährte Technik neu kombinieren statt teurer Spitzentechnik. Nach dem Flop des Virtual Boy verließ er 1996 Nintendo und starb 1997 bei einem Verkehrsunfall.",
+          "hook": "der Game Boy, dem Tetris beilag",
+          "children": [
+            {
+              "id": "2026-11-08-2-2-0",
+              "title": "Karten, Kyoto und Yakuza",
+              "text": "Die Spielkarten, deren Maschinen Yokoi wartete, waren Hanafuda: Fusajiro Yamauchi gründete Nintendo 1889 in Kyoto, um diese Blumenkarten herzustellen. Die 48 Karten zeigen statt Zahlen Pflanzen der zwölf Monate. Das war eine Antwort darauf, dass westliche Karten in Japan zeitweise verboten waren. Weil die Karten eng mit illegalem Glücksspiel verbunden waren, leitet die gängigste Erklärung sogar das Wort Yakuza von 8-9-3 ab, „ya-ku-sa“. Das ist die wertloseste Hand im Kartenspiel Oicho-Kabu.",
+              "hook": "Maschinen zur Spielkartenherstellung",
+              "children": [],
+              "source": {
+                "title": "Hanafuda – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Hanafuda"
+              }
+            },
+            {
+              "id": "2026-11-08-2-2-1",
+              "title": "Karotten im Taschenrechner",
+              "text": "Die Taschenrechner-Displays der Game & Watch beruhten auf Flüssigkristallen, deren Geschichte 1888 in Prag bei einem Botaniker begann. Friedrich Reinitzer untersuchte Cholesterin aus Karotten und bemerkte, dass Cholesterylbenzoat zweimal schmolz: erst zu einer trüben, bei höherer Temperatur zu einer klaren Flüssigkeit. Der Physiker Otto Lehmann erkannte darin einen Zustand zwischen Kristall und Flüssigkeit. Fast ein Jahrhundert blieb das eine Kuriosität, bis Sharp 1973 einen der ersten Taschenrechner mit Flüssigkristallanzeige verkaufte.",
+              "hook": "Taschenrechner-Displays",
+              "children": [],
+              "source": {
+                "title": "Flüssigkristall – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Fl%C3%BCssigkristall"
+              }
+            },
+            {
+              "id": "2026-11-08-2-2-2",
+              "title": "Warum alles rot leuchtete",
+              "text": "Der Virtual Boy zeigte 1995 alles in Rot auf Schwarz, denn sein Bild entstand aus einer Reihe roter LEDs und einem schwingenden Spiegel. Rote LEDs waren billig und sparsam. Helle blaue LEDs gab es noch kaum, denn erst 1993 hatte Shuji Nakamura bei der kleinen Firma Nichia ein marktreifes Verfahren vorgestellt. Für seine Erfindung bekam er zunächst eine Prämie von rund 20.000 Yen. Später verklagte er seinen Arbeitgeber, einigte sich mit ihm 2005 auf etwa 840 Millionen Yen und erhielt 2014 den Physik-Nobelpreis.",
+              "hook": "dem Flop des Virtual Boy",
+              "children": [],
+              "source": {
+                "title": "Shuji Nakamura – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Shuji_Nakamura"
+              }
+            }
+          ],
+          "source": {
+            "title": "Gunpei Yokoi – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Gunpei_Yokoi"
+          }
+        }
+      ],
+      "source": {
+        "title": "Alexei Leonidowitsch Paschitnow – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Alexei_Leonidowitsch_Paschitnow"
+      }
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "version": 1,
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-06T00:40:29.903Z",
+  "topics": [
+    {
+      "id": "2026-11-07-0",
+      "category": "natur",
+      "title": "Die Riesenseerose Victoria",
+      "text": "Die Riesenseerose Victoria amazonica wächst in den Stillgewässern des Amazonasbeckens. Ihre Schwimmblätter werden bis zu rund drei Meter breit und werden an der Unterseite von einem stacheligen Netz aus Rippen getragen. Jede Blüte öffnet sich nur zwei Nächte lang: In der ersten ist sie weiß und duftet, lockt Käfer an und schließt sie über Nacht ein, in der zweiten ist sie rosa. 1849 brachte der Gärtner Joseph Paxton sie in Chatsworth erstmals in Europa zum Blühen, und ihre Blattrippen gelten als Vorbild für seinen Kristallpalast.",
+      "children": [
+        {
+          "id": "2026-11-07-0-0",
+          "title": "Paxtons Bananen-Erbe",
+          "text": "Derselbe Joseph Paxton zog in den 1830er-Jahren in den Gewächshäusern von Chatsworth auch eine Zwergbanane. Sie stammte ursprünglich aus Südchina und war über Mauritius nach England gelangt. Benannt wurde sie nach Paxtons Dienstherrn William Cavendish, dem sechsten Herzog von Devonshire. Als die Panamakrankheit, eine Pilzinfektion, bis in die 1960er-Jahre die Plantagen der damals führenden Sorte Gros Michel verwüstete, übernahm die Cavendish den Welthandel. Heute bedroht sie ein neuer Stamm desselben Pilzes, die Tropische Rasse 4.",
+          "hook": "der Gärtner Joseph Paxton",
+          "children": [
+            {
+              "id": "2026-11-07-0-0-0",
+              "title": "Der Geschmack von gestern",
+              "text": "Wer Bananenbonbons seltsam künstlich findet, hört oft, sie schmeckten eben nach der Gros Michel, der Banane der Großelterngeneration. Hauptbestandteil des klassischen Bananenaromas ist Isoamylacetat, ein einfacher Ester, der auch in echten Bananen steckt. Ob die Gros Michel davon wirklich mehr enthielt, ist allerdings umstritten und nie sauber belegt. Sicher ist etwas anderes: Derselbe Stoff gehört zum Alarmpheromon der Honigbienen, das beim Stich freigesetzt wird und weitere Bienen zum Angriff ruft.",
+              "hook": "der damals führenden Sorte Gros Michel",
+              "children": [],
+              "source": {
+                "title": "Essigsäureisopentylester – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Essigs%C3%A4ureisopentylester"
+              }
+            },
+            {
+              "id": "2026-11-07-0-0-1",
+              "title": "Vom Herzog zur Doppelhelix",
+              "text": "Aus der Familie des sechsten Herzogs von Devonshire stammte auch Henry Cavendish, ein extrem menschenscheuer Naturforscher. 1798 bestimmte er mit einer Drehwaage die mittlere Dichte der Erde weit genauer als zuvor: etwa das 5,5-Fache von Wasser, nah am heutigen Wert. In den 1870er-Jahren finanzierte der siebte Herzog in Cambridge das Cavendish Laboratory. Dort entdeckte J. J. Thomson 1897 das Elektron, und 1953 entschlüsselten Watson und Crick die Struktur der DNA.",
+              "hook": "dem sechsten Herzog von Devonshire",
+              "children": [],
+              "source": {
+                "title": "Cavendish-Experiment – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Cavendish-Experiment"
+              }
+            },
+            {
+              "id": "2026-11-07-0-0-2",
+              "title": "Der Dodo und der Baum",
+              "text": "Auf Mauritius, der Zwischenstation der Zwergbanane, lebte bis ins 17. Jahrhundert der Dodo, ein flugunfähiger Verwandter der Tauben. Wenige Jahrzehnte nach der Ankunft der Niederländer war er verschwunden, vermutlich auch wegen eingeschleppter Ratten, Schweine und Affen. 1977 stellte der Ökologe Stanley Temple die These auf, der Tambalacoque-Baum keime nur, wenn seine Samen einen Dodo-Magen passiert hätten, und sterbe deshalb mit aus. Die These hielt nicht lange: Auch nach dem Verschwinden des Dodos waren nachweislich noch junge Bäume dieser Art gewachsen.",
+              "hook": "über Mauritius nach England gelangt",
+              "children": [],
+              "source": {
+                "title": "Dodo – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dodo"
+              }
+            }
+          ],
+          "source": {
+            "title": "Cavendish (Banane) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Cavendish_(Banane)"
+          }
+        },
+        {
+          "id": "2026-11-07-0-1",
+          "title": "Blüten mit Heizung",
+          "text": "Um die Käfer anzulocken, heizt sich die Victoria-Blüte in der ersten Nacht auf, oft um rund zehn Grad über die Umgebungsluft. Die Wärme verteilt den Duft und bietet den Gästen einen warmen Schlafplatz. Diese Thermogenese beherrschen auch andere Pflanzen: Die Heilige Lotosblume Nelumbo nucifera hält ihre Blüte tagelang bei etwa 30 bis 35 Grad, und der nordamerikanische Stinkkohl schmilzt mit seiner Eigenwärme sogar Schnee. Ein wichtiger Motor dafür ist ein Enzym in den Mitochondrien, die alternative Oxidase.",
+          "hook": "lockt Käfer an",
+          "children": [
+            {
+              "id": "2026-11-07-0-1-0",
+              "title": "Der Lotus-Effekt",
+              "text": "Die Heilige Lotosblume hält ihre Blüten warm, und ihre Blätter bleiben auffallend sauber: Wasser perlt ab und nimmt den Schmutz gleich mit. Der Bonner Botaniker Wilhelm Barthlott erklärte das in den 1970er-Jahren mit dem Rasterelektronenmikroskop. Winzige Noppen mit Wachskristallen bieten Tropfen kaum Halt. Er nannte das Lotus-Effekt und ließ den Namen schützen, Ende der 1990er kam die Fassadenfarbe Lotusan auf den Markt. Das buddhistische Bild der Blüte, die unbefleckt aus dem Schlamm steigt, hat einen physikalischen Kern.",
+              "hook": "Heilige Lotosblume Nelumbo nucifera",
+              "children": [],
+              "source": {
+                "title": "Lotoseffekt – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Lotoseffekt"
+              }
+            },
+            {
+              "id": "2026-11-07-0-1-1",
+              "title": "Verbotene Teichschönheit",
+              "text": "Der nordamerikanische Stinkkohl hat eine Verwandte von der Westküste, die längst in Europa wuchert: die Gelbe Scheinkalla, Lysichiton americanus. Wegen ihrer leuchtend gelben Hochblätter wurde sie als Zierpflanze für Gartenteiche eingeführt. Später verwilderte sie unter anderem im Taunus entlang von Bachläufen. Dort verdrängen ihre riesigen Blätter die heimische Ufervegetation. Seit 2016 steht sie auf der EU-Liste invasiver Arten und darf weder verkauft noch gepflanzt werden. Heute rücken Naturschützer ihr mit dem Spaten zu Leibe.",
+              "hook": "der nordamerikanische Stinkkohl",
+              "children": [],
+              "source": {
+                "title": "Amerikanischer Stinktierkohl – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Amerikanischer_Stinktierkohl"
+              }
+            },
+            {
+              "id": "2026-11-07-0-1-2",
+              "title": "Fett, das heizt",
+              "text": "Säugetiere heizen ebenfalls mit ihren Mitochondrien, allerdings mit einem anderen Werkzeug: Im braunen Fettgewebe sorgt das Protein UCP1 dafür, dass Energie direkt als Wärme verpufft, statt in ATP gespeichert zu werden. Neugeborene und Winterschläfer sind darauf angewiesen. Lange hielt man es bei Erwachsenen für bedeutungslos. Bei Krebsuntersuchungen mit PET-CT fielen Radiologen jedoch immer wieder leuchtende Flecken an Hals und Schultern auf. 2009 zeigten mehrere Studien, dass es sich um aktives braunes Fett handelt, das vor allem bei Kälte anspringt.",
+              "hook": "ein Enzym in den Mitochondrien",
+              "children": [],
+              "source": {
+                "title": "Braunes Fettgewebe – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Braunes_Fettgewebe"
+              }
+            }
+          ],
+          "source": {
+            "title": "Thermogenic plant – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Thermogenic_plant"
+          }
+        },
+        {
+          "id": "2026-11-07-0-2",
+          "title": "Ein Palast aus Glas",
+          "text": "Paxtons Kristallpalast entstand für die erste Weltausstellung 1851 im Londoner Hyde Park: eine über 560 Meter lange Halle aus Gusseisen und rund 300.000 Glasscheiben, die aus vorgefertigten Teilen in wenigen Monaten montiert wurde. Sogar ausgewachsene Ulmen fanden unter dem Glasdach Platz. Mehr als sechs Millionen Menschen kamen, viele nutzten die öffentlichen Spültoiletten von George Jennings für einen Penny. Daher soll die Redewendung „to spend a penny“ stammen, was aber nicht gesichert ist. 1936 brannte der nach Sydenham versetzte Palast nieder.",
+          "hook": "seinen Kristallpalast",
+          "children": [
+            {
+              "id": "2026-11-07-0-2-0",
+              "title": "Der Pilz mit falschem Namen",
+              "text": "Ausgewachsene Ulmen wie im Kristallpalast sind in Großbritannien heute selten: Die Holländische Ulmenkrankheit tötete dort ab den 1960er-Jahren über 20 Millionen Bäume. Ihren Namen verdankt sie nicht ihrer Herkunft, sondern niederländischen Forscherinnen wie Bea Schwarz und Christine Buisman, die den Erreger in den 1920er-Jahren erforschten. Der Pilz stammt vermutlich aus Asien und wird von Ulmensplintkäfern verbreitet. Buisman legte selbst den Grundstein für die Zucht resistenter Ulmen in den Niederlanden.",
+              "hook": "ausgewachsene Ulmen",
+              "children": [],
+              "source": {
+                "title": "Ulmensterben – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ulmensterben"
+              }
+            },
+            {
+              "id": "2026-11-07-0-2-1",
+              "title": "Dinner im Dinosaurier",
+              "text": "Für den nach Sydenham versetzten Palast ließ man im Park lebensgroße Urzeittiere aufstellen, geschaffen von Benjamin Waterhouse Hawkins nach Vorgaben des Anatomen Richard Owen. Am Silvesterabend 1853 lud Hawkins rund 20 Gäste zu einem Festessen ein – in die halbfertige Form eines Iguanodon. Nach heutigem Wissen ist vieles falsch: Der Iguanodon steht auf vier Beinen, und sein Daumenstachel sitzt als Horn auf der Nase. Die Figuren stehen bis heute und sind als Baudenkmal höchster Stufe geschützt.",
+              "hook": "nach Sydenham versetzte Palast",
+              "children": [],
+              "source": {
+                "title": "Dinosaur Court – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dinosaur_Court"
+              }
+            },
+            {
+              "id": "2026-11-07-0-2-2",
+              "title": "Der Große Gestank",
+              "text": "Spültoiletten wie die von George Jennings hatten in London eine Kehrseite: Ihr Abwasser floss meist ungeklärt in die Themse. Im heißen Sommer 1858 stank der Fluss so sehr, dass man im Parlament Vorhänge mit Chlorkalk tränkte – der „Große Gestank“. Danach baute der Ingenieur Joseph Bazalgette ein Kanalnetz, dessen Rohre er vorsorglich größer auslegte als berechnet. Das zahlte sich aus: Sein Netz ist bis heute in Betrieb, erst 2025 bekam es mit dem Thames Tideway Tunnel einen großen Entlastungskanal.",
+              "hook": "Spültoiletten von George Jennings",
+              "children": [],
+              "source": {
+                "title": "Der Große Gestank – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Der_Gro%C3%9Fe_Gestank"
+              }
+            }
+          ],
+          "source": {
+            "title": "Crystal Palace (Gebäude) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Crystal_Palace_(Geb%C3%A4ude)"
+          }
+        }
+      ],
+      "source": {
+        "title": "Victoria amazonica – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Victoria_amazonica"
+      }
+    },
+    {
+      "id": "2026-11-07-1",
+      "category": "wissenschaft",
+      "title": "Das Polonium",
+      "text": "Polonium ist das chemische Element 84. Marie und Pierre Curie entdeckten es 1898 in Pechblende und benannten es nach Polen, das damals als Staat gar nicht existierte. Das Isotop Polonium-210 hat eine Halbwertszeit von rund 138 Tagen und strahlt so stark, dass es sich selbst erhitzt; die sowjetischen Mondfahrzeuge Lunochod nutzten es deshalb als Heizquelle. Traurige Bekanntheit erlangte es 2006, als der frühere Geheimdienstoffizier Alexander Litwinenko in London damit vergiftet wurde.",
+      "children": [
+        {
+          "id": "2026-11-07-1-0",
+          "title": "Vom Silberberg zum Dollar",
+          "text": "Die Pechblende der Curies stammte aus Sankt Joachimsthal im böhmischen Erzgebirge, dem heutigen Jáchymov. Dort baute man schon im 16. Jahrhundert Silber ab und prägte ab etwa 1520 eine Münze, den Joachimsthaler. Aus seiner Kurzform „Taler“ ging später das Wort „Dollar“ hervor. Die Bergleute hielten die schwarze Pechblende lange für wertloses Begleitgestein. Nach den Entdeckungen der Curies wurde Jáchymov ab 1906 zu einem der ersten Radonkurorte der Welt.",
+          "hook": "in Pechblende",
+          "children": [
+            {
+              "id": "2026-11-07-1-0-0",
+              "title": "Kobolde im Erz",
+              "text": "Wertlos erschien den Bergleuten im Erzgebirge nicht nur die Pechblende, sondern auch ein silbrig glänzendes Erz, das beim Schmelzen giftige Arsendämpfe freisetzte. Sie gaben Berggeistern die Schuld und benannten es nach dem Kobold. Daher stammt das Wort Kobalt. Ähnlich erging es dem „Kupfernickel“, das wie Kupfererz aussah, aber kein Kupfer lieferte; „Nickel“ war ein Spottname für einen Kobold. Ausgerechnet die verschmähten Koboldmetalle stecken heute in vielen Akkus von Elektroautos.",
+              "hook": "für wertloses Begleitgestein",
+              "children": [],
+              "source": {
+                "title": "Cobalt – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Cobalt"
+              }
+            },
+            {
+              "id": "2026-11-07-1-0-1",
+              "title": "Die Münze von 1780",
+              "text": "Der Taler wurde zum Vorbild unzähliger Silbermünzen. Die berühmteste ist der Maria-Theresien-Taler. Seit dem Tod der Kaiserin trägt er unverändert die Jahreszahl 1780. In Äthiopien, im Jemen und rund ums Rote Meer war er bis ins 20. Jahrhundert so begehrt, dass sogar Mussolinis Italien und Großbritannien ihn für ihre Feldzüge nachprägten. Die Münze Österreich stellt ihn bis heute her, immer mit der Jahreszahl 1780.",
+              "hook": "Kurzform „Taler“",
+              "children": [],
+              "source": {
+                "title": "Maria-Theresien-Taler – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Maria-Theresien-Taler"
+              }
+            },
+            {
+              "id": "2026-11-07-1-0-2",
+              "title": "Tödliches Radiumwasser",
+              "text": "Die Radonkuren in Jáchymov gehörten zu einer weltweiten Strahlenbegeisterung, die in den USA besonders weit ging. Dort verkaufte der Unternehmer William Bailey in den 1920er-Jahren „Radithor“, in Wasser gelöstes Radium in kleinen Fläschchen. Der Stahlindustrielle und Amateur-Golfmeister Eben Byers trank davon angeblich fast 1400 Flaschen, bis sein Kiefer zerfiel. Er starb 1932. Sein Tod läutete das Ende der Radiumtränke ein, und beigesetzt wurde er in einem mit Blei ausgekleideten Sarg.",
+              "hook": "einem der ersten Radonkurorte der Welt",
+              "children": [],
+              "source": {
+                "title": "Eben Byers – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Eben_Byers"
+              }
+            }
+          ],
+          "source": {
+            "title": "Jáchymov – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/J%C3%A1chymov"
+          }
+        },
+        {
+          "id": "2026-11-07-1-1",
+          "title": "Fahrschule für den Mond",
+          "text": "Lunochod 1 landete im November 1970 mit der Sonde Luna 17 im Mare Imbrium. Er war das erste ferngesteuerte Fahrzeug auf einem anderen Himmelskörper. Gelenkt wurde der achträdrige Rover von einer Mannschaft auf der Krim, die wegen der langen Funkstrecke mit einigen Sekunden Verzögerung fahren musste. Sein Laserreflektor galt jahrzehntelang als verschollen. 2010 fanden US-Forscher ihn auf Aufnahmen des Lunar Reconnaissance Orbiter wieder und empfingen erstmals erneut Laserpulse von ihm.",
+          "hook": "die sowjetischen Mondfahrzeuge Lunochod",
+          "children": [
+            {
+              "id": "2026-11-07-1-1-0",
+              "title": "Wetterkarte des Mondes",
+              "text": "Das „Regenmeer“, in dem Lunochod 1 aufsetzte, hat seinen Namen von dem Jesuiten Giovanni Battista Riccioli. In seinem „Almagestum Novum“ von 1651 benannte er die dunklen Ebenen des Mondes, die man damals für Meere hielt, nach Wetter und Gemütszuständen: Regen, Wolken, Heiterkeit, Ruhe. In Wahrheit sind es erstarrte Lavaflächen, Wasser gab es dort nie. Ricciolis System setzte sich trotzdem durch, und so landete Apollo 11 im Jahr 1969 in einem Meer, das ein Barockgelehrter mehr als 300 Jahre zuvor auf den Namen „Ruhe“ getauft hatte.",
+              "hook": "im Mare Imbrium",
+              "children": [],
+              "source": {
+                "title": "Mare (Mond) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Mare_(Mond)"
+              }
+            },
+            {
+              "id": "2026-11-07-1-1-1",
+              "title": "Morsegrüße an die Venus",
+              "text": "Die Krim war das Nervenzentrum des sowjetischen Weltraumfunks. Schon vor Lunochod stand bei Jewpatorija der Antennenkomplex Pluton, Anfang der 1960er-Jahre für die ersten Venus- und Marssonden gebaut: acht Schüsseln mit je 16 Metern Durchmesser auf einem gemeinsamen Gestell. Im November 1962 funkten Ingenieure von dort in Morsezeichen die Wörter „Mir“, „Lenin“ und „SSSR“ zur Venus. Diese Sendung gilt als erste Funkbotschaft, die je gezielt an einen anderen Planeten ging, und ihr erstes Wort bedeutet auf Russisch zugleich „Frieden“ und „Welt“.",
+              "hook": "einer Mannschaft auf der Krim",
+              "children": [],
+              "source": {
+                "title": "The Morse Message – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/The_Morse_Message"
+              }
+            },
+            {
+              "id": "2026-11-07-1-1-2",
+              "title": "Der Mond sucht das Weite",
+              "text": "Laserpulse zum Mond und zurück sind extreme Präzisionsarbeit: Von den unzähligen Billiarden Photonen eines Pulses kommt am Teleskop oft nur ein einziges wieder an. Aus der Laufzeit von rund zweieinhalb Sekunden lässt sich die Entfernung bis auf wenige Millimeter genau bestimmen. Seit Apollo 11 den ersten Reflektor aufstellte, läuft diese Messreihe ohne Unterbrechung. Ihr bekanntestes Ergebnis: Weil die Gezeiten die Erde abbremsen, entfernt sich der Mond jedes Jahr um etwa 3,8 Zentimeter, ungefähr so schnell, wie Fingernägel wachsen.",
+              "hook": "erstmals erneut Laserpulse von ihm",
+              "children": [],
+              "source": {
+                "title": "Lunar Laser Ranging – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Lunar_Laser_Ranging"
+              }
+            }
+          ],
+          "source": {
+            "title": "Lunochod 1 – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Lunochod_1"
+          }
+        },
+        {
+          "id": "2026-11-07-1-2",
+          "title": "Uni im Wohnzimmer",
+          "text": "Als Polonium seinen Namen bekam, war Polen seit 1795 zwischen Russland, Preußen und Österreich aufgeteilt. Im russischen Teil sollte die Schule die Kinder zu Russen erziehen. Dagegen entstand in Warschau die „Fliegende Universität“: ein geheimer Unterricht, der ab den 1880er-Jahren in Privatwohnungen stattfand und ständig den Ort wechselte, um der Polizei zu entgehen. Anders als die offiziellen Hochschulen nahm sie Frauen auf, auch die junge Maria Skłodowska lernte dort. 1905 wurde aus ihr eine legale Bildungsgesellschaft.",
+          "hook": "benannten es nach Polen",
+          "children": [
+            {
+              "id": "2026-11-07-1-2-0",
+              "title": "Streik im Klassenzimmer",
+              "text": "Auch im preußischen Teil Polens wurde das Klassenzimmer zum Kampfplatz. 1901 weigerten sich Kinder in Wreschen, heute Września, im Religionsunterricht Deutsch zu sprechen. Die Lehrer schlugen sie, und Eltern, die vor der Schule protestierten, wurden zu Gefängnisstrafen verurteilt. Der Fall ging durch die europäische Presse, 1906/07 streikten in der Provinz Posen Zehntausende Schulkinder. Heute ist in Września ein Museum nach den Kindern benannt, die damals schwiegen.",
+              "hook": "zwischen Russland, Preußen und Österreich",
+              "children": [],
+              "source": {
+                "title": "Wreschener Schulstreik – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Wreschener_Schulstreik"
+              }
+            },
+            {
+              "id": "2026-11-07-1-2-1",
+              "title": "Eine verbotene Verlobung",
+              "text": "Um ihrer Schwester das Medizinstudium in Paris zu finanzieren, arbeitete die junge Maria Skłodowska ab 1886 als Hauslehrerin auf dem Gut der Familie Żorawski. Dort verliebte sie sich in den ältesten Sohn Kazimierz, doch seine Eltern verboten die Ehe mit einer mittellosen Gouvernante. Żorawski wurde später ein angesehener Mathematiker und lehrte in Krakau und Warschau. Einer Anekdote nach saß er als alter Mann oft schweigend vor ihrem Denkmal in Warschau.",
+              "hook": "auch die junge Maria Skłodowska lernte dort",
+              "children": [],
+              "source": {
+                "title": "Kazimierz Żorawski – MacTutor History of Mathematics (University of St Andrews)",
+                "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Zorawski/"
+              }
+            },
+            {
+              "id": "2026-11-07-1-2-2",
+              "title": "Derrida in Handschellen",
+              "text": "Den Namen dieser Gesellschaft von 1905, Towarzystwo Kursów Naukowych, übernahmen polnische Oppositionelle 1978 bewusst. Wieder fanden Vorlesungen in Privatwohnungen statt, diesmal an der kommunistischen Zensur vorbei. Auch in Prag luden Dissidenten westliche Gastdozenten in ihre Wohnzimmer ein, darunter den Philosophen Jacques Derrida. Ende 1981 wurde er am Prager Flughafen festgenommen, weil die Polizei ihm Drogen in den Koffer geschmuggelt hatte. Erst nach Protesten aus Frankreich kam er frei.",
+              "hook": "1905 wurde aus ihr eine legale Bildungsgesellschaft",
+              "children": [],
+              "source": {
+                "title": "Jan Hus Educational Foundation – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jan_Hus_Educational_Foundation"
+              }
+            }
+          ],
+          "source": {
+            "title": "Flying University – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Flying_University"
+          }
+        }
+      ],
+      "source": {
+        "title": "Polonium – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Polonium"
+      }
+    },
+    {
+      "id": "2026-11-07-2",
+      "category": "kultur",
+      "title": "Das Theremin",
+      "text": "Das Theremin ist ein Instrument, das man spielt, ohne es zu berühren: Die Hände verändern in der Nähe zweier Antennen Tonhöhe und Lautstärke. Erfunden hat es der russische Physiker Lew Termen um 1920 in Petrograd, und 1922 führte er es im Kreml Lenin vor. Sein schwebender, jaulender Klang prägte Filmmusiken wie die zu Hitchcocks „Ich kämpfe um dich“ von 1945. Termen selbst baute später in sowjetischer Haft eine Abhörwanze, die jahrelang unbemerkt in der Moskauer Residenz des US-Botschafters steckte.",
+      "children": [
+        {
+          "id": "2026-11-07-2-0",
+          "title": "Der Spitzel im Staatswappen",
+          "text": "Termens Abhörwanze steckte in einem geschnitzten Holzrelief des US-Staatswappens. Sowjetische Pionierkinder hatten es 1945 Botschafter Averell Harriman geschenkt. Das Gerät, später „The Thing“ genannt, kam ohne Batterie und Kabel aus: Die Stimmen im Raum ließen eine Membran in einem Hohlraum schwingen, und erst ein von außen gesendeter Funkstrahl brachte das Gerät zum Senden und trug die Gespräche zurück. Entdeckt wurde es 1952. Heute gilt das Prinzip als Vorläufer passiver RFID-Chips.",
+          "hook": "eine Abhörwanze",
+          "children": [
+            {
+              "id": "2026-11-07-2-0-0",
+              "title": "Der Bananen-Sessellift",
+              "text": "Bevor Averell Harriman Botschafter wurde, leitete er die Eisenbahngesellschaft Union Pacific. Er suchte Gründe, warum Menschen mit seinen Zügen in den Westen fahren sollten, und eröffnete deshalb 1936 in Idaho den Wintersportort Sun Valley. Für die Hänge baute der Ingenieur James Curran eine Anlage um, mit der in den Tropen Bananenbüschel an Haken auf Frachtschiffe geladen wurden. So entstanden die ersten Sessellifte der Welt. Das Prinzip mit Sitzen an einem umlaufenden Seil findet man heute in fast jedem Skigebiet.",
+              "hook": "Botschafter Averell Harriman",
+              "children": [],
+              "source": {
+                "title": "Sesselbahn – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Sesselbahn"
+              }
+            },
+            {
+              "id": "2026-11-07-2-0-1",
+              "title": "Töpfe in der Kirchenwand",
+              "text": "Dass ein Hohlraum auf eine bestimmte Frequenz anspricht, untersuchte Hermann von Helmholtz um 1860. Er hielt sich Messingkugeln verschiedener Größe ans Ohr, um einzelne Obertöne aus einem Klang herauszuhören. Nach ihm ist der Helmholtz-Resonator benannt. Derselbe Effekt lässt eine leere Flasche brummen, wenn man über ihre Öffnung bläst. In etlichen mittelalterlichen Kirchen stecken Tontöpfe in den Wänden, die womöglich so den Klang beeinflussen sollten. Ob sie die Akustik verbessert haben, ist umstritten.",
+              "hook": "Membran in einem Hohlraum schwingen",
+              "children": [],
+              "source": {
+                "title": "Helmholtz-Resonator – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Helmholtz-Resonator"
+              }
+            },
+            {
+              "id": "2026-11-07-2-0-2",
+              "title": "Die Pyramide auf dem Dollar",
+              "text": "Das US-Staatswappen bildet die Vorderseite des Großen Siegels, das der Kongress 1782 beschloss. Die Rückseite zeigt eine unvollendete Pyramide, über der ein Auge schwebt. Einen Stempel dafür ließ die Regierung jedoch nie anfertigen. Rund 150 Jahre lang wurde dieses Motiv kaum beachtet, bis Landwirtschaftsminister Henry Wallace vorschlug, es zu verwenden. Seit 1935 ist es auf dem Ein-Dollar-Schein abgebildet. So wurde die Seite eines Siegels, mit der nie etwas gesiegelt wurde, zu einem der bekanntesten Bilder der Welt.",
+              "hook": "Holzrelief des US-Staatswappens",
+              "children": [],
+              "source": {
+                "title": "Großes Siegel der Vereinigten Staaten – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gro%C3%9Fes_Siegel_der_Vereinigten_Staaten"
+              }
+            }
+          ],
+          "source": {
+            "title": "Das Ding (Abhörgerät) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Das_Ding_(Abh%C3%B6rger%C3%A4t)"
+          }
+        },
+        {
+          "id": "2026-11-07-2-1",
+          "title": "Dalís Albtraum für Hitchcock",
+          "text": "Für „Ich kämpfe um dich“ holte Hitchcock Salvador Dalí nach Hollywood, um die Traumsequenz zu entwerfen: Vorhänge voller Augen, die ein Mann mit einer riesigen Schere zerschneidet, und eine Gestalt ohne Gesicht. Hitchcock wollte Träume gestochen scharf zeigen statt verschwommen, doch Produzent David O. Selznick ließ die Szene stark kürzen. Kurz darauf begann Dalí mit Walt Disney den Kurzfilm „Destino“. Der blieb liegen und wurde erst 2003 fertig.",
+          "hook": "Hitchcocks „Ich kämpfe um dich“",
+          "children": [
+            {
+              "id": "2026-11-07-2-1-0",
+              "title": "Ein Schnitt durchs Auge",
+              "text": "Augen und Klingen hatten Dalí schon 1929 beschäftigt: Mit Luis Buñuel drehte er in Paris den Kurzfilm „Ein andalusischer Hund“. Gleich zu Beginn schneidet ein Rasiermesser scheinbar durch das Auge einer Frau, tatsächlich war es ein Tierauge, vermutlich von einem Kalb. Die beiden bauten den Film aus eigenen Träumen und warfen jede Szene hinaus, die sich vernünftig erklären ließ. Buñuel erzählte später, er habe bei der Premiere Steine in den Taschen gehabt, um sie notfalls aufs Publikum zu werfen. Er brauchte sie nicht, denn die Surrealisten feierten den Film.",
+              "hook": "Vorhänge voller Augen",
+              "children": [],
+              "source": {
+                "title": "Ein andalusischer Hund – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ein_andalusischer_Hund"
+              }
+            },
+            {
+              "id": "2026-11-07-2-1-1",
+              "title": "Atlanta in Flammen",
+              "text": "Selznicks größtes Projekt war „Vom Winde verweht“, und die erste gedrehte Szene war ausgerechnet der Brand von Atlanta. Im Dezember 1938 ließ er dafür alte Kulissen auf dem Studiogelände anzünden, darunter das riesige Tor aus „King Kong“. Eine Scarlett hatte er da noch nicht. Nach seiner eigenen Schilderung lernte er Vivien Leigh in genau dieser Brandnacht kennen. Hattie McDaniel gewann 1940 als erste Schwarze einen Oscar, musste bei der Verleihung aber an einem separaten Tisch am Rand des Saals sitzen.",
+              "hook": "Produzent David O. Selznick",
+              "children": [],
+              "source": {
+                "title": "Vom Winde verweht (Film) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Vom_Winde_verweht_(Film)"
+              }
+            },
+            {
+              "id": "2026-11-07-2-1-2",
+              "title": "Acht Oszillatoren für Disney",
+              "text": "Bevor Walt Disney mit Dalí arbeitete, hatte er in „Fantasia“ von 1940 schon Musik und Bild verschmolzen, samt einem eigenen Raumklangsystem namens Fantasound. Zum Testen kaufte das Studio acht Tongeneratoren vom Typ HP 200B bei einer winzigen Firma aus Palo Alto. Bill Hewlett und David Packard hatten sie 1939 in einer Garage gegründet, und Disney gehörte zu ihren ersten großen Kunden. Diese Garage in der Addison Avenue ist heute ein offizielles kalifornisches Denkmal und gilt als Geburtsort des Silicon Valley.",
+              "hook": "Walt Disney den Kurzfilm",
+              "children": [],
+              "source": {
+                "title": "HP Inc. – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/HP_Inc."
+              }
+            }
+          ],
+          "source": {
+            "title": "Ich kämpfe um dich – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Ich_k%C3%A4mpfe_um_dich"
+          }
+        },
+        {
+          "id": "2026-11-07-2-2",
+          "title": "Eine Stadt, vier Namen",
+          "text": "Petrograd hieß Termens Stadt erst seit 1914: Zu Beginn des Ersten Weltkriegs klang „Sankt Petersburg“ zu deutsch, also bekam sie einen russischen Namen. Nach Lenins Tod 1924 wurde daraus Leningrad. Unter diesem Namen überstand die Stadt im Zweiten Weltkrieg rund 900 Tage deutsche Belagerung. 1991 stimmte eine knappe Mehrheit der Einwohner dafür, wieder Sankt Petersburg zu heißen. Das umliegende Gebiet heißt bis heute Oblast Leningrad.",
+          "hook": "um 1920 in Petrograd",
+          "children": [
+            {
+              "id": "2026-11-07-2-2-0",
+              "title": "Ein Königshaus wird Windsor",
+              "text": "Nicht nur Sankt Petersburg klang im Ersten Weltkrieg zu deutsch: Auch das britische Königshaus hieß Sachsen-Coburg und Gotha. Als 1917 deutsche Bomber vom Typ „Gotha“ London angriffen, war der Name nicht mehr zu halten. Georg V. benannte seine Dynastie deshalb nach Schloss Windsor um, und aus den verwandten Battenbergs wurden die Mountbattens. Sein Cousin Wilhelm II. soll gespottet haben, er wolle nun „Die lustigen Weiber von Sachsen-Coburg-Gotha“ sehen. Das ist allerdings eine Anekdote, die sich gut erzählt, aber kaum belegt ist.",
+              "hook": "zu deutsch, also bekam sie einen russischen Namen",
+              "children": [],
+              "source": {
+                "title": "Haus Windsor – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Haus_Windsor"
+              }
+            },
+            {
+              "id": "2026-11-07-2-2-1",
+              "title": "Verhungert neben dem Saatgut",
+              "text": "Während der rund 900 Tage Belagerung verhungerten in Leningrad Hunderttausende Menschen, manche sogar direkt neben Nahrung. Im Institut für Pflanzenbau lagerte die Samensammlung, die Nikolai Wawilow aufgebaut hatte. Sie war eine der größten der Welt und enthielt Tonnen von Getreide, Reis und Kartoffeln. Mehrere Mitarbeiter starben an Hunger, ohne die Vorräte anzurühren. Wawilow erfuhr davon wohl nie: Stalins Regime hatte ihn verhaftet, und er starb 1943 entkräftet in einem Gefängnis in Saratow.",
+              "hook": "rund 900 Tage deutsche Belagerung",
+              "children": [],
+              "source": {
+                "title": "Nikolai Iwanowitsch Wawilow – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Nikolai_Iwanowitsch_Wawilow"
+              }
+            },
+            {
+              "id": "2026-11-07-2-2-2",
+              "title": "Lenins ewige Pflege",
+              "text": "Nach Lenins Tod 1924 beschloss die Sowjetführung, seinen Leichnam nicht zu begraben, sondern dauerhaft auszustellen. Die Wissenschaftler Boris Zbarski und Wladimir Worobjow entwickelten dafür ein Verfahren, das im Kern bis heute angewandt wird: Etwa alle anderthalb Jahre wird der Körper wochenlang in Konservierungslösungen gebadet. Im Zweiten Weltkrieg brachte man Lenin heimlich ins sibirische Tjumen in Sicherheit. Später konservierte dasselbe Moskauer Labor auch Ho Chi Minh und 1994 Kim Il-sung und machte die Einbalsamierung so zu einem Moskauer Exportgut.",
+              "hook": "Nach Lenins Tod 1924",
+              "children": [],
+              "source": {
+                "title": "Communist mummies – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Communist_mummies"
+              }
+            }
+          ],
+          "source": {
+            "title": "Sankt Petersburg – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Sankt_Petersburg"
+          }
+        }
+      ],
+      "source": {
+        "title": "Theremin – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Theremin"
+      }
+    }
+  ]
+}
