@@ -1,0 +1,440 @@
+{
+  "version": 1,
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-09T00:49:48.961Z",
+  "topics": [
+    {
+      "id": "2026-11-10-0",
+      "category": "natur",
+      "title": "Der Axolotl",
+      "text": "Der Axolotl ist ein Schwanzlurch, der zeitlebens wie eine Larve aussieht: Er behält seine fedrigen Außenkiemen und wird geschlechtsreif, ohne je an Land zu gehen. Zum Star der Forschung wurde er, weil er Beine, Teile des Herzens und sogar das Rückenmark nachwachsen lassen kann. Sein Name stammt aus dem Nahuatl und wird oft mit dem Aztekengott Xolotl verbunden. In freier Wildbahn lebt er fast nur noch in den Kanälen von Xochimilco bei Mexiko-Stadt.",
+      "children": [
+        {
+          "id": "2026-11-10-0-0",
+          "title": "Gärten, die nicht schwimmen",
+          "text": "Die Kanäle von Xochimilco sind Reste eines großen Seensystems, auf dem schon die Azteken Chinampas anlegten: künstliche Beetinseln aus Schlamm und Pflanzenresten, deren Ränder mit Weiden befestigt wurden. Man nennt sie oft „schwimmende Gärten“, tatsächlich sind sie aber im Seegrund verankert und lieferten mehrere Ernten im Jahr. Seit 1987 gehört Xochimilco zum UNESCO-Welterbe. Heute fahren Ausflügler in bunten Booten, den Trajineras, durch die Kanäle, auch zur „Puppeninsel“, an deren Bäumen Hunderte verwitterte Puppen hängen.",
+          "hook": "Kanälen von Xochimilco",
+          "children": [
+            {
+              "id": "2026-11-10-0-0-0",
+              "title": "Fieber-Rinde vom Kanalrand",
+              "text": "Die Weiden an den Rändern der Chinampas halten mit ihren Wurzeln den Schlamm zusammen. Ihre Gattung kann aber noch mehr: Weidenrinde enthält Salicin. Schon in der Antike nutzten Ärzte sie gegen Schmerzen, und 1763 berichtete der englische Pfarrer Edward Stone der Royal Society, dass getrocknete Rinde Fieber lindere. Bei Bayer gelang 1897 erstmals reine, stabile Acetylsalicylsäure, ein Abkömmling der Salicylsäure. Ihr Markenname Aspirin verweist allerdings nicht auf die Weide, sondern auf das Mädesüß, das botanisch damals Spiraea hieß.",
+              "hook": "deren Ränder mit Weiden befestigt wurden",
+              "children": [],
+              "source": {
+                "title": "Geschichte der Acetylsalicylsäure – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Geschichte_der_Acetylsalicyls%C3%A4ure"
+              }
+            },
+            {
+              "id": "2026-11-10-0-0-1",
+              "title": "Welterbe mit Ablaufdatum",
+              "text": "Den Welterbe-Titel, den Xochimilco 1987 bekam, kann man auch wieder verlieren, und auch Deutschland hat das schon erlebt. 2009 strich die UNESCO das Dresdner Elbtal von der Liste, weil mitten im geschützten Flusspanorama die Waldschlößchenbrücke gebaut wurde. Die Dresdner hatten sich zuvor in einem Bürgerentscheid für die Brücke ausgesprochen. Als allererste Stätte hatte es 2007 ein Oryx-Schutzgebiet im Oman getroffen, nachdem das Land die Fläche um rund 90 Prozent verkleinert hatte.",
+              "hook": "Seit 1987 gehört Xochimilco zum UNESCO-Welterbe",
+              "children": [],
+              "source": {
+                "title": "Kulturlandschaft Dresdner Elbtal – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kulturlandschaft_Dresdner_Elbtal"
+              }
+            },
+            {
+              "id": "2026-11-10-0-0-2",
+              "title": "Das Tal des Unbehagens",
+              "text": "Warum verwitterte Puppen wie die auf der Puppeninsel so verstörend wirken, wollte 1970 der japanische Robotiker Masahiro Mori in einem kurzen Aufsatz erklären. Er beschrieb das „unheimliche Tal“: Je menschenähnlicher eine Figur ist, desto sympathischer finden wir sie. Wirkt sie aber fast, doch nicht ganz menschlich, schlägt die Zuneigung plötzlich in Grusel um. Moris Kurve beruhte auf Intuition statt auf Experimenten und ist bis heute umstritten. Wenige Jahre später schrieb er ein Buch mit der These, auch Roboter könnten Buddha-Natur besitzen.",
+              "hook": "an deren Bäumen Hunderte verwitterte Puppen",
+              "children": [],
+              "source": {
+                "title": "Uncanny Valley – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Uncanny_Valley"
+              }
+            }
+          ],
+          "source": {
+            "title": "Chinampa – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Chinampa"
+          }
+        },
+        {
+          "id": "2026-11-10-0-1",
+          "title": "Der Hundegott der Toten",
+          "text": "Xolotl war in der aztekischen Mythologie ein Gott mit Hundekopf, der Zwilling des Quetzalcoatl, und begleitete die Toten auf dem Weg ins Totenreich Mictlan. Ein vom Mönch Bernardino de Sahagún aufgezeichneter Mythos erzählt, wie er vor seiner Opferung floh: Er verwandelte sich in eine Maispflanze, dann in eine Agave und schließlich in einen Axolotl, bevor man ihn doch fing. Nach ihm ist auch der Xoloitzcuintle benannt, ein meist haarloser Hund, der in Mexiko seit Jahrtausenden gehalten wird.",
+          "hook": "Aztekengott Xolotl",
+          "children": [
+            {
+              "id": "2026-11-10-0-1-0",
+              "title": "Der Mönch als Ethnologe",
+              "text": "Bernardino de Sahagún, ein spanischer Franziskaner, sammelte ab der Mitte des 16. Jahrhunderts jahrzehntelang mit Nahua-Schülern und Ältesten Wissen über Götter, Heilpflanzen, Handel und Alltag. Daraus entstand der Florentiner Codex: zwölf Bücher auf Nahuatl und Spanisch, mit über 2000 Bildern indigener Maler. Eigentlich sollte das Werk Missionaren helfen, heidnische Bräuche zu erkennen und auszurotten, und 1577 ließ König Philipp II. Sahagúns Schriften sogar einziehen. Trotzdem ist es heute eine der wichtigsten Quellen, aus denen wir die aztekische Welt kennen.",
+              "hook": "vom Mönch Bernardino de Sahagún aufgezeichneter",
+              "children": [],
+              "source": {
+                "title": "Bernardino de Sahagún – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bernardino_de_Sahag%C3%BAn"
+              }
+            },
+            {
+              "id": "2026-11-10-0-1-1",
+              "title": "Die 400 Kaninchen",
+              "text": "Die Agave, in die sich Xolotl verwandelte, lieferte den Azteken vor allem Pulque: Aus dem ausgehöhlten Herz der Pflanze sammelt sich ein süßer Saft, das Aguamiel, der zu einem milchig-trüben Getränk vergärt. Die Göttin der Agave hieß Mayahuel. Als ihre Kinder galten die Centzon Totochtin, die „400 Kaninchen“, Götter des Rausches. Die Zahl 400 stand im Nahuatl für „unzählig“, denn es gab so viele Arten der Trunkenheit wie Kaninchengötter. Wer völlig betrunken war, war nach einer überlieferten Redewendung so betrunken wie 400 Kaninchen.",
+              "hook": "dann in eine Agave",
+              "children": [],
+              "source": {
+                "title": "Centzon Tōtōchtin – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Centzon_T%C5%8Dt%C5%8Dchtin"
+              }
+            },
+            {
+              "id": "2026-11-10-0-1-2",
+              "title": "Das Gen der Nackthunde",
+              "text": "Dass der Xoloitzcuintle kaum Haare hat, liegt an einer einzigen Mutation im Gen FOXI3, die Forscher 2008 beschrieben haben. Dieselbe Veränderung tragen auch der Peruanische Nackthund und der Chinesische Schopfhund, die drei Rassen haben also vermutlich einen gemeinsamen Ursprung. Weil das Gen auch die Entwicklung der Zähne steuert, fehlen Nackthunden oft Backenzähne. Erben Welpen die Mutation von beiden Eltern, sterben sie schon im Mutterleib. Deshalb bringen auch zwei Nackthunde immer wieder behaarte Welpen zur Welt, und ohne diese Mischung gäbe es die Rasse gar nicht.",
+              "hook": "ein meist haarloser Hund",
+              "children": [],
+              "source": {
+                "title": "Xoloitzcuintle – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Xoloitzcuintle"
+              }
+            }
+          ],
+          "source": {
+            "title": "Xolotl – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Xolotl"
+          }
+        },
+        {
+          "id": "2026-11-10-0-2",
+          "title": "Der Mensch als ewiges Kind",
+          "text": "Wenn ein Tier geschlechtsreif wird und dabei seine Jugendmerkmale behält, sprechen Biologen von Neotenie. Der niederländische Anatom Louis Bolk stellte 1926 seine Fetalisationshypothese auf: Der Mensch sei eine Art geschlechtsreif gewordener Affenfötus, zu erkennen am flachen Gesicht, an der spärlichen Körperbehaarung und am großen Kopf. Stephen Jay Gould griff die Idee 1977 in „Ontogeny and Phylogeny“ wieder auf. Heute gilt sie als teilweise zutreffend, aber stark vereinfacht.",
+          "hook": "geschlechtsreif, ohne je an Land",
+          "children": [
+            {
+              "id": "2026-11-10-0-2-0",
+              "title": "Mickey Mouse wird jünger",
+              "text": "Stephen Jay Gould suchte die Neotenie auch im Zeichentrick und veröffentlichte 1979 den Essay „A Biological Homage to Mickey Mouse“. Darin zeigte er, dass Disneys Maus seit ihrem Debüt 1928 immer kindlicher gezeichnet wurde: Kopf und Augen wurden größer, die Schnauze kürzer und runder. Gould maß die Proportionen nach und erklärte den Wandel mit dem Kindchenschema von Konrad Lorenz. Über ein halbes Jahrhundert ist Mickey also nicht gealtert, sondern immer jünger geworden.",
+              "hook": "Stephen Jay Gould",
+              "children": []
+            },
+            {
+              "id": "2026-11-10-0-2-1",
+              "title": "Die Füchse von Nowosibirsk",
+              "text": "Neotenie kann auch entstehen, wo niemand gezielt auf sie züchtet: Ab 1959 ließ der Genetiker Dmitri Beljajew bei Nowosibirsk Silberfüchse nur nach Zahmheit auswählen. Seine Kollegin Ljudmila Trut führte das Experiment über Jahrzehnte weiter. Mit der Zeit bekamen manche Tiere Schlappohren, gescheckte Flecken und Ringelschwänze, und sie blieben als Erwachsene verspielt wie Welpen. Der Anthropologe Richard Wrangham überträgt das Prinzip auf uns: Der Mensch habe sich selbst domestiziert, eine umstrittene These.",
+              "hook": "sprechen Biologen von Neotenie",
+              "children": [],
+              "source": {
+                "title": "Dmitri Konstantinowitsch Beljajew – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dmitri_Konstantinowitsch_Beljajew"
+              }
+            },
+            {
+              "id": "2026-11-10-0-2-2",
+              "title": "Läuse als Zeitzeugen",
+              "text": "Die spärliche Körperbehaarung des Menschen täuscht: Wir haben etwa so viele Haarfollikel wie ein Schimpanse, nur wachsen daraus meist feine, kaum sichtbare Flaumhaare. Mit dem dichten Fell verloren auch unsere Läuse ihren Lebensraum. Ihnen blieben Kopf und Schambereich, und die Filzlaus stammt Erbgutvergleichen zufolge wohl von einer Gorillalaus ab. Die Kleiderlaus spaltete sich nach genetischen Schätzungen vor rund 80.000 bis 170.000 Jahren von der Kopflaus ab. So verraten ausgerechnet Parasiten, seit wann Menschen ungefähr Kleidung tragen.",
+              "hook": "an der spärlichen Körperbehaarung",
+              "children": [],
+              "source": {
+                "title": "Kleiderlaus – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kleiderlaus"
+              }
+            }
+          ],
+          "source": {
+            "title": "Neoteny – Wikipedia (englisch)",
+            "url": "https://en.wikipedia.org/wiki/Neoteny"
+          }
+        }
+      ],
+      "source": {
+        "title": "Axolotl – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Axolotl"
+      }
+    },
+    {
+      "id": "2026-11-10-1",
+      "category": "orte",
+      "title": "Der Fly Geyser",
+      "text": "Der Fly Geyser in der Wüste von Nevada ist kein reines Naturwunder, sondern ein Unfall: Er entstand aus Bohrlöchern, zuletzt aus einer Erkundungsbohrung nach Erdwärme in den 1960er-Jahren, die nie richtig verschlossen wurde. Seitdem sprudelt rund 90 Grad heißes Wasser heraus und lagert Minerale ab, die zu bunten Kegeln und Terrassen gewachsen sind. Die leuchtend roten und grünen Farben stammen von wärmeliebenden Algen und Bakterien. Seit 2016 gehört das Gelände dem Burning Man Project.",
+      "children": [
+        {
+          "id": "2026-11-10-1-0",
+          "title": "Das Bakterium hinter der PCR",
+          "text": "Unter den wärmeliebenden Mikroben, wie sie den Fly Geyser färben, ist eine, die die Biologie verändert hat: Thermus aquaticus. Der Mikrobiologe Thomas Brock fand das Bakterium Mitte der 1960er-Jahre in einer heißen Quelle im Yellowstone-Nationalpark. Sein hitzefestes Enzym, die Taq-Polymerase, wurde später zum Herzstück der Polymerase-Kettenreaktion (PCR), mit der sich DNA millionenfach kopieren lässt. Ihr Erfinder Kary Mullis erhielt dafür 1993 den Chemie-Nobelpreis.",
+          "hook": "wärmeliebenden Algen und Bakterien",
+          "children": [
+            {
+              "id": "2026-11-10-1-0-0",
+              "title": "Zehntausend Dollar Bonus",
+              "text": "Kary Mullis kam die Idee zur PCR nach eigener Darstellung im Frühjahr 1983 nachts am Steuer, auf einer kurvigen Landstraße in Nordkalifornien. Er war damals bei der Biotech-Firma Cetus angestellt, deshalb gehörte die Erfindung seinem Arbeitgeber. Mullis erhielt dafür einen Bonus von 10.000 Dollar. 1991 verkaufte Cetus die PCR-Patente an den Pharmakonzern Hoffmann-La Roche, und zwar für 300 Millionen Dollar.",
+              "hook": "Ihr Erfinder Kary Mullis",
+              "children": [],
+              "source": {
+                "title": "Kary Mullis – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kary_Mullis"
+              }
+            },
+            {
+              "id": "2026-11-10-1-0-1",
+              "title": "Die Kavallerie als Ranger",
+              "text": "Der Yellowstone-Nationalpark, 1872 per Gesetz von Präsident Ulysses S. Grant gegründet, gilt als erster Nationalpark der Welt. Wie man ihn schützen sollte, wusste allerdings niemand so recht. Die ersten Verwalter hatten kaum Geld und Personal, und Wilderer sowie Souvenirjäger, die Stücke von Geysirkegeln abschlugen, hatten leichtes Spiel. Ab 1886 bewachte deshalb die US-Kavallerie den Park über drei Jahrzehnte lang. Ihr breitkrempiger Feldhut ist bis heute das Markenzeichen der amerikanischen Park-Ranger.",
+              "hook": "im Yellowstone-Nationalpark",
+              "children": [],
+              "source": {
+                "title": "Fort Yellowstone – Yellowstone National Park (U.S. National Park Service)",
+                "url": "https://www.nps.gov/yell/learn/historyculture/fort-yellowstone.htm"
+              }
+            },
+            {
+              "id": "2026-11-10-1-0-2",
+              "title": "Der Mumien-Doktorand",
+              "text": "Weil die PCR schon winzige DNA-Reste millionenfach vervielfältigen kann, wurde sie zum wichtigsten Werkzeug einer jungen Disziplin: der Erforschung alter DNA. Einer ihrer Pioniere, Svante Pääbo, hatte schon zuvor als Doktorand in Uppsala heimlich versucht, Erbgut aus ägyptischen Mumien zu klonen – noch ohne PCR –, und veröffentlichte 1985 in „Nature“. Später entschlüsselte sein Team in Leipzig das Genom des Neandertalers. 2022 erhielt Pääbo den Medizin-Nobelpreis, genau 40 Jahre nach seinem Vater Sune Bergström.",
+              "hook": "DNA millionenfach kopieren lässt",
+              "children": [],
+              "source": {
+                "title": "Svante Pääbo's path to the Nobel Prize began in Uppsala – Uppsala University",
+                "url": "https://www.uu.se/en/news/2022/2022-12-09-svante-paabos-path-to-the-nobel-prize-began-in-uppsala"
+              }
+            }
+          ],
+          "source": {
+            "title": "Thermus aquaticus – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Thermus_aquaticus"
+          }
+        },
+        {
+          "id": "2026-11-10-1-1",
+          "title": "Ein Strandfeuer wird Stadt",
+          "text": "Das Burning Man Project steht hinter dem gleichnamigen Festival, das 1986 sehr klein anfing: Larry Harvey und Jerry James verbrannten am Baker Beach in San Francisco eine Holzfigur. 1990 zog das Ritual in die Black Rock Desert in Nevada, auf einen ausgetrockneten Seeboden, den man Playa nennt. Dort entsteht jeden Spätsommer für gut eine Woche Black Rock City mit rund 70.000 Menschen. Nach dem Prinzip „Leave No Trace“ soll die Stadt danach spurlos wieder verschwinden.",
+          "hook": "dem Burning Man Project",
+          "children": [
+            {
+              "id": "2026-11-10-1-1-0",
+              "title": "Die Kanone, die abtaucht",
+              "text": "Am Baker Beach, wo das erste Feuer brannte, versteckt sich in den Klippen die Battery Chamberlin, eine Küstenbatterie aus dem frühen 20. Jahrhundert. Dort steht heute wieder ein Geschütz auf einer sogenannten Verschwindlafette: Nach jedem Schuss schwang das Rohr durch den Rückstoß hinter die Brustwehr und konnte dort in Deckung nachgeladen werden. Vom Meer aus war die Stellung damit fast unsichtbar. Doch die Bauweise war bald überholt, denn gegen Flugzeuge, die von oben kamen, half keine Mauer. 1948 wurde die Batterie entwaffnet.",
+              "hook": "Baker Beach in San Francisco",
+              "children": [],
+              "source": {
+                "title": "Fort Scott: Battery Chamberlin (1904–1948) – National Park Service",
+                "url": "https://www.nps.gov/prsf/learn/historyculture/fort-scott-battery-chamberlin.htm"
+              }
+            },
+            {
+              "id": "2026-11-10-1-1-1",
+              "title": "Schneller als der Schall",
+              "text": "Ausgetrocknete Seeböden wie die Playa der Black Rock Desert gehören zu den ebensten Flächen der Erde und sind deshalb ideal für Geschwindigkeitsrekorde. Am 15. Oktober 1997 raste der britische Kampfpilot Andy Green dort mit dem Thrust SSC auf rund 1228 Kilometer pro Stunde. Angetrieben wurde der Wagen von zwei Strahltriebwerken aus dem Kampfjet Phantom. So durchbrach erstmals ein Fahrzeug am Boden offiziell die Schallmauer, fast auf den Tag genau 50 Jahre nachdem Chuck Yeager das in der Luft geschafft hatte.",
+              "hook": "auf einen ausgetrockneten Seeboden",
+              "children": [],
+              "source": {
+                "title": "ThrustSSC – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/ThrustSSC"
+              }
+            },
+            {
+              "id": "2026-11-10-1-1-2",
+              "title": "Caesars brennende Riesen",
+              "text": "Eine brennende Holzfigur erinnert viele an den „Wicker Man“, und dieses Bild geht auf Julius Caesar zurück. In seinem Bericht über den Gallischen Krieg schreibt er, die Gallier hätten riesige Figuren aus Weidengeflecht mit lebenden Menschen gefüllt und angezündet. Archäologische Belege dafür gibt es bis heute nicht, und viele Historiker halten die Schilderung für römische Feindpropaganda. Populär wurde das Motiv vor allem durch den Horrorfilm „The Wicker Man“ von 1973. Larry Harvey hatte ihn nach eigenen Angaben damals noch nicht gesehen.",
+              "hook": "eine Holzfigur",
+              "children": [],
+              "source": {
+                "title": "Wicker man – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Wicker_man"
+              }
+            }
+          ],
+          "source": {
+            "title": "Burning Man – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Burning_Man"
+          }
+        },
+        {
+          "id": "2026-11-10-1-2",
+          "title": "Strom aus toskanischem Dampf",
+          "text": "Die Erkundungsbohrung nach Erdwärme in Nevada folgte einer Idee, die in der Toskana entstanden war. In Larderello gewann man schon im 19. Jahrhundert Borsäure aus heißen Dampfquellen; der Ort trägt den Namen des Unternehmers François de Larderel. Im Jahr 1904 brachte Fürst Piero Ginori Conti dort mit Erdwärmedampf erstmals ein paar Glühbirnen zum Leuchten. 1913 ging in Larderello das erste kommerzielle Geothermiekraftwerk der Welt in Betrieb.",
+          "hook": "Erkundungsbohrung nach Erdwärme",
+          "children": [
+            {
+              "id": "2026-11-10-1-2-0",
+              "title": "Zwanzig Maultiere für Borax",
+              "text": "Die Borsäure aus Larderello bekam bald Konkurrenz aus Kalifornien. Im Death Valley baute man ab den 1880er-Jahren Borax ab, eine verwandte Borverbindung. Gespanne aus zwanzig Tieren, genauer 18 Maultieren und zwei Pferden, zogen die schweren Wagen rund 270 Kilometer durch die Wüste bis zur Bahn in Mojave. Daraus wurde die Marke „20 Mule Team“, und die Boraxfirma sponserte später die Westernserie „Death Valley Days“. Deren Moderator 1964/65 hieß Ronald Reagan, kurz bevor er Gouverneur von Kalifornien wurde.",
+              "hook": "Borsäure aus heißen Dampfquellen",
+              "children": [],
+              "source": {
+                "title": "Twenty Mule Teams – Death Valley National Park (NPS)",
+                "url": "https://home.nps.gov/deva/learn/historyculture/twenty-mule-teams.htm"
+              }
+            },
+            {
+              "id": "2026-11-10-1-2-1",
+              "title": "Porzellan, Fürsten, Gucci",
+              "text": "Der Name von Fürst Piero Ginori Conti steht in Florenz bis heute für Porzellan. Um 1737 gründete Marchese Carlo Ginori in Doccia bei Sesto Fiorentino eine der ersten Porzellanmanufakturen Italiens, keine drei Jahrzehnte nach Meißen. 1896 schloss sie sich mit der Mailänder Firma Richard zu Richard-Ginori zusammen und belieferte über Generationen Adel und Grandhotels. Nach einer Insolvenz kaufte 2013 ausgerechnet das Modehaus Gucci die traditionsreiche Manufaktur.",
+              "hook": "Fürst Piero Ginori Conti",
+              "children": [],
+              "source": {
+                "title": "Porcellana Ginori a Doccia – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Porcellana_Ginori_a_Doccia"
+              }
+            },
+            {
+              "id": "2026-11-10-1-2-2",
+              "title": "Die Glühbirne seit 1901",
+              "text": "Die Glühbirnen von Larderello sind längst erloschen, doch eine Lampe aus derselben Zeit brennt noch immer. Das „Centennial Light“ hängt in einer Feuerwache in Livermore, Kalifornien, und leuchtet seit 1901, nur mit wenigen kurzen Unterbrechungen. Ihr Kohlefaden glimmt heute mit etwa vier Watt, was ihn vermutlich schont. Eine Webcam überträgt das schwache Licht ins Internet, und die Birne hat schon mehrere dieser Kameras überlebt.",
+              "hook": "ein paar Glühbirnen zum Leuchten",
+              "children": [],
+              "source": {
+                "title": "Centennial Light – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Centennial_Light"
+              }
+            }
+          ],
+          "source": {
+            "title": "Larderello – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Larderello"
+          }
+        }
+      ],
+      "source": {
+        "title": "Fly Geyser – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Fly_Geyser"
+      }
+    },
+    {
+      "id": "2026-11-10-2",
+      "category": "kultur",
+      "title": "Kintsugi",
+      "text": "Kintsugi, japanisch für „Goldverbindung“, ist die Kunst, zerbrochene Keramik mit Urushi-Lack zu kitten und die Bruchlinien mit Goldpulver zu überziehen. Der Schaden wird nicht versteckt, sondern sichtbar gemacht – oft verbunden mit der Ästhetik des Wabi-Sabi. Einer Legende nach schickte der Shogun Ashikaga Yoshimasa im 15. Jahrhundert eine zerbrochene Teeschale nach China und bekam sie mit groben Metallklammern zurück. Das soll die Suche nach einer schöneren Reparatur ausgelöst haben.",
+      "children": [
+        {
+          "id": "2026-11-10-2-0",
+          "title": "Ein Lack, der Feuchte braucht",
+          "text": "Der Urushi-Lack für Kintsugi ist der Saft des Lackbaums Toxicodendron vernicifluum, eines nahen Verwandten des nordamerikanischen Gifteefeus. Sein Inhaltsstoff Urushiol kann bei Hautkontakt heftige Ausschläge auslösen. Paradox wirkt das Aushärten: Urushi wird nicht an trockener Luft fest, sondern bei hoher Luftfeuchtigkeit, weil dann das Enzym Laccase die Vernetzung antreibt – traditionell in einem feuchten Schrank namens Muro. Die ältesten lackierten Funde Japans stammen aus der Jōmon-Zeit und werden auf rund 9000 Jahre datiert.",
+          "hook": "mit Urushi-Lack zu kitten",
+          "children": [
+            {
+              "id": "2026-11-10-2-0-0",
+              "title": "Ein Zoologe gräbt in Tokio",
+              "text": "Dass man von der Jōmon-Zeit spricht, geht auf einen amerikanischen Zoologen zurück. Edward S. Morse kam 1877 wegen der Armfüßer nach Japan und sah aus dem Zugfenster zwischen Yokohama und Tokio einen Muschelhügel bei Ōmori. Die Scherben, die er dort ausgrub, nannte er „cord marked“, also mit Schnurabdrücken verziert. Übersetzt wurde daraus Jōmon. Später sammelte Morse über 5000 japanische Keramiken, die heute größtenteils im Museum of Fine Arts in Boston liegen.",
+              "hook": "aus der Jōmon-Zeit",
+              "children": [],
+              "source": {
+                "title": "Edward S. Morse – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Edward_S._Morse"
+              }
+            },
+            {
+              "id": "2026-11-10-2-0-1",
+              "title": "Vom Lackbaum zur Jeans",
+              "text": "Die Laccase ist nach dem Lack benannt: Der Chemiker Hikorokuro Yoshida beschrieb 1883 im Saft des Lackbaums einen Stoff, der das Aushärten antreibt. Es war eines der ersten Enzyme, die überhaupt beschrieben wurden. Später fand man Laccasen auch in Pilzen und Bakterien, und Weißfäulepilze zersetzen damit das zähe Lignin im Holz. Diese Fähigkeit nutzt heute die Textilindustrie: Mit Laccase wird Jeansstoff aufgehellt, damit er schonender als mit Chlorbleiche den Used-Look bekommt.",
+              "hook": "das Enzym Laccase",
+              "children": [],
+              "source": {
+                "title": "Laccase – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Laccase"
+              }
+            },
+            {
+              "id": "2026-11-10-2-0-2",
+              "title": "Warum Cashews nackt sind",
+              "text": "Lackbaum und Giftefeu gehören zu den Sumachgewächsen, und zu dieser Familie zählen auch Mango, Pistazie und Cashew. In der Mangoschale steckt ein Stoff, der dem Urushiol ähnelt, weshalb manche Menschen beim Schälen Ausschlag bekommen. Die Cashewnuss hängt außen an einer fleischigen Scheinfrucht, dem Cashewapfel, und ihre Schale enthält ein ätzendes Öl. Deshalb kommen Cashews praktisch nie in der Schale in den Handel. Das Öl wird aber in der Industrie genutzt, etwa für Bremsbeläge.",
+              "hook": "nahen Verwandten des nordamerikanischen Gifteefeus",
+              "children": [],
+              "source": {
+                "title": "Cashewbaum – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Cashewbaum"
+              }
+            }
+          ],
+          "source": {
+            "title": "Lackbaum – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Lackbaum"
+          }
+        },
+        {
+          "id": "2026-11-10-2-1",
+          "title": "Der Silberpavillon ohne Silber",
+          "text": "Als Herrscher war Ashikaga Yoshimasa schwach: Der Streit um seine Nachfolge mündete 1467 in den Ōnin-Krieg, der Kyoto über ein Jahrzehnt verwüstete. Prägend wurde er als Mäzen. Ab 1482 ließ er an den Higashiyama-Hügeln eine Villa bauen, den heutigen Ginkaku-ji, den „Silberpavillon“. Mit Silber war das Gebäude aber nie überzogen, der Name kam erst lange nach Yoshimasas Tod 1490 auf. Die nach dem Ort benannte Higashiyama-Kultur prägte Teezeremonie, Tuschmalerei und Blumenkunst.",
+          "hook": "der Shogun Ashikaga Yoshimasa",
+          "children": [
+            {
+              "id": "2026-11-10-2-1-0",
+              "title": "Das Gold, das brannte",
+              "text": "Das Vorbild für den Namen steht auf der anderen Seite Kyotos: Yoshimasas Großvater Ashikaga Yoshimitsu ließ um 1397 den Kinkaku-ji bauen, und dessen obere Stockwerke sind wirklich mit Blattgold überzogen. Im Juli 1950 legte ein junger Novize Feuer, und der Pavillon aus dem 14. Jahrhundert brannte vollständig nieder. Yukio Mishima machte daraus 1956 seinen Roman „Der Tempelbrand“. Der Goldene Pavillon, den heute Millionen fotografieren, ist also ein Nachbau von 1955 und damit jünger als viele seiner Besucher.",
+              "hook": "Mit Silber war das Gebäude aber nie überzogen",
+              "children": [],
+              "source": {
+                "title": "Kinkaku-ji – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kinkaku-ji"
+              }
+            },
+            {
+              "id": "2026-11-10-2-1-1",
+              "title": "Ein Viertel namens Heerlager",
+              "text": "Der Ōnin-Krieg steckt bis heute in Kyotos Stadtplan: Das Weberviertel Nishijin, wörtlich „westliches Lager“, trägt den Namen des Heerlagers, das die Westarmee unter Yamana Sōzen dort aufschlug. Nach dem Krieg ließen sich zurückkehrende Weber auf dem Gelände nieder, und Nishijin-Brokat wurde zum Inbegriff edler Kimonostoffe. 1872 schickte Kyoto drei Weber nach Lyon, die französische Jacquard-Webstühle mit nach Hause brachten. Seitdem arbeitet eines der ältesten Seidenhandwerke Japans mit Lochkarten, die als Vorläufer des Computers gelten.",
+              "hook": "mündete 1467 in den Ōnin-Krieg",
+              "children": [],
+              "source": {
+                "title": "Nishijin – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Nishijin"
+              }
+            },
+            {
+              "id": "2026-11-10-2-1-2",
+              "title": "Der Tempel am Teich",
+              "text": "Die Blumenkunst jener Zeit hat eine Adresse, die bis heute gilt: den Rokkaku-dō, einen sechseckigen Tempel mitten in Kyoto. Seine Mönche wohnten in einer Klause am Teich, japanisch „Ike no bō“, und daraus wurde der Name der ältesten Ikebana-Schule, Ikenobō. Schon 1462 rühmt ein Tagebuch die Gestecke eines Mönchs namens Ikenobō Senkei. Im Tempelhof liegt der Heso-ishi, der „Nabelstein“, der nach der Überlieferung die Mitte der Stadt markiert. Und das Oberhaupt der Schule ist bis heute zugleich Vorsteher des Tempels.",
+              "hook": "Tuschmalerei und Blumenkunst",
+              "children": [],
+              "source": {
+                "title": "Ikenobo and the Rokkakudo Temple – Birthplace of ikebana",
+                "url": "https://www.ikenobo.jp/english/about/rokkakudo.html"
+              }
+            }
+          ],
+          "source": {
+            "title": "Ginkaku-ji – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Ginkaku-ji"
+          }
+        },
+        {
+          "id": "2026-11-10-2-2",
+          "title": "Heftklammern für Porzellan",
+          "text": "Was in der Legende als grob gilt, war in China ein angesehenes Handwerk namens Jūcí. Mit einem Bogenbohrer, oft mit Diamantspitze, bohrten Handwerker flache Löcher in die Scherben, ohne sie zu durchstoßen, und setzten Metallklammern ein. Als Schale aus der Legende gilt die Seladonschale „Bakōhan“ aus der Südlichen Song-Dynastie, heute im Nationalmuseum Tokio. Ihr Name, etwa „Heuschrecken-Klammer“, spielt auf die insektenartig wirkenden Klammern an.",
+          "hook": "mit groben Metallklammern zurück",
+          "children": [
+            {
+              "id": "2026-11-10-2-2-0",
+              "title": "Zahnarzt vor 9000 Jahren",
+              "text": "Der Bogenbohrer, bei dem eine Sehne einen Schaft hin- und herdreht, gehört zu den ältesten Werkzeugen der Menschheit und diente auch zum Feuermachen. In Mehrgarh im heutigen Pakistan fanden Forschende Backenzähne, die vor etwa 7500 bis 9000 Jahren angebohrt wurden. Versuche zeigten, dass ein Bogenbohrer mit Feuersteinspitze solche Löcher in weniger als einer Minute bohren kann. Glatt abgenutzte Ränder belegen, dass die Menschen danach weiterkauten. Sie überlebten also eine der frühesten bekannten Zahnbehandlungen.",
+              "hook": "Mit einem Bogenbohrer",
+              "children": [],
+              "source": {
+                "title": "Dig uncovers ancient roots of dentistry – NBC News",
+                "url": "https://www.nbcnews.com/id/wbna12168308"
+              }
+            },
+            {
+              "id": "2026-11-10-2-2-1",
+              "title": "Ein Schäfer gibt die Farbe",
+              "text": "Der europäische Name der Seladonschale stammt nicht aus China, sondern aus einem französischen Schäferroman: In Honoré d'Urfés „L'Astrée“, erschienen ab 1607, trägt der Schäfer Céladon der Überlieferung nach blassgrüne Bänder. In China heißt die Ware schlicht Qingci, etwa „blaugrüne Keramik“. Im Nahen Osten hielt sich die Legende, Seladon verfärbe sich oder zerspringe, wenn vergiftete Speisen darauf liegen. Der Topkapı-Palast in Istanbul besitzt bis heute eine der größten Seladonsammlungen außerhalb Chinas.",
+              "hook": "die Seladonschale „Bakōhan“",
+              "children": [],
+              "source": {
+                "title": "Seladon – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Seladon"
+              }
+            },
+            {
+              "id": "2026-11-10-2-2-2",
+              "title": "Ohne Diamant kein Porzellan",
+              "text": "Dass Porzellanflicker mit Diamantspitzen bohrten, hat sich in die chinesische Sprache eingeschrieben. Ein bekanntes Sprichwort lautet sinngemäß: „Ohne Diamantbohrer übernimm keine Porzellanarbeit.“ Gemeint ist heute jede Aufgabe, der man nicht gewachsen ist. Das chinesische Wort für Diamant, Jingang, stammt aus dem Buddhismus und übersetzt das Sanskritwort Vajra: das unzerstörbare Donnerkeil-Zepter. So steckt in einer Redensart über Wanderhandwerker ein Symbol der Erleuchtung.",
+              "hook": "oft mit Diamantspitze",
+              "children": []
+            }
+          ],
+          "source": {
+            "title": "Serai: 青磁輪花茶碗 銘 馬蝗絆",
+            "url": "https://serai.jp/hobby/182082"
+          }
+        }
+      ],
+      "source": {
+        "title": "Kintsugi – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Kintsugi"
+      }
+    }
+  ]
+}

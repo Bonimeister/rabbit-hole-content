@@ -1,0 +1,436 @@
+{
+  "version": 1,
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T00:36:45.090Z",
+  "topics": [
+    {
+      "id": "2026-11-09-0",
+      "category": "natur",
+      "title": "Die Unsterbliche Qualle",
+      "text": "Die nur rund fünf Millimeter große Qualle Turritopsis dohrnii kann etwas, das im Tierreich einzigartig erscheint: Bei Stress oder Verletzung verwandelt sie sich zurück in einen Polypen, also in ihr Jugendstadium. Entdeckt hat das Ende der 1980er-Jahre der deutsche Student Christian Sommer, der Tiere von der Küste bei Rapallo hielt. Möglich macht es die Transdifferenzierung, bei der spezialisierte Zellen zu anderen Zelltypen werden. Unsterblich ist sie trotzdem nicht, denn die meisten werden gefressen.",
+      "children": [
+        {
+          "id": "2026-11-09-0-0",
+          "title": "Der Vertrag von Rapallo",
+          "text": "Rapallo an der ligurischen Küste ist nicht nur ein Fundort für Quallen. Der Ort gab auch einem der umstrittensten Verträge der Weimarer Republik seinen Namen. Am 16. April 1922 vereinbarten Außenminister Walther Rathenau und der sowjetische Volkskommissar Georgi Tschitscherin am Rand der Konferenz von Genua, gegenseitig auf Kriegsentschädigungen zu verzichten und diplomatische Beziehungen aufzunehmen. Die Westmächte reagierten empört. Rathenau wurde nur gut zwei Monate später in Berlin von Rechtsextremisten der Organisation Consul ermordet.",
+          "hook": "von der Küste bei Rapallo",
+          "children": [
+            {
+              "id": "2026-11-09-0-0-0",
+              "title": "Der Waggon von Compiègne",
+              "text": "Schon im August 1921 hatte die Organisation Consul Matthias Erzberger erschossen. Er hatte im November 1918 den Waffenstillstand unterzeichnet, in einem umgebauten Speisewagen im Wald von Compiègne. Hitler ließ genau diesen Wagen mit der Nummer 2419D im Juni 1940 an dieselbe Stelle bringen, damit nun Frankreich dort kapitulierte, und schaffte ihn danach nach Berlin. Gegen Kriegsende wurde der Wagen zerstört. Wie genau, ist bis heute umstritten.",
+              "hook": "Organisation Consul",
+              "children": [],
+              "source": {
+                "title": "Wagen von Compiègne – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Wagen_von_Compi%C3%A8gne"
+              }
+            },
+            {
+              "id": "2026-11-09-0-0-1",
+              "title": "Der Kommissar und Mozart",
+              "text": "Georgi Tschitscherin war ein ungewöhnlicher Revolutionär: Er stammte aus einer Adelsfamilie und arbeitete zunächst im Archiv des zaristischen Außenministeriums. Seine größte Leidenschaft galt aber nicht der Politik, sondern Mozart, den er auch selbst am Klavier spielte. Um die Zeit seines Rückzugs aus dem Amt 1930 vollendete er eine Studie über den Komponisten. Erscheinen durfte sie in der Sowjetunion erst 1970, mehr als drei Jahrzehnte nach seinem Tod.",
+              "hook": "Volkskommissar Georgi Tschitscherin",
+              "children": [],
+              "source": {
+                "title": "Georgi Wassiljewitsch Tschitscherin – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Georgi_Wassiljewitsch_Tschitscherin"
+              }
+            },
+            {
+              "id": "2026-11-09-0-0-2",
+              "title": "Die letzte Rate kam 2010",
+              "text": "Auf Reparationen verzichtete nur Moskau, gegenüber den Westmächten blieben sie eine schwere Last. Um zu zahlen, nahm Deutschland in den Jahren 1924 und 1930 große Auslandskredite auf, die Dawes- und die Young-Anleihe. Das Londoner Schuldenabkommen von 1953 legte fest, dass ein Teil der Zinsen erst nach einer Wiedervereinigung fällig würde. Die letzte Rate von rund 70 Millionen Euro zahlte die Bundesrepublik am 3. Oktober 2010, auf den Tag 20 Jahre nach der Einheit.",
+              "hook": "auf Kriegsentschädigungen zu verzichten",
+              "children": [],
+              "source": {
+                "title": "Londoner Schuldenabkommen – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Londoner_Schuldenabkommen"
+              }
+            }
+          ],
+          "source": {
+            "title": "Vertrag von Rapallo – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Vertrag_von_Rapallo"
+          }
+        },
+        {
+          "id": "2026-11-09-0-1",
+          "title": "Hydra, das Tier ohne Alter",
+          "text": "Ein Polyp wie das Jugendstadium dieser Qualle ist auch der Süßwasserpolyp Hydra. Mit ihm begann die moderne Regenerationsforschung. Um 1740 zerschnitt der Genfer Hauslehrer Abraham Trembley in den Niederlanden Hydren in Stücke und sah, dass aus vielen Teilen wieder ein vollständiges Tier wuchs. Manche stülpte er sogar wie einen Handschuh um. Carl von Linné benannte die Gattung nach der vielköpfigen Schlange der griechischen Sage, und Studien seit 1998 deuten darauf hin, dass Hydra praktisch nicht altert.",
+          "hook": "verwandelt sie sich zurück in einen Polypen",
+          "children": [
+            {
+              "id": "2026-11-09-0-1-0",
+              "title": "Herakles und die Hydra",
+              "text": "Die vielköpfige Schlange, nach der Linné den Polypen benannte, hauste im Sumpf von Lerna bei Argos und war die zweite Aufgabe des Herakles. Für jeden abgeschlagenen Kopf wuchsen zwei nach, bis sein Neffe Iolaos die Halsstümpfe mit Fackeln ausbrannte. Den unsterblichen Mittelkopf begrub Herakles unter einem Felsen und tauchte seine Pfeile in das giftige Blut. Das wurde ihm am Ende selbst zum Verhängnis: Er starb an einem Gewand, das mit dem Blut des Kentauren Nessos getränkt war, den er mit genau so einem Pfeil erschossen hatte.",
+              "hook": "vielköpfigen Schlange der griechischen Sage",
+              "children": [],
+              "source": {
+                "title": "Hydra (Mythologie) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Hydra_(Mythologie)"
+              }
+            },
+            {
+              "id": "2026-11-09-0-1-1",
+              "title": "Linné als Mustermensch",
+              "text": "Carl von Linné vergab Namen wie Hydra 1758 in der zehnten Auflage seiner „Systema Naturae“, die bis heute als Startpunkt der zoologischen Namensgebung gilt. Namen setzte er auch als Waffe ein: Seinen Kritiker Johann Georg Siegesbeck, der Linnés Sexualsystem der Pflanzen als unanständig geschmäht hatte, verewigte er in einem unscheinbaren Unkraut, der Gattung Sigesbeckia. Mit ihm selbst ging die Nachwelt freundlicher um. 1959 bestimmte der Botaniker William Stearn Linné zum Typusexemplar von Homo sapiens, also zum offiziellen Musterbeispiel der Art Mensch.",
+              "hook": "Carl von Linné benannte die Gattung",
+              "children": [],
+              "source": {
+                "title": "Carl von Linné – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Carl_von_Linn%C3%A9"
+              }
+            },
+            {
+              "id": "2026-11-09-0-1-2",
+              "title": "Der Polyp und die Seele",
+              "text": "Dass aus vielen Teilen wieder ein vollständiges Tier wuchs, beunruhigte im 18. Jahrhundert auch die Philosophen: Wenn sich ein Lebewesen teilen lässt, was wird dann aus seiner Seele? Der französische Arzt Julien Offray de La Mettrie führte den Polypen 1747 in seiner Schrift „L’Homme machine“ als Beleg dafür an, dass belebte Materie keinen unsterblichen Geist braucht. Das Buch war so skandalös, dass er aus den Niederlanden an den Hof Friedrichs des Großen floh. Dort starb er 1751, der Überlieferung nach an einer verdorbenen Trüffelpastete.",
+              "hook": "aus vielen Teilen wieder ein vollständiges Tier",
+              "children": [],
+              "source": {
+                "title": "Julien Offray de La Mettrie – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Julien_Offray_de_La_Mettrie"
+              }
+            }
+          ],
+          "source": {
+            "title": "Süßwasserpolypen – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/S%C3%BC%C3%9Fwasserpolypen"
+          }
+        },
+        {
+          "id": "2026-11-09-0-2",
+          "title": "Molche mit Ersatzlinse",
+          "text": "Transdifferenzierung gibt es auch bei Wirbeltieren: Molche können eine verlorene Augenlinse aus Zellen der Iris neu bilden. Der Zoologe Gustav Wolff beschrieb diese „Wolffsche Linsenregeneration“ 1895. Dabei verlieren pigmentierte Iriszellen ihre Farbe und werden zu durchsichtigen Linsenzellen. Ein Team um den japanischen Biologen Goro Eguchi entfernte Japanischen Feuerbauchmolchen über 16 Jahre hinweg 18-mal die Linse, und jedes Mal wuchs eine neue nach, selbst bei sehr alten Tieren.",
+          "hook": "Möglich macht es die Transdifferenzierung",
+          "children": [
+            {
+              "id": "2026-11-09-0-2-0",
+              "title": "Ein Molch gegen Darwin",
+              "text": "Gustav Wolff sah in seinen Molchen ein Argument gegen Darwin: In freier Natur verlieren Molche ihre Linse kaum je, also habe die Selektion diese Fähigkeit nicht formen können. Dazu entsteht die Ersatzlinse aus der Iris, ganz anders als im Embryo. Wolff wurde so zum Verfechter des Vitalismus, der eine zielgerichtete Lebenskraft annahm, und lehrte später Psychiatrie in Basel. Sein Gesinnungsgenosse, der Embryologe Hans Driesch, ging noch weiter: Er wurde Philosoph und 1926 Präsident der Londoner Society for Psychical Research.",
+              "hook": "Der Zoologe Gustav Wolff",
+              "children": [],
+              "source": {
+                "title": "Gustav Wolff (Mediziner) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gustav_Wolff_(Mediziner)"
+              }
+            },
+            {
+              "id": "2026-11-09-0-2-1",
+              "title": "Gift unter dem Feuerbauch",
+              "text": "Der orangerote Bauch des Japanischen Feuerbauchmolchs ist eine Warnfarbe, denn wie viele Molche trägt er Tetrodotoxin in der Haut, das Gift der Kugelfische. Den Rekord hält der Raue Gelbbauchmolch im Westen Nordamerikas, den kaum ein Räuber frisst. Ausnahme ist die Gewöhnliche Strumpfbandnatter, die in einem evolutionären Wettrüsten immer giftfestere Populationen hervorgebracht hat. Menschen fehlt dieser Schutz: Ende der 1970er-Jahre starb in Oregon ein Mann, nachdem er auf eine Wette hin einen solchen Molch verschluckt hatte.",
+              "hook": "Japanischen Feuerbauchmolchen",
+              "children": [],
+              "source": {
+                "title": "Rauhäutiger Gelbbauchmolch – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Rauh%C3%A4utiger_Gelbbauchmolch"
+              }
+            },
+            {
+              "id": "2026-11-09-0-2-2",
+              "title": "Das älteste Stück von dir",
+              "text": "Damit Linsenzellen durchsichtig werden, bauen sie beim Reifen Zellkern und Mitochondrien ab und füllen sich dicht mit Proteinen, den Kristallinen. Viele davon sind umfunktionierte Enzyme. Bei Enten etwa arbeitet die Lactatdehydrogenase aus dem Stoffwechsel zugleich als Linsenprotein, ein Fall von „Gene Sharing“. Weil die Zellen im Linsenkern nie ersetzt werden, sind ihre Proteine so alt wie man selbst. Dänische Rechtsmediziner zeigten 2008, dass sich mit dem Kohlenstoff-14 aus den Atombombentests das Geburtsjahr eines Toten an seiner Linse ablesen lässt.",
+              "hook": "zu durchsichtigen Linsenzellen",
+              "children": [],
+              "source": {
+                "title": "Kristalline – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kristalline"
+              }
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Turritopsis dohrnii – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Turritopsis_dohrnii"
+      }
+    },
+    {
+      "id": "2026-11-09-1",
+      "category": "geschichte",
+      "title": "Ignaz Semmelweis",
+      "text": "Der ungarische Arzt Ignaz Semmelweis bemerkte 1847 im Wiener Allgemeinen Krankenhaus, dass in der von Ärzten betreuten Geburtsklinik weit mehr Mütter am Kindbettfieber starben als in der Abteilung der Hebammen. Er vermutete „Leichenteilchen“ aus dem Sektionssaal und ließ die Ärzte ihre Hände in Chlorkalklösung waschen. Die Sterblichkeit sank daraufhin von rund zehn auf etwa ein bis zwei Prozent. Viele Kollegen lehnten seine Lehre trotzdem ab. Semmelweis starb 1865 in einer Nervenheilanstalt bei Wien, vermutlich an einer infizierten Wunde.",
+      "children": [
+        {
+          "id": "2026-11-09-1-0",
+          "title": "Tennants Bleichpulver",
+          "text": "Den Chlorkalk, in dem Semmelweis die Hände waschen ließ, gab es eigentlich für die Textilindustrie: Der Schotte Charles Tennant ließ sich 1799 ein Bleichpulver patentieren. Damit wurde Leinen in kurzer Zeit weiß, für das man zuvor wochenlang auf Wiesen in der Sonne gebleicht hatte. Tennants St.-Rollox-Werke in Glasgow wuchsen zu einer der größten Chemiefabriken der Welt. Ihr Schornstein, „Tennant's Stalk“, galt 1842 bei seiner Fertigstellung mit rund 130 Metern als der höchste der Welt.",
+          "hook": "in Chlorkalklösung waschen",
+          "children": [
+            {
+              "id": "2026-11-09-1-0-0",
+              "title": "Weiße Felder bei Haarlem",
+              "text": "Die Rasenbleiche, die Tennants Pulver überflüssig machte, war ein großes Gewerbe. Ihr Zentrum lag im 17. Jahrhundert bei Haarlem in den Niederlanden. Sogar aus Schottland schickte man Leinen dorthin. Es wurde in Lauge und saurer Buttermilch eingeweicht und dann wochenlang auf den Wiesen am Dünenrand ausgelegt. Als Geheimnis galt das weiche, saubere Dünenwasser. Jacob van Ruisdael malte die Haarlemer Bleichfelder mehrfach als lange weiße Streifen in der Landschaft. In vielen deutschen Städten erinnern bis heute Straßennamen wie „An der Bleiche“ an das Handwerk.",
+              "hook": "auf Wiesen in der Sonne gebleicht",
+              "children": []
+            },
+            {
+              "id": "2026-11-09-1-0-1",
+              "title": "Der Mann, der Schlote fällte",
+              "text": "Tennant's Stalk stand nur bis 1922, und auch die meisten anderen britischen Fabrikschlote überlebten das Industriezeitalter nicht. Viele davon legte Fred Dibnah um, ein Schornsteinkletterer aus Bolton. Er schlug am Fuß Ziegel heraus, setzte Holzstützen ein und zündete sie an, bis der Schlot kippte. Eine BBC-Dokumentation machte den Mann mit der Schiebermütze 1979 zum Fernsehstar. Als er 2004 starb, zog seine geliebte Dampfzugmaschine den Sarg durch Bolton.",
+              "hook": "als der höchste der Welt",
+              "children": [],
+              "source": {
+                "title": "Fred Dibnah – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Fred_Dibnah"
+              }
+            },
+            {
+              "id": "2026-11-09-1-0-2",
+              "title": "Eine Insel für Margaret",
+              "text": "Mit dem Vermögen aus dem Bleichpulver stieg die Familie von Charles Tennant bis in den Adel auf. Sein Urururenkel Colin Tennant wurde Lord Glenconner. Er kaufte 1958 für rund 45.000 Pfund die karibische Insel Mustique und schenkte Prinzessin Margaret 1960 zur Hochzeit ein Grundstück darauf. Mustique wurde zum Rückzugsort von Royals und Rockstars wie Mick Jagger. Als Glenconner 2010 starb, ging sein Erbe aber nicht an seine Familie, sondern an seinen langjährigen Diener aus St. Lucia.",
+              "hook": "Der Schotte Charles Tennant",
+              "children": [],
+              "source": {
+                "title": "Colin Tennant, 3. Baron Glenconner – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Colin_Tennant,_3._Baron_Glenconner"
+              }
+            }
+          ],
+          "source": {
+            "title": "Charles Tennant – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Charles_Tennant"
+          }
+        },
+        {
+          "id": "2026-11-09-1-1",
+          "title": "Der Dichter und das Fieber",
+          "text": "Dass Ärzte das Kindbettfieber selbst übertragen, hatte der Arzt Oliver Wendell Holmes schon 1843 in Boston behauptet, also vier Jahre vor Semmelweis. Führende Geburtshelfer wie Charles Meigs aus Philadelphia wiesen das empört zurück. Bekannt war Holmes aber vor allem als Dichter: Schon 1830 hatte sein Gedicht „Old Ironsides“ geholfen, die Fregatte USS Constitution vor der Verschrottung zu bewahren. 1846 schlug er dann in einem Brief das Wort „Anästhesie“ vor.",
+          "hook": "am Kindbettfieber starben",
+          "children": [
+            {
+              "id": "2026-11-09-1-1-0",
+              "title": "Ein Denkmal ohne Namen",
+              "text": "Den Anlass für Holmes’ Wortschöpfung lieferte der Zahnarzt William Morton: Am 16. Oktober 1846 betäubte er im Massachusetts General Hospital einen Patienten mit Äther, während der Chirurg John Collins Warren eine Geschwulst am Hals entfernte. Morton tarnte das Mittel mit Duftstoffen, nannte es „Letheon“ und ließ es patentieren. Danach stritten er, der Chemiker Charles Jackson und andere jahrelang um den Ruhm. Das 1868 errichtete Äther-Denkmal im Bostoner Public Garden nennt deshalb keinen von ihnen.",
+              "hook": "das Wort „Anästhesie“",
+              "children": [],
+              "source": {
+                "title": "William Thomas Green Morton – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/William_Thomas_Green_Morton"
+              }
+            },
+            {
+              "id": "2026-11-09-1-1-1",
+              "title": "Der Wald für ein Schiff",
+              "text": "Die von Holmes gerettete USS Constitution schwimmt bis heute: Das 1797 in Boston vom Stapel gelaufene Schiff ist das älteste noch schwimmende Kriegsschiff, das offiziell im Dienst steht. Ihren Spitznamen erhielt sie 1812, als im Gefecht gegen die britische HMS Guerriere Kanonenkugeln scheinbar von ihrem Rumpf aus Virginia-Eiche abprallten. Für künftige Reparaturen hält die US Navy in Indiana sogar einen eigenen Eichenwald bereit, den „Constitution Grove“.",
+              "hook": "Fregatte USS Constitution",
+              "children": [],
+              "source": {
+                "title": "Constitution (Schiff, 1798) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Constitution_(Schiff,_1798)"
+              }
+            },
+            {
+              "id": "2026-11-09-1-1-2",
+              "title": "Holmes’ Guckkasten",
+              "text": "Bekannt als Dichter, betätigte sich Holmes auch als Erfinder: Um 1861 entwarf er ein einfaches Handstereoskop, durch das man Doppelbilder als räumliche Szenen sah. Der Bostoner Geschäftsmann Joseph Bates stellte es in großer Zahl her. Holmes verzichtete bewusst auf ein Patent, sodass das Gerät billig blieb und zum Massenartikel wurde. Stereokarten von Pyramiden, Schlachtfeldern und den Niagarafällen lagen bald in unzähligen amerikanischen Wohnzimmern, eine Art Fernsehen des 19. Jahrhunderts.",
+              "hook": "vor allem als Dichter",
+              "children": [],
+              "source": {
+                "title": "Stereo Card Viewer – Longfellow House–Washington's Headquarters (U.S. National Park Service)",
+                "url": "https://www.nps.gov/long/blogs/stereo-card-viewer.htm"
+              }
+            }
+          ],
+          "source": {
+            "title": "Oliver Wendell Holmes, Sr. – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr."
+          }
+        },
+        {
+          "id": "2026-11-09-1-2",
+          "title": "Der Narrenturm",
+          "text": "Das Wiener Allgemeine Krankenhaus hatte Kaiser Joseph II. 1784 eröffnet. Gleich daneben ließ er einen runden Bau errichten: den Narrenturm, eines der ersten Gebäude Europas eigens für psychisch Kranke. Die rund 140 Zellen lagen auf fünf Stockwerken rund um einen Innenhof, und viele Insassen waren angekettet. Dass Form und Zahlen des Baus auf Josephs Interesse an Freimaurerei oder Alchemie zurückgehen, ist eine Legende. Heute beherbergt der Turm eine pathologisch-anatomische Sammlung mit Zehntausenden Präparaten.",
+          "hook": "im Wiener Allgemeinen Krankenhaus",
+          "children": [
+            {
+              "id": "2026-11-09-1-2-0",
+              "title": "Der Sarg mit Klappe",
+              "text": "Im selben Jahr, in dem Joseph II. sein Krankenhaus eröffnete, regelte er auch das Begräbnis seiner Untertanen neu: Eine Verordnung von 1784 schrieb vor, Verstorbene in Leinensäcken zu bestatten, um Holz zu sparen. Für den Weg zum Friedhof sollte ein wiederverwendbarer Sarg dienen, dessen Boden sich über dem Grab aufklappen ließ. Nach heftigen Protesten nahm der Kaiser die Vorschrift schon nach wenigen Monaten zurück. Ein solcher Klappsarg ist heute im Wiener Bestattungsmuseum zu sehen.",
+              "hook": "Kaiser Joseph II. 1784 eröffnet",
+              "children": [],
+              "source": {
+                "title": "Sparsarg – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Sparsarg"
+              }
+            },
+            {
+              "id": "2026-11-09-1-2-1",
+              "title": "Wer die Ketten löste",
+              "text": "Ketten waren um 1800 in vielen Anstalten Europas üblich, auch im Pariser Hospital Bicêtre. Als Befreier der Kranken gilt der Arzt Philippe Pinel. Ein Gemälde von Tony Robert-Fleury aus dem Jahr 1876 zeigt ihn, wie er 1795 den Frauen in der Salpêtrière die Fesseln abnehmen lässt. Tatsächlich löste zuerst der Aufseher Jean-Baptiste Pussin, der einst selbst als Patient nach Bicêtre gekommen war, 1797 dort die Ketten. Die Heldenszene mit Pinel verbreitete später vor allem dessen Sohn.",
+              "hook": "viele Insassen waren angekettet",
+              "children": [],
+              "source": {
+                "title": "Jean-Baptiste Pussin – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jean-Baptiste_Pussin"
+              }
+            },
+            {
+              "id": "2026-11-09-1-2-2",
+              "title": "Der Mann im Glasschrank",
+              "text": "Ein Rundbau, in dem alle Zellen auf einen Mittelpunkt ausgerichtet sind, faszinierte auch den englischen Philosophen Jeremy Bentham. Sein Panopticon von 1791 sah einen zentralen Wachturm vor, von dem aus man alle Gefangenen beobachten konnte, ohne dass sie wussten, wann. Zu seinen Lebzeiten wurde es so nie gebaut. Bentham verfügte jedoch, dass sein eigener Körper sichtbar bleiben sollte. Seit 1850 sitzt sein bekleidetes Skelett mit einem Wachskopf in einem Schrank des University College London.",
+              "hook": "einen runden Bau errichten",
+              "children": []
+            }
+          ],
+          "source": {
+            "title": "Narrenturm – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Narrenturm"
+          }
+        }
+      ],
+      "source": {
+        "title": "Ignaz Semmelweis – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Ignaz_Semmelweis"
+      }
+    },
+    {
+      "id": "2026-11-09-2",
+      "category": "orte",
+      "title": "Tristan da Cunha",
+      "text": "Tristan da Cunha im Südatlantik gilt als die abgelegenste dauerhaft bewohnte Insel der Welt: Bis Kapstadt sind es rund 2.800 Kilometer, einen Flughafen gibt es nicht. Die etwa 250 Bewohner leben alle in einem einzigen Ort namens Edinburgh of the Seven Seas und teilen sich nur eine Handvoll Familiennamen. 1961 brach direkt neben dem Dorf ein Vulkan aus, und die gesamte Bevölkerung wurde nach England evakuiert. Die meisten kehrten 1963 freiwillig zurück.",
+      "children": [
+        {
+          "id": "2026-11-09-2-0",
+          "title": "Der Prinz hinter dem Namen",
+          "text": "Der Ortsname Edinburgh of the Seven Seas erinnert an Prinz Alfred, Herzog von Edinburgh. Er besuchte die Insel 1867 als Kapitän der HMS Galatea. 1862 hatten die Griechen den zweiten Sohn Queen Victorias in einer Volksabstimmung mit überwältigender Mehrheit zum König gewählt. Wegen einer Absprache der Großmächte durfte er die Krone aber nicht annehmen. 1868 überlebte er in Sydney ein Pistolenattentat, ab 1893 regierte er als Herzog von Sachsen-Coburg und Gotha.",
+          "hook": "Edinburgh of the Seven Seas",
+          "children": [
+            {
+              "id": "2026-11-09-2-0-0",
+              "title": "Ein Däne für Athen",
+              "text": "Nach der Absprache der Großmächte ging die griechische Krone 1863 an einen 17-jährigen dänischen Prinzen namens Wilhelm, der als Georg I. regierte. Er blieb fast 50 Jahre auf dem Thron, bis ihn 1913 in Thessaloniki ein Attentäter erschoss. Sein Enkel war Prinz Philip, 1921 auf Korfu geboren und als Kleinkind mit seiner Familie ins Exil gebracht. Philip erhielt später ausgerechnet den Titel, den einst der verhinderte König Alfred trug: Herzog von Edinburgh.",
+              "hook": "Wegen einer Absprache der Großmächte",
+              "children": [],
+              "source": {
+                "title": "Georg I. (Griechenland) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Georg_I._(Griechenland)"
+              }
+            },
+            {
+              "id": "2026-11-09-2-0-1",
+              "title": "Die Kugel von Clontarf",
+              "text": "Das Attentat auf Alfred geschah im März 1868 bei einem Picknick am Strand von Clontarf in Sydney: Der Ire Henry James O'Farrell schoss ihm in den Rücken. Der Prinz überlebte, O'Farrell wurde wenige Wochen später gehängt, und in der Kolonie schlug die Empörung in antiirische Stimmung um. Zugleich sammelten die Bürger aus Dankbarkeit für seine Rettung Geld für ein Krankenhaus. Daraus wurde das Royal Prince Alfred Hospital, bis heute eine der größten Kliniken Australiens.",
+              "hook": "in Sydney ein Pistolenattentat",
+              "children": [],
+              "source": {
+                "title": "Henry O'Farrell – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Henry_O%27Farrell"
+              }
+            },
+            {
+              "id": "2026-11-09-2-0-2",
+              "title": "Als Coburg zu Windsor wurde",
+              "text": "Sachsen-Coburg und Gotha hieß damals auch das britische Königshaus, benannt nach Alfreds Vater Albert. Im Ersten Weltkrieg wurde der Name zur Belastung, zumal ab 1917 deutsche Großbomber vom Typ Gotha London angriffen. Im Juli 1917 benannte König Georg V. seine Familie deshalb nach Schloss Windsor um. Kaiser Wilhelm II. soll gespottet haben, er wolle sich nun „Die lustigen Weiber von Sachsen-Coburg-Gotha“ ansehen – eine oft erzählte, aber nicht belegte Anekdote.",
+              "hook": "Herzog von Sachsen-Coburg und Gotha",
+              "children": [],
+              "source": {
+                "title": "Haus Windsor – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Haus_Windsor"
+              }
+            }
+          ],
+          "source": {
+            "title": "Alfred (Sachsen-Coburg und Gotha) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Alfred_(Sachsen-Coburg_und_Gotha)"
+          }
+        },
+        {
+          "id": "2026-11-09-2-1",
+          "title": "Die Insel der Farbenblinden",
+          "text": "Dass sich auf Tristan nur eine Handvoll Familiennamen findet, ist typisch für den sogenannten Gründereffekt: Stammt eine Bevölkerung von wenigen Menschen ab, können seltene Erbanlagen häufig werden. Das berühmteste Beispiel ist das Atoll Pingelap in Mikronesien, auf dem ein Taifun um 1775 nur rund 20 Menschen überleben ließ. Unter ihnen war offenbar ein Träger der Anlage für vollständige Farbenblindheit, die Achromatopsie. Heute sind dort je nach Schätzung etwa vier bis zehn Prozent betroffen. Oliver Sacks beschrieb die Insel in „Die Insel der Farbenblinden“.",
+          "hook": "nur eine Handvoll Familiennamen",
+          "children": [
+            {
+              "id": "2026-11-09-2-1-0",
+              "title": "Der gesichtsblinde Arzt",
+              "text": "Oliver Sacks, der Neurologe hinter „Die Insel der Farbenblinden“, hatte selbst eine Wahrnehmungsstörung: Er war gesichtsblind. Bei dieser Prosopagnosie erkennt man Gesichter kaum wieder, selbst die von engen Freunden. Schätzungen zufolge sind etwa zwei Prozent der Menschen in gewissem Maß betroffen. Sacks orientierte sich deshalb an Stimmen, am Gang oder an Brillen. In einem Essay von 2010 erzählte er, wie er sich mehrmals bei einem großen bärtigen Mann entschuldigte, mit dem er fast zusammengestoßen wäre. Es war jedes Mal sein eigenes Spiegelbild.",
+              "hook": "Oliver Sacks",
+              "children": [],
+              "source": {
+                "title": "Prosopagnosie – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Prosopagnosie"
+              }
+            },
+            {
+              "id": "2026-11-09-2-1-1",
+              "title": "Geld aus Stein",
+              "text": "Pingelap gehört zu den Föderierten Staaten von Mikronesien, ebenso wie die Insel Yap mit ihrem berühmten Steingeld. Rai heißen dort die runden Kalksteinscheiben mit einem Loch in der Mitte. Manche sind mehrere Meter breit und tonnenschwer. Gebrochen wurden sie auf dem rund 400 Kilometer entfernten Palau und in Kanus übers Meer gebracht. Weil die größten Steine kaum zu bewegen sind, wechselt beim Bezahlen nur der Besitzer, nicht der Standort. Einer Überlieferung zufolge gilt sogar ein Stein als Vermögen, der bei der Überfahrt im Meer versank.",
+              "hook": "das Atoll Pingelap in Mikronesien",
+              "children": [],
+              "source": {
+                "title": "Rai (Währung) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Rai_(W%C3%A4hrung)"
+              }
+            },
+            {
+              "id": "2026-11-09-2-1-2",
+              "title": "Sechs Finger in Pennsylvania",
+              "text": "Wie seltene Erbanlagen häufig werden, zeigt sich auch bei den Amischen im Lancaster County in Pennsylvania. Sie stammen überwiegend von wenigen Einwanderern des 18. Jahrhunderts ab. Dort tritt auffällig oft das Ellis-van-Creveld-Syndrom auf: Kleinwuchs mit zusätzlichen Fingern, häufig auch Herzfehlern. Anderswo ist es extrem selten. In den 1960er-Jahren verfolgte der Genetiker Victor McKusick die Fälle bis zu einem einzigen Paar zurück, Samuel King und seiner Frau, die 1744 eingewandert waren. Möglich machten das die sorgfältig geführten Stammbäume der Amischen.",
+              "hook": "seltene Erbanlagen häufig werden",
+              "children": [],
+              "source": {
+                "title": "Ellis-van-Creveld-Syndrom – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ellis-van-Creveld-Syndrom"
+              }
+            }
+          ],
+          "source": {
+            "title": "Pingelap – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Pingelap"
+          }
+        },
+        {
+          "id": "2026-11-09-2-2",
+          "title": "Flughafen ohne Flüge",
+          "text": "Tristan hat bis heute keinen Flughafen. Die britische Nachbarinsel St. Helena, rund 2.400 Kilometer weiter nördlich, bekam ihren erst nach vielen Hindernissen. Für etwa 285 Millionen Pfund wurde dort eine Landebahn gebaut, doch beim Testflug 2016 geriet eine Boeing 737 in gefährliche Scherwinde, und die Eröffnung platzte. Britische Medien spotteten über den „nutzlosesten Flughafen der Welt“. Erst im Oktober 2017 landete der erste Linienflug aus Johannesburg auf der Insel, auf der Napoleon in der Verbannung gestorben war.",
+          "hook": "einen Flughafen gibt es nicht",
+          "children": [
+            {
+              "id": "2026-11-09-2-2-0",
+              "title": "Die giftige Tapete",
+              "text": "Napoleon starb 1821 in Longwood House auf St. Helena, und um seinen Tod ranken sich bis heute Spekulationen. Haaranalysen zeigten erhöhte Arsenwerte, und um 1980 tauchte eine Tapetenprobe aus seinem Haus auf, gefärbt mit dem arsenhaltigen Farbstoff Scheeles Grün. In feuchter Luft können Schimmelpilze daraus giftige Arsendämpfe freisetzen. Die meisten Historiker halten trotzdem Magenkrebs für die Todesursache, also die Krankheit, an der wohl schon sein Vater gestorben war.",
+              "hook": "Napoleon in der Verbannung gestorben",
+              "children": [],
+              "source": {
+                "title": "Napoleon Bonaparte – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Napoleon_Bonaparte"
+              }
+            },
+            {
+              "id": "2026-11-09-2-2-1",
+              "title": "Der Mann, der Fallwinde sah",
+              "text": "Gefährliche Scherwinde bei Start und Landung verstand man erst in den 1970er-Jahren richtig, vor allem dank des Meteorologen Tetsuya „Ted“ Fujita, nach dem auch die Tornado-Skala benannt ist. Nach einem Absturz in New York 1975 beschrieb er den „Downburst“, einen Fallwind, der wie ein Strahl auf den Boden prallt und nach allen Seiten ausfächert. Viele Kollegen zweifelten zunächst. Die sternförmigen Schadensmuster kannte Fujita allerdings schon: 1945 hatte er die Trümmerfelder von Hiroshima und Nagasaki vermessen.",
+              "hook": "gefährliche Scherwinde",
+              "children": [],
+              "source": {
+                "title": "Tetsuya Theodore Fujita – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Tetsuya_Theodore_Fujita"
+              }
+            },
+            {
+              "id": "2026-11-09-2-2-2",
+              "title": "Ein Jet für die Lufthansa",
+              "text": "Die Boeing 737, die auf St. Helena in die Scherwinde geriet, verdankt ihren Start ausgerechnet der Lufthansa. 1965 bestellte die deutsche Airline als Erstkundin 21 Maschinen der ersten Version, noch bevor eine amerikanische Fluggesellschaft unterschrieben hatte. Von dieser 737-100 baute Boeing am Ende nur 30 Exemplare, den Großteil für Lufthansa. Trotz des zögerlichen Starts wurde daraus einer der erfolgreichsten Verkehrsjets der Geschichte, mit inzwischen mehr als 11.000 ausgelieferten Flugzeugen.",
+              "hook": "eine Boeing 737",
+              "children": [],
+              "source": {
+                "title": "Boeing 737 – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Boeing_737"
+              }
+            }
+          ],
+          "source": {
+            "title": "Flughafen St. Helena – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Flughafen_St._Helena"
+          }
+        }
+      ],
+      "source": {
+        "title": "Tristan da Cunha (Insel) – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Tristan_da_Cunha_(Insel)"
+      }
+    }
+  ]
+}
