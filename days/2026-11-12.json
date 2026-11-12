@@ -1,0 +1,440 @@
+{
+  "version": 1,
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T00:37:01.820Z",
+  "topics": [
+    {
+      "id": "2026-11-12-0",
+      "category": "natur",
+      "title": "Der Zitteraal",
+      "text": "Der Zitteraal ist trotz seines Namens kein Aal, sondern gehört zu den Neuwelt-Messerfischen Südamerikas. Den größten Teil seines Körpers nehmen Elektroorgane ein. Die erst 2019 beschriebene Art Electrophorus voltai erzeugt Stromstöße von rund 860 Volt. Alexander von Humboldt berichtete um 1800 aus Venezuela, wie Einheimische Pferde in einen Tümpel trieben, bis die Fische sich erschöpft hatten. Außerdem atmet der Zitteraal Luft und muss regelmäßig auftauchen.",
+      "children": [
+        {
+          "id": "2026-11-12-0-0",
+          "title": "Fische, die sich ausweichen",
+          "text": "Die meisten Neuwelt-Messerfische nutzen schwache elektrische Felder nicht als Waffe, sondern zur Orientierung und Verständigung. Treffen zwei Messerfische der Gattung Eigenmannia mit ähnlicher Entladungsfrequenz aufeinander, verschieben beide ihre Frequenz voneinander weg. Diese „Jamming Avoidance Response“ entschlüsselte vor allem der Neurobiologe Walter Heiligenberg ab den 1970er-Jahren. Sie gilt als einer der am besten verstandenen Verhaltensschaltkreise bei Wirbeltieren.",
+          "hook": "Neuwelt-Messerfischen Südamerikas",
+          "children": [
+            {
+              "id": "2026-11-12-0-0-0",
+              "title": "Das Rätsel von Flug 427",
+              "text": "Walter Heiligenberg kam im September 1994 ums Leben, als USAir-Flug 427 im Anflug auf Pittsburgh plötzlich abkippte. Alle 132 Menschen an Bord starben. Die US-Unfallermittler brauchten rund viereinhalb Jahre, bis sie die Ursache im Seitenruder der Boeing 737 fanden: Ein Hydraulikventil konnte klemmen und das Ruder in die Gegenrichtung dessen auslenken, was der Pilot befahl. Daraufhin wurde die Rudersteuerung tausender Boeing 737 umgebaut.",
+              "hook": "Walter Heiligenberg",
+              "children": [],
+              "source": {
+                "title": "USAir-Flug 427 – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/USAir-Flug_427"
+              }
+            },
+            {
+              "id": "2026-11-12-0-0-1",
+              "title": "Augen, die verschwinden",
+              "text": "Die Gattung Eigenmannia ehrt Carl H. Eigenmann, der als Junge aus Baden in die USA auswanderte und dort zu einem führenden Fischforscher wurde. Er beschäftigte sich auch mit blinden Höhlenfischen. Ein Paradebeispiel ist der Mexikanische Salmler Astyanax mexicanus: Dieselbe Art lebt in Flüssen mit Augen und in Höhlen ohne. Die Höhlenfische legen als Embryonen zunächst Augen an, die dann wieder verkümmern. Außerdem schlafen sie drastisch weniger als ihre Verwandten an der Oberfläche.",
+              "hook": "Gattung Eigenmannia",
+              "children": [],
+              "source": {
+                "title": "Astyanax mexicanus – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Astyanax_mexicanus"
+              }
+            },
+            {
+              "id": "2026-11-12-0-0-2",
+              "title": "Hedy Lamarrs Torpedo-Patent",
+              "text": "Durch Frequenzwechsel Störungen zu entgehen, darauf beruht auch ein Patent, das die aus Wien stammende Schauspielerin Hedy Lamarr 1942 zusammen mit dem Komponisten George Antheil erhielt. Funkgesteuerte Torpedos sollten so vor feindlichen Störsendern geschützt werden, indem Sender und Empfänger im Gleichtakt zwischen Frequenzen springen. Die US-Marine setzte die Idee im Krieg nicht ein. Für den Gleichlauf war eine Mechanik wie bei selbstspielenden Klavieren vorgesehen, mit 88 Frequenzen, so vielen, wie ein Klavier Tasten hat.",
+              "hook": "Jamming Avoidance Response",
+              "children": []
+            }
+          ],
+          "source": {
+            "title": "Jamming avoidance response – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jamming_avoidance_response"
+          }
+        },
+        {
+          "id": "2026-11-12-0-1",
+          "title": "Die Batterie nach Fischvorbild",
+          "text": "Der Artname Electrophorus voltai ehrt Alessandro Volta, und das passt: Elektrische Fische inspirierten seine berühmteste Erfindung. Im Jahr 1800 beschrieb Volta in einem Brief an Joseph Banks, den Präsidenten der Royal Society, eine Säule aus gestapelten Zink- und Kupfer- oder Silberscheiben, getrennt durch salzwassergetränkte Pappe. Er nannte sie ein künstliches elektrisches Organ, angelehnt an den Zitterrochen. Es war die erste Batterie, die dauerhaft Strom lieferte.",
+          "hook": "Electrophorus voltai",
+          "children": [
+            {
+              "id": "2026-11-12-0-1-0",
+              "title": "Brotfrucht für die Bounty",
+              "text": "Joseph Banks, der Empfänger von Voltas Brief, leitete die Royal Society von 1778 bis 1820 und damit länger als jeder andere Präsident. Bekannt wurde er als junger Naturforscher auf James Cooks erster Weltumsegelung, deren reiche Pflanzenfunde der Botany Bay ihren Namen gaben. Später setzte er sich dafür ein, Brotfruchtbäume von Tahiti in die Karibik zu bringen, als billige Nahrung für versklavte Menschen. Kommandant dieser Expedition war William Bligh auf der Bounty, und sie endete 1789 in der berühmtesten Meuterei der Seefahrt.",
+              "hook": "Brief an Joseph Banks",
+              "children": [],
+              "source": {
+                "title": "Bounty – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bounty"
+              }
+            },
+            {
+              "id": "2026-11-12-0-1-1",
+              "title": "Der Fisch im Torpedo",
+              "text": "Der Zitterrochen, Voltas Vorbild, heißt wissenschaftlich Torpedo, nach dem lateinischen torpere für „betäubt sein“. Schon die Antike nutzte seine Schläge als Medizin: Scribonius Largus, Arzt am Hof von Kaiser Claudius, empfahl im 1. Jahrhundert, gegen Kopfschmerzen einen lebenden Rochen auf den Kopf zu legen. Anfang des 19. Jahrhunderts übernahm der Erfinder Robert Fulton den Namen für seine Sprengladungen unter Wasser. Die Waffe, die Schiffe versenkt, ist also nach einem Rochen benannt.",
+              "hook": "angelehnt an den Zitterrochen",
+              "children": [],
+              "source": {
+                "title": "Torpedo (Gattung) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Torpedo_(Gattung)"
+              }
+            },
+            {
+              "id": "2026-11-12-0-1-2",
+              "title": "Der Streit um die Frösche",
+              "text": "Alessandro Volta baute seine Säule auch, um einen Gelehrtenstreit zu entscheiden: Luigi Galvani in Bologna hatte Froschschenkel zucken sehen und daraus auf eine „tierische Elektrizität“ geschlossen. Volta hielt dagegen, der Strom stamme aus den Metallen selbst. Galvanis Neffe Giovanni Aldini setzte 1803 in London den Leichnam des hingerichteten George Forster unter Strom, ausgerechnet mit Voltas Säule. Zeitgenossen berichteten, ein Auge habe sich geöffnet. Die Vorführung gilt als mögliche Anregung für Mary Shelleys „Frankenstein“.",
+              "hook": "ehrt Alessandro Volta",
+              "children": [],
+              "source": {
+                "title": "Galvanismus – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Galvanismus"
+              }
+            }
+          ],
+          "source": {
+            "title": "Voltasche Säule – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Voltasche_S%C3%A4ule"
+          }
+        },
+        {
+          "id": "2026-11-12-0-2",
+          "title": "Der Riese mit Panzerschuppen",
+          "text": "Wie der Zitteraal atmet auch der Arapaima Luft, und zwar so zwingend, dass er ertrinken kann, wenn er nicht regelmäßig auftaucht. Der Fisch aus dem Amazonasbecken gehört mit bis zu rund drei Metern Länge zu den größten Süßwasserfischen der Welt. Seine Schuppen haben eine harte mineralisierte Außenschicht über flexiblen Kollagenlagen; Forscher der University of California, San Diego zeigten 2012, dass Piranhazähne daran scheitern. In Brasilien heißt er Pirarucu.",
+          "hook": "atmet der Zitteraal Luft",
+          "children": [
+            {
+              "id": "2026-11-12-0-2-0",
+              "title": "Piranhas und der Präsident",
+              "text": "An den Schuppen des Arapaima scheitern ausgerechnet Piranhas, deren Gebiss sonst als Inbegriff der Schärfe gilt. Ihre dreieckigen Zähne greifen ineinander wie die Zähne einer Säge. Sie werden auch nicht einzeln ersetzt, sondern immer eine ganze Kieferhälfte auf einmal. Ihren Ruf als Killer verdanken sie unter anderem Theodore Roosevelt, der auf seiner Südamerika-Expedition 1913/14 sah, wie ein Schwarm eine Kuh zerlegte. Später hieß es, Einheimische hätten die Fische vorher in einem abgesperrten Flussarm hungern lassen, als Schauspiel für den prominenten Gast.",
+              "hook": "dass Piranhazähne daran scheitern",
+              "children": [],
+              "source": {
+                "title": "Piranha fish swap old teeth for new simultaneously – University of Washington",
+                "url": "https://www.washington.edu/news/2019/10/15/piranha-fish-swap-old-teeth-for-new-simultaneously/"
+              }
+            },
+            {
+              "id": "2026-11-12-0-2-1",
+              "title": "Das verdrehte Sperrholz",
+              "text": "Die flexiblen Kollagenlagen im Schuppen des Arapaima liegen nicht parallel. Jede Schicht ist gegen die nächste ein Stück verdreht, wie die Stufen einer Wendeltreppe. Der französische Biologe Yves Bouligand beschrieb dieses Muster ab 1965 an Krebspanzern, heute trägt es seinen Namen. Es steckt auch in der Schlagkeule des Fangschreckenkrebses, die Tausende Hiebe übersteht. Und es lässt manche Skarabäen schimmern: Der Physiker Albert Michelson bemerkte 1911, dass ihre Panzer zirkular polarisiertes Licht zurückwerfen. Mit bloßem Auge sieht man diesen Effekt nicht.",
+              "hook": "über flexiblen Kollagenlagen",
+              "children": [],
+              "source": {
+                "title": "Bouligand structure – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bouligand_structure"
+              }
+            },
+            {
+              "id": "2026-11-12-0-2-2",
+              "title": "Der rote Fisch im Käse",
+              "text": "Der Name Pirarucu stammt aus der Tupi-Sprache und bedeutet etwa „roter Fisch“, wegen der rötlichen Schuppen am Schwanz. Der zweite Teil des Wortes steckt auch in Urucum, dem Namen des Strauchs Bixa orellana, dessen Samen von einer leuchtend roten Schicht umhüllt sind. Indigene Völker Amazoniens bemalen sich damit seit Jahrhunderten Haut und Haar. Unter dem Namen Annatto ist derselbe Farbstoff als E160b zugelassen und färbt heute den englischen Red Leicester orange.",
+              "hook": "In Brasilien heißt er Pirarucu.",
+              "children": [],
+              "source": {
+                "title": "Annatto – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Annatto"
+              }
+            }
+          ],
+          "source": {
+            "title": "Arapaima – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Arapaima"
+          }
+        }
+      ],
+      "source": {
+        "title": "Zitteraale – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Zitteraale"
+      }
+    },
+    {
+      "id": "2026-11-12-1",
+      "category": "geschichte",
+      "title": "Die Piratin Ching Shih",
+      "text": "Zheng Yi Sao, im Westen meist Ching Shih genannt, übernahm um 1807 nach dem Tod ihres Mannes dessen Piratenflotte im Südchinesischen Meer. Gemeinsam mit ihrem Stiefsohn und späteren Ehemann Zhang Bao befehligte sie Schätzungen zufolge Zehntausende Piraten auf Hunderten Dschunken. Ein strenger Kodex, der ihrer Flotte zugeschrieben wird, bestrafte Ungehorsam mit dem Tod. 1810 handelte sie mit den Qing-Behörden eine Amnestie aus und starb 1844 in Guangzhou.",
+      "children": [
+        {
+          "id": "2026-11-12-1-0",
+          "title": "Schotten nach Chinas Art",
+          "text": "Die Dschunken, mit denen Ching Shihs Flotte segelte, waren europäischen Schiffen lange in einem Punkt voraus: Querschotten teilten ihren Rumpf in wasserdichte Abteilungen. Benjamin Franklin empfahl 1787 in einem Brief, Postschiffe nach diesem chinesischen Vorbild zu bauen. Auch die mit Bambuslatten versteiften Segel ließen sich schnell reffen. Wie seetüchtig die Bauweise war, bewies die „Keying“: Sie brach Ende 1846 in Hongkong auf und erreichte 1847 New York und 1848 London.",
+          "hook": "auf Hunderten Dschunken",
+          "children": [
+            {
+              "id": "2026-11-12-1-0-0",
+              "title": "Franklins Golfstrom-Karte",
+              "text": "Benjamin Franklin kannte Postschiffe aus eigener Praxis: Als Postmeister der Kolonien wunderte er sich, warum britische Postschiffe nach Amerika rund zwei Wochen länger brauchten als Handelsschiffe. Sein Cousin Timothy Folger, ein Walfangkapitän aus Nantucket, kannte den Grund: Die Briten segelten gegen den Golfstrom an. Um 1770 ließ Franklin die Strömung auf einer Karte festhalten. Die Postkapitäne ignorierten sie, und Originaldrucke galten lange als verschollen, bis um 1980 Exemplare in Paris auftauchten.",
+              "hook": "Benjamin Franklin empfahl 1787",
+              "children": []
+            },
+            {
+              "id": "2026-11-12-1-0-1",
+              "title": "Der falsche Mandarin",
+              "text": "In London machte die „Keying“ an der Themse Station, und Besucher in großer Zahl, darunter auch Queen Victoria, besichtigten die Dschunke. An Bord präsentierte man ihnen einen Chinesen namens Hesing als Mandarin. 1851 tauchte er bei der Eröffnung der Weltausstellung im Kristallpalast auf, wurde für einen Würdenträger gehalten und schritt im Festzug zwischen den Diplomaten mit. Wer er wirklich war, ist bis heute unklar, doch auf Henry Selous’ Gemälde der Eröffnung ist er wohl verewigt: Ein zeitgenössischer Bildschlüssel nennt ihn „Hee Sing“.",
+              "hook": "1848 London",
+              "children": [],
+              "source": {
+                "title": "The Opening of the Great Exhibition – Henry Courtney Selous – Victoria and Albert Museum",
+                "url": "https://collections.vam.ac.uk/item/O8820/the-opening-of-the-great-oil-painting-selous-henry-courtney"
+              }
+            },
+            {
+              "id": "2026-11-12-1-0-2",
+              "title": "Dschunkensegel im Atlantik",
+              "text": "Das Prinzip der mit Latten versteiften Dschunkensegel übernahm der Brite Herbert „Blondie“ Hasler für sein Boot „Jester“. Das Rigg ließ sich aus der geschützten Luke heraus bedienen, ideal für Einhandsegler. Hasler hatte die erste Einhand-Transatlantikregatta 1960 mit angestoßen und wurde darin Zweiter hinter Francis Chichester. Zuvor war der Tüftler Kommandosoldat: 1942 führte er einen Kanu-Angriff auf Schiffe im Hafen von Bordeaux, der als „Cockleshell Heroes“ berühmt wurde.",
+              "hook": "mit Bambuslatten versteiften Segel",
+              "children": [],
+              "source": {
+                "title": "Herbert Hasler – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Herbert_Hasler"
+              }
+            }
+          ],
+          "source": {
+            "title": "Dschunke – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Dschunke"
+          }
+        },
+        {
+          "id": "2026-11-12-1-1",
+          "title": "Kantons goldener Käfig",
+          "text": "Guangzhou, wo Ching Shih ihre letzten Jahrzehnte verbrachte, war damals Chinas einziges Tor für den Seehandel mit dem Westen. Ab 1757 durften Europäer nur hier Handel treiben, ab 1760 ausschließlich über die Cohong, eine Gilde lizenzierter chinesischer Kaufleute, und nur von den Dreizehn Faktoreien am Perlfluss aus. Einer dieser Kaufleute, Wu Bingjian, im Westen Howqua genannt, galt als einer der reichsten Männer seiner Zeit. Erst der Vertrag von Nanking beendete 1842 nach dem Ersten Opiumkrieg dieses Kanton-System.",
+          "hook": "starb 1844 in Guangzhou",
+          "children": [
+            {
+              "id": "2026-11-12-1-1-0",
+              "title": "Kantons Silberkönig",
+              "text": "Wu Bingjian, im Westen Howqua genannt, schätzte sein Vermögen 1834 auf rund 26 Millionen Silberdollar. Das war für die damalige Zeit eine gewaltige Summe. Einen Teil davon vertraute er dem jungen Amerikaner John Murray Forbes an, der das Geld in den USA anlegte. Forbes wurde später einer der großen Eisenbahninvestoren des Landes. So floss Geld eines chinesischen Kaufmanns aus Kanton am Ende in die Schienen, mit denen der amerikanische Westen erschlossen wurde.",
+              "hook": "Wu Bingjian, im Westen Howqua genannt",
+              "children": [],
+              "source": {
+                "title": "Howqua – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Howqua"
+              }
+            },
+            {
+              "id": "2026-11-12-1-1-1",
+              "title": "Die Insel aus Sand",
+              "text": "Die Dreizehn Faktoreien am Perlfluss gibt es nicht mehr: Zu Beginn des Zweiten Opiumkriegs brannten sie im Dezember 1856 nieder. Danach zogen die Ausländer auf Shamian, eine Sandbank im Fluss. Sie wurde aufgeschüttet, durch einen Kanal vom Festland getrennt und zwischen Briten und Franzosen aufgeteilt. Die Villen, Banken und Konsulate von damals stehen bis heute. Wo früher fremde Kaufleute abgeschottet lebten, lassen sich heute Brautpaare fotografieren.",
+              "hook": "den Dreizehn Faktoreien am Perlfluss",
+              "children": [],
+              "source": {
+                "title": "Shamian – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Shamian"
+              }
+            },
+            {
+              "id": "2026-11-12-1-1-2",
+              "title": "Hongkong, „auf ewig“",
+              "text": "Unterzeichnet wurde der Vertrag von Nanking im August 1842 an Bord der HMS Cornwallis, eines britischen Kriegsschiffs auf dem Jangtse. Darin trat China die Insel Hongkong „auf ewig“ an Großbritannien ab. 1898 kamen die New Territories hinzu, allerdings nur als Pacht für 99 Jahre. Ohne dieses Hinterland war die Kolonie aber kaum lebensfähig. Deshalb gab Großbritannien 1997 nicht nur das gepachtete Land zurück, sondern auch die Insel, die eigentlich für immer abgetreten worden war.",
+              "hook": "Erst der Vertrag von Nanking",
+              "children": [],
+              "source": {
+                "title": "Vertrag von Nanking – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Vertrag_von_Nanking"
+              }
+            }
+          ],
+          "source": {
+            "title": "Kanton-System (China) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Kanton-System_(China)"
+          }
+        },
+        {
+          "id": "2026-11-12-1-2",
+          "title": "Wer war Captain Johnson?",
+          "text": "Nicht nur Ching Shihs Flotte hatte Regeln: Auch Piratencrews in der Karibik einigten sich auf schriftliche „Artikel“, die Beuteanteile, Disziplin und sogar Entschädigungen für verlorene Gliedmaßen festlegten. Die bekanntesten Fassungen, etwa die von Bartholomew Roberts, stammen aus dem Buch „A General History of the Pyrates“ von 1724, verfasst von einem Captain Charles Johnson. Wer sich hinter dem Namen verbirgt, ist ungeklärt. 1932 schrieb John Robert Moore das Werk Daniel Defoe zu, 1988 stellten P. N. Furbank und W. R. Owens diese Zuschreibung infrage.",
+          "hook": "Ein strenger Kodex",
+          "children": [
+            {
+              "id": "2026-11-12-1-2-0",
+              "title": "Black Barts letzte Fahrt",
+              "text": "Die Artikel von Bartholomew Roberts verboten unter anderem Karten- und Würfelspiele um Geld an Bord. Der Waliser, eigentlich John Roberts, wurde erst mit Ende dreißig Pirat: 1719 kaperten Piraten um Howell Davis vor Westafrika das Sklavenschiff „Princess“, auf dem er Dritter Maat war. In rund drei Jahren soll er über 400 Schiffe erbeutet haben. Im Februar 1722 tötete ihn vor Kap Lopez im heutigen Gabun eine Kartätschenladung der HMS Swallow. Seine Crew warf ihn, wie er es gewünscht hatte, in voller Prunkkleidung über Bord. Seine Leiche wurde nie gefunden.",
+              "hook": "Bartholomew Roberts",
+              "children": [],
+              "source": {
+                "title": "Bartholomew Roberts – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bartholomew_Roberts"
+              }
+            },
+            {
+              "id": "2026-11-12-1-2-1",
+              "title": "Preisliste für Finger",
+              "text": "Entschädigungen für verlorene Gliedmaßen gab es in England schon gut 1100 Jahre vor den Piraten. Das Gesetzbuch des angelsächsischen Königs Æthelberht von Kent, entstanden um 600, besteht großenteils aus einer Liste von Bußen: Für ein Auge, einzelne Finger, Zähne und Zehen war jeweils ein eigener Betrag in Schillingen festgelegt. Erhalten ist es nur in einer Abschrift im Textus Roffensis aus dem 12. Jahrhundert. Ausgerechnet dieser Tarif für Körperverletzungen gilt als einer der ältesten überlieferten Texte in englischer Sprache.",
+              "hook": "Entschädigungen für verlorene Gliedmaßen",
+              "children": [],
+              "source": {
+                "title": "Law of Æthelberht – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Law_of_%C3%86thelberht"
+              }
+            },
+            {
+              "id": "2026-11-12-1-2-2",
+              "title": "Defoe am Pranger",
+              "text": "Dass man Daniel Defoe ein anonymes Buch zutraute, liegt nahe: Er veröffentlichte fast alles ohne seinen Namen. 1703 brachte ihn eine solche Schrift an den Pranger. Seine anonyme Satire „The Shortest-Way with the Dissenters“ forderte scheinbar ernsthaft die Verfolgung religiöser Abweichler, und viele Leser nahmen sie wörtlich. Der Überlieferung nach bewarf ihn die Menge dort mit Blumen statt mit Unrat. Auch sein berühmtestes Buch erschien 1719 ohne seinen Namen: „Robinson Crusoe“ gab sich als Bericht, den der Schiffbrüchige selbst geschrieben habe.",
+              "hook": "das Werk Daniel Defoe zu",
+              "children": [],
+              "source": {
+                "title": "Das kürzeste Verfahren – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Das_k%C3%BCrzeste_Verfahren"
+              }
+            }
+          ],
+          "source": {
+            "title": "Charles Johnson (Autor) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Charles_Johnson_(Autor)"
+          }
+        }
+      ],
+      "source": {
+        "title": "Zheng Yisao – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Zheng_Yisao"
+      }
+    },
+    {
+      "id": "2026-11-12-2",
+      "category": "kultur",
+      "title": "Surströmming",
+      "text": "Surströmming ist fermentierter Ostseehering aus Nordschweden, der in schwach gesalzener Lake gärt und in der Dose weiterreift. Die Gärgase können die Dosen sichtbar aufwölben, weshalb manche Fluggesellschaften sie nicht an Bord lassen. Die Saison beginnt traditionell am dritten Donnerstag im August, ein Termin, der auf eine staatliche Verkaufsregel des 20. Jahrhunderts zurückgeht. Gegessen wird er meist in dünnem Tunnbröd mit Kartoffeln und Zwiebeln, am liebsten im Freien.",
+      "children": [
+        {
+          "id": "2026-11-12-2-0",
+          "title": "Kerners Wurstgift",
+          "text": "Was beim Surströmming gewollt ist, gilt bei gewöhnlichen Konserven als Alarmsignal: Eine aufgewölbte Dose kann auf Clostridium botulinum hinweisen. Der schwäbische Arzt und Dichter Justinus Kerner beschrieb in den 1820er-Jahren Vergiftungen durch verdorbene Würste. Daher stammt der Name Botulismus, von lateinisch botulus für Wurst. Den Erreger fand 1895 der Belgier Émile van Ermengem, nachdem im Dorf Ellezelles Musiker nach dem Verzehr von rohem Schinken erkrankt waren. Kerner vermutete bereits, dass das Gift in winzigen Mengen als Heilmittel taugen könnte.",
+          "hook": "die Dosen sichtbar aufwölben",
+          "children": [
+            {
+              "id": "2026-11-12-2-0-0",
+              "title": "Vom Wurstgift zum Botox",
+              "text": "Kerners Ahnung, das Wurstgift könne als Heilmittel taugen, bestätigte sich erst rund 150 Jahre später. Ab den späten 1970er-Jahren spritzte der Augenarzt Alan Scott aus San Francisco winzige Dosen Botulinumtoxin in Augenmuskeln, um Schielen zu behandeln. Die kanadische Augenärztin Jean Carruthers bemerkte dann, dass sich bei behandelten Patienten die Zornesfalten glätteten. So wurde einer der giftigsten bekannten Stoffe zum Schönheitsmittel: Botox.",
+              "hook": "als Heilmittel taugen könnte",
+              "children": [],
+              "source": {
+                "title": "Botulinumtoxin – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Botulinumtoxin"
+              }
+            },
+            {
+              "id": "2026-11-12-2-0-1",
+              "title": "Kerners Tintenkleckse",
+              "text": "Der Arzt und Dichter Justinus Kerner hatte eine eigenwillige Leidenschaft: Er ließ Tinte auf gefaltetem Papier zerlaufen und deutete die symmetrischen Kleckse. Zu den Figuren schrieb er Verse und sah in ihnen Gestalten aus einer Geisterwelt. Der Band „Kleksographien“ erschien 1890, fast drei Jahrzehnte nach seinem Tod. 1921 veröffentlichte der Schweizer Psychiater Hermann Rorschach seinen berühmten Klecks-Test. Ob er Kerner kannte, ist unklar, doch schon als Schüler trug er den Spitznamen „Klex“.",
+              "hook": "Arzt und Dichter Justinus Kerner",
+              "children": [],
+              "source": {
+                "title": "Klecksographie – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Klecksographie"
+              }
+            },
+            {
+              "id": "2026-11-12-2-0-2",
+              "title": "Die Dose ohne Öffner",
+              "text": "Dass Essen in einer Dose überhaupt jahrelang hält, geht auf ein Preisausschreiben der französischen Regierung zurück. Der Pariser Koch Nicolas Appert erhitzte Speisen in verschlossenen Glasflaschen und erhielt dafür 1810 eine Prämie von 12.000 Francs. Warum das funktionierte, erklärte erst Jahrzehnte später Louis Pasteur. Im selben Jahr ließ sich in England Peter Durand die Blechdose patentieren. Den Dosenöffner gab es erst rund ein halbes Jahrhundert später, bis dahin nahm man Hammer und Meißel.",
+              "hook": "aufgewölbte Dose",
+              "children": [],
+              "source": {
+                "title": "Nicolas Appert – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Nicolas_Appert"
+              }
+            }
+          ],
+          "source": {
+            "title": "Botulismus – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Botulismus"
+          }
+        },
+        {
+          "id": "2026-11-12-2-1",
+          "title": "Silber der Hanse",
+          "text": "Hering aus der Ostsee heißt in Schweden Strömming und ist kleiner und magerer als seine Verwandten aus der salzigeren Nordsee. Im Mittelalter machten riesige Heringsschwärme im Öresund die Schonischen Märkte bei Skanör und Falsterbo zu einem der wichtigsten Handelsplätze Nordeuropas. Eingesalzen wurde der Fang vor allem mit Salz aus Lüneburg, das über die Alte Salzstraße nach Lübeck gelangte. So wurde der Hering zu einer Säule der Hanse, bis die Schwärme im späten 16. Jahrhundert ausblieben.",
+          "hook": "fermentierter Ostseehering aus Nordschweden",
+          "children": [
+            {
+              "id": "2026-11-12-2-1-0",
+              "title": "Die Sau, die Salz fand",
+              "text": "Das Salz aus Lüneburg stammte aus einem Salzstock, der bis dicht unter die Stadt reicht und aus dem salzhaltiges Wasser, die Sole, nach oben drang. Urkundlich belegt ist die Saline seit 956. Einer Legende nach entdeckte ein Jäger die Quelle, als er eine Wildsau mit weiß verkrusteten Borsten sah. Ein angeblicher Knochen dieser „Salzsau“ wird bis heute im Rathaus aufbewahrt. Nach über tausend Jahren Salzgewinnung sacken Teile der Altstadt noch immer ab, und die Saline schloss erst 1980.",
+              "hook": "Salz aus Lüneburg",
+              "children": [],
+              "source": {
+                "title": "Lüneburger Saline – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/L%C3%BCneburger_Saline"
+              }
+            },
+            {
+              "id": "2026-11-12-2-1-1",
+              "title": "Falsterbos zweiter Schwarm",
+              "text": "Skanör und Falsterbo liegen auf einer schmalen Landzunge an der Südwestspitze Schwedens. Genau diese Lage macht sie heute zu einem ganz anderen Treffpunkt. Im Herbst sammeln sich dort Zugvögel aus Skandinavien, um die Ostsee an einer möglichst kurzen Stelle zu überqueren. Das gilt besonders für Greifvögel wie Wespenbussarde, die über offenem Wasser kaum Aufwind finden. Seit Jahrzehnten zählen Ornithologen den Durchzug, in einem Herbst oft Millionen Vögel. Wo einst Heringsschwärme Kaufleute anlockten, stehen heute Ferngläser in Reihen.",
+              "hook": "bei Skanör und Falsterbo",
+              "children": [],
+              "source": {
+                "title": "Falsterbo Fågelstation – Zugvogelzählung (Methodik)",
+                "url": "https://falsterbofagelstation.se/strack/metodik/?lang=en"
+              }
+            },
+            {
+              "id": "2026-11-12-2-1-2",
+              "title": "Amsterdam auf Gräten",
+              "text": "Als die Schwärme im Öresund ausblieben, profitierten vor allem die Niederländer, deren Flotten längst in der Nordsee fischten. Ihr Vorteil war das Kaken: Kiemen und ein Teil der Eingeweide wurden direkt an Bord entfernt, die Bauchspeicheldrüse blieb im Fisch und half beim Reifen. Der Legende nach erfand Willem Beukelszoon aus Biervliet diese Methode im 14. Jahrhundert, tatsächlich ist sie wohl älter. Der Heringshandel brachte so viel Wohlstand, dass ein Sprichwort sagt, Amsterdam sei auf Heringsgräten gebaut.",
+              "hook": "bis die Schwärme im späten",
+              "children": [],
+              "source": {
+                "title": "Kehlen (Fischerei) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kehlen_(Fischerei)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Schonische Messe – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Schonische_Messe"
+          }
+        },
+        {
+          "id": "2026-11-12-2-2",
+          "title": "Weinstart am Donnerstag",
+          "text": "Einen festen dritten Donnerstag kennt auch Frankreich: Seit 1985 darf der Beaujolais Nouveau erst am dritten Donnerstag im November in den Verkauf gehen. Der junge Rotwein aus der Rebsorte Gamay kommt nur wenige Wochen nach der Lese auf den Markt. Meist entsteht er per Kohlensäuremaischung, bei der ganze Trauben unter Kohlendioxid von innen zu gären beginnen. Mit dem Werbeslogan „Le Beaujolais Nouveau est arrivé“ machten Händler wie Georges Duboeuf den Termin in den 1970er- und 1980er-Jahren zu einem weltweiten Ereignis.",
+          "hook": "am dritten Donnerstag im August",
+          "children": [
+            {
+              "id": "2026-11-12-2-2-0",
+              "title": "Ein Herzog gegen Gamay",
+              "text": "Die Rebsorte Gamay hatte einst einen mächtigen Feind: 1395 verbannte Herzog Philipp der Kühne von Burgund sie per Erlass aus seinen Weinbergen. In der Verordnung nannte er sie einen „sehr schlechten und sehr unredlichen“ Rebstock, wohl auch, weil sie reichlich trug und den edleren Pinot Noir zu verdrängen drohte. Heimisch blieb die Sorte vor allem weiter südlich, auf den Granitböden des Beaujolais. Ihre heutige Heimat verdankt sie also zum Teil einem mittelalterlichen Verbot.",
+              "hook": "aus der Rebsorte Gamay",
+              "children": [],
+              "source": {
+                "title": "Gamay – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gamay"
+              }
+            },
+            {
+              "id": "2026-11-12-2-2-1",
+              "title": "Trauben, die selbst gären",
+              "text": "Die Kohlensäuremaischung wurde eher zufällig erforscht: In den 1930er-Jahren lagerte der französische Önologe Michel Flanzy Trauben unter Kohlendioxid, um sie länger frisch zu halten. Statt haltbarer Früchte bekam er Beeren, in denen die Zellen ohne Hefe selbst Zucker zu Alkohol umsetzten. Dieser Stoffwechsel liefert nur rund zwei Prozent Alkohol, baut aber Säure ab und verändert die Aromen. Am Ende stand also kein Mittel gegen faulende Trauben, sondern eine neue Art, Wein zu machen.",
+              "hook": "per Kohlensäuremaischung",
+              "children": [],
+              "source": {
+                "title": "Kohlensäuremaischung – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kohlens%C3%A4uremaischung"
+              }
+            },
+            {
+              "id": "2026-11-12-2-2-2",
+              "title": "Wettrennen nach London",
+              "text": "Der Slogan „Le Beaujolais Nouveau est arrivé“ löste in Großbritannien einen regelrechten Wettlauf aus: Beim „Beaujolais Run“ wollten Teams ab den 1970er-Jahren die ersten Flaschen möglichst schnell nach London bringen. Als Auslöser gilt eine Wette aus dem Jahr 1970 zwischen dem Weinhändler Joseph Berkmann und dem Journalisten Clement Freud. Bald waren Oldtimer, Flugzeuge und Teams unterwegs, die für wohltätige Zwecke fuhren. Freud, später Parlamentsabgeordneter, war ein Enkel von Sigmund Freud.",
+              "hook": "Le Beaujolais Nouveau est arrivé",
+              "children": [],
+              "source": {
+                "title": "Beaujolais run – Decanter",
+                "url": "https://www.decanter.com/features/beaujolais-run-246408/"
+              }
+            }
+          ],
+          "source": {
+            "title": "Beaujolais nouveau – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Beaujolais_nouveau"
+          }
+        }
+      ],
+      "source": {
+        "title": "Surströmming – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Surstr%C3%B6mming"
+      }
+    }
+  ]
+}
