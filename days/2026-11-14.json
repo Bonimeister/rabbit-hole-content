@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T00:37:41.061Z",
+  "topics": [
+    {
+      "id": "2026-11-14-0",
+      "category": "technik",
+      "title": "Bagger 288",
+      "text": "Der Schaufelradbagger 288 wurde von Krupp gebaut und ging 1978 im rheinischen Braunkohlerevier in Betrieb. Er ist rund 220 Meter lang, etwa 95 Meter hoch und wiegt rund 13.000 Tonnen. Damit zählt er zu den größten Landfahrzeugen der Welt, und sein Schaufelrad misst mehr als 21 Meter im Durchmesser. Im Jahr 2001 zog er vom Tagebau Hambach in den Tagebau Garzweiler um. Auf der rund dreiwöchigen Fahrt über etwa 22 Kilometer überquerte er eine Autobahn, eine Bahnstrecke und den Fluss Erft.",
+      "children": [
+        {
+          "id": "2026-11-14-0-0",
+          "title": "Der Dom, der weichen musste",
+          "text": "Im Tagebau Garzweiler, wo der Bagger seit 2001 arbeitet, verschwanden ganze Dörfer samt ihren Kirchen. Am bekanntesten ist Immerath: Die neuromanische Kirche St. Lambertus hieß wegen ihrer Doppeltürme „Immerather Dom“ und wurde im Januar 2018 abgerissen. Fünf Jahre später räumte die Polizei den Weiler Lützerath, der zum Symbol der Klimabewegung geworden war. Weil der Kohleausstieg im Rheinischen Revier auf 2030 vorgezogen wurde, bleiben dagegen fünf andere Dörfer am Tagebaurand erhalten, darunter Keyenberg.",
+          "hook": "in den Tagebau Garzweiler",
+          "children": [
+            {
+              "id": "2026-11-14-0-0-0",
+              "title": "Drei Käfige am Kirchturm",
+              "text": "Die Immerather Kirche war dem heiligen Lambertus geweiht, einem Bischof von Maastricht, der um 700 in Lüttich ermordet wurde. Eines seiner bekanntesten Gotteshäuser in Deutschland steht in Münster. Am Turm von St. Lamberti hängen bis heute drei eiserne Käfige, in denen 1536 die Leichen der hingerichteten Täuferführer Jan van Leiden, Bernd Knipperdolling und Bernd Krechting zur Schau gestellt wurden. Seit 1987 brennen darin kleine Lichter, eine Kunstinstallation von Lothar Baumgarten.",
+              "hook": "neuromanische Kirche St. Lambertus",
+              "children": [],
+              "source": {
+                "title": "St. Lamberti (Münster) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/St._Lamberti_(M%C3%BCnster)"
+              }
+            },
+            {
+              "id": "2026-11-14-0-0-1",
+              "title": "Ein Dom ganz ohne Turm",
+              "text": "Einen Bischof hatte Immerath nie. Im Rheinland nennt der Volksmund aber viele große Kirchen „Dom“. Einer der bekanntesten ist der Altenberger Dom im Bergischen Land, die ab 1259 erbaute Kirche eines Zisterzienserklosters. Kirchtürme hat er keine, denn der Orden verbot sie. Erlaubt war nur ein schlanker Dachreiter. Nach dem Verfall wurde die Kirche mit preußischen Staatsmitteln wiederhergestellt, und König Friedrich Wilhelm IV. verfügte 1856, dass Katholiken und Protestanten sie gemeinsam nutzen. Das tun sie seit 1857 bis heute.",
+              "hook": "wegen ihrer Doppeltürme",
+              "children": [],
+              "source": {
+                "title": "Altenberger Dom – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Altenberger_Dom"
+              }
+            },
+            {
+              "id": "2026-11-14-0-0-2",
+              "title": "Der künftige Tiefseerekord",
+              "text": "Mit dem Kohleausstieg im Rheinischen Revier stellt sich die Frage, was aus den riesigen Gruben wird. Nach den bisherigen Plänen sollen sie zu Seen werden, gefüllt mit Rheinwasser, das über eine eigens gebaute Leitung herangepumpt wird. Allein das Restloch des Tagebaus Hambach zu füllen, dürfte rund 40 Jahre dauern. Mit mehr als 300 Metern Tiefe wäre der See am Ende tiefer als der Bodensee. Wo heute noch Bagger fahren, könnte so gegen 2070 der tiefste See Deutschlands liegen.",
+              "hook": "Kohleausstieg im Rheinischen Revier",
+              "children": [],
+              "source": {
+                "title": "Tagebau Hambach – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Tagebau_Hambach"
+              }
+            }
+          ],
+          "source": {
+            "title": "St. Lambertus (Immerath) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/St._Lambertus_(Immerath)"
+          }
+        },
+        {
+          "id": "2026-11-14-0-1",
+          "title": "Ein Wald für Fledermäuse",
+          "text": "Am Rand des Tagebaus Hambach, den der Bagger 2001 verließ, liegt der Hambacher Forst, ein Eichen-Hainbuchenwald, von dem nach Jahrzehnten der Rodung nur ein kleiner Rest übrig ist. Ab 2012 besetzten Aktivisten den Wald mit Baumhäusern. Ihre Räumung im Herbst 2018 gilt als einer der größten Polizeieinsätze in der Geschichte Nordrhein-Westfalens. Im Oktober 2018 stoppte das Oberverwaltungsgericht Münster die Rodung vorläufig, auch wegen der streng geschützten Bechsteinfledermaus, die dort lebt.",
+          "hook": "vom Tagebau Hambach",
+          "children": [
+            {
+              "id": "2026-11-14-0-1-0",
+              "title": "Fledermaus mit Märchenonkel",
+              "text": "Ihren Namen trägt die Bechsteinfledermaus seit 1817. Er ehrt den Thüringer Forstmann Johann Matthäus Bechstein, der eine der ersten Forstlehranstalten Deutschlands gründete. Bechstein schrieb zudem ein vielgelesenes Buch über Stubenvögel und nahm seinen Neffen Ludwig als Ziehsohn bei sich auf. Ludwig wurde später als Märchensammler berühmt: Sein „Deutsches Märchenbuch“ von 1845 war im 19. Jahrhundert zeitweise beliebter als die Sammlung der Brüder Grimm.",
+              "hook": "streng geschützten Bechsteinfledermaus",
+              "children": [],
+              "source": {
+                "title": "Johann Matthäus Bechstein – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Johann_Matth%C3%A4us_Bechstein"
+              }
+            },
+            {
+              "id": "2026-11-14-0-1-1",
+              "title": "Die Buche, die keine ist",
+              "text": "Die Hainbuche, nach der der Waldtyp des Hambacher Forsts benannt ist, ist trotz ihres Namens keine Buche, sondern ein Birkengewächs. Ihr Holz zählt zu den härtesten heimischen Hölzern und wurde früher für Mühlenzahnräder und Werkzeugstiele verwendet. Der alte Name „Hagebuche“ erinnert daran, dass man sie für dichte Hecken pflanzte, die „Hag“ genannt wurden. Weil ihr Holz als knorrig und grob galt, lebt sie in einem Alltagswort weiter: „hanebüchen“.",
+              "hook": "ein Eichen-Hainbuchenwald",
+              "children": [],
+              "source": {
+                "title": "Gemeine Hainbuche – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gemeine_Hainbuche"
+              }
+            },
+            {
+              "id": "2026-11-14-0-1-2",
+              "title": "Drei Käfige am Kirchturm",
+              "text": "Das Oberverwaltungsgericht hat seinen Sitz in Münster, wo es im 16. Jahrhundert selbst einen radikalen Umsturz gab. 1534 übernahmen die Täufer die Macht in der Stadt, und der Schneider Jan van Leiden ließ sich zum König krönen. Nach über einem Jahr Belagerung eroberte der Fürstbischof die Stadt zurück. Die Anführer wurden 1536 hingerichtet und ihre Leichen in drei eisernen Käfigen am Turm von St. Lamberti zur Schau gestellt. Diese Käfige hängen dort bis heute.",
+              "hook": "Oberverwaltungsgericht Münster",
+              "children": [],
+              "source": {
+                "title": "Täuferreich von Münster – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/T%C3%A4uferreich_von_M%C3%BCnster"
+              }
+            }
+          ],
+          "source": {
+            "title": "Hambacher Forst – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Hambacher_Forst"
+          }
+        },
+        {
+          "id": "2026-11-14-0-2",
+          "title": "Guppys im Rheinland",
+          "text": "Die Erft, die der Bagger auf seiner Reise überquerte, ist ein Nebenfluss des Rheins und dient zugleich dem Bergbau als Abfluss: Um die Tagebaue trocken zu halten, wird Grundwasser abgepumpt, und ein Teil davon fließt als sogenanntes Sümpfungswasser in die Erft. Dieses Wasser ist im Winter deutlich wärmer als gewöhnliches Flusswasser. Deshalb leben in Abschnitten der Erft seit Jahrzehnten ausgesetzte Aquarienfische wie Guppys. Mit dem Ende der Braunkohle verschwindet diese Wärmequelle, und der Erftverband baut den Fluss bis zur Mündung bei Neuss schrittweise um.",
+          "hook": "den Fluss Erft",
+          "children": [
+            {
+              "id": "2026-11-14-0-2-0",
+              "title": "Der Mann namens Guppy",
+              "text": "Die Guppys in der Erft tragen den Namen eines Menschen: Robert John Lechmere Guppy, ein Naturforscher auf Trinidad. Er schickte 1866 Exemplare der Fische an das Britische Museum in London, wo der Zoologe Albert Günther sie Girardinus guppii nannte. Dann stellte sich heraus, dass Wilhelm Peters dieselbe Art schon 1859 als Poecilia reticulata beschrieben hatte. Guppys wissenschaftlicher Name wurde deshalb gestrichen, sein Nachname lebt aber in Zoohandlungen auf der ganzen Welt weiter.",
+              "hook": "Aquarienfische wie Guppys",
+              "children": [],
+              "source": {
+                "title": "Robert John Lechmere Guppy – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Robert_John_Lechmere_Guppy"
+              }
+            },
+            {
+              "id": "2026-11-14-0-2-1",
+              "title": "Ein See unter Meeresniveau",
+              "text": "Damit die Tagebaue trocken bleiben, wird Grundwasser abgepumpt, und so konnte der Tagebau Hambach mehr als 400 Meter tief werden. Seine Sohle liegt rund 300 Meter unter dem Meeresspiegel und gilt als tiefster offener Punkt Deutschlands. Nach dem Ende der Kohleförderung soll die Grube über Jahrzehnte mit Rheinwasser gefüllt werden, das eine Leitung von Dormagen heranführt. Am Ende entsteht einer der tiefsten Seen Deutschlands, und sein Grund liegt dann tiefer als der Boden der Ostsee an vielen Stellen.",
+              "hook": "wird Grundwasser abgepumpt",
+              "children": [],
+              "source": {
+                "title": "Tagebau Hambach – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Tagebau_Hambach"
+              }
+            },
+            {
+              "id": "2026-11-14-0-2-2",
+              "title": "Ein Römerlager an der Erft",
+              "text": "Wo die Erft bei Neuss in den Rhein mündet, legten die Römer schon kurz vor der Zeitenwende ein Militärlager an, das sie Novaesium nannten. Das spätere Legionslager grub der Neusser Archäologe Constantin Koenen ab 1887 aus, weshalb es in der Fachwelt bis heute „Koenenlager“ heißt. Aus dem Lager wuchs eine Stadt, die zu den ältesten in Deutschland zählt. Im Jahr 1984 feierte Neuss offiziell sein 2000-jähriges Bestehen, im selben Jahr wie Trier.",
+              "hook": "Mündung bei Neuss",
+              "children": [],
+              "source": {
+                "title": "Novaesium – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Novaesium"
+              }
+            }
+          ],
+          "source": {
+            "title": "Erftverband – Broschüre Umsetzungsfahrplan Erft",
+            "url": "https://www.erftverband.de/wp-content/uploads/2021/07/4-2-2-broschuere_ufp_erft.pdf"
+          }
+        }
+      ],
+      "source": {
+        "title": "Bagger 288 – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Bagger_288"
+      }
+    },
+    {
+      "id": "2026-11-14-1",
+      "category": "wissenschaft",
+      "title": "Der Mpemba-Effekt",
+      "text": "Der Mpemba-Effekt beschreibt, dass heißes Wasser unter bestimmten Bedingungen schneller gefrieren soll als kaltes. Benannt ist er nach Erasto Mpemba, der das in den 1960er-Jahren als Schüler in Tansania beim Herstellen von Speiseeis bemerkte. 1969 veröffentlichte er darüber gemeinsam mit dem Physiker Denis Osborne. Ähnliche Beobachtungen beschrieben schon Aristoteles und Francis Bacon. Ob es den Effekt wirklich gibt, ist bis heute umstritten, denn die Ergebnisse hängen stark von Verdunstung, Gefäß und Messmethode ab.",
+      "children": [
+        {
+          "id": "2026-11-14-1-0",
+          "title": "Tod durch ein Schneehuhn",
+          "text": "Francis Bacon dachte nicht nur über gefrierendes Wasser nach, sondern soll auch an der Kälte gestorben sein. Laut John Aubreys „Brief Lives“ stopfte er im Frühjahr 1626 bei Highgate ein frisch geschlachtetes Huhn mit Schnee aus, um zu prüfen, ob Kälte Fleisch haltbar macht. Danach erkrankte er und starb am 9. April im Haus des Earl of Arundel. Historiker halten die Geschichte für zweifelhaft. Die Legende lebt trotzdem weiter: Am Pond Square soll ein gerupftes Geisterhuhn umgehen.",
+          "hook": "Francis Bacon",
+          "children": [
+            {
+              "id": "2026-11-14-1-0-0",
+              "title": "Die Löcher von Stonehenge",
+              "text": "John Aubrey, dem wir die Anekdote vom Schneehuhn verdanken, schrieb nicht nur Klatschbiografien, sondern war auch einer der ersten Feldarchäologen Englands. In den 1660er-Jahren vermaß er Stonehenge und notierte dabei auffällige Vertiefungen innerhalb des umgebenden Walls. Als man sie in den 1920er-Jahren ausgrub, wurde der Ring aus 56 Gruben ihm zu Ehren „Aubrey Holes“ genannt. Darin lagen verbrannte Menschenknochen, und laut einer Studie von 2018 stammten einige der Toten wohl aus Westwales, also aus derselben Gegend wie die Blausteine.",
+              "hook": "John Aubreys „Brief Lives“",
+              "children": [],
+              "source": {
+                "title": "Aubrey holes – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Aubrey_holes"
+              }
+            },
+            {
+              "id": "2026-11-14-1-0-1",
+              "title": "Chronik im Kamin",
+              "text": "Bacons Sterbehaus gehörte Thomas Howard, Earl of Arundel, einem der eifrigsten Kunstsammler seiner Zeit. Seine Agenten kauften im östlichen Mittelmeer antike Marmorstücke auf, darunter den Marmor Parium, eine griechische Inschrift von der Insel Paros. Sie listet Daten vom mythischen König Kekrops bis ins 3. Jahrhundert v. Chr. auf. Während des Englischen Bürgerkriegs ging die obere Hälfte verloren. Angeblich wurde sie zum Ausbessern eines Kamins verbaut. Der Rest kam 1667 nach Oxford. 1897 tauchte dann ausgerechnet auf Paros ein weiteres Stück der Chronik auf.",
+              "hook": "im Haus des Earl of Arundel",
+              "children": [],
+              "source": {
+                "title": "Parische Chronik – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Parische_Chronik"
+              }
+            },
+            {
+              "id": "2026-11-14-1-0-2",
+              "title": "Fischfang bei minus 40 Grad",
+              "text": "Bacons Frage, ob Kälte Fleisch haltbar macht, beantwortete rund 300 Jahre später der Amerikaner Clarence Birdseye in Labrador. Dort sah er in den 1910er-Jahren, wie Inuit gefangene Fische bei etwa minus 40 Grad in Sekunden steif frieren ließen, die Monate später noch frisch schmeckten. Der Grund ist, dass beim schnellen Frieren nur winzige Eiskristalle entstehen, die die Zellen kaum zerstören. Birdseye baute daraus Schockfrostverfahren und verkaufte seine Firma 1929 für rund 22 Millionen Dollar. Bacons Idee war also richtig. Ihm fehlte nur die Geschwindigkeit.",
+              "hook": "ob Kälte Fleisch haltbar macht",
+              "children": [],
+              "source": {
+                "title": "Clarence Birdseye – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Clarence_Birdseye"
+              }
+            }
+          ],
+          "source": {
+            "title": "Francis Bacon – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Francis_Bacon"
+          }
+        },
+        {
+          "id": "2026-11-14-1-1",
+          "title": "Der Kühlschrank aus Ton",
+          "text": "Verdunstung und das passende Gefäß reichen schon, um ohne Strom zu kühlen. In den 1990er-Jahren verbreitete der nigerianische Lehrer Mohammed Bah Abba den „Zeer“: Ein Tontopf steht in einem größeren Tontopf, dazwischen liegt feuchter Sand. Wenn das Wasser durch die äußere Wand verdunstet, entzieht es dem Inneren Wärme. Tomaten sollen so statt wenige Tage etwa drei Wochen halten. Für die Idee erhielt Bah Abba im Jahr 2000 den Rolex Award for Enterprise.",
+          "hook": "Verdunstung, Gefäß und Messmethode",
+          "children": [
+            {
+              "id": "2026-11-14-1-1-0",
+              "title": "Gemüse per Gerichtsurteil",
+              "text": "Die Tomaten, die im Zeer wochenlang frisch bleiben, landeten einmal vor dem Obersten Gerichtshof der USA. Ein Zollgesetz von 1883 belegte Gemüse mit Abgaben, Obst aber nicht. Deshalb klagte die Importeursfamilie Nix gegen Edward Hedden, den Zolleinnehmer des Hafens von New York. 1893 entschied das Gericht, die Tomate werde im Alltag als Gemüse gegessen und sei deshalb zollpflichtig. Botanisch ist sie trotzdem bis heute eine Beere.",
+              "hook": "Tomaten sollen so statt wenige",
+              "children": [],
+              "source": {
+                "title": "Nix v. Hedden – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Nix_v._Hedden"
+              }
+            },
+            {
+              "id": "2026-11-14-1-1-1",
+              "title": "Die Uhr im Ärmelkanal",
+              "text": "Der Rolex Award stammt von einer Firma, die 1905 nicht in Genf, sondern in London gegründet wurde, und zwar von Hans Wilsdorf aus dem fränkischen Kulmbach und seinem Schwager Alfred Davis. Bekannt machte sie 1927 die Schwimmerin Mercedes Gleitze: Bei einem Versuch, den Ärmelkanal zu durchschwimmen, trug sie die neue, wasserdichte „Oyster“, und die Uhr überstand die Stunden im kalten Wasser. Wilsdorf feierte das mit einer Anzeige auf der Titelseite der Daily Mail. Heute gehört Rolex keinen Aktionären, sondern einer gemeinnützigen Stiftung, die Wilsdorf selbst gegründet hat.",
+              "hook": "Rolex Award for Enterprise",
+              "children": [],
+              "source": {
+                "title": "Rolex – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Rolex"
+              }
+            },
+            {
+              "id": "2026-11-14-1-1-2",
+              "title": "Der Vogel, der ewig trinkt",
+              "text": "Wenn Wasser verdunstet und dabei Wärme mitnimmt, kann das auch etwas antreiben, zum Beispiel den Trinkvogel, der Mitte der 1940er-Jahre in den USA patentiert wurde. Sein Filzkopf ist nass und kühlt ab. Dadurch sinkt im Glaskörper der Dampfdruck der flüchtigen Füllung, meist Dichlormethan, und die Flüssigkeit steigt nach oben. Der Vogel kippt, taucht den Schnabel ins Wasser und richtet sich wieder auf. Physikalisch ist er eine echte Wärmekraftmaschine, die bei feuchter Luft streikt. In einer Simpsons-Folge lässt Homer ihn für sich die Taste am Computer drücken.",
+              "hook": "durch die äußere Wand verdunstet",
+              "children": [],
+              "source": {
+                "title": "Trinkvogel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Trinkvogel"
+              }
+            }
+          ],
+          "source": {
+            "title": "Tonkrugkühler – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Tonkrugk%C3%BChler"
+          }
+        },
+        {
+          "id": "2026-11-14-1-2",
+          "title": "Eis am Äquator",
+          "text": "Auch in Tansania, wo Mpemba Speiseeis kühlte, gibt es natürliches Eis, und zwar auf dem Kilimandscharo. Der 5895 Meter hohe Uhuru Peak wurde 1889 erstmals von Hans Meyer und Ludwig Purtscheller bestiegen. Seit 1912 ist die Eisfläche des Berges um mehr als 80 Prozent geschrumpft. Glaziologen wie Georg Kaser aus Innsbruck kamen zu dem Ergebnis, dass das Eis dort vor allem sublimiert: Weil die Luft so trocken ist, geht es direkt in Wasserdampf über, statt zu schmelzen.",
+          "hook": "als Schüler in Tansania",
+          "children": [
+            {
+              "id": "2026-11-14-1-2-0",
+              "title": "Ein Berg zum Geburtstag?",
+              "text": "Hans Meyer taufte den Gipfel 1889 Kaiser-Wilhelm-Spitze, und um den Berg rankt sich eine zähe Legende. Angeblich schenkte Queen Victoria den Kilimandscharo ihrem Enkel Wilhelm zum Geburtstag. Deshalb soll die Grenze zwischen Kenia und Tansania dort einen Knick machen. Historiker halten das für eine Erfindung: Der Grenzverlauf stammt aus einem deutsch-britischen Abkommen von 1886, das Diplomaten ausgehandelt hatten. Nach der Unabhängigkeit erhielt der Gipfel den Namen Uhuru, Swahili für Freiheit.",
+              "hook": "1889 erstmals von Hans Meyer",
+              "children": [],
+              "source": {
+                "title": "Kilimandscharo – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kilimandscharo"
+              }
+            },
+            {
+              "id": "2026-11-14-1-2-1",
+              "title": "Büßer aus Eis",
+              "text": "Wo Eis direkt in Wasserdampf übergeht, entstehen oft bizarre Formen. In den trockenen Hochanden wachsen ganze Felder aus Büßerschnee: dicht stehende Eisklingen, die mehrere Meter hoch werden können. Der spanische Name „nieves penitentes“ spielt auf Prozessionen von Büßern mit spitzen Kapuzen an, und Charles Darwin beschrieb sie 1835 bei seiner Andenüberquerung. Die größten könnten aber auf Pluto stehen: Die Sonde New Horizons fotografierte dort 2015 rund 500 Meter hohe Klingen aus Methaneis, die Forscher als Büßerschnee deuten.",
+              "hook": "direkt in Wasserdampf über",
+              "children": [],
+              "source": {
+                "title": "Büßereis – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/B%C3%BC%C3%9Fereis"
+              }
+            },
+            {
+              "id": "2026-11-14-1-2-2",
+              "title": "Der Mann aus dem Eis",
+              "text": "In Innsbruck, wo Georg Kaser forscht, landete 1991 der wohl berühmteste Gletscherfund der Welt: eine Mumie, die ein Nürnberger Ehepaar am Tisenjoch in den Ötztaler Alpen entdeckt hatte. Der Mann war rund 5300 Jahre alt. Bei einer Nachvermessung stellte sich heraus, dass der Fundort gut 90 Meter auf italienischem Boden lag, deshalb ruht Ötzi heute in Bozen. Erst 2001 entdeckte man auf einem Röntgenbild eine Pfeilspitze in seiner Schulter: Ötzi war ermordet worden.",
+              "hook": "Georg Kaser aus Innsbruck",
+              "children": [],
+              "source": {
+                "title": "Ötzi – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/%C3%96tzi"
+              }
+            }
+          ],
+          "source": {
+            "title": "Kibo (Berg) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Kibo_(Berg)"
+          }
+        }
+      ],
+      "source": {
+        "title": "Mpemba-Effekt – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Mpemba-Effekt"
+      }
+    },
+    {
+      "id": "2026-11-14-2",
+      "category": "kultur",
+      "title": "John Cages 4′33″",
+      "text": "„4′33″“ ist ein Stück des US-Komponisten John Cage, bei dem die Musiker keinen einzigen Ton spielen. Bei der Uraufführung 1952 in Woodstock im Bundesstaat New York saß der Pianist David Tudor am Flügel. Die drei Sätze zeigte er nur an, indem er den Tastaturdeckel schloss und wieder öffnete. Die Musik bestand aus den Geräuschen im Saal, aus Wind, Regen und dem Murmeln des Publikums. Angeregt wurde Cage unter anderem durch die weißen Bilder seines Freundes Robert Rauschenberg und durch einen Besuch in einem schalltoten Raum der Harvard University.",
+      "children": [
+        {
+          "id": "2026-11-14-2-0",
+          "title": "Vom Schweigen zum Internet",
+          "text": "Den schalltoten Raum in Harvard hatte im Zweiten Weltkrieg der Akustiker Leo Beranek gebaut, um zu erforschen, wie Lärm die Funkverständigung in Militärflugzeugen stört. 1948 gründete Beranek mit Richard Bolt ein Akustikbüro, das bald Bolt Beranek and Newman hieß, kurz BBN. Ausgerechnet diese Firma baute 1969 die ersten Netzknoten des Arpanet, des Vorläufers des Internets. Bei BBN verschickte Ray Tomlinson 1971 die erste E-Mail zwischen zwei Rechnern und machte dabei das @-Zeichen zum Trenner der Adresse.",
+          "hook": "schalltoten Raum der Harvard University",
+          "children": [
+            {
+              "id": "2026-11-14-2-0-0",
+              "title": "18½ Minuten Brummen",
+              "text": "Richard Bolt, Mitgründer des Büros, gehörte 1974 zu einem Expertengremium, das ein berühmtes Brummen untersuchte: eine 18½ Minuten lange Lücke auf einem Tonband aus Richard Nixons Weißem Haus. Gelöscht war ein Gespräch vom 20. Juni 1972, drei Tage nach dem Watergate-Einbruch. Nixons Sekretärin Rose Mary Woods gab an, versehentlich rund fünf Minuten gelöscht zu haben. Die Fachleute fanden jedoch Spuren von mindestens fünf getrennten, von Hand ausgelösten Löschvorgängen. Wer gelöscht hat, ist bis heute ungeklärt.",
+              "hook": "mit Richard Bolt ein Akustikbüro",
+              "children": [],
+              "source": {
+                "title": "National Archives Extends Closing Date to Begin Testing of the Nixon \"18 ½Minute Gap\" Tape",
+                "url": "https://www.archives.gov/press/press-releases/2001/nr01-88"
+              }
+            },
+            {
+              "id": "2026-11-14-2-0-1",
+              "title": "Die Karriere des @",
+              "text": "Das @-Zeichen, das Tomlinson wählte, ist viel älter als jede Tastatur. In Spanien und Portugal stand es als „arroba“ für ein altes Handelsgewicht, und schon 1536 verwendete der Florentiner Kaufmann Francesco Lapi es in einem Brief als Kürzel für eine Amphore Wein. Fast jede Sprache hat ihm einen Spitznamen gegeben: Klammeraffe im Deutschen, Schnecke im Italienischen, Affenschwänzchen im Niederländischen. 2010 nahm das Museum of Modern Art in New York das Zeichen in seine Designsammlung auf.",
+              "hook": "das @-Zeichen zum Trenner",
+              "children": [],
+              "source": {
+                "title": "At-Zeichen – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/At-Zeichen"
+              }
+            },
+            {
+              "id": "2026-11-14-2-0-2",
+              "title": "Beraneks Fiasko in New York",
+              "text": "Nach dem Krieg wandte sich Leo Beranek auch Konzertsälen zu, und das brachte ihm seine größte Niederlage ein. Die Philharmonic Hall im New Yorker Lincoln Center, für die er die Akustik plante, wurde nach der Eröffnung 1962 von Musikern und Kritikern verrissen. Es folgte ein Umbau nach dem anderen, 1976 wurde das Innere komplett entkernt. Beranek vermaß und verglich über die Jahrzehnte schließlich rund hundert Konzertsäle weltweit. Ganz oben landete ein Saal von 1870: der Goldene Saal des Wiener Musikvereins.",
+              "hook": "der Akustiker Leo Beranek",
+              "children": [],
+              "source": {
+                "title": "David Geffen Hall – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/David_Geffen_Hall"
+              }
+            }
+          ],
+          "source": {
+            "title": "BBN Technologies – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/BBN_Technologies"
+          }
+        },
+        {
+          "id": "2026-11-14-2-1",
+          "title": "Ein ausradierter de Kooning",
+          "text": "Nach den weißen Bildern trieb Robert Rauschenberg die Leere 1953 noch weiter: Er bat den gefeierten Maler Willem de Kooning um eine Zeichnung, die er ausradieren wollte. De Kooning willigte ein, wählte aber absichtlich ein Blatt mit Tusche, Fettstift und Bleistift, das sich nur schwer entfernen ließ. Rauschenberg radierte wochenlang und verbrauchte dabei viele Radiergummis. Die Beschriftung „Erased de Kooning Drawing“ stammt von Jasper Johns, heute gehört das fast leere Blatt dem San Francisco Museum of Modern Art.",
+          "hook": "weißen Bilder seines Freundes Robert Rauschenberg",
+          "children": [
+            {
+              "id": "2026-11-14-2-1-0",
+              "title": "Vom Brotkrumen zum Radierer",
+              "text": "Bevor es Radiergummis gab, wie Rauschenberg sie verbrauchte, rieb man Bleistiftstriche mit Brotkrumen weg. Um 1770 bemerkte der Chemiker Joseph Priestley, dass Kautschuk Graphit vom Papier entfernt, daher stammt das englische Wort „rubber“. Haltbar wurde der Gummi erst durch die Vulkanisation, die Charles Goodyear 1839 entdeckte. Den Bleistift mit aufgesetztem Radierer patentierte Hymen Lipman 1858. Ein Patent auf diese Kombination erklärte der Oberste Gerichtshof der USA 1875 für ungültig: Zwei bekannte Dinge zusammenzustecken sei keine Erfindung.",
+              "hook": "verbrauchte dabei viele Radiergummis",
+              "children": [],
+              "source": {
+                "title": "Radiergummi – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Radiergummi"
+              }
+            },
+            {
+              "id": "2026-11-14-2-1-1",
+              "title": "Als blinder Passagier",
+              "text": "Als der gefeierte Maler Willem de Kooning nach Amerika kam, war er noch ein Niemand. 1926 versteckte sich der 22-jährige Rotterdamer als blinder Passagier auf einem Frachter nach Virginia und arbeitete danach zunächst als Anstreicher in Hoboken. Jahrzehnte später gehörte er zu den wichtigsten Malern des Abstrakten Expressionismus. In den 1980er-Jahren malte er weiter, obwohl er zunehmend an Demenz litt, vermutlich an Alzheimer. Ob seine hellen, luftigen Spätwerke noch als eigene künstlerische Entscheidungen gelten können, ist unter Kunsthistorikern bis heute umstritten.",
+              "hook": "den gefeierten Maler Willem de Kooning",
+              "children": []
+            },
+            {
+              "id": "2026-11-14-2-1-2",
+              "title": "Eine Flagge aus Wachs",
+              "text": "Jasper Johns, von dem die Beschriftung stammt, malte kurz darauf sein berühmtes „Flag“. Nach eigener Aussage hatte er zuvor geträumt, die amerikanische Flagge zu malen. Dafür nutzte er die Enkaustik: Farbpigmente in heißem Wachs, das schnell erstarrt und jeden Pinselstrich festhält. Die Technik ist mindestens 2000 Jahre alt: Im römischen Ägypten malte man so viele der Fayum-Porträts, die den Mumien vor das Gesicht gebunden wurden. Dank des haltbaren Wachses und des trockenen Klimas schauen uns diese Toten bis heute in erstaunlich frischen Farben an.",
+              "hook": "stammt von Jasper Johns",
+              "children": [],
+              "source": {
+                "title": "Flag (painting) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Flag_(painting)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Erased de Kooning Drawing – Essay, SFMOMA",
+            "url": "https://www.sfmoma.org/artwork/98.298/essay/erased-de-kooning-drawing/"
+          }
+        },
+        {
+          "id": "2026-11-14-2-2",
+          "title": "Woodstock vor dem Festival",
+          "text": "Gespielt wurde „4′33″“ in der Maverick Concert Hall, einem rustikalen Holzbau im Wald bei Woodstock, der 1916 errichtet wurde. Er gehört zur Künstlerkolonie Maverick, die der Schriftsteller Hervey White 1905 gegründet hatte, nachdem er die benachbarte Kolonie Byrdcliffe verlassen hatte. Die sommerlichen Kammerkonzerte in der Halle gelten als eine der ältesten fortlaufenden Konzertreihen der USA. Das berühmte Festival von 1969 trug zwar den Namen Woodstock, fand aber rund 70 Kilometer Luftlinie entfernt in Bethel statt.",
+          "hook": "1952 in Woodstock im Bundesstaat New York",
+          "children": [
+            {
+              "id": "2026-11-14-2-2-0",
+              "title": "Byrd plus Radcliffe",
+              "text": "Die Kolonie Byrdcliffe, die Hervey White verließ, hatte 1902 der wohlhabende Engländer Ralph Radcliffe Whitehead gegründet. Ihr Name verbindet seinen zweiten Vornamen mit dem seiner Frau Jane Byrd McCall. Whitehead hatte in Oxford bei John Ruskin gehört und wollte eine Arts-and-Crafts-Utopie mit Möbelwerkstatt, Webstühlen und Töpferei schaffen, doch wirtschaftlich blieb sie ein Zuschussgeschäft. Jahrzehnte später lebte Bob Dylan auf dem Gelände. Beim Festival von 1969 trat er trotzdem nicht auf, sondern zwei Wochen später auf der Isle of Wight.",
+              "hook": "die benachbarte Kolonie Byrdcliffe",
+              "children": [],
+              "source": {
+                "title": "Byrdcliffe Colony – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Byrdcliffe_Colony"
+              }
+            },
+            {
+              "id": "2026-11-14-2-2-1",
+              "title": "Der Mann ohne Brandzeichen",
+              "text": "Der Name der Künstlerkolonie Maverick steht für Eigensinn, und hinter dem Wort steckt ein realer Texaner: Samuel Maverick, Anwalt, Landbesitzer und 1836 Unterzeichner der texanischen Unabhängigkeitserklärung. Weil er seine Rinder nicht mit Brandzeichen versah, nannte man herrenlos umherstreifende Kälber bald „Mavericks“. Daraus wurde im Englischen ein Wort für Querköpfe und Einzelgänger. Auch sein Enkel Maury Maverick, früher Kongressabgeordneter, prägte ein Wort: 1944 erfand er „gobbledygook“ für unverständliches Behördenkauderwelsch.",
+              "hook": "Künstlerkolonie Maverick",
+              "children": [],
+              "source": {
+                "title": "Samuel A. Maverick – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Samuel_A._Maverick"
+              }
+            },
+            {
+              "id": "2026-11-14-2-2-2",
+              "title": "Die Wiese des Milchbauern",
+              "text": "Dass das Festival in Bethel stattfand, lag an Max Yasgur. Der Milchbauer vermietete den Veranstaltern seine Weide, nachdem die Gemeinde Wallkill sie im Juli 1969 abgewiesen hatte. Statt der anfangs erwarteten 50.000, später rund 200.000 Besucher kamen etwa 400.000 Menschen, die Zäune fielen, und das Festival wurde faktisch zum Gratiskonzert. Die bekannteste Hymne darauf, „Woodstock“, schrieb ausgerechnet Joni Mitchell, die gar nicht dort war. Auf Rat ihres Managers blieb sie für einen Auftritt in der Dick Cavett Show in New York und verfolgte das Festival im Fernsehen.",
+              "hook": "in Bethel statt",
+              "children": [],
+              "source": {
+                "title": "Woodstock-Festival – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Woodstock-Festival"
+              }
+            }
+          ],
+          "source": {
+            "title": "Maverick Concert Hall – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Maverick_Concert_Hall"
+          }
+        }
+      ],
+      "source": {
+        "title": "4′33″ – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3"
+      }
+    }
+  ]
+}

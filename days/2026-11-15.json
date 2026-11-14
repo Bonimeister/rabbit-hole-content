@@ -1,0 +1,448 @@
+{
+  "version": 1,
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-14T00:48:03.728Z",
+  "topics": [
+    {
+      "id": "2026-11-15-0",
+      "category": "natur",
+      "title": "Der Pfeilstorch",
+      "text": "Im Mai 1822 wurde bei Klütz in Mecklenburg ein Weißstorch erlegt, in dessen Hals ein rund 75 Zentimeter langer Speer aus Zentralafrika steckte. Der Vogel war mit der Waffe Tausende Kilometer weit geflogen. Das war ein handfester Beleg dafür, dass Störche im Winter nach Afrika ziehen und nicht, wie manche Gelehrte vermuteten, irgendwo im Verborgenen überwintern. Der präparierte Storch steht heute in der Zoologischen Sammlung der Universität Rostock. In Deutschland sind rund 25 solcher Pfeilstörche bekannt.",
+      "children": [
+        {
+          "id": "2026-11-15-0-0",
+          "title": "Zugziel: der Mond",
+          "text": "Die Idee, Vögel könnten irgendwo im Verborgenen überwintern, geht bis auf Aristoteles zurück. Er nahm an, Schwalben verkröchen sich im Winter in Höhlen und verlören dort ihr Gefieder. Der schwedische Geistliche Olaus Magnus veröffentlichte 1555 sogar einen Holzschnitt, auf dem Fischer Klumpen von Schwalben aus einem See ziehen. Noch kühner war der englische Pfarrer Charles Morton: In einer Schrift aus dem späten 17. Jahrhundert vermutete er, Zugvögel flögen zum Mond, eine Reise von rund zwei Monaten.",
+          "hook": "irgendwo im Verborgenen überwintern",
+          "children": [
+            {
+              "id": "2026-11-15-0-0-0",
+              "title": "Seeschlangen auf der Karte",
+              "text": "Lange vor seinen Schwalben aus dem See ließ Olaus Magnus 1539 in Venedig die Carta Marina drucken, eine der ersten detaillierten Karten Skandinaviens. Zwischen Island und Norwegen wimmelt es darauf von Ungeheuern: Ein Riesenhummer packt einen Menschen, Wale greifen Schiffe an, eine gewaltige Seeschlange umschlingt ein Segelschiff. Danach galt die Karte jahrhundertelang als verschollen, bis 1886 ein Exemplar in der Münchner Staatsbibliothek auftauchte. Ihre Monster prägen bis heute, wie wir uns Seeungeheuer vorstellen.",
+              "hook": "Geistliche Olaus Magnus",
+              "children": [],
+              "source": {
+                "title": "Carta Marina – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Carta_Marina"
+              }
+            },
+            {
+              "id": "2026-11-15-0-0-1",
+              "title": "Der schlafende Vogel",
+              "text": "Vögel, die sich im Winter in Höhlen verkriechen, galten lange als Aberglaube. Dann fand der Biologe Edmund Jaeger im Winter 1946 in einer Felsspalte der kalifornischen Chuckwalla Mountains eine Winternachtschwalbe: kalt, kaum atmend, völlig reglos. Im nächsten Winter lag sie wieder in derselben Spalte. Jaeger beringte sie, und auch im Winter darauf kehrte sie zurück, um erneut in die Starre zu fallen. Die Hopi sollen die Art schon lange „die Schlafende“ genannt haben. Ganz falsch lag Aristoteles also nicht, nur beim Vogel.",
+              "hook": "verkröchen sich im Winter in Höhlen",
+              "children": [],
+              "source": {
+                "title": "Winternachtschwalbe – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Winternachtschwalbe"
+              }
+            },
+            {
+              "id": "2026-11-15-0-0-2",
+              "title": "Einmal bis zum Mond",
+              "text": "Zum Mond ist nie ein Zugvogel geflogen, doch einer hat die Strecke zumindest rechnerisch zurückgelegt: ein Knutt mit dem Ring B95. Er wurde 1995 in Feuerland beringt und pendelte jedes Jahr zwischen Südamerika und der kanadischen Arktis hin und her, rund 30.000 Kilometer pro Jahr. Noch rund zwei Jahrzehnte nach der Beringung wurde er gesichtet. Seine Lebensstrecke schätzt man auf mehr als 500.000 Kilometer, weiter als bis zum Mond, daher sein Spitzname „Moonbird“. Morton hat sich nur beim Ziel geirrt, nicht bei der Strecke.",
+              "hook": "Zugvögel flögen zum Mond",
+              "children": [],
+              "source": {
+                "title": "B95 (red knot) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/B95_(red_knot)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Charles Morton (educator) – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Charles_Morton_(educator)"
+          }
+        },
+        {
+          "id": "2026-11-15-0-1",
+          "title": "Ein Schloss für Downing Street",
+          "text": "Am Rand von Klütz steht Schloss Bothmer, die größte Barockanlage Mecklenburgs. Sie wurde ab 1726 nach englischem Vorbild errichtet. Bauherr war Hans Caspar von Bothmer, ein hannoverscher Diplomat im Dienst Georgs I. in London. Dort bewohnte er ein Haus an der Downing Street, das nach seinem Tod 1732 an Premierminister Robert Walpole ging und Teil des heutigen Amtssitzes Nr. 10 wurde. Berühmt ist die Schlossanlage auch für ihre Festonallee, deren Linden kunstvoll zu Girlanden geschnitten sind.",
+          "hook": "bei Klütz in Mecklenburg",
+          "children": [
+            {
+              "id": "2026-11-15-0-1-0",
+              "title": "Der Wendehals von Harvard",
+              "text": "Die Downing Street ist nach George Downing benannt, der dort in den 1680er-Jahren billig gebaute Reihenhäuser errichten ließ. Downing gehörte 1642 zum allerersten Abschlussjahrgang des Harvard College. Er diente erst Cromwell, dann König Karl II. und half diesem, frühere Weggefährten in den Niederlanden verhaften zu lassen. Die berühmte schwarze Fassade von Nr. 10 täuscht übrigens: Die Ziegel sind eigentlich gelb. Ruß hat sie über Jahrhunderte geschwärzt, und bei der Sanierung um 1960 wurden sie schwarz gestrichen.",
+              "hook": "ein Haus an der Downing Street",
+              "children": [],
+              "source": {
+                "title": "George Downing – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/George_Downing"
+              }
+            },
+            {
+              "id": "2026-11-15-0-1-1",
+              "title": "Weiches Holz, harte Zeiten",
+              "text": "Lebende Linden lassen sich in Form schneiden, und ihr weiches, gleichmäßiges Holz war das Lieblingsmaterial der spätgotischen Bildschnitzer. Tilman Riemenschneider schuf daraus um 1505 bis 1510 den Marienaltar in Creglingen, der für seine Zeit ungewöhnlich ohne Bemalung blieb. Als Würzburger Ratsherr stellte er sich im Bauernkrieg 1525 gegen den Fürstbischof und wurde eingekerkert und gefoltert. Dass man ihm dabei die Hände brach, ist nur eine Legende. Er arbeitete danach weiter, bekam aber kaum noch große Aufträge.",
+              "hook": "deren Linden kunstvoll zu Girlanden geschnitten",
+              "children": [],
+              "source": {
+                "title": "Riemenschneider, Tilman – Deutsche Biographie",
+                "url": "https://www.deutsche-biographie.de/sfz76544.html"
+              }
+            },
+            {
+              "id": "2026-11-15-0-1-2",
+              "title": "Wie Victoria Hannover verlor",
+              "text": "Georg I. war Kurfürst von Hannover und wurde 1714 zugleich König von Großbritannien. Diese Personalunion hielt 123 Jahre. Sie endete 1837 durch das Erbrecht: Victoria durfte als Frau den britischen Thron besteigen, in Hannover galt aber die männliche Thronfolge. Dort wurde ihr Onkel Ernst August König, und er hob kurz darauf die Verfassung auf. Sieben Göttinger Professoren protestierten dagegen und wurden entlassen. Zu ihnen gehörten Jacob und Wilhelm Grimm.",
+              "hook": "hannoverscher Diplomat im Dienst Georgs I.",
+              "children": [],
+              "source": {
+                "title": "Personalunion zwischen Großbritannien und Hannover – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Personalunion_zwischen_Gro%C3%9Fbritannien_und_Hannover"
+              }
+            }
+          ],
+          "source": {
+            "title": "Schloss Bothmer – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Schloss_Bothmer"
+          }
+        },
+        {
+          "id": "2026-11-15-0-2",
+          "title": "Ringe statt Speere",
+          "text": "Wie weit Vögel wirklich fliegen, ließ sich erst systematisch klären, als der dänische Lehrer Hans Christian Cornelius Mortensen 1899 in Viborg Stare mit nummerierten Aluminiumringen markierte. Schon 1901 gründete Johannes Thienemann auf der Kurischen Nehrung die Vogelwarte Rossitten, eine der ersten der Welt. Dort beringte Störche wurden bald im südlichen Afrika wiedergefunden. Ihre Nachfolgerin ist heute die Vogelwarte Radolfzell am Bodensee.",
+          "hook": "Tausende Kilometer weit geflogen",
+          "children": [
+            {
+              "id": "2026-11-15-0-2-0",
+              "title": "Mozarts singender Star",
+              "text": "Stare wie die von Mortensen beringten sind begabte Stimmenimitatoren, und das wusste auch Wolfgang Amadeus Mozart. Im Mai 1784 kaufte er in Wien einen Star, der ein Thema aus seinem Klavierkonzert G-Dur KV 453 pfeifen konnte, wenn auch mit einem falschen Ton. Mozart notierte die Melodie in seinem Ausgabenbuch und schrieb „Das war schön!“ darunter. Als der Vogel 1787 starb, richtete Mozart ihm ein Begräbnis mit Trauergedicht aus. Das war nur wenige Tage nach dem Tod seines Vaters, zu dessen Beerdigung er nicht gereist war.",
+              "hook": "in Viborg Stare",
+              "children": [],
+              "source": {
+                "title": "Mozarts Star – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Mozarts_Star"
+              }
+            },
+            {
+              "id": "2026-11-15-0-2-1",
+              "title": "Dünen, die Dörfer fraßen",
+              "text": "Die Kurische Nehrung, auf der Rossitten lag, ist ein knapp 100 Kilometer langer Sandstreifen zwischen Haff und Ostsee. Nachdem ihre Wälder im 18. Jahrhundert großteils abgeholzt worden waren, gerieten die Dünen ins Wandern und begruben mehrere Dörfer unter sich. Ab 1930 verbrachte Thomas Mann die Sommer in Nidden, wo er sich ein Ferienhaus hatte bauen lassen. Er konnte es nur drei Sommer lang nutzen: 1933 ging er ins Exil und kehrte nie mehr dorthin zurück.",
+              "hook": "auf der Kurischen Nehrung",
+              "children": [],
+              "source": {
+                "title": "Kurische Nehrung – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kurische_Nehrung"
+              }
+            },
+            {
+              "id": "2026-11-15-0-2-2",
+              "title": "Kostbarer als Silber",
+              "text": "Dass Mortensen 1899 Ringe aus Aluminium verwenden konnte, war recht neu: Erst seit 1886 ließ sich das Metall mit dem Hall-Héroult-Verfahren billig durch Elektrolyse gewinnen. Davor galt es als Luxusmetall; Napoleon III. soll seinen vornehmsten Gästen mit Aluminiumbesteck aufgetischt haben. 1884 erhielt das Washington Monument eine knapp drei Kilogramm schwere Spitze aus Aluminium, damals eines der größten Gussstücke aus diesem Metall. Sie sitzt bis heute auf dem Obelisken und gehört zu seinem Blitzschutz.",
+              "hook": "nummerierten Aluminiumringen",
+              "children": [],
+              "source": {
+                "title": "The Aluminum Tip of the Washington Monument – Prologue Magazine (National Archives)",
+                "url": "https://www.archives.gov/publications/prologue/2014/summer/aluminum-tip-monument"
+              }
+            }
+          ],
+          "source": {
+            "title": "Vogelberingung – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Vogelberingung"
+          }
+        }
+      ],
+      "source": {
+        "title": "Pfeilstorch – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Pfeilstorch"
+      }
+    },
+    {
+      "id": "2026-11-15-1",
+      "category": "technik",
+      "title": "Der Alte Elbtunnel",
+      "text": "Seit 1911 verbindet der Alte Elbtunnel die Hamburger Landungsbrücken mit der Hafeninsel Steinwerder, und zwar durch zwei rund 426 Meter lange Röhren tief unter der Elbe. Statt Rampen gibt es große Fahrkörbe, also Aufzüge, die Fußgänger, Radfahrer und früher auch Pferdefuhrwerke senkrecht in die Tiefe bringen. Gebaut wurde im Schildvortrieb unter Druckluft. Viele Arbeiter erkrankten dabei an der Taucherkrankheit. Die gefliesten Wände schmücken Keramikreliefs mit Fischen, Krebsen und Muscheln.",
+      "children": [
+        {
+          "id": "2026-11-15-1-0",
+          "title": "Krank aus dem Senkkasten",
+          "text": "Die Taucherkrankheit, die beim Elbtunnel viele Arbeiter traf, hatte schon Jahrzehnte zuvor beim Bau der Brooklyn Bridge in New York gewütet. Dort gruben Männer in Druckluft-Senkkästen, sogenannten Caissons, unter dem East River. Auch Chefingenieur Washington Roebling erkrankte so schwer, dass er die Baustelle fortan nur noch vom Fenster aus verfolgte. Seine Frau Emily Warren Roebling überbrachte seine Anweisungen, eignete sich dabei viel Ingenieurwissen an und fuhr 1883 als Erste über die fertige Brücke.",
+          "hook": "an der Taucherkrankheit",
+          "children": [
+            {
+              "id": "2026-11-15-1-0-0",
+              "title": "Die Mode hinter „the bends“",
+              "text": "In den Caissons amerikanischer Brückenbaustellen bekam die Druckluftkrankheit ihren englischen Spitznamen, den Taucher bis heute benutzen: „the bends“. Nach der verbreiteten Erklärung spotteten Arbeiter über die gekrümmte Haltung der Erkrankten, die sich vor Gelenkschmerzen vornüberbeugten. Sie erinnerte an den „Grecian Bend“, eine Modepose um 1870: Damen mit Turnüre, engem Korsett und hohen Absätzen neigten den Oberkörper nach vorn. So lebt im Jargon heutiger Taucher eine längst vergessene Modetorheit weiter.",
+              "hook": "sogenannten Caissons",
+              "children": [],
+              "source": {
+                "title": "Grecian bend – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Grecian_bend"
+              }
+            },
+            {
+              "id": "2026-11-15-1-0-1",
+              "title": "Die Insel im East River",
+              "text": "Der East River, unter dem die Caisson-Arbeiter gruben, ist streng genommen gar kein Fluss, sondern eine Meerenge mit Gezeitenströmung. Mittendrin liegt das schmale Roosevelt Island, das früher Blackwell's Island hieß und im 19. Jahrhundert ein Gefängnis, ein Armenhaus und eine Irrenanstalt für Frauen beherbergte. 1887 täuschte die Reporterin Nellie Bly Wahnsinn vor und ließ sich dort einweisen. Ihr Bericht über eiskalte Bäder und verdorbenes Essen führte dazu, dass die Stadt der Anstalt mehr Geld bewilligte, und machte Bly berühmt.",
+              "hook": "unter dem East River",
+              "children": [],
+              "source": {
+                "title": "Roosevelt Island (New York City) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Roosevelt_Island_(New_York_City)"
+              }
+            },
+            {
+              "id": "2026-11-15-1-0-2",
+              "title": "Der Brückenbauer als Sammler",
+              "text": "Chefingenieur Washington Roebling hatte neben Brücken noch eine zweite Leidenschaft, nämlich Mineralien. Über Jahrzehnte trug er eine Sammlung von rund 16.000 Stücken zusammen, viele davon Raritäten, die er mit Händlern in aller Welt tauschte. Ein 1897 beschriebenes Mineral aus Franklin in New Jersey wurde ihm zu Ehren Roeblingit genannt. Nach seinem Tod 1926 schenkte sein Sohn die Sammlung der Smithsonian Institution. So bewahrt ausgerechnet ein Museum in Washington das zweite Lebenswerk des Mannes, der die Brooklyn Bridge vom Fenster aus vollendete.",
+              "hook": "Chefingenieur Washington Roebling",
+              "children": [],
+              "source": {
+                "title": "Washington Augustus Roebling – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Washington_Augustus_Roebling"
+              }
+            }
+          ],
+          "source": {
+            "title": "Washington Augustus Roebling – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Washington_Augustus_Roebling"
+          }
+        },
+        {
+          "id": "2026-11-15-1-1",
+          "title": "Ein Wurm als Tunnelbauer",
+          "text": "Der Schildvortrieb geht auf den Ingenieur Marc Isambard Brunel zurück, und das Vorbild dafür war ein Tier: der Schiffsbohrwurm Teredo navalis. Die Art gehört eigentlich zu den Muscheln, raspelt sich mit ihren Schalen durch Holz und kleidet ihren Gang mit Kalk aus. Nach diesem Prinzip ließ Brunel ab 1825 den Thames Tunnel in London bauen, den ersten Tunnel unter einem schiffbaren Fluss. Wassereinbrüche und Geldnot zogen die Arbeiten bis 1843 hin. Heute fahren dort Züge der London Overground.",
+          "hook": "im Schildvortrieb unter Druckluft",
+          "children": [
+            {
+              "id": "2026-11-15-1-1-0",
+              "title": "Kolumbus' zerfressene Flotte",
+              "text": "Schiffsbohrwürmer waren der Schrecken jeder hölzernen Flotte, und auch Christoph Kolumbus bekam das zu spüren. Auf seiner vierten Reise zerfraßen die Tiere seine Schiffe so stark, dass er die letzten beiden 1503 an der Küste Jamaikas auf Grund setzen musste. Rund ein Jahr saß die Mannschaft dort fest. Als die Taíno keine Lebensmittel mehr lieferten, nutzte Kolumbus laut dem Bericht seines Sohnes eine vorausberechnete Mondfinsternis im Februar 1504, drohte mit dem Zorn Gottes und bekam wieder Proviant.",
+              "hook": "Schiffsbohrwurm Teredo navalis",
+              "children": [],
+              "source": {
+                "title": "Fourth voyage of Columbus – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Fourth_voyage_of_Columbus"
+              }
+            },
+            {
+              "id": "2026-11-15-1-1-1",
+              "title": "Fließband für die Navy",
+              "text": "Bevor Marc Isambard Brunel unter der Themse graben ließ, mechanisierte er die Werften der Royal Navy. Ab etwa 1803 entstanden nach seinen Entwürfen in Portsmouth die Block Mills. Dort stellten Maschinen in festen Arbeitsschritten Flaschenzugblöcke für Segelschiffe her, eine der ersten Serienfertigungen überhaupt. Zehn ungelernte Arbeiter schafften so, wofür vorher über hundert Fachleute nötig waren. Reich wurde Brunel damit nicht: 1821 saß er im Schuldgefängnis, bis die Regierung seine Schulden beglich, aus Sorge, er könnte sonst für den russischen Zaren arbeiten.",
+              "hook": "Ingenieur Marc Isambard Brunel",
+              "children": [],
+              "source": {
+                "title": "Portsmouth Block Mills – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Portsmouth_Block_Mills"
+              }
+            },
+            {
+              "id": "2026-11-15-1-1-2",
+              "title": "Brunels Sohn unter Wasser",
+              "text": "Einer der schwersten Wassereinbrüche im Thames Tunnel hätte 1828 beinahe Brunels Sohn das Leben gekostet. Isambard Kingdom Brunel, damals 21 Jahre alt und Bauleiter vor Ort, wurde von der Flut schwer verletzt aus dem Tunnel gespült, sechs Arbeiter starben. Zur Erholung kam er nach Bristol, wo er sich bald an einem Wettbewerb für eine Brücke über die Avon-Schlucht beteiligte. Er gewann ihn schließlich, doch die Clifton Suspension Bridge wurde erst 1864 fertig, fünf Jahre nach seinem Tod und auch als Denkmal für ihn.",
+              "hook": "Wassereinbrüche und Geldnot",
+              "children": [],
+              "source": {
+                "title": "Isambard Kingdom Brunel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Isambard_Kingdom_Brunel"
+              }
+            }
+          ],
+          "source": {
+            "title": "Thames Tunnel – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Thames_Tunnel"
+          }
+        },
+        {
+          "id": "2026-11-15-1-2",
+          "title": "Krabben mit Fellhandschuhen",
+          "text": "Die Krebse auf den Kacheln des Tunnels haben in der Elbe echte Nachbarn bekommen, darunter einen Einwanderer aus Ostasien: die Chinesische Wollhandkrabbe mit ihren pelzigen Scheren. Vermutlich kam sie im Ballastwasser von Schiffen. 1912 wurde sie in Deutschland erstmals nachgewiesen, in der Aller, einem Nebenfluss der Weser. In Massenjahren verstopft sie Fischernetze und gräbt Löcher in Uferböschungen. In China gilt sie dagegen als Delikatesse, besonders die aus dem Yangcheng-See bei Suzhou.",
+          "hook": "mit Fischen, Krebsen und Muscheln",
+          "children": [
+            {
+              "id": "2026-11-15-1-2-0",
+              "title": "Das Blutgericht an der Aller",
+              "text": "An der Aller liegt Verden, und mit der Stadt ist eines der düstersten Kapitel der Sachsenkriege verbunden. Laut den fränkischen Reichsannalen ließ Karl der Große dort 782 rund 4500 aufständische Sachsen hinrichten. Historiker streiten bis heute, ob die Zahl übertrieben ist oder ob ein Abschreibfehler im Latein aus „umsiedeln“ ein „enthaupten“ machte. In den 1930er-Jahren ließ die SS bei Verden den Sachsenhain anlegen: 4500 Findlinge, für jeden Toten einer.",
+              "hook": "in der Aller, einem Nebenfluss der Weser",
+              "children": [],
+              "source": {
+                "title": "Blutgericht von Verden – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Blutgericht_von_Verden"
+              }
+            },
+            {
+              "id": "2026-11-15-1-2-1",
+              "title": "Blinde Passagiere im Eriesee",
+              "text": "Im Ballastwasser reisen nicht nur Krabben, sondern auch winzige Muschellarven um die Welt. So gelangte vermutlich die Zebramuschel aus dem Gebiet um Schwarzes und Kaspisches Meer nach Nordamerika, wo man sie 1988 im Lake St. Clair entdeckte. Binnen weniger Jahre besiedelte sie die Großen Seen und verstopfte Ansaugrohre von Kraftwerken und Wasserwerken. Ihr Filtern machte den Eriesee stellenweise deutlich klarer, allerdings weil sie das Plankton wegfraß, von dem andere Tiere lebten.",
+              "hook": "im Ballastwasser von Schiffen",
+              "children": [],
+              "source": {
+                "title": "Wandermuschel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Wandermuschel"
+              }
+            },
+            {
+              "id": "2026-11-15-1-2-2",
+              "title": "Ein Garten für Ungeschickte",
+              "text": "Suzhou ist nicht nur für Wollhandkrabben berühmt, sondern vor allem für seine klassischen Gärten, von denen mehrere zum UNESCO-Welterbe gehören. Der größte, der Garten des bescheidenen Beamten, entstand Anfang des 16. Jahrhunderts für Wang Xianchen, der sich aus dem Staatsdienst zurückgezogen hatte. Den Namen entlehnte er einem Text des Dichters Pan Yue: Gärtnern sei die Politik des Ungeschickten. Der Legende nach verspielte sein Sohn den Garten nach Wangs Tod in einer einzigen Nacht beim Glücksspiel.",
+              "hook": "Yangcheng-See bei Suzhou",
+              "children": [],
+              "source": {
+                "title": "Garten des bescheidenen Beamten – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Garten_des_bescheidenen_Beamten"
+              }
+            }
+          ],
+          "source": {
+            "title": "Chinesische Wollhandkrabbe – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Chinesische_Wollhandkrabbe"
+          }
+        }
+      ],
+      "source": {
+        "title": "St.-Pauli-Elbtunnel – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/St.-Pauli-Elbtunnel"
+      }
+    },
+    {
+      "id": "2026-11-15-2",
+      "category": "wissenschaft",
+      "title": "Das Carrington-Ereignis",
+      "text": "Am 1. September 1859 sah der britische Astronom Richard Carrington auf der Sonne zwei grell weiße Lichtflecken. Es war der erste dokumentierte Sonnenflare. Keine 18 Stunden später erreichte eine Wolke aus geladenen Teilchen die Erde: Polarlichter leuchteten bis in die Karibik, und in Telegrafenämtern sprühten Funken aus den Geräten. Zwischen Boston und Portland sollen Telegrafisten sogar mit abgeklemmten Batterien gesendet haben, angetrieben allein vom Strom, den der Sturm in den Leitungen erzeugte.",
+      "children": [
+        {
+          "id": "2026-11-15-2-0",
+          "title": "Minen im Sonnensturm",
+          "text": "Noch schneller war die Sonne im August 1972: Ihre Teilchenwolke brauchte nur rund 15 Stunden bis zur Erde, einer der schnellsten je gemessenen Ausbrüche. Am 4. August explodierten vor Nordvietnam plötzlich rund zwei Dutzend US-Seeminen, deren Magnetzünder die Feldschwankungen für ein Schiff hielten. Breit bekannt machte den Vorfall erst 2018 eine Studie um die Forscherin Delores Knipp. Der Sturm fiel zudem genau in die Pause zwischen den Mondflügen Apollo 16 und 17.",
+          "hook": "Keine 18 Stunden später",
+          "children": [
+            {
+              "id": "2026-11-15-2-0-0",
+              "title": "Gauß gegen die Mine",
+              "text": "Die Magnetzünder von 1972 hatten Vorläufer: Schon 1939 versenkte Deutschland Schiffe mit Magnetminen, die auf das Eisen im Rumpf reagierten. Im November 1939 landete eine solche Mine bei Shoeburyness an der Themsemündung im Watt, und Lieutenant Commander John Ouvry entschärfte sie bei Ebbe. Ihr Innenleben verriet die Gegenmaßnahme: Kabelschleifen um den Rumpf, die das Magnetfeld des Schiffs aufhoben. Das Verfahren heißt nach Carl Friedrich Gauß Degaussing und lebte später als Knopf an Röhrenmonitoren weiter, der Farbflecken vom Bildschirm tilgte.",
+              "hook": "deren Magnetzünder die Feldschwankungen",
+              "children": [],
+              "source": {
+                "title": "Magnetischer Eigenschutz – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Magnetischer_Eigenschutz"
+              }
+            },
+            {
+              "id": "2026-11-15-2-0-1",
+              "title": "Die Erde stand Kopf",
+              "text": "Vier Monate nach dem Sturm brach Apollo 17 auf, die bislang letzte Mondlandung mit Menschen. Wenige Stunden nach dem Start am 7. Dezember 1972 fotografierte die Crew die vollständig beleuchtete Erde, weil die Sonne genau in ihrem Rücken stand: Es entstand „Blue Marble“, eines der meistverbreiteten Fotos überhaupt. Meist wird es Harrison Schmitt zugeschrieben, offiziell gilt die ganze Crew als Urheber. Im Original stand die Erde Kopf, mit der Antarktis oben, und erst die NASA drehte das Bild für die Öffentlichkeit um.",
+              "hook": "zwischen den Mondflügen Apollo 16 und 17",
+              "children": [],
+              "source": {
+                "title": "Blue Marble – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Blue_Marble"
+              }
+            },
+            {
+              "id": "2026-11-15-2-0-2",
+              "title": "Der verschmähte Sonnenwind",
+              "text": "Die Wolke von 1972 raste durch einen Strom, der ohnehin ständig fließt: 1958 sagte der Physiker Eugene Parker voraus, dass die Sonne unablässig Teilchen ins All bläst, und nannte das Sonnenwind. Zwei Gutachter lehnten seinen Aufsatz ab, erscheinen konnte er nur, weil sich Herausgeber Subrahmanyan Chandrasekhar über sie hinwegsetzte. 1962 bestätigte die Sonde Mariner 2 den Wind. 2018 startete die Parker Solar Probe, die erste NASA-Sonde, die nach einem lebenden Menschen benannt wurde, und der 91-jährige Parker sah beim Start zu.",
+              "hook": "Ihre Teilchenwolke brauchte nur rund 15 Stunden",
+              "children": [],
+              "source": {
+                "title": "Eugene N. Parker – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Eugene_N._Parker"
+              }
+            }
+          ],
+          "source": {
+            "title": "August 1972 solar storms – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/August_1972_solar_storms"
+          }
+        },
+        {
+          "id": "2026-11-15-2-1",
+          "title": "Québecs 90 Sekunden",
+          "text": "Was 1859 Telegrafen Funken sprühen ließ, trifft heute Stromnetze: Lange Leitungen fangen geomagnetisch induzierte Ströme auf. Am 13. März 1989 brach so das Netz von Hydro-Québec in rund 90 Sekunden zusammen, etwa sechs Millionen Menschen saßen bis zu neun Stunden im Dunkeln. Verstärkt wurde der Effekt durch den Kanadischen Schild, schlecht leitendes Urgestein, in das der Strom kaum ausweichen konnte. Zugleich wurde in New Jersey ein Transformator des Kernkraftwerks Salem beschädigt.",
+          "hook": "in Telegrafenämtern sprühten Funken aus",
+          "children": [
+            {
+              "id": "2026-11-15-2-1-0",
+              "title": "Ein Asteroid voller Nickel",
+              "text": "Im Kanadischen Schild steckt nicht nur schlecht leitendes Urgestein, sondern auch die Spur einer kosmischen Katastrophe. Bei Sudbury in Ontario schlug vor rund 1,85 Milliarden Jahren ein Asteroid ein und hinterließ eine der größten bekannten Einschlagstrukturen der Erde. In der Gesteinsschmelze reicherten sich Metalle an, daraus entstand eines der reichsten Nickelreviere der Welt. Anfang der 1970er-Jahre übten Apollo-Astronauten hier, Einschlaggestein zu erkennen, bevor sie auf dem Mond danach suchten.",
+              "hook": "Kanadischen Schild, schlecht leitendes Urgestein",
+              "children": [],
+              "source": {
+                "title": "Sudbury-Becken – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Sudbury-Becken"
+              }
+            },
+            {
+              "id": "2026-11-15-2-1-1",
+              "title": "Rekordleitungen unter Eis",
+              "text": "Das Netz von Hydro-Québec war so anfällig, weil es Strom aus fernen Wasserkraftwerken über extrem lange Leitungen in die Städte im Süden schickt. Dafür nahm das Unternehmen 1965 die weltweit erste Leitung mit 735 Kilovolt in Betrieb, nach einer Idee des Ingenieurs Jean-Jacques Archambault. Den härtesten Schlag versetzte dem Netz aber nicht die Sonne: Im Januar 1998 brachte Eisregen je nach Zählung rund 900 bis 1500 Stahlmasten zum Einsturz. Manche Haushalte blieben danach wochenlang ohne Strom. Der Sonnensturm hatte sie höchstens neun Stunden gekostet.",
+              "hook": "das Netz von Hydro-Québec",
+              "children": [],
+              "source": {
+                "title": "Hydro-Québec – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Hydro-Qu%C3%A9bec"
+              }
+            },
+            {
+              "id": "2026-11-15-2-1-2",
+              "title": "Das Brummen als Zeuge",
+              "text": "Dem Transformator des Kernkraftwerks Salem setzte 1989 ein Gleichstrom zu, der seinen Eisenkern magnetisch übersättigte und überhitzte. Doch auch im Normalbetrieb arbeitet so ein Kern: Bei jeder Ummagnetisierung dehnt er sich minimal aus, deshalb brummt er in Europa mit 100 Hertz, der doppelten Netzfrequenz. Dieses Netzbrummen gerät auch in Tonaufnahmen, und weil die Frequenz ständig winzig schwankt, wirkt es wie ein Zeitstempel. Kriminaltechniker gleichen es mit Frequenzarchiven ab, um zu prüfen, wann eine Aufnahme entstand und ob sie geschnitten wurde.",
+              "hook": "Transformator des Kernkraftwerks Salem",
+              "children": [],
+              "source": {
+                "title": "Netzfrequenz als Grundlage für forensische Analysen – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Netzfrequenz_als_Grundlage_f%C3%BCr_forensische_Analysen"
+              }
+            }
+          ],
+          "source": {
+            "title": "March 1989 geomagnetic storm – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/March_1989_geomagnetic_storm"
+          }
+        },
+        {
+          "id": "2026-11-15-2-2",
+          "title": "Warum Polarlicht rot wird",
+          "text": "Weit im Süden leuchten Polarlichter meist rot statt grün. Das Grün stammt von Sauerstoff in rund 100 bis 200 Kilometern Höhe, das Rot mit 630 Nanometern Wellenlänge ebenfalls von Sauerstoff, aber weiter oben, und nur diese hohen Schichten ragen für ferne Beobachter über den Horizont. Im Januar 1938 färbte so ein rotes Polarlicht den Himmel über weiten Teilen Europas. Mancherorts rückte die Feuerwehr aus, und die Fátima-Seherin Lúcia dos Santos deutete es als Vorzeichen eines Krieges.",
+          "hook": "Polarlichter leuchteten bis in die Karibik",
+          "children": [
+            {
+              "id": "2026-11-15-2-2-0",
+              "title": "Die Kugel in der Krone",
+              "text": "Berühmt war Lúcia dos Santos seit ihrer Kindheit: 1917 hatte sie mit zwei Cousins bei Fátima in Portugal von Marienerscheinungen berichtet. Am 13. Oktober jenes Jahres sahen Zehntausende Menschen dort die Sonne scheinbar tanzen. Später war vom „Sonnenwunder“ die Rede. Das letzte der drei Geheimnisse, die Lúcia empfangen haben wollte, veröffentlichte der Vatikan erst im Jahr 2000 und bezog es auf das Attentat auf Johannes Paul II. von 1981. Der Papst schenkte eine der Kugeln dem Heiligtum. Heute steckt sie in der Krone der Marienstatue von Fátima.",
+              "hook": "die Fátima-Seherin Lúcia dos Santos",
+              "children": [],
+              "source": {
+                "title": "Marienerscheinungen von Fátima – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Marienerscheinungen_von_F%C3%A1tima"
+              }
+            },
+            {
+              "id": "2026-11-15-2-2-1",
+              "title": "Das Phantomelement Nebulium",
+              "text": "Das rote Licht bei 630 Nanometern entsteht durch einen sogenannten verbotenen Übergang: Ein angeregtes Sauerstoffatom braucht im Mittel fast zwei Minuten, bis es leuchtet. In dichterer Luft stößt es vorher mit anderen Teilchen zusammen und gibt die Energie lautlos ab. Derselbe Effekt führte Astronomen in die Irre. 1864 sah William Huggins im Katzenaugennebel grüne Linien, die zu keinem bekannten Element passten, und man vermutete einen neuen Stoff namens Nebulium. 1927 zeigte Ira Bowen, dass es schlicht ionisierter Sauerstoff war.",
+              "hook": "630 Nanometern Wellenlänge",
+              "children": [],
+              "source": {
+                "title": "Verbotener Übergang – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Verbotener_%C3%9Cbergang"
+              }
+            },
+            {
+              "id": "2026-11-15-2-2-2",
+              "title": "Wo der Weltraum beginnt",
+              "text": "An der Untergrenze des grünen Polarlichts verläuft eine berühmte Linie: Nach der Konvention des Luftsportverbands FAI beginnt bei 100 Kilometern der Weltraum, benannt nach dem Physiker Theodore von Kármán. Die Zahl ist eher eine Rundung als ein Naturgesetz. US-Luftwaffe und NASA ziehen die Grenze bei 50 Meilen, also bei rund 80 Kilometern. Deshalb galten Piloten des Raketenflugzeugs X-15 in den 1960er-Jahren als Astronauten, obwohl sie nie eine Umlaufbahn erreichten. Drei zivile NASA-Piloten erhielten ihre Astronautenabzeichen erst 2005, zwei davon posthum.",
+              "hook": "rund 100 bis 200 Kilometern Höhe",
+              "children": [],
+              "source": {
+                "title": "Kármán-Linie – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/K%C3%A1rm%C3%A1n-Linie"
+              }
+            }
+          ],
+          "source": {
+            "title": "Polarlicht – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Polarlicht"
+          }
+        }
+      ],
+      "source": {
+        "title": "Carrington-Ereignis – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Carrington-Ereignis"
+      }
+    }
+  ]
+}
