@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-16T00:56:31.186Z",
+  "topics": [
+    {
+      "id": "2026-11-18-0",
+      "category": "natur",
+      "title": "Der Pfeilschwanzkrebs",
+      "text": "Pfeilschwanzkrebse sind trotz ihres Namens keine Krebse. Sie sind näher mit Spinnen und Skorpionen verwandt, und ihre Linie reicht rund 450 Millionen Jahre zurück. Ihr Blut ist blau, weil der Sauerstoff an das kupferhaltige Hämocyanin gebunden ist. Daraus gewinnt die Pharmaindustrie das Limulus-Amöbozyten-Lysat, das winzige Spuren bakterieller Endotoxine in Impfstoffen verrät. Im Mai und Juni legen sie in der Delaware Bay Massen von Eiern, von denen Zugvögel wie der Knutt abhängen.",
+      "children": [
+        {
+          "id": "2026-11-18-0-0",
+          "title": "Die Schnecke mit dem Loch",
+          "text": "Kupferhaltiges Hämocyanin trägt nicht nur den Sauerstoff von Pfeilschwanzkrebsen. Es steckt auch in einer Meeresschnecke vor Kalifornien und Mexiko, der Großen Schlüssellochschnecke Megathura crenulata. Ihr Hämocyanin, kurz KLH genannt, ist ein riesiges Molekül, das das menschliche Immunsystem stark alarmiert. Labore koppeln deshalb kleine Moleküle daran, um Antikörper gegen sie zu gewinnen, und in einigen Ländern wird KLH gegen Blasenkrebs eingesetzt. Weil die Wildbestände klein sind und nicht übernutzt werden sollen, züchtet man die Schnecken inzwischen in Aquakultur.",
+          "hook": "kupferhaltige Hämocyanin",
+          "children": [
+            {
+              "id": "2026-11-18-0-0-0",
+              "title": "Tuberkulose gegen Tumoren",
+              "text": "Bei Blasenkrebs setzen Ärzte neben KLH vor allem auf einen Tuberkulose-Impfstoff: BCG. Albert Calmette und Camille Guérin schwächten ab 1908 einen Rindertuberkulose-Erreger, indem sie ihn rund 13 Jahre lang auf Kartoffelscheiben mit Rindergalle weiterzüchteten. Seit den 1970er-Jahren spült man die Bakterien direkt in die Blase, wo sie das Immunsystem gegen Tumorreste aufbringen. So wurde ein Impfstoff gegen eine uralte Seuche zu einer der ersten Krebs-Immuntherapien.",
+              "hook": "gegen Blasenkrebs eingesetzt",
+              "children": [],
+              "source": {
+                "title": "Bacillus Calmette-Guérin – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bacillus_Calmette-Gu%C3%A9rin"
+              }
+            },
+            {
+              "id": "2026-11-18-0-0-1",
+              "title": "Landsteiners Huckepack",
+              "text": "Kleine Moleküle, die allein keine Immunantwort auslösen, heißen Haptene. Den Begriff prägte der Wiener Arzt Karl Landsteiner Anfang der 1920er-Jahre. Er hatte gezeigt, dass solche Moleküle erst gekoppelt an ein großes Trägerprotein die Bildung von Antikörpern anstoßen. Berühmt wurde er aber für eine frühere Entdeckung: 1901 fand er die Blutgruppen. Dafür erhielt er 1930 den Nobelpreis, und sein Geburtstag, der 14. Juni, ist heute Weltblutspendetag.",
+              "hook": "koppeln deshalb kleine Moleküle daran",
+              "children": [],
+              "source": {
+                "title": "Karl Landsteiner – Biographical – NobelPrize.org",
+                "url": "https://www.nobelprize.org/prizes/medicine/1930/landsteiner/biographical/?print=1"
+              }
+            },
+            {
+              "id": "2026-11-18-0-0-2",
+              "title": "Rettung fürs Weiße Seeohr",
+              "text": "Vor Kalifornien und Mexiko lebt auch das Weiße Seeohr, eine entfernt verwandte Schnecke, deren Schale ebenfalls Löcher hat, sogar eine ganze Reihe davon. In den 1970er-Jahren wurde es so stark befischt, dass die Bestände um rund 99 Prozent einbrachen. 2001 wurde es als erstes wirbelloses Meerestier in den USA als vom Aussterben bedroht eingestuft. Heute ziehen Forscher Jungtiere im Labor auf und setzen sie seit einigen Jahren wieder im Meer aus.",
+              "hook": "vor Kalifornien und Mexiko",
+              "children": [],
+              "source": {
+                "title": "Haliotis sorenseni – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Haliotis_sorenseni"
+              }
+            }
+          ],
+          "source": {
+            "title": "Große Kalifornische Schlüssellochschnecke – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Gro%C3%9Fe_Kalifornische_Schl%C3%BCssellochschnecke"
+          }
+        },
+        {
+          "id": "2026-11-18-0-1",
+          "title": "Fieber aus dem Wasser",
+          "text": "Bevor das Blut der Pfeilschwanzkrebse bakterielle Endotoxine aufspürte, übernahmen Kaninchen diese Aufgabe. In den 1920er-Jahren zeigte die US-Biochemikerin Florence Seibert, dass Fieberschübe nach Infusionen von Bakterienrückständen im destillierten Wasser kamen, und entwickelte eine Destillierfalle dagegen. Daraus entstand der Kaninchen-Pyrogentest, der 1942 ins US-Arzneibuch aufgenommen wurde. Seibert, die als Kind an Polio erkrankt war, standardisierte später auch den Tuberkulin-Hauttest.",
+          "hook": "Spuren bakterieller Endotoxine",
+          "children": [
+            {
+              "id": "2026-11-18-0-1-0",
+              "title": "Fieber als Medizin",
+              "text": "Fieberschübe waren nicht immer unerwünscht: Der Wiener Psychiater Julius Wagner-Jauregg löste sie ab 1917 absichtlich aus. Patienten mit progressiver Paralyse, dem Spätstadium der Syphilis, impfte er mit Malariaerregern und beendete die Fieberattacken später mit Chinin. Viele der zuvor als unheilbar geltenden Kranken besserten sich, und 1927 erhielt er den Medizin-Nobelpreis. Damit ist er einer der ganz wenigen Psychiater mit dieser Auszeichnung, und zwar für eine Methode, die wenige Jahrzehnte später durch Penicillin überflüssig wurde.",
+              "hook": "Fieberschübe nach Infusionen",
+              "children": [],
+              "source": {
+                "title": "Malariatherapie – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Malariatherapie"
+              }
+            },
+            {
+              "id": "2026-11-18-0-1-1",
+              "title": "Atmen im Stahltank",
+              "text": "Polio, die Krankheit, an der Seibert als Kind erkrankte, konnte in schweren Fällen die Atemmuskeln lähmen. Dagegen bauten Philip Drinker und Louis Agassiz Shaw 1928 in Harvard die Eiserne Lunge, einen luftdichten Tank, der durch Unterdruck den Brustkorb weitet und so jeden Atemzug erzwingt. In den Epidemien der 1950er-Jahre füllten diese Maschinen ganze Krankenhaussäle. Der Texaner Paul Alexander, 1952 mit sechs Jahren erkrankt, lebte über 70 Jahre lang mit seiner Eisernen Lunge, wurde Anwalt und starb erst 2024.",
+              "hook": "als Kind an Polio erkrankt",
+              "children": [],
+              "source": {
+                "title": "Eiserne Lunge – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Eiserne_Lunge"
+              }
+            },
+            {
+              "id": "2026-11-18-0-1-2",
+              "title": "Das falsche Heilmittel",
+              "text": "Der Tuberkulin-Hauttest geht auf einen der größten Fehlschläge Robert Kochs zurück. Im Jahr 1890 kündigte Koch in Berlin ein Mittel gegen Tuberkulose an und hielt dessen Zusammensetzung zunächst geheim. Tausende Kranke reisten an, doch das Tuberkulin heilte nicht und schadete manchen sogar. Später zeigte sich aber, dass Menschen, die sich mit Tuberkulose angesteckt hatten, auf eine winzige Dosis in die Haut mit einer verhärteten Schwellung reagieren. So wurde aus dem gescheiterten Heilmittel ein Diagnosewerkzeug, das bis heute verwendet wird.",
+              "hook": "auch den Tuberkulin-Hauttest",
+              "children": [],
+              "source": {
+                "title": "Tuberkulin-Test – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Tuberkulin-Test"
+              }
+            }
+          ],
+          "source": {
+            "title": "Florence B. Seibert – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Florence_B._Seibert"
+          }
+        },
+        {
+          "id": "2026-11-18-0-2",
+          "title": "Der Vogel B95",
+          "text": "Die Knutts in der Delaware Bay gehören zur Unterart rufa, die zwischen Feuerland und der kanadischen Arktis pendelt, pro Strecke rund 15.000 Kilometer. Vor langen Etappen schrumpfen ihre Verdauungsorgane, während die Flugmuskeln wachsen. Berühmt wurde ein Vogel mit dem Ring B95, der 1995 in Argentinien beringt wurde: Über sein Leben soll er mindestens bis zum Mond und halb zurück geflogen sein, nach manchen Schätzungen sogar weiter als zum Mond und zurück. Dass der Artname canutus auf König Knut zurückgeht, ist nicht gesichert.",
+          "hook": "Zugvögel wie der Knutt",
+          "children": [
+            {
+              "id": "2026-11-18-0-2-0",
+              "title": "Elf Tage ohne Landung",
+              "text": "Dass Zugvögel vor dem Abflug ihre Organe umbauen, hat das Team um den Niederländer Theunis Piersma auch bei der Pfuhlschnepfe gemessen. Diese Art treibt das Prinzip auf die Spitze. Im Oktober 2022 flog ein besenderter Jungvogel ohne Pause von Alaska nach Tasmanien, rund 13.500 Kilometer in etwa elf Tagen, ohne zu fressen oder zu trinken. Das Tier war erst rund fünf Monate alt. Junge Pfuhlschnepfen brechen meist nach den Altvögeln auf und finden ihren ersten Weg über den Pazifik also ohne Vorbild.",
+              "hook": "schrumpfen ihre Verdauungsorgane",
+              "children": [],
+              "source": {
+                "title": "Pfuhlschnepfe – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Pfuhlschnepfe"
+              }
+            },
+            {
+              "id": "2026-11-18-0-2-1",
+              "title": "Der König und die Flut",
+              "text": "Knut der Große herrschte im frühen 11. Jahrhundert über England, Dänemark und Norwegen, ein ganzes Reich rund um die Nordsee. Heute kennt man ihn vor allem aus einer Legende, die der Chronist Heinrich von Huntingdon etwa hundert Jahre nach Knuts Tod aufschrieb. Darin lässt der König seinen Thron an den Strand stellen und befiehlt der Flut zurückzuweichen. Als ihm das Wasser die Füße nässt, erklärt er, die Macht der Könige sei nichtig vor Gott. Ironischerweise gilt die Szene heute oft als Sinnbild für Größenwahn, obwohl Knut in der Legende genau das Gegenteil beweisen will.",
+              "hook": "auf König Knut zurückgeht",
+              "children": [],
+              "source": {
+                "title": "Knut der Große – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Knut_der_Gro%C3%9Fe"
+              }
+            },
+            {
+              "id": "2026-11-18-0-2-2",
+              "title": "Der Mond auf Abstand",
+              "text": "Zum Mond und zurück sind es rund 770.000 Kilometer, und die Strecke wird jedes Jahr ein wenig länger. Seit 1969 schießen Observatorien Laserpulse auf die Reflektoren, die die Apollo-Astronauten auf dem Mond hinterlassen haben. Die Messungen zeigen, dass sich der Mond um etwa 3,8 Zentimeter pro Jahr von der Erde entfernt. Der Grund sind die Gezeiten, die die Erdrotation bremsen und so die Tage verlängern. Das lässt sich sogar an fossilen Korallen ablesen: Ihre Wachstumslinien deuten darauf hin, dass ein Jahr im Devon, vor rund 380 Millionen Jahren, etwa 400 Tage hatte.",
+              "hook": "als zum Mond und zurück",
+              "children": [],
+              "source": {
+                "title": "Lunar Laser Ranging – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Lunar_Laser_Ranging"
+              }
+            }
+          ],
+          "source": {
+            "title": "Knutt – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Knutt"
+          }
+        }
+      ],
+      "source": {
+        "title": "Pfeilschwanzkrebse – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Pfeilschwanzkrebse"
+      }
+    },
+    {
+      "id": "2026-11-18-1",
+      "category": "technik",
+      "title": "Der Einstein-Kühlschrank",
+      "text": "Ende der 1920er-Jahre entwickelten Albert Einstein und der Physiker Leó Szilárd in Berlin einen Kühlschrank ohne bewegliche Teile. Nach Szilárds späterer Erinnerung war der Anlass ein Zeitungsbericht über eine Familie, die durch giftiges Kühlmittel aus einem undichten Gerät gestorben war. 1930 erhielten die beiden ein US-Patent, und Electrolux kaufte Rechte an ihren Entwürfen. In Serie ging das Gerät nie, denn Kompressoren mit dem damals als harmlos geltenden Freon setzten sich durch.",
+      "children": [
+        {
+          "id": "2026-11-18-1-0",
+          "title": "Der Mann hinter Freon",
+          "text": "Das Freon, das den Einstein-Kühlschrank verdrängte, entwickelte Thomas Midgley Jr. 1928 für General Motors. 1930 atmete er das Gas vor der American Chemical Society ein und blies damit eine Kerze aus, um zu zeigen, dass es ungiftig und nicht brennbar ist. Zuvor hatte er schon Tetraethylblei als Benzinzusatz eingeführt. Beide Erfindungen gelten heute als Umweltkatastrophen. Midgley erkrankte an Polio und starb 1944, stranguliert von einem selbst gebauten Seilzug, der ihm aus dem Bett helfen sollte.",
+          "hook": "mit dem damals als harmlos geltenden Freon",
+          "children": [
+            {
+              "id": "2026-11-18-1-0-0",
+              "title": "Ein Geologe gegen das Blei",
+              "text": "Wie weit sich Midgleys Tetraethylblei verbreitet hatte, bemerkte ausgerechnet ein Geochemiker, der das Alter der Erde bestimmen wollte. Clair Patterson errechnete 1956 anhand des Meteoriten Canyon Diablo rund 4,55 Milliarden Jahre. Seine Proben waren aber ständig mit Blei verunreinigt, weil es in Luft, Staub und Laborgeräten steckte. Patterson wies nach, dass es vor allem aus Autoabgasen stammte, und legte sich jahrzehntelang mit der Bleiindustrie an. Erst im Juli 2021 stoppte Algerien als letztes Land der Welt den Verkauf von verbleitem Autobenzin.",
+              "hook": "Tetraethylblei als Benzinzusatz",
+              "children": [],
+              "source": {
+                "title": "Clair Cameron Patterson – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Clair_Cameron_Patterson"
+              }
+            },
+            {
+              "id": "2026-11-18-1-0-1",
+              "title": "Das Loch über Halley",
+              "text": "Dass Freon eine Umweltkatastrophe auslösen würde, sagten die Chemiker Mario Molina und Sherwood Rowland 1974 voraus: FCKW steigen in die Stratosphäre auf und zerstören Ozon. 1985 meldeten Forscher des British Antarctic Survey nach Messungen an der Station Halley ein riesiges Ozonloch über der Antarktis. 1987 folgte das Montreal-Protokoll, später der erste UN-Vertrag, den alle Mitgliedstaaten ratifizierten. Laut UN-Prognose dürfte sich die Ozonschicht über der Antarktis um 2066 erholt haben, gut 120 Jahre nach Midgleys Tod.",
+              "hook": "Beide Erfindungen gelten heute als Umweltkatastrophen",
+              "children": [],
+              "source": {
+                "title": "Ozonloch – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ozonloch"
+              }
+            },
+            {
+              "id": "2026-11-18-1-0-2",
+              "title": "Wem gehört die Sonne?",
+              "text": "Midgley erkrankte 1940 an Polio, einer Krankheit, die damals vor allem Kinder lähmte und im Sommer Schwimmbäder leer bleiben ließ. Die Wende brachte Jonas Salk: 1954 wurde sein Impfstoff in einer Feldstudie mit rund 1,8 Millionen Kindern geprüft, am 12. April 1955 erklärte man ihn für wirksam. Im Fernsehen fragte Edward R. Murrow, wem das Patent gehöre, und Salk antwortete: „Könnte man die Sonne patentieren?“ Weniger bekannt ist, dass Anwälte vorher geprüft hatten, ob sich der Impfstoff überhaupt patentieren ließ, und das eher bezweifelten.",
+              "hook": "Midgley erkrankte an Polio",
+              "children": [],
+              "source": {
+                "title": "Jonas Salk – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Jonas_Salk"
+              }
+            }
+          ],
+          "source": {
+            "title": "Thomas Midgley – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Thomas_Midgley"
+          }
+        },
+        {
+          "id": "2026-11-18-1-1",
+          "title": "Szilárds Rotlicht-Moment",
+          "text": "Leó Szilárd, Einsteins Partner beim Kühlschrank, floh 1933 vor den Nationalsozialisten nach London. Nach eigener Erzählung kam ihm im September jenes Jahres an einer Ampel in der Southampton Row die Idee einer nuklearen Kettenreaktion, die durch Neutronen ausgelöst wird. Er meldete sie zum Patent an und übertrug es 1936 der britischen Admiralität, damit es geheim blieb. 1939 entwarf er mit Einstein den Brief an Präsident Roosevelt, der den Weg zum Manhattan-Projekt ebnete.",
+          "hook": "der Physiker Leó Szilárd",
+          "children": [
+            {
+              "id": "2026-11-18-1-1-0",
+              "title": "Rutherfords „Mondschein“",
+              "text": "Den Anstoß zu Szilárds Geistesblitz im September 1933 gab nach seiner Erinnerung ein Bericht in der Times: Ernest Rutherford, einer der berühmtesten Atomphysiker seiner Zeit, hatte auf einer Tagung in Leicester erklärt, Energie aus Atomkernen zu gewinnen sei „moonshine“, also ein Hirngespinst. Szilárd ärgerte das so sehr, dass er auf seinen Spaziergängen nach einem Gegenbeweis suchte. Rutherford erlebte die Wende nicht mehr. Er starb im Oktober 1937, gut ein Jahr bevor Otto Hahn und Fritz Straßmann in Berlin die Kernspaltung entdeckten.",
+              "hook": "im September jenes Jahres",
+              "children": [],
+              "source": {
+                "title": "Ernest Rutherford – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ernest_Rutherford"
+              }
+            },
+            {
+              "id": "2026-11-18-1-1-1",
+              "title": "Ein Roman sah es kommen",
+              "text": "Die Idee einer nuklearen Kettenreaktion fiel bei Szilárd auf vorbereiteten Boden: Nach eigener Aussage hatte er 1932 H. G. Wells' Roman „The World Set Free“ gelesen, der bereits 1914 erschienen war. Darin prägte Wells den Begriff „atomic bombs“ und schilderte einen Weltkrieg, in dem solche Bomben ganze Städte verwüsten. Angeregt hatten ihn Schriften des Radiochemikers Frederick Soddy. Das verblüffendste Detail: Wells verlegte die Entdeckung, mit der sich die Atomenergie entfesseln lässt, ins Jahr 1933, also genau in das Jahr von Szilárds Moment an der Ampel.",
+              "hook": "die Idee einer nuklearen Kettenreaktion",
+              "children": [],
+              "source": {
+                "title": "Befreite Welt – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Befreite_Welt"
+              }
+            },
+            {
+              "id": "2026-11-18-1-1-2",
+              "title": "Mit Chauffeur zu Einstein",
+              "text": "Bevor es den Brief an Präsident Roosevelt geben konnte, musste Szilárd im Juli 1939 erst einmal Einstein finden, der in Peconic auf Long Island Urlaub machte. Da Szilárd nicht Auto fuhr, chauffierte ihn der Physiker Eugene Wigner. Die beiden irrten umher, bis ihnen nach Szilárds Erinnerung ein kleiner Junge den Weg zeigte. Beim zweiten Besuch saß Edward Teller am Steuer, der später als Vater der Wasserstoffbombe galt. Teller witzelte gern, er sei als Szilárds Chauffeur in die Geschichte eingegangen.",
+              "hook": "den Brief an Präsident Roosevelt",
+              "children": [],
+              "source": {
+                "title": "Einstein-Szilárd-Brief – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Einstein-Szil%C3%A1rd-Brief"
+              }
+            }
+          ],
+          "source": {
+            "title": "Leó Szilárd – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Le%C3%B3_Szil%C3%A1rd"
+          }
+        },
+        {
+          "id": "2026-11-18-1-2",
+          "title": "Kühlen mit Feuer",
+          "text": "Dass Electrolux sich für Einsteins Entwürfe interessierte, war kein Zufall: Die Firma verkaufte bereits einen Kühlschrank ohne Kompressor. Erfunden hatten ihn um 1922 zwei Studenten der Königlichen Technischen Hochschule in Stockholm, Baltzar von Platen und Carl Munters. Ihr Absorptionsprinzip wird von Wärme statt von einem Motor angetrieben und arbeitet mit Ammoniak, Wasser und Wasserstoff. Weil es lautlos läuft und sogar mit einer Gasflamme funktioniert, steckt es bis heute in Wohnwagen und Hotel-Minibars.",
+          "hook": "Electrolux kaufte Rechte an ihren Entwürfen",
+          "children": [
+            {
+              "id": "2026-11-18-1-2-0",
+              "title": "Der Schaum im Kühlschrank",
+              "text": "Carl Munters erfand nach dem Absorptionskühlschrank weiter und meldete zahlreiche Patente an. Gemeinsam mit dem Electrolux-Forscher John Tandberg entwickelte er in den 1930er-Jahren geschäumtes Polystyrol als Dämmstoff, wohl auch mit Blick auf Kühlschränke. Bei Dow Chemical in den USA entstand 1941 ein eigener Polystyrolschaum, später als Styrofoam vermarktet, BASF brachte 1951 in Deutschland das Styropor heraus. Kurios dabei: Die sprichwörtlichen Styrofoam-Becher sind meist gar keines. Dows Marke steht bis heute vor allem für blaue Dämmplatten am Bau.",
+              "hook": "Carl Munters",
+              "children": [],
+              "source": {
+                "title": "Polystyrol – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Polystyrol"
+              }
+            },
+            {
+              "id": "2026-11-18-1-2-1",
+              "title": "Kälte für das Lagerbier",
+              "text": "Ammoniak gehört zu den ältesten Kältemitteln überhaupt. In den 1870er-Jahren entwickelte der Münchner Ingenieur Carl von Linde eine Kompressions-Kältemaschine, die damit arbeitete. Seine wichtigsten Kunden waren Bierbrauer: Untergäriges Lagerbier braucht Kälte, und bis dahin waren die Brauereien auf Natureis aus dem Winter angewiesen. Heute heißt Ammoniak in der Fachsprache R717 und kühlt Schlachthöfe und Eisstadien. Als Kältemittel erlebt es gerade ein Comeback, weil es weder die Ozonschicht schädigt noch die Erderwärmung antreibt.",
+              "hook": "Ammoniak, Wasser und Wasserstoff",
+              "children": []
+            },
+            {
+              "id": "2026-11-18-1-2-2",
+              "title": "Peitschen und Wohnwagen",
+              "text": "Als einer der ersten Wohnwagen Deutschlands gilt ein Gefährt, das Arist Dethleffs 1931 im Allgäu baute. Er stellte in Isny eigentlich Peitschen und Skistöcke her und war oft als Vertreter unterwegs. Sein „Wohnauto“ sollte es seiner Frau, der Malerin Fridel Edelmann, und der gemeinsamen Tochter ermöglichen, ihn auf diesen Reisen zu begleiten. Bekannte wollten bald eigene Exemplare haben. So wurde aus einer Peitschenfabrik einer der bekanntesten Wohnwagenhersteller des Landes, und sein Sitz ist bis heute Isny.",
+              "hook": "in Wohnwagen und Hotel-Minibars",
+              "children": [],
+              "source": {
+                "title": "Arist Dethleffs – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Arist_Dethleffs"
+              }
+            }
+          ],
+          "source": {
+            "title": "Diffusionsabsorptionskältemaschine – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Diffusionsabsorptionsk%C3%A4ltemaschine"
+          }
+        }
+      ],
+      "source": {
+        "title": "Einstein-Szilárd-Kühlschrank – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Einstein-Szil%C3%A1rd-K%C3%BChlschrank"
+      }
+    },
+    {
+      "id": "2026-11-18-2",
+      "category": "orte",
+      "title": "Das Auge der Sahara",
+      "text": "In der Wüste Mauretaniens liegt die Richat-Struktur, ein Ringsystem mit rund 40 Kilometern Durchmesser. Vom Boden aus ist sie kaum zu erkennen, aus dem Orbit dagegen deutlich. Bekannt wurde sie durch die bemannten Raumflüge der 1960er-Jahre, deren Besatzungen sie als Landmarke nutzten. Lange hielt man sie für einen Meteoritenkrater. Heute gilt sie als aufgewölbte, abgetragene Gesteinskuppel, deren harte und weiche Schichten unterschiedlich schnell verwitterten. Die Behauptung, hier habe Atlantis gelegen, ist unbelegt.",
+      "children": [
+        {
+          "id": "2026-11-18-2-0",
+          "title": "Kameras, die oben blieben",
+          "text": "Viele Fotos der bemannten Raumflüge der 1960er-Jahre entstanden mit Kameras der schwedischen Firma Hasselblad. Den Anfang machte 1962 Walter Schirra, der für seinen Mercury-Flug ein Modell 500C im Laden kaufte und von NASA-Technikern umbauen ließ. Bei den Mondlandungen wurde später Gewicht gespart: Nur die Filmmagazine flogen zurück zur Erde. Rund ein Dutzend Kameragehäuse liegen deshalb bis heute auf dem Mond.",
+          "hook": "bemannten Raumflüge der 1960er-Jahre",
+          "children": [
+            {
+              "id": "2026-11-18-2-0-0",
+              "title": "Vom Handelshaus zur Kamera",
+              "text": "Die schwedische Firma Hasselblad war lange vor der Raumfahrt ein Handelshaus: 1841 in Göteborg gegründet, vertrieb sie später unter anderem Kodak-Produkte in Schweden. Zum Kamerahersteller machte sie Victor Hasselblad, der im Zweiten Weltkrieg Luftbildkameras für die schwedische Luftwaffe baute. Vorbild war eine deutsche Kamera aus einem abgestürzten Flugzeug. Seine Stiftung vergibt seit 1980 den Hasselblad Award. Der erste Preisträger war Lennart Nilsson, berühmt für seine Bilder von Embryonen.",
+              "hook": "schwedischen Firma Hasselblad",
+              "children": [],
+              "source": {
+                "title": "Hasselblad – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Hasselblad"
+              }
+            },
+            {
+              "id": "2026-11-18-2-0-1",
+              "title": "Jingle Bells im Orbit",
+              "text": "Walter Schirra ist der einzige Astronaut, der in allen drei frühen US-Programmen flog: Mercury, Gemini und Apollo. Im Dezember 1965 meldeten er und Thomas Stafford aus Gemini 6A scherzhaft ein unbekanntes Objekt, gesteuert von jemandem im roten Anzug. Dann spielten sie „Jingle Bells“. Schirra hatte eine winzige Mundharmonika der Firma Hohner aus Trossingen an Bord geschmuggelt, Stafford kleine Glöckchen. Beides gilt als erste Musikinstrumente im All.",
+              "hook": "Den Anfang machte 1962 Walter Schirra",
+              "children": [],
+              "source": {
+                "title": "Walter Schirra – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Walter_Schirra"
+              }
+            },
+            {
+              "id": "2026-11-18-2-0-2",
+              "title": "Kunst in der Mondwüste",
+              "text": "Neben Kameras liegen auch andere Gegenstände auf dem Mond, darunter ein Kunstwerk. 1971 legte David Scott bei Apollo 15 eine etwa 8,5 Zentimeter große Aluminiumfigur des belgischen Künstlers Paul Van Hoeydonck in den Staub: den „Fallen Astronaut“. Daneben steckte eine Plakette mit den Namen von 14 verstorbenen Astronauten und Kosmonauten. Ein angebliches zweites Werk soll heimlich an der Landefähre von Apollo 12 befestigt worden sein: ein Keramikplättchen mit Zeichnungen von sechs Künstlern, darunter Andy Warhol. Das ist bis heute nicht belegt.",
+              "hook": "liegen deshalb bis heute auf dem Mond",
+              "children": [],
+              "source": {
+                "title": "Fallen Astronaut – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Fallen_Astronaut"
+              }
+            }
+          ],
+          "source": {
+            "title": "The Hasselblad Camera – Hasselblad Foundation",
+            "url": "https://www.hasselbladfoundation.org/en/history/the-hasselblad-camera/"
+          }
+        },
+        {
+          "id": "2026-11-18-2-1",
+          "title": "Der Krater des Eisensuchers",
+          "text": "Wie ein echter Meteoritenkrater aussieht, zeigt der Barringer-Krater in Arizona: rund 1,2 Kilometer breit, etwa 50.000 Jahre alt. Der Bergbauingenieur Daniel Barringer sicherte sich das Gelände ab 1903, weil er im Boden einen riesigen Eisenkörper vermutete, und bohrte jahrzehntelang vergeblich. Der Meteorit war beim Einschlag größtenteils verdampft. Endgültig belegt wurde der Einschlag 1960 durch den Fund von Coesit, einer Hochdruckform von Quarz.",
+          "hook": "hielt man sie für einen Meteoritenkrater",
+          "children": [
+            {
+              "id": "2026-11-18-2-1-0",
+              "title": "Begraben auf dem Mond",
+              "text": "Den Coesit-Nachweis von 1960 erbrachte der Geologe Eugene Shoemaker zusammen mit Edward Chao. Shoemaker wollte selbst zum Mond fliegen, wurde aber wegen der Addison-Krankheit ausgemustert und brachte stattdessen Apollo-Astronauten Geologie bei. 1993 entdeckte er mit seiner Frau Carolyn und David Levy einen Kometen, der ein Jahr später auf den Jupiter stürzte. Nach seinem Unfalltod 1997 nahm die Sonde Lunar Prospector eine Kapsel mit seiner Asche mit. Seit 1999 liegt er als bislang einziger Mensch auf dem Mond.",
+              "hook": "Endgültig belegt wurde der Einschlag 1960",
+              "children": [],
+              "source": {
+                "title": "Eugene Shoemaker – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Eugene_Shoemaker"
+              }
+            },
+            {
+              "id": "2026-11-18-2-1-1",
+              "title": "Das Alter der Erde",
+              "text": "Was beim Einschlag nicht verdampfte, fand sich als Eisenbrocken rund um den Krater verstreut: der Canyon-Diablo-Meteorit. An Material aus diesem Meteoriten bestimmte der Geochemiker Clair Patterson 1956 über Bleiisotope das Alter der Erde auf rund 4,55 Milliarden Jahre. Der Wert gilt im Kern bis heute. Bei der Arbeit störte ihn Blei, das überall in seinem Labor auftauchte, und er spürte eine Hauptquelle auf: verbleites Benzin. Sein jahrzehntelanger Kampf trug dazu bei, dass es aus den Tanks verschwand.",
+              "hook": "beim Einschlag größtenteils verdampft",
+              "children": [],
+              "source": {
+                "title": "Clair Cameron Patterson – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Clair_Cameron_Patterson"
+              }
+            },
+            {
+              "id": "2026-11-18-2-1-2",
+              "title": "Eine Kirche voller Diamanten",
+              "text": "Kurz nach Arizona fanden Shoemaker und Chao Coesit auch im Nördlinger Ries in Bayern. Damit war bewiesen, dass das rund 25 Kilometer weite Becken kein Vulkankrater ist, sondern vor etwa 15 Millionen Jahren durch einen Einschlag entstand. 1970 übten dort die Astronauten von Apollo 14, Einschlaggestein zu erkennen. Die Nördlinger Kirche St. Georg ist aus Suevit gebaut, einem Trümmergestein aus diesem Einschlag. Und Suevit enthält winzige Diamanten, die beim Aufprall entstanden sind.",
+              "hook": "Coesit, einer Hochdruckform von Quarz",
+              "children": [],
+              "source": {
+                "title": "Nördlinger Ries – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/N%C3%B6rdlinger_Ries"
+              }
+            }
+          ],
+          "source": {
+            "title": "Barringer-Krater – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Barringer-Krater"
+          }
+        },
+        {
+          "id": "2026-11-18-2-2",
+          "title": "Atlantis aus Platons Feder",
+          "text": "Alle Atlantis-Theorien gehen auf eine einzige antike Quelle zurück: Platons Dialoge „Timaios“ und „Kritias“, entstanden um 360 v. Chr. Dort liegt die Inselmacht jenseits der Säulen des Herakles und versinkt an einem einzigen Tag und in einer Nacht, rund 9000 Jahre vor Solons Zeit. Die meisten Altphilologen lesen das als philosophisches Gleichnis. Zum populären Mythos machte es vor allem der US-Politiker Ignatius Donnelly mit seinem Bestseller von 1882.",
+          "hook": "hier habe Atlantis gelegen",
+          "children": [
+            {
+              "id": "2026-11-18-2-2-0",
+              "title": "Noch weiter als die Welt",
+              "text": "Die Säulen des Herakles standen für die Straße von Gibraltar, für antike Seefahrer das Ende der bekannten Welt. Kaiser Karl V. machte sie im 16. Jahrhundert zu seinem Emblem, mit dem trotzigen Motto „Plus Ultra“, „noch weiter“. Bald bezog man es auf seine Reiche jenseits des Atlantiks. Später prangten Säulen und Spruchband auf spanischen Silbermünzen, die weltweit im Umlauf waren. Eine verbreitete, aber umstrittene Erklärung sieht in dem Band, das sich um eine Säule windet, den Ursprung des Dollarzeichens.",
+              "hook": "jenseits der Säulen des Herakles",
+              "children": [],
+              "source": {
+                "title": "Säulen des Herakles – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/S%C3%A4ulen_des_Herakles"
+              }
+            },
+            {
+              "id": "2026-11-18-2-2-1",
+              "title": "Donnellys Geheimcode",
+              "text": "Ignatius Donnelly, Kongressabgeordneter und einst Vizegouverneur von Minnesota, beließ es nicht bei Atlantis. 1888 veröffentlichte er „The Great Cryptogram“. Darin behauptete er, in Shakespeares Stücken verschlüsselte Botschaften entdeckt zu haben, die Francis Bacon als wahren Autor entlarvten. Kritiker zerlegten seine willkürlichen Zählmethoden schnell. Pikant daran: Bacon hatte tatsächlich eine Geheimschrift erfunden, die jeden Buchstaben aus nur zwei Zeichen, A und B, zusammensetzt. Sie gilt als früher Vorläufer des Binärcodes.",
+              "hook": "US-Politiker Ignatius Donnelly",
+              "children": [],
+              "source": {
+                "title": "Ignatius Donnelly – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ignatius_Donnelly"
+              }
+            },
+            {
+              "id": "2026-11-18-2-2-2",
+              "title": "Solon und der reiche König",
+              "text": "Laut Platon gelangte die Atlantis-Geschichte über Solon nach Athen. Ägyptische Priester in Sais sollen sie dem Gesetzgeber erzählt haben. Historisch gut belegt ist Solons Reform um 594 v. Chr., die sogenannte Seisachtheia. Mit ihr strich er Schulden und verbot, Athener wegen Schulden in die Sklaverei zu verkaufen. Herodot erzählt außerdem, Solon habe den Lyderkönig Krösus gewarnt, niemanden vor seinem Tod glücklich zu preisen. Schon Plutarch kannte den Einwand, diese Begegnung sei zeitlich kaum möglich. Trotzdem erzählte er sie nach, weil sie zu gut zu Solon passte.",
+              "hook": "rund 9000 Jahre vor Solons Zeit",
+              "children": [],
+              "source": {
+                "title": "Solon – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Solon"
+              }
+            }
+          ],
+          "source": {
+            "title": "Kritias (Platon) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Kritias_(Platon)"
+          }
+        }
+      ],
+      "source": {
+        "title": "Guelb er Richat – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Guelb_er_Richat"
+      }
+    }
+  ]
+}

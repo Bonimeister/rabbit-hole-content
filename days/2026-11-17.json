@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-16T00:47:07.039Z",
+  "topics": [
+    {
+      "id": "2026-11-17-0",
+      "category": "technik",
+      "title": "Der Pont du Gard",
+      "text": "Der Pont du Gard in Südfrankreich ist der rund 49 Meter hohe Brückenteil einer römischen Wasserleitung, die im 1. Jahrhundert n. Chr. Quellwasser aus der Gegend von Uzès nach Nîmes brachte. Die Leitung war etwa 50 Kilometer lang, fiel auf der ganzen Strecke aber nur gut 12 Meter ab, im Schnitt also rund 25 Zentimeter pro Kilometer. Die drei Bogenreihen wurden größtenteils ohne Mörtel aus tonnenschweren Kalksteinblöcken gefügt. Seit 1985 gehört das Bauwerk zum UNESCO-Welterbe.",
+      "children": [
+        {
+          "id": "2026-11-17-0-0",
+          "title": "Mauern ohne Messerspalt",
+          "text": "Ohne Mörtel bauten auch die Inka, sie trieben das Prinzip aber noch weiter: In Cusco und in der Anlage Sacsayhuamán sind vielkantige Steinblöcke so passgenau gefügt, dass oft keine Messerklinge in die Fugen passt. Die größten Blöcke in Sacsayhuamán werden auf über 100 Tonnen geschätzt. Bei den Erdbeben von 1650 und 1950 stürzten viele spanische Kolonialbauten ein, während die Inka-Mauern weitgehend standhielten. Das Beben von 1950 legte unter der Kirche Santo Domingo sogar Mauern des Sonnentempels Coricancha frei.",
+          "hook": "größtenteils ohne Mörtel",
+          "children": [
+            {
+              "id": "2026-11-17-0-0-0",
+              "title": "Das Lösegeld des Atahualpa",
+              "text": "Der Sonnentempel Coricancha war einst mit Goldplatten verkleidet, doch fast alles davon endete in spanischen Schmelzöfen. Der Grund war ein Handel: Der gefangene Inka-Herrscher Atahualpa bot 1532 in Cajamarca an, einen Raum einmal mit Gold und zweimal mit Silber füllen zu lassen. Aus dem ganzen Reich kamen Kunstwerke, die zu Barren eingeschmolzen wurden. Atahualpa wurde 1533 trotzdem hingerichtet. In Cajamarca zeigt man heute einen „Cuarto del Rescate“, doch ob es wirklich der Lösegeldraum war, ist umstritten.",
+              "hook": "Sonnentempels Coricancha",
+              "children": [],
+              "source": {
+                "title": "Ransom Room – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ransom_Room"
+              }
+            },
+            {
+              "id": "2026-11-17-0-0-1",
+              "title": "Der Christus der Beben",
+              "text": "Während des Erdbebens von 1650 trugen die Menschen in Cusco ein Kruzifix aus der Kathedrale durch die Stadt. Der Überlieferung nach hörten die Erdstöße daraufhin auf. Seitdem verehren sie die Figur als „Señor de los Temblores“, den Herrn der Beben, und tragen sie jedes Jahr am Montag der Karwoche durch die Straßen. Dabei regnet es rote Blüten der Ñucchu, einer Salbeiart. Die auffallend dunkle Haut des Christus stammt nach gängiger Erklärung vom Ruß unzähliger Kerzen und Öllampen.",
+              "hook": "Erdbeben von 1650 und 1950",
+              "children": [],
+              "source": {
+                "title": "Señor de los Temblores – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Se%C3%B1or_de_los_Temblores"
+              }
+            },
+            {
+              "id": "2026-11-17-0-0-2",
+              "title": "Steine mit Steinen formen",
+              "text": "Wie die Inka ihre Fugen so dicht bekamen, untersuchte der Berkeley-Architekt Jean-Pierre Protzen in den 1980er-Jahren in Steinbrüchen bei Ollantaytambo. Er bearbeitete harten Vulkanstein mit runden Flusskieseln als Hämmern und kam schneller voran als erwartet. Für die Passform setzten die Bauleute die Steine vermutlich immer wieder probeweise auf und klopften die Druckstellen nach. Die Legende von einem Pflanzensaft, der Stein erweicht, braucht es dafür nicht: Das Geheimnis waren Geduld und viele Arbeitskräfte.",
+              "hook": "keine Messerklinge in die Fugen passt",
+              "children": [],
+              "source": {
+                "title": "Jean-Pierre Protzen – UC Berkeley College of Environmental Design",
+                "url": "https://ced.berkeley.edu/news/ced-professor-emeritus-jean-pierre-protzen-and-wife-elsbeth-protzen-have-died-2"
+              }
+            }
+          ],
+          "source": {
+            "title": "Sacsayhuamán – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Sacsayhuam%C3%A1n"
+          }
+        },
+        {
+          "id": "2026-11-17-0-1",
+          "title": "Der Tisch, der Gefälle maß",
+          "text": "Ein Gefälle von rund 25 Zentimetern pro Kilometer ließ sich nur mit guten Messgeräten abstecken, etwa mit dem Chorobates. Der römische Architekt Vitruv beschreibt ihn als etwa 20 Fuß langen Holztisch mit Senkloten an den Seiten und einer Wasserrinne obendrauf, die man nutzte, wenn der Wind die Lote ablenkte. Seine zehn Bücher „De architectura“ gelten als einzige vollständig erhaltene Architekturschrift der Antike. Aus dem dritten Buch übernahm Leonardo da Vinci um 1490 die Körperproportionen für seinen „Vitruvianischen Menschen“.",
+          "hook": "rund 25 Zentimeter pro Kilometer",
+          "children": [
+            {
+              "id": "2026-11-17-0-1-0",
+              "title": "Die Blase in der Röhre",
+              "text": "Vitruvs Wasserrinne war im Grunde eine offene Wasserwaage. Die geschlossene Version kam erst mehr als 1600 Jahre später. Um 1661 beschrieb der französische Gelehrte Melchisédech Thévenot ein leicht gebogenes Glasröhrchen, das fast ganz mit Flüssigkeit gefüllt ist und in dem eine Luftblase die Waagerechte anzeigt. Heute füllt man es meist mit gefärbtem Alkohol, der nicht gefriert. Auf Deutsch heißt das Röhrchen Libelle, nach lateinisch „libella“, kleine Waage. Ob auch das Insekt daher seinen Namen hat, ist umstritten.",
+              "hook": "einer Wasserrinne obendrauf",
+              "children": [],
+              "source": {
+                "title": "Libelle (Messtechnik) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Libelle_(Messtechnik)"
+              }
+            },
+            {
+              "id": "2026-11-17-0-1-1",
+              "title": "Orgelmusik für Gladiatoren",
+              "text": "Im zehnten und letzten Buch geht es bei Vitruv um Maschinen, darunter eine Orgel, die mit Wasser arbeitet. Diese Hydraulis geht auf den Ingenieur Ktesibios von Alexandria im 3. Jahrhundert v. Chr. zurück: Ein Wasserbehälter hielt den Luftdruck für die Pfeifen gleichmäßig. Im Römischen Reich erklang sie bei Festen und in der Arena. Das Mosaik von Zliten in Libyen zeigt eine Wasserorgel neben kämpfenden Gladiatoren. Das Instrument, das heute vor allem in Kirchen steht, gehörte also einst zur Begleitmusik blutiger Spiele.",
+              "hook": "Seine zehn Bücher",
+              "children": [],
+              "source": {
+                "title": "Hydraulis – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Hydraulis"
+              }
+            },
+            {
+              "id": "2026-11-17-0-1-2",
+              "title": "Leonardo im Portemonnaie",
+              "text": "Leonardos „Vitruvianischer Mensch“ ist eine Federzeichnung von nur etwa 34 mal 24 Zentimetern und gehört den Gallerie dell'Accademia in Venedig. Weil das Blatt lichtempfindlich ist, wird es nur selten und kurz ausgestellt. Als es 2019 für eine Leonardo-Schau in den Louvre reisen sollte, kam es in Italien zu einem Rechtsstreit, bevor ein Gericht die Reise erlaubte. Ein Abbild des Originals trägt dagegen fast jeder Italiener mit sich herum: Es ist auf die italienische 1-Euro-Münze geprägt.",
+              "hook": "Leonardo da Vinci um 1490",
+              "children": [],
+              "source": {
+                "title": "Vitruvianischer Mensch – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Vitruvianischer_Mensch"
+              }
+            }
+          ],
+          "source": {
+            "title": "Chorobates – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Chorobates"
+          }
+        },
+        {
+          "id": "2026-11-17-0-2",
+          "title": "Die Jeans aus Nîmes",
+          "text": "Nîmes, das Ziel der Wasserleitung, steckt wahrscheinlich in einem Wort, das heute fast jeder trägt: „Denim“ wird meist als Verkürzung von „serge de Nîmes“ erklärt, einem Köperstoff aus der Stadt. Ob dieser Stoff dem heutigen Jeansstoff wirklich glich, ist unter Textilhistorikern umstritten. Das Wort „Jeans“ wird gewöhnlich auf Genua zurückgeführt, auf Französisch Gênes. Berühmt wurde die Hose 1873, als der Schneider Jacob Davis aus Reno und der Stoffhändler Levi Strauss aus San Francisco ein Patent auf Kupfernieten an den Taschen erhielten.",
+          "hook": "von Uzès nach Nîmes",
+          "children": [
+            {
+              "id": "2026-11-17-0-2-0",
+              "title": "Vom Köper zum Trenchcoat",
+              "text": "Köper ist neben Leinwand- und Atlasbindung eine der drei Grundbindungen der Weberei: Die Fäden kreuzen sich versetzt, dadurch entstehen die typischen schrägen Grate. Mit derselben Bindung entwickelte Thomas Burberry 1879 die Gabardine, einen dichten, wetterfesten Stoff, den er 1888 patentieren ließ. Polarforscher wie Ernest Shackleton nahmen Ausrüstung aus Gabardine mit. Wer daraus den Trenchcoat für die Schützengräben erfand, ist bis heute umstritten: Burberry und der Konkurrent Aquascutum beanspruchen das beide für sich.",
+              "hook": "einem Köperstoff aus der Stadt",
+              "children": [],
+              "source": {
+                "title": "Trenchcoat – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Trenchcoat"
+              }
+            },
+            {
+              "id": "2026-11-17-0-2-1",
+              "title": "Der Meister der blauen Jeans",
+              "text": "Wenn Jeans nach Genua benannt sind, lohnt sich ein Blick in die Malerei Norditaliens. 2010 zeigte die Pariser Galerie Canesso Bilder eines unbekannten Malers aus dem späten 17. Jahrhundert, den die Kunsthistorikerin Gerlinde Gruber den „Meister der blauen Jeans“ nannte. Auf seinen Szenen tragen Bettler, Bäuerinnen und Kinder einen indigoblauen Stoff, dessen Risse helle Fäden freilegen, genau wie bei abgewetztem Denim. Seinen echten Namen kennt niemand. Bekannt ist er nur wegen der Kleidung der Armen, die er malte.",
+              "hook": "auf Genua zurückgeführt",
+              "children": [],
+              "source": {
+                "title": "Meister der Blue Jeans – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Meister_der_Blue_Jeans"
+              }
+            },
+            {
+              "id": "2026-11-17-0-2-2",
+              "title": "Löb Strauß aus Oberfranken",
+              "text": "Der Stoffhändler Levi Strauss war gebürtiger Franke: Er kam 1829 als Löb Strauß im oberfränkischen Buttenheim zur Welt und wanderte als junger Mann zu seinen Brüdern nach New York aus. Während des Goldrauschs gründete er in San Francisco einen Großhandel. Beim Erdbeben und Großbrand von 1906 verbrannten Firmensitz und Archiv. Deshalb kauft das Unternehmen heute alte Stücke zurück: 2001 ersteigerte es auf Ebay eine in Nevada gefundene Jeans aus den 1880er-Jahren für rund 46.000 Dollar.",
+              "hook": "Stoffhändler Levi Strauss aus San Francisco",
+              "children": [],
+              "source": {
+                "title": "Levi Strauss & Co. – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Levi_Strauss_%26_Co."
+              }
+            }
+          ],
+          "source": {
+            "title": "Denim – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Denim"
+          }
+        }
+      ],
+      "source": {
+        "title": "Pont du Gard – Structurae",
+        "url": "https://structurae.net/de/bauwerke/pont-du-gard"
+      }
+    },
+    {
+      "id": "2026-11-17-1",
+      "category": "orte",
+      "title": "Die Blood Falls",
+      "text": "Am Taylor-Gletscher in den Trockentälern der Antarktis sickert eine blutrote Flüssigkeit aus dem Eis. Der Geologe Thomas Griffith Taylor, der die Gegend 1911 während Scotts Terra-Nova-Expedition erkundete, vermutete zunächst Rotalgen als Ursache. Tatsächlich stammt die Farbe von eisenhaltigem Salzwasser, das unter dem Gletscher eingeschlossen ist und an der Luft rostet. In dieser lichtlosen, sauerstoffarmen Sole leben Mikroben, die ganz ohne Sonnenenergie auskommen.",
+      "children": [
+        {
+          "id": "2026-11-17-1-0",
+          "title": "Drei Eier aus der Polarnacht",
+          "text": "Scotts Terra-Nova-Expedition war auch eine Forschungsreise, und aus ihr ging eine der härtesten Wanderungen der Polargeschichte hervor. Ende Juni 1911, mitten im Polarwinter, zogen Edward Wilson, Henry Bowers und Apsley Cherry-Garrard rund fünf Wochen lang zum Kap Crozier, um Eier von Kaiserpinguinen zu holen, bei Temperaturen von zeitweise unter minus 60 Grad. Wilson hoffte, in den Embryonen Spuren der Verwandtschaft von Vögeln und Reptilien zu finden. Drei Eier kamen heil zurück, und Cherry-Garrard nannte die Tour später „The Worst Journey in the World“.",
+          "hook": "während Scotts Terra-Nova-Expedition",
+          "children": [
+            {
+              "id": "2026-11-17-1-0-0",
+              "title": "Haeckels geschönte Embryonen",
+              "text": "Wilsons Hoffnung ging auf eine damals populäre Idee des Zoologen Ernst Haeckel zurück: Jeder Embryo durchlaufe im Schnelldurchgang die Stammesgeschichte seiner Art. Haeckel stellte diese „biogenetische Grundregel“ 1866 auf und belegte sie mit Embryozeichnungen, die schon Zeitgenossen als geschönt kritisierten. In einem seiner Bücher druckte er sogar denselben Holzschnitt dreimal ab, einmal als Hund, einmal als Huhn und einmal als Schildkröte. Die Regel gilt heute als widerlegt, aber ein anderes Wort, das Haeckel 1866 prägte, ist geblieben: „Ökologie“.",
+              "hook": "Verwandtschaft von Vögeln und Reptilien",
+              "children": [],
+              "source": {
+                "title": "Biogenetische Grundregel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Biogenetische_Grundregel"
+              }
+            },
+            {
+              "id": "2026-11-17-1-0-1",
+              "title": "Das Warten am One-Ton-Depot",
+              "text": "Hinter dem Buch „The Worst Journey in the World“ steht eine Frage, die Cherry-Garrard sein Leben lang quälte. Im März 1912 hatte er mit Hundeschlitten am One-Ton-Depot auf Scotts Rückkehr vom Südpol gewartet und war nach knapp einer Woche umgekehrt. Scott und seine letzten beiden Begleiter starben nur rund 20 Kilometer von diesem Depot entfernt. Cherry-Garrard gehörte zum Suchtrupp, der im November 1912 ihr Zelt fand. Das Buch erschien 1922, auch auf Drängen seines Nachbarn George Bernard Shaw.",
+              "hook": "The Worst Journey in the World",
+              "children": [],
+              "source": {
+                "title": "Apsley Cherry-Garrard – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Apsley_Cherry-Garrard"
+              }
+            },
+            {
+              "id": "2026-11-17-1-0-2",
+              "title": "Pinguinkot aus dem All",
+              "text": "Dass Wilsons Trupp mitten im Winter losziehen musste, liegt an den Kaiserpinguinen selbst: Sie sind die einzigen Pinguine, die im antarktischen Winter brüten. Die Männchen tragen das Ei rund zwei Monate lang auf den Füßen, drängen sich gegen die Stürme dicht aneinander und fasten insgesamt bis zu vier Monate. Wie viele Kaiserpinguine es gibt, zeigten erst Satelliten. Forscher des British Antarctic Survey fanden die Kolonien an den braunen Kotflecken auf dem Eis und zählten 2012 rund 595.000 Tiere, fast doppelt so viele wie bis dahin geschätzt.",
+              "hook": "Eier von Kaiserpinguinen zu holen",
+              "children": [],
+              "source": {
+                "title": "Kaiserpinguin – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kaiserpinguin"
+              }
+            }
+          ],
+          "source": {
+            "title": "The Worst Journey in the World – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Worst_Journey_in_the_World"
+          }
+        },
+        {
+          "id": "2026-11-17-1-1",
+          "title": "Wassermelonenschnee",
+          "text": "Mit seiner Algen-Vermutung lag Taylor gar nicht so weit daneben: Von Algen rot gefärbter Schnee ist in Polar- und Hochgebirgsregionen weit verbreitet. Verantwortlich sind allerdings vor allem Grünalgen wie Sanguina nivaloides, die sich mit dem roten Farbstoff Astaxanthin vor UV-Strahlung schützen. Schon John Ross beschrieb 1818 an der Küste Grönlands rot leuchtende Hänge, die er „Crimson Cliffs“ taufte. Weil roter Schnee mehr Sonnenlicht schluckt, schmelzen solche Schneefelder schneller.",
+          "hook": "vermutete zunächst Rotalgen als Ursache",
+          "children": [
+            {
+              "id": "2026-11-17-1-1-0",
+              "title": "Warum Hummer rot werden",
+              "text": "Astaxanthin färbt nicht nur Schnee: Über Krill und Kleinkrebse gelangt der Farbstoff in die Nahrungskette und macht auch Lachsfleisch rosa. Zuchtlachse bekommen ihn deshalb ins Futter gemischt, und den gewünschten Farbton wählen Züchter mit einem Farbfächer namens SalmoFan. Beim lebenden Hummer ist das Astaxanthin an das Protein Crustacyanin gebunden, das den Panzer dunkel blaugrün erscheinen lässt. Erst die Hitze im Kochtopf löst diese Bindung, und das Rot, das die ganze Zeit im Panzer steckte, wird sichtbar.",
+              "hook": "dem roten Farbstoff Astaxanthin",
+              "children": [],
+              "source": {
+                "title": "Why do lobsters change color when cooked? – Physics Today",
+                "url": "https://physicstoday.aip.org/news/why-do-lobsters-change-color-when-cooked"
+              }
+            },
+            {
+              "id": "2026-11-17-1-1-1",
+              "title": "Die Berge, die es nie gab",
+              "text": "Eigentlich sollte die Expedition, auf der John Ross 1818 die Crimson Cliffs sah, die Nordwestpassage finden. Im Lancaster Sound kehrte er jedoch um, weil er am Horizont eine Bergkette zu sehen glaubte, die den Weg versperrte. Er benannte sie nach dem Admiralitätssekretär John Wilson Croker, während einige seiner Offiziere daran zweifelten. Ein Jahr später segelte William Edward Parry mitten durch die angeblichen Croker Mountains weit nach Westen. Die Berge waren vermutlich nur eine Luftspiegelung.",
+              "hook": "Schon John Ross beschrieb 1818",
+              "children": [],
+              "source": {
+                "title": "„Lancaster Sound, as seen from H.M.S. Isabella, at 3 p.m. Augt. 31st. 1818“ [Sir John Ross] – Croker Mountains, Princeton University Library",
+                "url": "https://static-prod.lib.princeton.edu/visual_materials/maps/websites/northwest-passage/croker-mountains.htm"
+              }
+            },
+            {
+              "id": "2026-11-17-1-1-2",
+              "title": "Das Loch über dem Südpol",
+              "text": "Die UV-Strahlung, gegen die sich Schneealgen wappnen, ist über der Antarktis zeitweise besonders stark, denn dort öffnet sich jedes Frühjahr das Ozonloch. Entdeckt haben es Joe Farman, Brian Gardiner und Jonathan Shanklin vom British Antarctic Survey, die 1985 in Nature über den drastischen Ozonschwund über der Antarktis berichteten. Schon 1987 folgte das Montrealer Protokoll gegen FCKW, später der erste UN-Vertrag, den alle Staaten ratifiziert haben. Nach heutigen Prognosen dürfte sich die Ozonschicht über der Antarktis um 2066 erholt haben.",
+              "hook": "vor UV-Strahlung schützen",
+              "children": [],
+              "source": {
+                "title": "Ozonloch – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ozonloch"
+              }
+            }
+          ],
+          "source": {
+            "title": "Blutschnee – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Blutschnee"
+          }
+        },
+        {
+          "id": "2026-11-17-1-2",
+          "title": "Würmer ohne Mund",
+          "text": "Leben ohne Sonnenenergie fand die Forschung 1977 in ganz anderem Ausmaß: Das Tauchboot Alvin stieß am Galápagos-Rift in rund 2500 Metern Tiefe auf heiße Quellen voller Tiere. Dort wachsen Riesenröhrenwürmer der Art Riftia pachyptila, über zwei Meter lang und ohne Mund und Darm. Sie leben von Bakterien in ihrem Körper, die durch Chemosynthese Energie aus Schwefelwasserstoff gewinnen. Ihre leuchtend roten Kiemenfedern verdanken sie Hämoglobin.",
+          "hook": "ganz ohne Sonnenenergie auskommen",
+          "children": [
+            {
+              "id": "2026-11-17-1-2-0",
+              "title": "Sandwiches aus der Tiefe",
+              "text": "Das Tauchboot Alvin half schon 1966, vor dem spanischen Palomares eine verlorene US-Wasserstoffbombe aufzuspüren. 1968 rissen beim Aussetzen die Haltekabel, und Alvin sank mit offener Luke auf rund 1500 Meter Tiefe. Die Besatzung entkam. Als man das Boot fast ein Jahr später hob, war der Proviant an Bord erstaunlich gut erhalten. Die durchweichten Sandwiches lieferten einen frühen Hinweis darauf, wie langsam organisches Material in der kalten Tiefsee zerfällt.",
+              "hook": "Das Tauchboot Alvin",
+              "children": [],
+              "source": {
+                "title": "Alvin (DSV-2) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Alvin_(DSV-2)"
+              }
+            },
+            {
+              "id": "2026-11-17-1-2-1",
+              "title": "Ein Ökosystem im Glas",
+              "text": "Dass Bakterien durch Chemosynthese Energie gewinnen, zeigte als Erster der russische Mikrobiologe Sergei Winogradsky in den 1880er-Jahren an Schwefelbakterien. Nach ihm ist die Winogradsky-Säule benannt: ein Glaszylinder mit Teichschlamm, Wasser, etwas Papier und Eigelb. Nach einigen Wochen entstehen darin farbige Schichten aus grünen und purpurnen Bakterien, sortiert nach Licht, Sauerstoff und Schwefel. Gut verschlossen kann so ein Miniatur-Ökosystem jahrelang bestehen.",
+              "hook": "durch Chemosynthese Energie",
+              "children": [],
+              "source": {
+                "title": "Winogradsky-Säule – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Winogradsky-S%C3%A4ule"
+              }
+            },
+            {
+              "id": "2026-11-17-1-2-2",
+              "title": "Fische mit farblosem Blut",
+              "text": "Ganz ohne Hämoglobin leben dagegen die Eisfische im Südpolarmeer, eine Fischfamilie mit farblosem Blut ohne rote Blutkörperchen. Den Sauerstoff transportiert allein das Plasma. Möglich machen das eiskaltes, sauerstoffreiches Wasser, große Herzen und viel Blutvolumen. Der norwegische Biologe Johan Ruud beschrieb sie 1954, nachdem Walfänger von „blutlosen Fischen“ berichtet hatten. Von ihren Hämoglobin-Genen sind nur noch Bruchstücke im Erbgut übrig.",
+              "hook": "verdanken sie Hämoglobin",
+              "children": [],
+              "source": {
+                "title": "Krokodileisfische – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Krokodileisfische"
+              }
+            }
+          ],
+          "source": {
+            "title": "Riftia pachyptila – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Riftia_pachyptila"
+          }
+        }
+      ],
+      "source": {
+        "title": "Blood Falls – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Blood_Falls"
+      }
+    },
+    {
+      "id": "2026-11-17-2",
+      "category": "kultur",
+      "title": "Für Elise",
+      "text": "„Für Elise“ ist eines der bekanntesten Klavierstücke der Welt, doch Beethoven hat es nie veröffentlicht. Erst 1867, vier Jahrzehnte nach seinem Tod, gab der Musikforscher Ludwig Nohl das Albumblatt heraus. Die Handschrift, nach der er arbeitete, ist seither verschollen. Wer Elise war, ist bis heute umstritten: Diskutiert werden etwa die Sängerin Elisabeth Röckel oder eine Fehllesung von „Therese“, gemeint wäre dann Beethovens Schülerin Therese Malfatti. Im Werkverzeichnis trägt das Stück die Nummer WoO 59.",
+      "children": [
+        {
+          "id": "2026-11-17-2-0",
+          "title": "Der Botaniker hinter KV",
+          "text": "Das Kürzel WoO für „Werk ohne Opuszahl“ stammt aus einem Beethoven-Verzeichnis von 1955. Das berühmteste Vorbild solcher Kataloge schuf jedoch ein Amateur: Ludwig Ritter von Köchel. Der österreichische Jurist war eigentlich Botaniker und Mineraloge und übertrug die Ordnungsliebe der Naturkunde auf Mozarts Werk. 1862 erschien sein chronologisches Verzeichnis, dessen letzte Nummer, KV 626, das unvollendete Requiem ist. Weil Forscher Datierungen später korrigierten, tragen manche Werke heute zwei Nummern.",
+          "hook": "die Nummer WoO 59",
+          "children": [
+            {
+              "id": "2026-11-17-2-0-0",
+              "title": "Das gestohlene Requiem",
+              "text": "Das unvollendete Requiem war ein anonymer Auftrag: Graf Franz von Walsegg wollte es zum Gedenken an seine verstorbene Frau als eigenes Werk ausgeben. Nach Mozarts Tod 1791 ließ die Witwe Constanze die Partitur vollenden, zuletzt durch den Schüler Franz Xaver Süßmayr, damit das Honorar nicht verloren ging. Walsegg dirigierte das Stück 1793 in Wiener Neustadt tatsächlich unter seinem Namen. Mozarts Handschrift liegt heute in Wien, allerdings ohne eine Blattecke. Die wurde 1958 auf der Weltausstellung in Brüssel abgerissen und gestohlen.",
+              "hook": "das unvollendete Requiem",
+              "children": [],
+              "source": {
+                "title": "Requiem (Mozart) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Requiem_(Mozart)"
+              }
+            },
+            {
+              "id": "2026-11-17-2-0-1",
+              "title": "Linnés Rache am Kritiker",
+              "text": "Die Ordnungsliebe der Naturkunde geht auf den Schweden Carl von Linné zurück, dessen „Systema Naturae“ 1735 erschien. Sein Prinzip, jede Art mit zwei lateinischen Namen zu benennen, gilt bis heute. In der Botanik ist sein Werk „Species Plantarum“ von 1753 der offizielle Ausgangspunkt. Der Botaniker Johann Siegesbeck hatte Linnés System, das Pflanzen nach Staubblättern und Stempeln ordnet, als unsittlich verdammt. Der Überlieferung nach rächte sich Linné, indem er ein unscheinbares Unkraut Siegesbeckia taufte.",
+              "hook": "Ordnungsliebe der Naturkunde",
+              "children": [],
+              "source": {
+                "title": "Carl von Linné – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Carl_von_Linn%C3%A9"
+              }
+            },
+            {
+              "id": "2026-11-17-2-0-2",
+              "title": "Warum BWV 1 nichts verrät",
+              "text": "Ein chronologisches Verzeichnis wie bei Mozart war für Johann Sebastian Bach kaum möglich, weil sich viele seiner Werke nicht sicher datieren lassen. Wolfgang Schmieder ordnete das Bach-Werke-Verzeichnis von 1950 deshalb nach Gattungen. Ganz vorne stehen die Kantaten, und BWV 1 ist „Wie schön leuchtet der Morgenstern“. Die Nummer verrät also nichts über das Alter eines Stücks und nicht einmal sicher, wer es geschrieben hat. Ausgerechnet die berühmte Toccata und Fuge d-Moll, BWV 565, halten manche Forscher für das Werk eines anderen Komponisten.",
+              "hook": "chronologisches Verzeichnis",
+              "children": [],
+              "source": {
+                "title": "Bach-Werke-Verzeichnis – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bach-Werke-Verzeichnis"
+              }
+            }
+          ],
+          "source": {
+            "title": "Köchelverzeichnis – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/K%C3%B6chelverzeichnis"
+          }
+        },
+        {
+          "id": "2026-11-17-2-1",
+          "title": "Vom Albumblatt zum Stammbuch",
+          "text": "Ein Albumblatt war ursprünglich wörtlich gemeint: eine Seite für das Erinnerungsbuch eines bestimmten Menschen. Dieser Brauch ist weit älter als Beethoven. Um die Mitte des 16. Jahrhunderts ließen sich Studenten in Wittenberg Widmungen von Professoren und Kommilitonen in ein „Stammbuch“ schreiben, lateinisch album amicorum. Begehrt waren etwa Einträge Philipp Melanchthons. Später oft mit Wappen und Miniaturen geschmückt, wurde daraus schließlich das Poesiealbum des 19. Jahrhunderts.",
+          "hook": "gab der Musikforscher Ludwig Nohl das Albumblatt",
+          "children": [
+            {
+              "id": "2026-11-17-2-1-0",
+              "title": "Der Mann namens Schwarzerde",
+              "text": "Der begehrte Stammbuch-Autor wurde 1497 als Philipp Schwartzerdt geboren. Sein Großonkel, der Humanist Johannes Reuchlin, übertrug den Namen ins Griechische: melas für „schwarz“, chthon für „Erde“. Mit 21 Jahren kam er 1518 als Griechischprofessor nach Wittenberg, wurde Luthers engster Mitstreiter und später „Praeceptor Germaniae“ genannt. Priester wurde er nie, einen theologischen Doktortitel erwarb er nicht, und doch liegt er in der Schlosskirche begraben, auf der Seite gegenüber von Luthers Grab.",
+              "hook": "Einträge Philipp Melanchthons",
+              "children": [],
+              "source": {
+                "title": "Philipp Melanchthon – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Philipp_Melanchthon"
+              }
+            },
+            {
+              "id": "2026-11-17-2-1-1",
+              "title": "Hamlets Hochschule",
+              "text": "Die Universität dieser Studenten hieß Leucorea und war erst 1502 von Kurfürst Friedrich dem Weisen gegründet worden. Mit der Reformation wurde sie binnen weniger Jahre zu einer der meistbesuchten Hochschulen im Reich. Als eigenständige Universität gibt es sie nicht mehr, 1817 wurde sie mit Halle vereinigt. Ihr Ruhm reichte aber bis nach London: Bei Christopher Marlowe lehrt Doktor Faustus in Wittenberg, und Shakespeares Hamlet will zum Studium dorthin zurück, doch König Claudius bittet ihn zu bleiben.",
+              "hook": "Studenten in Wittenberg",
+              "children": [],
+              "source": {
+                "title": "Leucorea – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Leucorea"
+              }
+            },
+            {
+              "id": "2026-11-17-2-1-2",
+              "title": "Vom Weißbrett zur Platte",
+              "text": "Im alten Rom bedeutete album schlicht „das Weiße“: eine geweißte Tafel, auf der Behörden Bekanntmachungen aushängten, etwa die Edikte der Prätoren oder die Liste der Senatoren. Daraus wurde in der Frühen Neuzeit das Buch mit leeren Seiten, die andere füllen sollten. Anfang des 20. Jahrhunderts verkaufte man Schellackplatten, die nur wenige Minuten Musik fassten, in gebundenen Hüllen, die wie Fotoalben aussahen. Deshalb veröffentlichen Popstars heute „Alben“, und ihr Name geht auf eine römische Amtstafel zurück.",
+              "hook": "lateinisch album amicorum",
+              "children": [],
+              "source": {
+                "title": "Album – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Album"
+              }
+            }
+          ],
+          "source": {
+            "title": "Stammbuch (Freundschaftsalbum) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Stammbuch_(Freundschaftsalbum)"
+          }
+        },
+        {
+          "id": "2026-11-17-2-2",
+          "title": "Die Locke, die nicht passte",
+          "text": "Elisabeth Röckel heiratete 1813 den Komponisten Johann Nepomuk Hummel. Mit ihm reiste 1827 sein 15-jähriger Schüler Ferdinand Hiller nach Wien ans Sterbebett Beethovens. Nach Beethovens Tod schnitt Hiller eine Haarlocke ab, die über Generationen vererbt und 1994 bei Sotheby's versteigert wurde. Hohe Bleiwerte darin galten lange als Hinweis auf eine Bleivergiftung. Eine Genomstudie von 2023 zeigte jedoch, dass die Locke von einer Frau stammt und nicht von Beethoven.",
+          "hook": "die Sängerin Elisabeth Röckel",
+          "children": [
+            {
+              "id": "2026-11-17-2-2-0",
+              "title": "Die Trompete mit Klappen",
+              "text": "Lange vor seiner Heirat mit Elisabeth Röckel schrieb Johann Nepomuk Hummel 1803 ein Trompetenkonzert, das heute zu den meistgespielten seiner Gattung gehört. Es entstand für den Wiener Hoftrompeter Anton Weidinger und dessen Klappentrompete, die dank Klappen wie bei einer Flöte auch in tiefer Lage alle Halbtöne spielen konnte. Schon Haydn hatte 1796 für ihn komponiert. Als sich die Ventiltrompete durchsetzte, gerieten beide Konzerte für rund ein Jahrhundert in Vergessenheit. Heute erklingen sie fast nur auf einem Instrument, für das sie nie geschrieben wurden.",
+              "hook": "Johann Nepomuk Hummel",
+              "children": [],
+              "source": {
+                "title": "Trompetenkonzert E-Dur (Hummel) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Trompetenkonzert_E-Dur_(Hummel)"
+              }
+            },
+            {
+              "id": "2026-11-17-2-2-1",
+              "title": "Spur nach Gilleleje",
+              "text": "Die Locke wurde zwar über Generationen vererbt, doch irgendwann verliert sich ihre Spur in Hillers Familie. Wieder auf taucht sie im dänischen Fischerort Gilleleje beim Arzt Kay Fremming. Er half im Oktober 1943 Jüdinnen und Juden, sich vor der Deportation über den Öresund nach Schweden zu retten. Auf diese Weise entkamen insgesamt über 7.000 Menschen. Ob ihm ein Flüchtling die Locke zum Dank schenkte, ist nicht belegt, sondern bloß eine naheliegende Vermutung. Ungeklärt bleibt bis heute, wie sie dorthin kam – und wessen Haar damals eigentlich die Reise machte.",
+              "hook": "über Generationen vererbt",
+              "children": []
+            },
+            {
+              "id": "2026-11-17-2-2-2",
+              "title": "Der falsche Stammbaum",
+              "text": "Für die Genomstudie von 2023 untersuchte ein Team um Tristan Begg und Johannes Krause acht angebliche Beethoven-Locken, von denen nur fünf echt waren. Das Erbgut zeigte eine genetische Veranlagung für Lebererkrankungen und eine Hepatitis-B-Infektion. Die größte Überraschung lieferte aber das Y-Chromosom: Es passte nicht zu heute lebenden Männern namens van Beethoven in Belgien. Irgendwann zwischen etwa 1572 und Beethovens Geburt 1770 muss es in seiner väterlichen Linie einen Vater gegeben haben, der nicht der Ehemann war.",
+              "hook": "Eine Genomstudie von 2023",
+              "children": [],
+              "source": {
+                "title": "Beethoven’s genome – Max-Planck-Gesellschaft",
+                "url": "https://www.mpg.de/20022296/beethoven-s-genome"
+              }
+            }
+          ],
+          "source": {
+            "title": "Beethovens Genom – Universität Bonn (22. März 2023)",
+            "url": "https://www.uni-bonn.de/de/neues/beethovens-genom-gibt-aufschluss-ueber-gesundheit-und-familiengeschichte-des-komponisten"
+          }
+        }
+      ],
+      "source": {
+        "title": "Für Elise – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/F%C3%BCr_Elise"
+      }
+    }
+  ]
+}

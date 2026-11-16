@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T00:39:23.678Z",
+  "topics": [
+    {
+      "id": "2026-11-16-0",
+      "category": "geschichte",
+      "title": "Kaspar Hauser",
+      "text": "Am Pfingstmontag 1828 taucht in Nürnberg ein etwa 16-jähriger Junge auf, der kaum sprechen kann, aber einen Namen schreibt: Kaspar Hauser. Später erzählt er, er sei jahrelang in einem dunklen Verlies gefangen gehalten worden. Der Jurist Anselm von Feuerbach nennt den Fall in einem Buchtitel ein „Verbrechen am Seelenleben des Menschen“, und bald heißt es, Hauser sei ein beiseitegeschaffter Erbprinz von Baden. 1833 stirbt er in Ansbach an einer Stichwunde. Eine DNA-Studie von 2024 spricht deutlich gegen die Prinzenlegende.",
+      "children": [
+        {
+          "id": "2026-11-16-0-0",
+          "title": "Keine Strafe ohne Gesetz",
+          "text": "Der Jurist Anselm von Feuerbach, der sich für Kaspar Hauser einsetzte, gehörte damals zu den einflussreichsten Strafrechtlern Europas. In seinem Lehrbuch von 1801 prägte er die Formel „nulla poena sine lege“, also keine Strafe ohne Gesetz. Der Grundsatz steht heute in Artikel 103 des Grundgesetzes. Sein bayerisches Strafgesetzbuch von 1813 wurde zum Vorbild für andere Staaten. Auch seine Familie wurde berühmt: Sohn Ludwig als Religionskritiker, Enkel Anselm als Maler.",
+          "hook": "Der Jurist Anselm von Feuerbach",
+          "children": [
+            {
+              "id": "2026-11-16-0-0-0",
+              "title": "Der Mensch ist, was er isst",
+              "text": "Ludwig Feuerbach, der Sohn des Juristen, erschütterte 1841 mit „Das Wesen des Christentums“ das gebildete Deutschland: Der Mensch projiziere sein eigenes Wesen in einen Gott. Von ihm stammt auch das Wortspiel „Der Mensch ist, was er isst“, 1850 in einer Rezension. Der junge Karl Marx notierte 1845 elf „Thesen über Feuerbach“. Die letzte, nach der es darauf ankomme, die Welt zu verändern, statt sie nur zu interpretieren, steht heute in goldenen Lettern im Foyer der Berliner Humboldt-Universität.",
+              "hook": "Sohn Ludwig als Religionskritiker",
+              "children": [],
+              "source": {
+                "title": "Ludwig Feuerbach – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ludwig_Feuerbach"
+              }
+            },
+            {
+              "id": "2026-11-16-0-0-1",
+              "title": "Wenn Gesetze Unrecht sind",
+              "text": "Das Rückwirkungsverbot aus Artikel 103 des Grundgesetzes wurde nach der Wiedervereinigung hart geprüft: Durften DDR-Grenzsoldaten bestraft werden, deren Schüsse an der Mauer nach DDR-Recht gedeckt schienen? Die Gerichte stützten sich auf die Formel des Rechtsphilosophen Gustav Radbruch von 1946, nach der unerträglich ungerechtes Gesetz der Gerechtigkeit weichen muss. Das Bundesverfassungsgericht bestätigte die Urteile 1996. Pikant daran: Radbruch hatte 1934 eine Biografie über Anselm von Feuerbach veröffentlicht.",
+              "hook": "Artikel 103 des Grundgesetzes",
+              "children": [],
+              "source": {
+                "title": "Mauerschützenprozesse – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Mauersch%C3%BCtzenprozesse"
+              }
+            },
+            {
+              "id": "2026-11-16-0-0-2",
+              "title": "Nanna und die Stiefmutter",
+              "text": "Anselm Feuerbach, der Enkel, wurde zum Maler einer erträumten Antike. In Rom fand er um 1860 sein wichtigstes Modell: Anna Risi, genannt Nanna, die Frau eines Schusters, deren strenges Profil er in zahlreichen Bildern festhielt, etwa in einer frühen „Iphigenie“. Um 1865 verließ sie ihn für einen wohlhabenden Engländer. Sein Nachruhm verdankt viel seiner Stiefmutter Henriette: Nach seinem Tod 1880 stellte sie aus seinen Aufzeichnungen das vielgelesene Buch „Ein Vermächtnis“ zusammen und prägte so das Bild vom verkannten Genie.",
+              "hook": "Enkel Anselm als Maler",
+              "children": [],
+              "source": {
+                "title": "Feuerbach, Anselm – Deutsche Biographie",
+                "url": "https://www.deutsche-biographie.de/118532731.html"
+              }
+            }
+          ],
+          "source": {
+            "title": "Nulla poena sine lege – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Nulla_poena_sine_lege"
+          }
+        },
+        {
+          "id": "2026-11-16-0-1",
+          "title": "Der Wolfsjunge von Aveyron",
+          "text": "Ein Junge, der kaum sprechen kann, hatte fast drei Jahrzehnte vor Hauser schon Frankreich beschäftigt. Um 1800 tauchte im Département Aveyron ein verwildertes Kind aus den Wäldern auf, das später Victor genannt wurde. Der junge Arzt Jean Itard nahm ihn am Pariser Taubstummeninstitut auf und versuchte jahrelang, ihm Sprache beizubringen, doch Victor lernte nur wenige Wörter. Itards Berichte prägten die Sonderpädagogik und später Maria Montessori. François Truffaut verfilmte die Geschichte 1970 als „Der Wolfsjunge“.",
+          "hook": "der kaum sprechen kann",
+          "children": [
+            {
+              "id": "2026-11-16-0-1-0",
+              "title": "Käse aus dem Bergsturz",
+              "text": "Das Département Aveyron, aus dessen Wäldern Victor kam, ist vor allem für seinen Käse berühmt: Roquefort. Der Blauschimmelkäse aus Schafsmilch darf nur in den Höhlen des Combalou bei Roquefort-sur-Soulzon reifen. Dort leiten Felsspalten, die „fleurines“, kühle und feuchte Luft durch den Berg. Laut einer Legende vergaß ein Hirte sein Brot mit Käse in einer Höhle und fand es Wochen später verschimmelt wieder. 1925 erhielt Roquefort als erster Käse Frankreichs einen gesetzlichen Herkunftsschutz.",
+              "hook": "im Département Aveyron",
+              "children": [],
+              "source": {
+                "title": "Roquefort (Käse) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Roquefort_(K%C3%A4se)"
+              }
+            },
+            {
+              "id": "2026-11-16-0-1-1",
+              "title": "Gebärden mit Pariser Akzent",
+              "text": "Das Pariser Taubstummeninstitut geht auf den Abbé de l'Épée zurück, der um 1760 eine der ersten öffentlichen Gehörlosenschulen gründete und mit Gebärden unterrichtete. Der gehörlose Laurent Clerc, der dort lernte und später selbst lehrte, reiste 1816 mit dem Amerikaner Thomas Hopkins Gallaudet in die USA. 1817 gründeten die beiden in Hartford die erste dauerhafte Gehörlosenschule des Landes. Deshalb ist die Amerikanische Gebärdensprache bis heute enger mit der französischen verwandt als mit der britischen.",
+              "hook": "am Pariser Taubstummeninstitut",
+              "children": [],
+              "source": {
+                "title": "Laurent Clerc – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Laurent_Clerc"
+              }
+            },
+            {
+              "id": "2026-11-16-0-1-2",
+              "title": "Truffaut im Ufo-Film",
+              "text": "In „Der Wolfsjunge“ spielte François Truffaut den Arzt Itard selbst. Das Thema kannte er aus eigener Erfahrung: Als Jugendlicher schwänzte er die Schule, kam in ein Heim und wurde vom Kritiker André Bazin gefördert. Seine Jugend verarbeitete er 1959 in „Sie küssen und sie schlagen ihn“. 1977 stand er dann in Hollywood vor der Kamera: In Spielbergs „Unheimliche Begegnung der dritten Art“ spielt er einen Forscher, der sich mit Außerirdischen über Töne und Handzeichen verständigt.",
+              "hook": "François Truffaut verfilmte die Geschichte",
+              "children": [],
+              "source": {
+                "title": "François Truffaut – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Fran%C3%A7ois_Truffaut"
+              }
+            }
+          ],
+          "source": {
+            "title": "Victor von Aveyron – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Victor_von_Aveyron"
+          }
+        },
+        {
+          "id": "2026-11-16-0-2",
+          "title": "Die falsche Zarentochter",
+          "text": "Wie bei Hauser beendete eine DNA-Studie auch eines der bekanntesten Identitätsrätsel des 20. Jahrhunderts: den Fall Anna Anderson. 1920 wurde in Berlin eine junge Frau aus dem Landwehrkanal gerettet, die später behauptete, die Zarentochter Anastasia zu sein und den Mord an der Zarenfamilie überlebt zu haben. Sie starb 1984 in Charlottesville in den USA. 1994 zeigte mitochondriale DNA aus einer erhaltenen Gewebeprobe keine Verwandtschaft mit den Romanows. Sie passte stattdessen zur Familie der verschollenen Fabrikarbeiterin Franziska Schanzkowska.",
+          "hook": "Eine DNA-Studie von 2024",
+          "children": [
+            {
+              "id": "2026-11-16-0-2-0",
+              "title": "Prinz Philips Blutprobe",
+              "text": "Mitochondriale DNA wird nur über die Mutter vererbt. Für den Vergleich mit den Romanows brauchte man deshalb lebende Verwandte in rein weiblicher Linie. Einer davon war Prinz Philip, denn seine Großmutter Victoria war eine Schwester der Zarin Alexandra. 1993 gab er eine Blutprobe ab, mit der britische Forensiker die bei Jekaterinburg exhumierten Knochen als Zarenfamilie bestätigten. Als 2007 auch die Überreste von Alexei und einer Schwester gefunden und 2008 per DNA identifiziert wurden, stand fest, dass niemand aus der Familie überlebt hatte.",
+              "hook": "mitochondriale DNA aus einer erhaltenen Gewebeprobe",
+              "children": [],
+              "source": {
+                "title": "Ermordung der Zarenfamilie – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ermordung_der_Zarenfamilie"
+              }
+            },
+            {
+              "id": "2026-11-16-0-2-1",
+              "title": "Wer liegt in Rosas Grab?",
+              "text": "Gut ein Jahr bevor Anna Anderson aus dem Landwehrkanal gezogen wurde, hatten Freikorps-Soldaten im Januar 1919 die ermordete Rosa Luxemburg in denselben Kanal geworfen. Erst Ende Mai wurde an einer Schleuse eine Leiche gefunden, die als Luxemburg identifiziert und in Friedrichsfelde beigesetzt wurde. 2009 äußerte der Charité-Rechtsmediziner Michael Tsokos den Verdacht, eine kopflose Wasserleiche aus der Sammlung der Charité sei die echte Luxemburg. Geklärt ist das bis heute nicht, denn ihr eigenes Grab hatten die Nationalsozialisten 1935 eingeebnet.",
+              "hook": "aus dem Landwehrkanal gerettet",
+              "children": [],
+              "source": {
+                "title": "Morde an Karl Liebknecht und Rosa Luxemburg – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Morde_an_Karl_Liebknecht_und_Rosa_Luxemburg"
+              }
+            },
+            {
+              "id": "2026-11-16-0-2-2",
+              "title": "Jeffersons Y-Chromosom",
+              "text": "Bei Charlottesville liegt Monticello, das Landgut von Thomas Jefferson, und auch dort brachte DNA 1998 Bewegung in ein altes Rätsel. Seit 1802 hieß es, Jefferson habe Kinder mit Sally Hemings, einer Frau, die er versklavt hatte. Forscher verglichen das Y-Chromosom von Nachfahren seines Onkels Field Jefferson mit dem eines Nachkommen von Hemings’ Sohn Eston, und die beiden stimmten überein. Die meisten Historiker halten Jefferson heute für den Vater. Dazu passt eine bittere Pointe: Sally Hemings war sehr wahrscheinlich die Halbschwester seiner verstorbenen Ehefrau Martha.",
+              "hook": "starb 1984 in Charlottesville",
+              "children": [],
+              "source": {
+                "title": "Sally Hemings – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Sally_Hemings"
+              }
+            }
+          ],
+          "source": {
+            "title": "Anna Anderson – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Anna_Anderson"
+          }
+        }
+      ],
+      "source": {
+        "title": "Kaspar Hauser – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Kaspar_Hauser"
+      }
+    },
+    {
+      "id": "2026-11-16-1",
+      "category": "technik",
+      "title": "Die Tacoma-Narrows-Brücke",
+      "text": "Am 1. Juli 1940 wurde die Hängebrücke über die Tacoma Narrows im US-Bundesstaat Washington eröffnet, schon am 7. November 1940 stürzte sie ein. Weil ihre Fahrbahn schon bei mäßigem Wind auf und ab wogte, nannte man sie „Galloping Gertie“. Am Unglückstag verdrehte ein Wind von rund 65 km/h die Fahrbahn, bis sie riss. Der Einsturz wurde gefilmt und gilt bis heute als Lehrstück über aeroelastisches Flattern. Einziges Todesopfer war ein Cockerspaniel namens Tubby.",
+      "children": [
+        {
+          "id": "2026-11-16-1-0",
+          "title": "Die wackelnde Themsebrücke",
+          "text": "Wie „Galloping Gertie“ bekam auch die Millennium Bridge in London sofort einen Spitznamen: „Wobbly Bridge“. Die Fußgängerbrücke über die Themse wurde am 10. Juni 2000 eröffnet und schon zwei Tage später wieder gesperrt, weil sie unter der Menschenmenge seitlich schwankte. Schuld waren die Passanten selbst: Sie passten ihren Schritt unbewusst dem Schwanken an und verstärkten es dadurch. Fachleute nennen das synchrone seitliche Anregung. Erst nachdem zahlreiche Dämpfer eingebaut worden waren, wurde die Brücke 2002 wieder geöffnet.",
+          "hook": "nannte man sie „Galloping Gertie“",
+          "children": [
+            {
+              "id": "2026-11-16-1-0-0",
+              "title": "Huygens' sympathische Uhren",
+              "text": "Dass sich schwingende Dinge unbewusst aneinander angleichen, beobachtete schon Christiaan Huygens. Im Februar 1665 lag der niederländische Physiker krank im Bett und bemerkte, dass zwei Pendeluhren an einem gemeinsamen Balken stets gegenläufig im Gleichtakt schwangen, auch nachdem er sie gestört hatte. Er sprach von einer „seltsamen Sympathie“. Die Ursache, winzige Bewegungen des Balkens, ist heute ein Lehrbeispiel für Synchronisation, die Glühwürmchen ebenso erfasst wie Herzzellen.",
+              "hook": "ihren Schritt unbewusst dem Schwanken an",
+              "children": [],
+              "source": {
+                "title": "Spontane Synchronisation: Rätsel um Huygens' Doppel-Pendeluhr gelöst – wissenschaft.de",
+                "url": "https://wissenschaft.de/artikel/spontane-synchronisation-raetsel-um-huygens-doppel-pendeluhr-geloest"
+              }
+            },
+            {
+              "id": "2026-11-16-1-0-1",
+              "title": "London Bridge in der Wüste",
+              "text": "Nicht jede Brücke über die Themse ist dort geblieben: Die alte London Bridge von 1831 steht heute in Arizona. Weil sie allmählich im Flussbett absank, verkaufte die Stadt London sie 1968 an den Unternehmer Robert McCulloch, für rund 2,5 Millionen Dollar. Die Steinblöcke wurden nummeriert, verschifft und in Lake Havasu City wieder aufgebaut, 1971 war Eröffnung. Hartnäckig hält sich die Legende, er habe sie mit der Tower Bridge verwechselt, was McCulloch stets bestritt.",
+              "hook": "über die Themse",
+              "children": [],
+              "source": {
+                "title": "London Bridge (Lake Havasu City) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City)"
+              }
+            },
+            {
+              "id": "2026-11-16-1-0-2",
+              "title": "Die Goldkugel von Taipei",
+              "text": "Dämpfer bändigen nicht nur Brücken, sondern auch Wolkenkratzer, am spektakulärsten in Taipei 101. Zwischen dem 87. und 92. Stockwerk des 508 Meter hohen Turms in Taiwan hängt eine goldfarbene Stahlkugel von rund 660 Tonnen. Bei Taifunen und starkem Wind pendelt sie gegen die Bewegung des Gebäudes und schluckt so einen Teil der Schwankungen. Statt sie zu verstecken, machte man sie zur Touristenattraktion, samt eigenem Maskottchen namens „Damper Baby“.",
+              "hook": "zahlreiche Dämpfer eingebaut",
+              "children": [],
+              "source": {
+                "title": "Taipei 101 – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Taipei_101"
+              }
+            }
+          ],
+          "source": {
+            "title": "Millennium Bridge (London) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Millennium_Bridge_(London)"
+          }
+        },
+        {
+          "id": "2026-11-16-1-1",
+          "title": "Amerikas Filmgedächtnis",
+          "text": "Unter anderem filmte Barney Elliott den Einsturz, der Inhaber eines Fotogeschäfts in Tacoma. Seine Aufnahmen wurden 1998 ins National Film Registry aufgenommen. Diese Liste der Library of Congress gibt es seit 1989. Jedes Jahr kommen 25 Filme hinzu, die als kulturell, historisch oder ästhetisch bedeutsam gelten. Neben Klassikern wie „Citizen Kane“ stehen dort auch Amateuraufnahmen, etwa der Film, den Abraham Zapruder 1963 vom Attentat auf John F. Kennedy drehte.",
+          "hook": "Der Einsturz wurde gefilmt",
+          "children": [
+            {
+              "id": "2026-11-16-1-1-0",
+              "title": "Der teuerste Heimfilm",
+              "text": "Abraham Zapruder, ein Damenkleiderfabrikant aus Dallas, filmte das Attentat mit einer 8-mm-Kamera von Bell & Howell. Wenige Tage später verkaufte er die Rechte für 150.000 Dollar an das Magazin „Life“. Nachdem der Staat das Original zu öffentlichem Eigentum erklärt hatte, sprach ein Schiedsgericht der Familie 1999 rund 16 Millionen Dollar zu. Die erste Rate von 25.000 Dollar hatte Zapruder schon 1963 weitergegeben, und zwar an die Witwe des Polizisten J. D. Tippit, der am Tag des Attentats in Dallas erschossen worden war.",
+              "hook": "Abraham Zapruder",
+              "children": [],
+              "source": {
+                "title": "Zapruder-Film – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Zapruder-Film"
+              }
+            },
+            {
+              "id": "2026-11-16-1-1-1",
+              "title": "Rosebud im Auktionssaal",
+              "text": "„Citizen Kane“ von 1941 kreist um ein einziges Wort: „Rosebud“, das letzte, das der sterbende Zeitungsmagnat Charles Foster Kane flüstert. Erst in der Schlussszene erfährt das Publikum, dass es auf einem Kinderschlitten steht, der im Ofen verbrennt. Für den Dreh wurden mehrere Schlitten aus Balsaholz gebaut, und die meisten gingen in Flammen auf. Einer blieb erhalten: 1982 ersteigerte ihn Steven Spielberg für 60.500 Dollar.",
+              "hook": "Klassikern wie „Citizen Kane“",
+              "children": []
+            },
+            {
+              "id": "2026-11-16-1-1-2",
+              "title": "Filme im Atombunker",
+              "text": "Ihre Filmsammlung lagert die Library of Congress zu großen Teilen in Culpeper, Virginia, im Packard Campus für audiovisuelle Medien. Er liegt im Mount Pony, einem Bunker, den die US-Notenbank im Kalten Krieg betrieb. Dort lagerten Milliarden Dollar in bar, um die Wirtschaft nach einem Atomkrieg wieder mit Geld zu versorgen. Seit 2007 liegen in dem Hügel stattdessen Filmrollen, und für den leicht entflammbaren Nitrofilm gibt es eigene Gewölbe. Wo früher das Geld für den Weltuntergang bereitlag, ruht heute Amerikas Filmgedächtnis.",
+              "hook": "Diese Liste der Library of Congress",
+              "children": [],
+              "source": {
+                "title": "National Audio-Visual Conservation Center – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/National_Audio-Visual_Conservation_Center"
+              }
+            }
+          ],
+          "source": {
+            "title": "Liste der im National Film Registry verzeichneten Filme – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Liste_der_im_National_Film_Registry_verzeichneten_Filme"
+          }
+        },
+        {
+          "id": "2026-11-16-1-2",
+          "title": "Ein Riff aus Brückenstahl",
+          "text": "Die Trümmer der eingestürzten Brücke liegen bis heute am Grund der Meerenge. Seit 1992 stehen sie im National Register of Historic Places und sind dadurch vor Bergung und Plünderung geschützt. Für Taucher sind sie ein künstliches Riff, in dem unter anderem der Pazifische Riesenkrake lebt. Diese größte Krakenart der Welt erreicht eine Armspanne von mehreren Metern, lebt aber nur etwa drei bis fünf Jahre. Die Weibchen bewachen ihr Gelege monatelang, fressen dabei nichts und sterben kurz nach dem Schlüpfen der Jungen.",
+          "hook": "stürzte sie ein",
+          "children": [
+            {
+              "id": "2026-11-16-1-2-0",
+              "title": "Denkmalschutz auf dem Mond",
+              "text": "Ins National Register of Historic Places kommt im Grunde nur, was auf US-Gebiet liegt. Der Landeplatz von Apollo 11 blieb deshalb draußen, denn der Weltraumvertrag von 1967 verbietet Gebietsansprüche auf dem Mond. Kalifornien und New Mexico fanden 2010 einen Ausweg: Sie nahmen über hundert zurückgelassene Gegenstände in ihre Denkmallisten auf, darunter die Abstiegsstufe der Mondfähre. Denkmalstatus haben damit die Objekte, der Boden mit Armstrongs Fußabdruck aber nicht.",
+              "hook": "National Register of Historic Places",
+              "children": [],
+              "source": {
+                "title": "Apollo 11 moon site given historic status – NBC News",
+                "url": "https://www.nbcnews.com/id/wbna35153291"
+              }
+            },
+            {
+              "id": "2026-11-16-1-2-1",
+              "title": "Zwei Millionen Altreifen",
+              "text": "Nicht jedes künstliche Riff wird ein Erfolg: 1972 versenkten Freiwillige vor Fort Lauderdale in Florida mit Unterstützung von Goodyear rund zwei Millionen Altreifen, um Fische anzulocken. Doch auf dem Gummi siedelten sich kaum Korallen an, und Stürme rissen die gebündelten Reifen los und schleuderten sie gegen echte Riffe. Seit 2007 bergen Militärtaucher sie bei Übungseinsätzen wieder, eine Arbeit, die sich über Jahre hinzieht. Das Osborne Reef gilt heute als Lehrstück dafür, wie gut gemeinter Umweltschutz zur Umweltkatastrophe werden kann.",
+              "hook": "ein künstliches Riff",
+              "children": [],
+              "source": {
+                "title": "Osborne-Riff – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Osborne-Riff"
+              }
+            },
+            {
+              "id": "2026-11-16-1-2-2",
+              "title": "Der eingebaute Krakentod",
+              "text": "Dass Krakenmütter beim Brüten fasten und dann sterben, ist kein bloßer Erschöpfungstod. 1977 entfernte der Biologe Jerome Wodinsky brütenden Weibchen die optischen Drüsen, ein Hormonorgan nahe dem Gehirn, das man mit der Hirnanhangdrüse verglichen hat. Die Tiere verließen daraufhin ihr Gelege, fraßen wieder und lebten Monate länger. 2022 zeigten Forscher, dass diese Drüse nach der Paarung den Cholesterinstoffwechsel umstellt. Die Krakenmutter stirbt also auf Befehl ihres eigenen Hormonsystems.",
+              "hook": "fressen dabei nichts und sterben",
+              "children": [],
+              "source": {
+                "title": "What causes the octopus death spiral? New study points to changes in cholesterol production – University of Chicago News",
+                "url": "https://news.uchicago.edu/story/what-causes-octopus-death-spiral-new-study-points-changes-cholesterol-production"
+              }
+            }
+          ],
+          "source": {
+            "title": "Tacoma Narrows Bridge collapse artificial reef – National Geographic",
+            "url": "https://www.nationalgeographic.com/history/article/tacoma-narrows-bridge-collapse-artificial-reef"
+          }
+        }
+      ],
+      "source": {
+        "title": "Tacoma-Narrows-Brücke – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Tacoma-Narrows-Br%C3%BCcke"
+      }
+    },
+    {
+      "id": "2026-11-16-2",
+      "category": "orte",
+      "title": "Die Morning-Glory-Wolke",
+      "text": "Über dem Golf von Carpentaria in Nordaustralien rollt im Frühjahr oft frühmorgens eine röhrenförmige Wolke heran, die Hunderte Kilometer lang sein kann. Am zuverlässigsten zeigt sich die Morning Glory von September bis Anfang November nahe dem Ort Burketown in Queensland. Segelflieger reisen eigens an, um im Aufwind vor der Wolke zu „surfen“. Vermutlich entsteht diese atmosphärische Welle, wenn nachts Seewinde von beiden Seiten der Kap-York-Halbinsel aufeinandertreffen.",
+      "children": [
+        {
+          "id": "2026-11-16-2-0",
+          "title": "Stunden zu spät am Dig Tree",
+          "text": "Burketown ist nach Robert O’Hara Burke benannt, der ab 1860 mit William John Wills die erste Durchquerung Australiens durch Europäer von Süd nach Nord anführte. Im Februar 1861 erreichten die beiden die Mangrovensümpfe am Golf, das offene Meer sahen sie wegen des dichten Dickichts nie. Auf dem Rückweg kamen sie am Cooper Creek nur Stunden zu spät an: Das Versorgungsteam war am selben Tag abgezogen und hatte Vorräte am heutigen „Dig Tree“ vergraben. Burke und Wills starben, John King überlebte dank der Yandruwandha.",
+          "hook": "nahe dem Ort Burketown in Queensland",
+          "children": [
+            {
+              "id": "2026-11-16-2-0-0",
+              "title": "Salz auf den Blättern",
+              "text": "Die Mangrovensümpfe, die Burke und Wills den Blick aufs Meer versperrten, säumen den Golf von Carpentaria über Hunderte Kilometer. Mangroven sind Bäume, die im Salzwasser wurzeln. Manche filtern das Salz schon an den Wurzeln heraus, andere scheiden es über die Blätter aus, auf denen dann Salzkristalle glitzern. Viele atmen über Luftwurzeln, die wie Bleistifte aus dem Schlick ragen. Eine der verbreitetsten Gattungen, Avicennia, benannte Linné nach dem persischen Arzt Ibn Sina, im Westen als Avicenna bekannt.",
+              "hook": "Mangrovensümpfe am Golf",
+              "children": [],
+              "source": {
+                "title": "Mangrove (Baum) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Mangrove_(Baum)"
+              }
+            },
+            {
+              "id": "2026-11-16-2-0-1",
+              "title": "Verhungert mit vollem Magen",
+              "text": "Dass Burke und Wills starben, obwohl sie zuletzt fast täglich aßen, lag vermutlich am Nardoo. Diesen Wasserfarn hatten sie bei den Yandruwandha kennengelernt. Seine harten Sporenfrüchte mahlten sie zu Mehl. Nardoo enthält jedoch Thiaminase, ein Enzym, das Vitamin B1 zerstört. Die Aborigines bereiteten den Brei mit viel Wasser zu, was die Wirkung wohl abschwächte. Die Forscher sind demnach womöglich mit vollem Magen verhungert, an einem Vitaminmangel namens Beriberi.",
+              "hook": "Burke und Wills starben",
+              "children": [],
+              "source": {
+                "title": "Marsilea drummondii – Australian National Botanic Gardens",
+                "url": "https://anbg.gov.au/gnp/interns-2004/marsilea-drummondii.html"
+              }
+            },
+            {
+              "id": "2026-11-16-2-0-2",
+              "title": "Unter dem Coolibah",
+              "text": "Der „Dig Tree“ am Cooper Creek ist ein Coolibah, ein Eukalyptus der Überschwemmungsebenen im Inland, und er steht bis heute. Unter einem solchen Baum rastet der Landstreicher in „Waltzing Matilda“: Banjo Paterson schrieb den Text 1895 auf einer Schaffarm in Queensland. Darin stiehlt der Mann ein Schaf und springt lieber in ein Wasserloch, als sich verhaften zu lassen. Sein Geist spukt dort noch. Bei der Volksbefragung von 1977 über ein Nationallied kam es nur auf Platz zwei, hinter „Advance Australia Fair“.",
+              "hook": "Vorräte am heutigen „Dig Tree“ vergraben",
+              "children": [],
+              "source": {
+                "title": "Waltzing Matilda – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Waltzing_Matilda"
+              }
+            }
+          ],
+          "source": {
+            "title": "Expedition von Burke und Wills – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Expedition_von_Burke_und_Wills"
+          }
+        },
+        {
+          "id": "2026-11-16-2-1",
+          "title": "Die Welle im Union Canal",
+          "text": "Als atmosphärische Welle wird die Morning Glory oft zu den Solitonen gezählt, Einzelwellen, die über weite Strecken ihre Form behalten. Beobachtet hat das Phänomen im August 1834 der schottische Ingenieur John Scott Russell, als ein Kanalboot auf dem Union Canal bei Edinburgh abrupt stoppte und die aufgeworfene Welle allein weiterrollte. Russell folgte ihr zu Pferd über ein bis zwei Meilen und beschrieb sie später ausführlich. Die Mathematik dazu lieferten 1895 Korteweg und de Vries, und 1995 wurde die Welle am Kanal nachgestellt.",
+          "hook": "diese atmosphärische Welle",
+          "children": [
+            {
+              "id": "2026-11-16-2-1-0",
+              "title": "Die Mörder vom Kanalbau",
+              "text": "Unter den Arbeitern, die in den 1820er-Jahren den Union Canal bei Edinburgh gruben, waren die Iren William Burke und William Hare. 1828 töteten die beiden in Edinburgh 16 Menschen und verkauften die Leichen an den Anatomen Robert Knox, der für seine Vorlesungen Präparate brauchte. Hare sagte gegen seinen Komplizen aus und kam frei. Burke wurde 1829 gehängt und anschließend öffentlich seziert. Sein Skelett ist bis heute im Anatomischen Museum der Universität Edinburgh zu sehen.",
+              "hook": "Union Canal bei Edinburgh",
+              "children": [],
+              "source": {
+                "title": "West-Port-Morde – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/West-Port-Morde"
+              }
+            },
+            {
+              "id": "2026-11-16-2-1-1",
+              "title": "Der Riese von der Themse",
+              "text": "John Scott Russell erforschte nicht nur Wellen, er baute auch Schiffe: Ab 1854 entstand auf seiner Werft an der Themse gemeinsam mit Isambard Kingdom Brunel die Great Eastern. Mit rund 211 Metern Länge blieb sie mehr als 40 Jahre lang das größte Schiff der Welt. Der seitliche Stapellauf blieb 1857 stecken und gelang erst im Januar 1858. Als Passagierschiff wurde der Riese ein Flop, doch 1866 verlegte er das erste dauerhaft funktionierende Telegrafenkabel durch den Atlantik.",
+              "hook": "der schottische Ingenieur John Scott Russell",
+              "children": [],
+              "source": {
+                "title": "Great Eastern – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Great_Eastern"
+              }
+            },
+            {
+              "id": "2026-11-16-2-1-2",
+              "title": "Das Rätsel im MANIAC",
+              "text": "Die Gleichung von Korteweg und de Vries aus dem Jahr 1895 geriet für Jahrzehnte fast in Vergessenheit, bis ein Computerexperiment sie zurückholte. Mitte der 1950er-Jahre simulierten Enrico Fermi, John Pasta, Stanislaw Ulam und die Programmiererin Mary Tsingou in Los Alamos schwingende Ketten. Statt sich gleichmäßig zu verteilen, kehrte die Energie immer wieder fast in ihren Anfangszustand zurück. Bei der Suche nach einer Erklärung prägten Zabusky und Kruskal 1965 das Wort „Soliton“. Tsingous Name gehört erst seit den 2000er-Jahren zum Namen des Problems.",
+              "hook": "1895 Korteweg und de Vries",
+              "children": [],
+              "source": {
+                "title": "Fermi-Pasta-Ulam-Tsingou-Experiment – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Fermi-Pasta-Ulam-Tsingou-Experiment"
+              }
+            }
+          ],
+          "source": {
+            "title": "Soliton – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Soliton"
+          }
+        },
+        {
+          "id": "2026-11-16-2-2",
+          "title": "Segelflug dank Versailles",
+          "text": "Dass Segelflieger heute weltweit Aufwinden nachreisen, geht auch auf ein Verbot zurück: Der Versailler Vertrag schränkte nach 1919 den Bau von Motorflugzeugen in Deutschland stark ein. Junge Flugbegeisterte wichen auf motorlose Gleiter aus und trafen sich ab 1920 zu Wettbewerben auf der Wasserkuppe in der Rhön, dem höchsten Berg Hessens. Initiator war der Publizist Oskar Ursinus, bald „Rhönvater“ genannt. Aus kurzen Sprüngen wurden schon 1922 Flüge von mehr als einer Stunde.",
+          "hook": "Segelflieger reisen eigens an",
+          "children": [
+            {
+              "id": "2026-11-16-2-2-0",
+              "title": "Spiegel gegen Venedig",
+              "text": "Unterzeichnet wurde der Versailler Vertrag am 28. Juni 1919 im Spiegelsaal des Schlosses, also genau dort, wo 1871 das Deutsche Kaiserreich ausgerufen worden war. Schon die 357 Spiegel des Saals waren ein Machtsignal: Große Spiegel waren damals eine Spezialität Venedigs, und Ludwigs Minister Colbert warb gezielt Glasmacher aus Murano ab, die die Republik eigentlich nicht ziehen lassen wollte. Die 1665 gegründete königliche Spiegelmanufaktur gibt es bis heute: als Baustoffkonzern Saint-Gobain.",
+              "hook": "Der Versailler Vertrag",
+              "children": [],
+              "source": {
+                "title": "Spiegelsaal von Versailles – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Spiegelsaal_von_Versailles"
+              }
+            },
+            {
+              "id": "2026-11-16-2-2-1",
+              "title": "Die gefürchtete Lücke",
+              "text": "Am höchsten Berg Hessens entspringt die Fulda, und nach der gleichnamigen Stadt an ihrem Lauf benannte die NATO im Kalten Krieg eine gefürchtete Region: das Fulda Gap. Durch diese Senke, so die Planer, könnten sowjetische Panzer am schnellsten Richtung Frankfurt und Rhein vorstoßen. US-Soldaten beobachteten die innerdeutsche Grenze deshalb vom Posten Point Alpha bei Rasdorf aus, nur wenige Meter von der DDR entfernt. Heute ist er eine Gedenkstätte für eine Schlacht, die nie stattfand.",
+              "hook": "dem höchsten Berg Hessens",
+              "children": [],
+              "source": {
+                "title": "Fulda Gap – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Fulda_Gap"
+              }
+            },
+            {
+              "id": "2026-11-16-2-2-2",
+              "title": "Ein Rad aus der Rhön",
+              "text": "Nicht nur Segelflieger machten die Rhön berühmt: In Schönau an der Brend im bayerischen Teil des Gebirges lebte der gebürtige Pfälzer Otto Feick, der dort Mitte der 1920er-Jahre ein ungewöhnliches Turngerät patentieren ließ. Sein Rhönrad besteht aus zwei mannshohen, durch Sprossen verbundenen Reifen, in denen ein Mensch steht und sich abrollt. Bei den Olympischen Spielen 1936 in Berlin wurde es vorgeführt. Heute gibt es Weltmeisterschaften, und im Englischen heißt das Gerät schlicht „German wheel“.",
+              "hook": "in der Rhön",
+              "children": [],
+              "source": {
+                "title": "Rhönrad – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Rh%C3%B6nrad"
+              }
+            }
+          ],
+          "source": {
+            "title": "Rhön-Segelflugwettbewerb – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Rh%C3%B6n-Segelflugwettbewerb"
+          }
+        }
+      ],
+      "source": {
+        "title": "Morning Glory Cloud – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Morning_Glory_Cloud"
+      }
+    }
+  ]
+}
