@@ -1,0 +1,436 @@
+{
+  "version": 1,
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-17T00:41:42.044Z",
+  "topics": [
+    {
+      "id": "2026-11-19-0",
+      "category": "geschichte",
+      "title": "Mary Anning",
+      "text": "Mary Anning (1799–1847) suchte an den Klippen von Lyme Regis in Südengland nach Fossilien, um ihre arme Familie durchzubringen. Um 1811/12 legten sie und ihr Bruder Joseph ein Ichthyosaurier-Skelett frei, 1823 folgte der erste nahezu vollständige Plesiosaurier. Gelehrte kauften und beschrieben ihre Funde, doch die Geological Society in London nahm sie als Frau nie auf. Ob der Zungenbrecher „She sells seashells“ auf sie zurückgeht, ist nicht belegt.",
+      "children": [
+        {
+          "id": "2026-11-19-0-0",
+          "title": "Eine Küste aus drei Zeitaltern",
+          "text": "Die Klippen von Lyme Regis gehören zur Jurassic Coast. Der rund 150 Kilometer lange Küstenstreifen zwischen Exmouth in Devon und Studland Bay in Dorset ist seit 2001 UNESCO-Welterbe. Weil die Gesteinsschichten leicht nach Osten geneigt sind, wandert man von West nach Ost durch etwa 185 Millionen Jahre aus Trias, Jura und Kreide. Dass hier so viel gefunden wird, hat einen Grund: Rutschungen wie am Black Ven bei Charmouth, einer der größten Küstenrutschungen Europas, legen ständig neue Fossilien frei.",
+          "hook": "Klippen von Lyme Regis",
+          "children": [
+            {
+              "id": "2026-11-19-0-0-0",
+              "title": "Generalprobe für den D-Day",
+              "text": "In der Studland Bay, am östlichen Ende der Jurassic Coast, probten alliierte Truppen im April 1944 die Landung in der Normandie. Bei der Übung „Smash“ sollten Valentine-Panzer mit einer Schwimmschürze aus Segeltuch schwimmend an Land kommen. Bei rauer See sanken jedoch mehrere, sechs Soldaten ertranken. Dass Churchill, Eisenhower und König Georg VI. aus dem Betonbunker Fort Henry zusahen, wird oft erzählt, ist aber umstritten. Mehrere Panzerwracks liegen bis heute auf dem Grund der Bucht und sind beliebte Tauchziele.",
+              "hook": "Studland Bay in Dorset",
+              "children": []
+            },
+            {
+              "id": "2026-11-19-0-0-1",
+              "title": "Die Karte des Kanalbauers",
+              "text": "Dass Gesteinsschichten in fester Reihenfolge übereinanderliegen und sich an ihren Fossilien erkennen lassen, bemerkte um 1800 der Landvermesser William Smith beim Bau von Kanälen. 1815 veröffentlichte er eine handkolorierte geologische Karte von England und Wales, rund 2,6 mal 1,8 Meter groß. Eine billigere Konkurrenzkarte aus dem Umfeld der Geological Society trug zu seinem Ruin bei, 1819 kam er ins Schuldgefängnis. Ausgerechnet diese Gesellschaft verlieh ihm 1831 als Erstem ihre Wollaston-Medaille.",
+              "hook": "leicht nach Osten geneigt",
+              "children": [],
+              "source": {
+                "title": "William Smith (Geologe) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/William_Smith_(Geologe)"
+              }
+            },
+            {
+              "id": "2026-11-19-0-0-2",
+              "title": "Erdzeitalter vom Kontinent",
+              "text": "Die Namen der drei Zeitalter, die an der englischen Küste offenliegen, stammen alle vom Kontinent. „Kreide“ prägte 1822 der Belgier Jean-Baptiste d’Omalius d’Halloy nach Kreideablagerungen im Pariser Becken. „Trias“ führte 1834 der württembergische Salinenbeamte Friedrich von Alberti ein, für drei süddeutsche Schichten: Buntsandstein, Muschelkalk und Keuper. „Jura“ geht auf das Juragebirge zwischen Frankreich und der Schweiz zurück. Die Jurassic Coast ist also nach einem Gebirge jenseits des Ärmelkanals benannt.",
+              "hook": "Trias, Jura und Kreide",
+              "children": [],
+              "source": {
+                "title": "Jura (Geologie) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Jura_(Geologie)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Jurassic Coast – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Jurassic_Coast"
+          }
+        },
+        {
+          "id": "2026-11-19-0-1",
+          "title": "Cuvier wittert Betrug",
+          "text": "Den Plesiosaurier von 1823 hielt Georges Cuvier in Paris, der berühmteste Anatom seiner Zeit, zunächst für eine Fälschung. Der Hals mit seinen auffallend vielen Wirbeln kam ihm unmöglich vor. Erst nach genauer Prüfung lenkte er ein. Cuvier hatte schon 1796 an Zähnen und Kiefern gezeigt, dass Mammuts eine eigene, ausgestorbene Art waren. Damit setzte sich die damals umstrittene Idee des Aussterbens durch. Das Verschwinden von Arten erklärte er mit wiederkehrenden Katastrophen, nicht mit Evolution.",
+          "hook": "der erste nahezu vollständige Plesiosaurier",
+          "children": [
+            {
+              "id": "2026-11-19-0-1-0",
+              "title": "Der Kopf am falschen Ende",
+              "text": "Noch extremer war der Hals bei Elasmosaurus, einem Verwandten von Annings Plesiosaurier: Er hatte rund 70 Halswirbel, Menschen und Giraffen haben sieben. Der Amerikaner Edward Drinker Cope beschrieb das Tier 1868 und setzte den Schädel versehentlich ans Schwanzende. Als sein Kollege Joseph Leidy den Fehler aufdeckte, versuchte Cope, die schon gedruckten Exemplare seiner Arbeit zurückzukaufen. Die Blamage gilt als ein Funke der „Knochenkriege“, die Cope sich jahrzehntelang mit seinem Rivalen Othniel Marsh lieferte.",
+              "hook": "Hals mit seinen auffallend vielen Wirbeln",
+              "children": [],
+              "source": {
+                "title": "Elasmosaurus – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Elasmosaurus"
+              }
+            },
+            {
+              "id": "2026-11-19-0-1-1",
+              "title": "Mammuts zur Pyramidenzeit",
+              "text": "Cuvier sah in den Mammuts Tiere einer längst vergangenen Vorwelt, doch einige hielten erstaunlich lange durch. Auf der Wrangelinsel im Nordpolarmeer überlebte eine kleine Population, als das Festland längst mammutfrei war. Das zeigen Funde, die der russische Forscher Sergei Wartanjan in den 1990er-Jahren beschrieb. Laut Erbgutanalysen ging diese Population auf nur wenige Gründertiere zurück und hielt sich dennoch rund 6000 Jahre. Als die letzten Mammuts vor etwa 4000 Jahren verschwanden, stand die Cheops-Pyramide bereits seit Jahrhunderten.",
+              "hook": "dass Mammuts eine eigene, ausgestorbene Art waren",
+              "children": [],
+              "source": {
+                "title": "The last woolly mammoths offer new clues to why the species went extinct – Science News",
+                "url": "https://www.sciencenews.org/article/last-woolly-mammoths-species-extinct"
+              }
+            },
+            {
+              "id": "2026-11-19-0-1-2",
+              "title": "Cuviers späte Genugtuung",
+              "text": "Cuviers Katastrophen galten im 19. Jahrhundert bald als überholt, denn Geologen wie Charles Lyell setzten auf langsame, stetige Veränderung. Im Jahr 1980 deuteten der Physiker Luis Alvarez und sein Sohn Walter eine dünne Tonschicht bei Gubbio in Italien neu: Sie enthielt auffallend viel Iridium, das in Asteroiden häufiger vorkommt als in der Erdkruste. Um 1990 wurde der Chicxulub-Krater in Mexiko als passender Einschlagsort erkannt. Heute ist klar, dass Katastrophe und Evolution einander nicht ausschließen, denn die Vögel sind die Dinosaurier, die den Einschlag überlebten.",
+              "hook": "mit wiederkehrenden Katastrophen",
+              "children": [],
+              "source": {
+                "title": "Kreide-Paläogen-Grenze – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kreide-Pal%C3%A4ogen-Grenze"
+              }
+            }
+          ],
+          "source": {
+            "title": "Georges Cuvier – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Georges_Cuvier"
+          }
+        },
+        {
+          "id": "2026-11-19-0-2",
+          "title": "Warum die Zunge stolpert",
+          "text": "Ein Lied machte die Zeile 1908 populär: Terry Sullivan und Harry Gifford veröffentlichten in England „She Sells Sea-Shells (on the Sea-Shore)“. Ältere Fassungen finden sich aber schon in Sprechübungen des 19. Jahrhunderts. Zungenbrecher funktionieren, weil ähnliche Laute beim Planen der Sprechbewegungen um dieselben Positionen konkurrieren. 2013 stellte ein MIT-Team um Stefanie Shattuck-Hufnagel „Pad kid poured curd pulled cod“ vor, an dem viele Testpersonen scheiterten. Im Deutschen leistet „Fischers Fritz fischt frische Fische“ Ähnliches.",
+          "hook": "She sells seashells",
+          "children": [
+            {
+              "id": "2026-11-19-0-2-0",
+              "title": "Versprecher aus Wien",
+              "text": "Dass sich ähnliche Laute beim Sprechen in die Quere kommen, untersuchte schon 1895 der Wiener Sprachwissenschaftler Rudolf Meringer. Gemeinsam mit dem Psychiater Karl Mayer veröffentlichte er das Buch „Versprechen und Verlesen“. Darin ordneten sie gesammelte Alltagsversprecher nach Mustern wie Vorwegnahme, Nachklang und Vertauschung. Sigmund Freud griff die Sammlung wenig später auf, deutete viele Fehler aber als Zeichen verdrängter Gedanken. Berühmt wurde am Ende nicht Meringers Lautmechanik, sondern der „Freudsche Versprecher“.",
+              "hook": "ähnliche Laute beim Planen der Sprechbewegungen",
+              "children": [],
+              "source": {
+                "title": "Rudolf Meringer – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Rudolf_Meringer"
+              }
+            },
+            {
+              "id": "2026-11-19-0-2-1",
+              "title": "Bier, Bühne und Chaplin",
+              "text": "Terry Sullivan und Harry Gifford schrieben für die Music Hall, die beliebteste Unterhaltung im England um 1900. Als Urbild gilt die Canterbury Hall, die Charles Morton 1852 im Londoner Stadtteil Lambeth eröffnete. Dort sah man bei Bier und Essen Sängern, Komikern und Akrobaten zu. Aus dieser Szene kam auch die Truppe des Impresarios Fred Karno, mit der 1910 zwei junge Komiker nach Amerika fuhren. Der eine hieß Charlie Chaplin, der andere war damals seine Zweitbesetzung und wurde später als Stan Laurel bekannt.",
+              "hook": "Terry Sullivan und Harry Gifford",
+              "children": [],
+              "source": {
+                "title": "Music Hall – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Music_Hall"
+              }
+            },
+            {
+              "id": "2026-11-19-0-2-2",
+              "title": "Das Meer in der Muschel",
+              "text": "Wer eine der besungenen Muscheln ans Ohr hält, hört angeblich das Meer. Tatsächlich wirkt der gewundene Hohlraum als Resonator: Je nach Form und Größe der Schale verstärkt er bestimmte Frequenzen aus dem Rauschen der Umgebung. Die verbreitete Erklärung, man höre das eigene Blut rauschen, hält einem einfachen Test nicht stand, denn in einem sehr stillen Raum bleibt die Muschel fast stumm. Ein leeres Wasserglas oder die hohle Hand erzeugen dasselbe „Meer“.",
+              "hook": "She Sells Sea-Shells",
+              "children": [],
+              "source": {
+                "title": "Wie kommt das Meeresrauschen in die Muschel? – wissen.de",
+                "url": "https://wissen.de/artikel/wie-kommt-das-meeresrauschen-in-die-muschel"
+              }
+            }
+          ],
+          "source": {
+            "title": "Zungenbrecher – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Zungenbrecher"
+          }
+        }
+      ],
+      "source": {
+        "title": "Mary Anning – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Mary_Anning"
+      }
+    },
+    {
+      "id": "2026-11-19-1",
+      "category": "technik",
+      "title": "Die Fresnel-Linse",
+      "text": "Der französische Ingenieur Augustin Fresnel bündelte das Licht der Leuchttürme nicht mehr mit Spiegeln, sondern mit konzentrischen Ringen aus Glasprismen. So wirkt die Linse wie eine riesige Sammellinse, ohne dass man einen unbezahlbar schweren Glasblock gießen muss. 1823 leuchtete die erste im Phare de Cordouan an der Gironde-Mündung, Frankreichs ältestem noch betriebenem Leuchtturm. Den weltweiten Siegeszug seiner Erfindung erlebte Fresnel nicht mehr: Er starb 1827 mit 39 Jahren an Tuberkulose.",
+      "children": [
+        {
+          "id": "2026-11-19-1-0",
+          "title": "Ein Lichtpunkt als Beweis",
+          "text": "Augustin Fresnel war nicht nur Ingenieur, er stritt auch über die Grundfrage der Optik: Ist Licht ein Strom aus Teilchen oder eine Welle? Beim Preisausschreiben der Pariser Akademie 1818 leitete der Teilchen-Anhänger Siméon Denis Poisson aus Fresnels Wellentheorie eine scheinbar absurde Folge ab. Genau in der Mitte des Schattens einer runden Scheibe müsse ein heller Punkt erscheinen. François Arago führte das Experiment durch und fand den Fleck tatsächlich. Ausgerechnet nach Poisson, der die Theorie widerlegen wollte, ist er heute oft benannt.",
+          "hook": "französische Ingenieur Augustin Fresnel",
+          "children": [
+            {
+              "id": "2026-11-19-1-0-0",
+              "title": "Tod durch Hufschlag",
+              "text": "Siméon Denis Poisson verlor den Streit um das Licht, hinterließ aber ein Werkzeug, das heute jeder Statistiker kennt. 1837 beschrieb er in einer Arbeit über die Wahrscheinlichkeit von Gerichtsurteilen eine Verteilung für seltene, voneinander unabhängige Ereignisse. Bekannt machte sie der Statistiker Ladislaus von Bortkiewicz. Er zeigte 1898, dass ihr die Zahl der Soldaten erstaunlich gut folgte, die in den Armeekorps des preußischen Heeres jedes Jahr durch Hufschlag starben. Seitdem sind tödliche Pferdetritte ein Lehrbuchbeispiel der Poisson-Verteilung.",
+              "hook": "Siméon Denis Poisson",
+              "children": [],
+              "source": {
+                "title": "Poisson-Verteilung – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Poisson-Verteilung"
+              }
+            },
+            {
+              "id": "2026-11-19-1-0-1",
+              "title": "Ein Geschenk an die Welt",
+              "text": "François Arago, der den hellen Fleck nachwies, verhalf 1839 einer ganz anderen Lichttechnik zum Durchbruch: der Fotografie. Als Abgeordneter und Sekretär der Akademie setzte er durch, dass der französische Staat Louis Daguerre sein Verfahren gegen eine lebenslange Rente abkaufte. Am 19. August 1839 stellte Arago die Daguerreotypie in Paris als Geschenk Frankreichs an die Welt vor. Nur wenige Tage zuvor hatte Daguerre sie jedoch in England patentieren lassen. Dort war das Geschenk also nicht kostenlos.",
+              "hook": "François Arago führte das Experiment durch",
+              "children": [],
+              "source": {
+                "title": "François Arago – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Fran%C3%A7ois_Arago"
+              }
+            },
+            {
+              "id": "2026-11-19-1-0-2",
+              "title": "Blütenblätter gegen Licht",
+              "text": "Der helle Punkt in der Mitte des Schattens einer runden Scheibe ist heute ein Problem für die Suche nach fremden Planeten. Die NASA erforscht sogenannte Starshades: Schirme mit mehreren Dutzend Metern Durchmesser, die zehntausende Kilometer vor einem Weltraumteleskop fliegen und einen Stern abdecken sollen. Erst dann wären seine schwachen Planeten zu sehen. Eine runde Scheibe würde jedoch genau den Poisson-Fleck erzeugen und so wieder Sternenlicht durchlassen. Deshalb haben die Entwürfe gezackte Ränder aus Blütenblättern und erinnern an riesige Sonnenblumen.",
+              "hook": "Mitte des Schattens einer runden Scheibe",
+              "children": [],
+              "source": {
+                "title": "Starshade – NASA Exoplanet Exploration Program",
+                "url": "https://science.nasa.gov/astrophysics/programs/exep/technology/starshade/"
+              }
+            }
+          ],
+          "source": {
+            "title": "Poisson-Fleck – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Poisson-Fleck"
+          }
+        },
+        {
+          "id": "2026-11-19-1-1",
+          "title": "Surfen auf der Flutwelle",
+          "text": "Die Gironde entsteht am Bec d'Ambès, wo Garonne und Dordogne zusammenfließen, und bildet eine der größten Flussmündungen Westeuropas. Bei starken Springtiden schiebt die Flut hier eine Welle flussaufwärts, den Mascaret. An der Dordogne bei Saint-Pardon reiten Surfer diese Gezeitenwelle oft über weite Strecken landeinwärts. Am kräftigsten ist sie meist im Spätsommer, wenn die Flüsse wenig Wasser führen und das Meer leichter gegen die Strömung ankommt.",
+          "hook": "an der Gironde-Mündung",
+          "children": [
+            {
+              "id": "2026-11-19-1-1-0",
+              "title": "Die Welle von Villequier",
+              "text": "Auch die Seine hatte einst einen Mascaret. Er galt als gefährlich, bis Ausbaggerungen und Uferbauten ihn im 20. Jahrhundert weitgehend zähmten. Bei Villequier ertranken im September 1843 Victor Hugos Tochter Léopoldine und ihr Mann Charles Vacquerie, als ihr Boot kenterte. Ob eine Windböe oder die Flutwelle schuld war, ist umstritten. Hugo erfuhr Tage später zufällig aus einer Zeitung in einem Café in Rochefort davon. Aus seiner Trauer entstand später „Demain, dès l'aube“, eines der bekanntesten Gedichte Frankreichs.",
+              "hook": "den Mascaret",
+              "children": [],
+              "source": {
+                "title": "Léopoldine Hugo – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/L%C3%A9opoldine_Hugo"
+              }
+            },
+            {
+              "id": "2026-11-19-1-1-1",
+              "title": "Die Höhle an der Vézère",
+              "text": "Weit flussaufwärts von Saint-Pardon mündet bei Limeuil die Vézère in die Dordogne. An ihrem Ufer bei Montignac liegt die Höhle von Lascaux. Vier Jugendliche entdeckten sie im September 1940. Dass ihr Hund Robot den Eingang fand, gehört eher zur Legende. Die rund 17.000 Jahre alten Malereien lockten nach dem Krieg so viele Menschen an, dass ihr Atem Algen und Kalkablagerungen wachsen ließ. Seit 1963 ist die Höhle geschlossen. Heute sehen Besucher Lascaux IV, eine originalgetreue Kopie aus dem Jahr 2016.",
+              "hook": "An der Dordogne bei Saint-Pardon",
+              "children": [],
+              "source": {
+                "title": "Höhle von Lascaux – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/H%C3%B6hle_von_Lascaux"
+              }
+            },
+            {
+              "id": "2026-11-19-1-1-2",
+              "title": "Strom aus der Springflut",
+              "text": "Springtiden haben nichts mit dem Frühling zu tun. Der Name kommt vom Springen des Wassers. Sie entstehen bei Neumond und Vollmond, wenn Sonne und Mond in einer Linie stehen. An der Rance-Mündung bei Saint-Malo wird diese Kraft seit 1966 genutzt. Das Wasser steigt dort um bis zu 13 Meter, und 24 Turbinen sitzen im Damm. Rund 45 Jahre lang war es das größte Gezeitenkraftwerk der Welt. Erst 2011 wurde es vom Kraftwerk am Sihwa-See in Südkorea knapp überholt.",
+              "hook": "Bei starken Springtiden",
+              "children": [],
+              "source": {
+                "title": "Gezeitenkraftwerk La Rance – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gezeitenkraftwerk_La_Rance"
+              }
+            }
+          ]
+        },
+        {
+          "id": "2026-11-19-1-2",
+          "title": "Koch und die Schwindsucht",
+          "text": "Die Tuberkulose, an der Fresnel starb, war im 19. Jahrhundert so verbreitet, dass Robert Koch ihr etwa jeden siebten Todesfall zuschrieb. Am 24. März 1882 stellte Koch in Berlin vor der Physiologischen Gesellschaft ihren Erreger vor: das Bakterium Mycobacterium tuberculosis. Das Datum ist heute Welttuberkulosetag, und 1905 erhielt Koch den Medizin-Nobelpreis. Sein Tuberkulin enttäuschte dagegen als Heilmittel. Heute dient es vor allem dazu, eine Infektion nachzuweisen.",
+          "hook": "starb 1827 mit 39 Jahren an Tuberkulose",
+          "children": [
+            {
+              "id": "2026-11-19-1-2-0",
+              "title": "Pudding im Labor",
+              "text": "Um Bakterien wie Mycobacterium tuberculosis rein zu züchten, brauchte Kochs Umfeld feste Nährböden, und die beste Idee dafür kam aus der Küche. Fanny Hesse, Frau und Zeichnerin von Kochs Mitarbeiter Walther Hesse, schlug um 1881 Agar vor, ein Geliermittel aus Rotalgen, mit dem sie Gelees andickte. Anders als Gelatine schmilzt Agar bei Körpertemperatur nicht. Kochs Assistent Julius Petri ergänzte 1887 die passende Schale, die bis heute seinen Namen trägt. Fanny Hesse verdiente an ihrer Idee nie etwas.",
+              "hook": "das Bakterium Mycobacterium tuberculosis",
+              "children": [],
+              "source": {
+                "title": "Fanny Angelina Hesse – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Fanny_Angelina_Hesse"
+              }
+            },
+            {
+              "id": "2026-11-19-1-2-1",
+              "title": "Pirquets neues Wort",
+              "text": "Den Hauttest, mit dem Tuberkulin eine Infektion nachweist, entwickelte 1907 der Wiener Kinderarzt Clemens von Pirquet: Ein Kratzer mit Tuberkulin rötet sich, wenn der Körper den Erreger schon kennt. Ein Jahr zuvor hatte Pirquet für solche veränderten Reaktionen ein neues Wort geprägt, aus griechisch allos (anders) und ergon (Wirkung). Heute denkt dabei jeder an Pollen und Erdnüsse. Ursprünglich ging es aber um Serumkrankheit und Tuberkulose, denn das Wort lautete: Allergie.",
+              "hook": "dazu, eine Infektion nachzuweisen",
+              "children": [],
+              "source": {
+                "title": "Clemens von Pirquet – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Clemens_von_Pirquet"
+              }
+            },
+            {
+              "id": "2026-11-19-1-2-2",
+              "title": "Liegekur in Davos",
+              "text": "Weil die Schwindsucht im 19. Jahrhundert so verbreitet war, suchten Kranke Heilung in der Bergluft, vor allem in Davos. Der Arzt Alexander Spengler, ein Flüchtling der Revolution von 1848/49, glaubte dort zu beobachten, dass Einheimische kaum an Tuberkulose erkrankten. Im Februar 1865 kamen die ersten beiden Kurgäste, bald folgten Sanatorien mit Liegehallen. 1912 besuchte Thomas Mann dort drei Wochen lang seine kranke Frau Katia. Geplant war danach eine kurze Erzählung, doch daraus wurde der Roman „Der Zauberberg“ mit rund tausend Seiten.",
+              "hook": "im 19. Jahrhundert so verbreitet",
+              "children": [],
+              "source": {
+                "title": "Luftkurort Davos – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Luftkurort_Davos"
+              }
+            }
+          ],
+          "source": {
+            "title": "Tuberkulose – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Tuberkulose"
+          }
+        }
+      ],
+      "source": {
+        "title": "Fresnel-Linse – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Fresnel-Linse"
+      }
+    },
+    {
+      "id": "2026-11-19-2",
+      "category": "kultur",
+      "title": "Ravels Boléro",
+      "text": "Maurice Ravel schrieb den Boléro 1928 als Ballettmusik für die Tänzerin Ida Rubinstein. Rund eine Viertelstunde lang wiederholt die kleine Trommel unablässig denselben Rhythmus, während zwei Melodien durch immer neue Instrumente wandern und das Orchester langsam anschwillt. Erst kurz vor Schluss wechselt die Tonart von C-Dur nach E-Dur, dann bricht alles zusammen. Das Stück gehört zu den einträglichsten Werken der Musikgeschichte und ist in Frankreich erst seit 2016 gemeinfrei.",
+      "children": [
+        {
+          "id": "2026-11-19-2-0",
+          "title": "Die Frau, die Ravel bestellte",
+          "text": "Ida Rubinstein, die Auftraggeberin des Boléro, stammte aus einer sehr reichen jüdischen Familie in Charkiw und konnte sich Werke großer Komponisten schlicht kaufen. Berühmt wurde sie 1909 mit Diaghilews Ballets Russes in Paris, als Kleopatra, die aus einem Sarkophag gewickelt wurde. 1911 spielte sie den heiligen Sebastian in einem Mysterienspiel von Gabriele D’Annunzio mit Musik von Debussy, und der Erzbischof von Paris verbot Katholiken den Besuch. Mit ihrer eigenen Truppe gab sie später auch bei Strawinsky und Honegger Werke in Auftrag.",
+          "hook": "für die Tänzerin Ida Rubinstein",
+          "children": [
+            {
+              "id": "2026-11-19-2-0-0",
+              "title": "Mishimas Märtyrer",
+              "text": "D’Annunzios Mysterienspiel um den heiligen Sebastian übersetzte Jahrzehnte später Yukio Mishima ins Japanische, 1966 gemeinsam mit Ikeda Kōtarō. Der Heilige begleitete ihn seit seiner Jugend: In seinem Roman „Geständnis einer Maske“ erregt Guido Renis Gemälde des von Pfeilen durchbohrten Märtyrers den Erzähler zum ersten Mal sexuell. 1968 ließ sich Mishima vom Fotografen Kishin Shinoyama selbst als Sebastian inszenieren, an einen Baum gebunden, mit Pfeilen im Leib. Zwei Jahre später nahm er sich durch rituellen Selbstmord das Leben.",
+              "hook": "den heiligen Sebastian",
+              "children": [],
+              "source": {
+                "title": "Mishima Yukio – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Mishima_Yukio"
+              }
+            },
+            {
+              "id": "2026-11-19-2-0-1",
+              "title": "Der Dichter, der Fiume nahm",
+              "text": "Gabriele D’Annunzio, der Autor des Sebastian-Spiels, besetzte 1919 mit einigen tausend Freischärlern die Hafenstadt Fiume, das heutige Rijeka, um ihren Anschluss an Italien zu erzwingen. Rund ein Jahr lang regierte er dort einen eigenwilligen Kleinstaat, dessen Verfassung, die Carta del Carnaro, die Musik zu einer Grundinstitution des Staates erklärte. Ende 1920 vertrieb ihn die italienische Armee mit Kanonenbeschuss. Seinen Lebensabend verbrachte er am Gardasee, wo er sich den Bug des Kriegsschiffs Puglia in den Garten einbauen ließ.",
+              "hook": "Gabriele D’Annunzio",
+              "children": [],
+              "source": {
+                "title": "Italienische Regentschaft am Quarnero – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Italienische_Regentschaft_am_Quarnero"
+              }
+            },
+            {
+              "id": "2026-11-19-2-0-2",
+              "title": "Mumien als Abendprogramm",
+              "text": "Eine Gestalt, die aus einem Sarkophag gewickelt wird, war 1909 keine ganz neue Bühnenidee: Schon im London der 1830er-Jahre zahlte das Publikum Eintritt, um beim Auswickeln echter ägyptischer Mumien zuzusehen. Star dieser Vorführungen war der Chirurg Thomas Pettigrew, bald nur „Mummy Pettigrew“ genannt. Sein Ruf brachte ihm einen ungewöhnlichen Auftrag ein: Der exzentrische zehnte Herzog von Hamilton ließ sich nach seinem Tod 1852 von ihm einbalsamieren. Beigesetzt wurde er in einem altägyptischen Sarkophag, den er sich eigens dafür gekauft hatte.",
+              "hook": "aus einem Sarkophag gewickelt",
+              "children": [],
+              "source": {
+                "title": "Thomas Pettigrew – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Thomas_Pettigrew"
+              }
+            }
+          ],
+          "source": {
+            "title": "Ida Lwowna Rubinstein – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Ida_Lwowna_Rubinstein"
+          }
+        },
+        {
+          "id": "2026-11-19-2-1",
+          "title": "Boléro auf Kufen",
+          "text": "Für das olympische Eistanzfinale 1984 in Sarajevo war eine Viertelstunde viel zu lang, also ließen Jayne Torvill und Christopher Dean den Boléro auf rund viereinhalb Minuten zusammenschneiden. Das war immer noch zu lang, doch die Zeit lief erst, sobald die Kufen gleiten. Deshalb begannen die beiden kniend auf dem Eis und bewegten zunächst nur ihre Oberkörper. Die Preisrichter vergaben für den künstlerischen Ausdruck geschlossen die Höchstnote 6,0, und in Großbritannien sahen nach gängigen Angaben rund 24 Millionen Menschen live zu.",
+          "hook": "Rund eine Viertelstunde lang",
+          "children": [
+            {
+              "id": "2026-11-19-2-1-0",
+              "title": "Die Bobbahn im Krieg",
+              "text": "Die Spiele von 1984 in Sarajevo waren die ersten Winterspiele in einem sozialistischen Land, ihr Maskottchen, der Wolf Vučko, wurde in ganz Jugoslawien beliebt. Acht Jahre später begann die fast vierjährige Belagerung der Stadt im Bosnienkrieg. Auf der olympischen Bobbahn am Berg Trebević richteten bosnisch-serbische Truppen Stellungen ein, und die Zetra-Halle, Schauplatz der Eiskunstlauf-Wettbewerbe, wurde 1992 schwer beschädigt. Heute ist die Bobbahn ein von Graffiti überzogenes Ausflugsziel.",
+              "hook": "1984 in Sarajevo",
+              "children": [],
+              "source": {
+                "title": "Olympische Bob- und Rodelbahn Trebević – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Olympische_Bob-_und_Rodelbahn_Trebevi%C4%87"
+              }
+            },
+            {
+              "id": "2026-11-19-2-1-1",
+              "title": "Das Ende der 6,0",
+              "text": "Die 6,0 galt jahrzehntelang als Inbegriff der Perfektion im Eiskunstlauf, doch einen Skandal überlebte sie nicht. 2002 in Salt Lake City siegte das russische Paar Bereschnaja und Sicharulidse knapp vor den Kanadiern Salé und Pelletier, dann geriet eine französische Preisrichterin in Verdacht, ihre Wertung sei abgesprochen gewesen. Das IOC vergab eine zweite Goldmedaille an die Kanadier, und der Weltverband führte ab 2004 eine Punktewertung ohne Obergrenze ein. Eine perfekte Note gibt es seither nicht mehr.",
+              "hook": "geschlossen die Höchstnote 6,0",
+              "children": []
+            },
+            {
+              "id": "2026-11-19-2-1-2",
+              "title": "Warum Eis glatt ist",
+              "text": "Dass Kufen überhaupt gleiten, erklären viele Schulbücher mit Druck: Die Kufe presse das Eis so stark, dass es darunter schmilzt. Die Rechnung geht aber nicht auf, denn der Druck senkt den Schmelzpunkt nur geringfügig, und Schlittschuhlaufen klappt auch bei minus 20 Grad. Diskutiert werden heute vor allem Reibungswärme und eine hauchdünne, flüssigkeitsähnliche Schicht auf der Eisoberfläche, die schon Michael Faraday um 1850 vermutete. Ganz geklärt ist die Frage bis heute nicht.",
+              "hook": "sobald die Kufen gleiten",
+              "children": [],
+              "source": {
+                "title": "Neue Ansätze zur Klärung der Frage, warum Eis rutschig ist – chemie.de",
+                "url": "https://www.chemie.de/news/1178876/neue-ansaetze-zur-klaerung-der-frage-warum-eis-rutschig-ist.html"
+              }
+            }
+          ],
+          "source": {
+            "title": "Torvill and Dean – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Torvill_and_Dean"
+          }
+        },
+        {
+          "id": "2026-11-19-2-2",
+          "title": "Der Streit um den Mitautor",
+          "text": "Dass der Boléro seit 2016 gemeinfrei ist, wollten einige Rechteinhaber nicht hinnehmen: Sie verlangten, Alexandre Benois, den Bühnenbildner der Uraufführung von 1928, als Mitautor anzuerkennen. Weil Benois erst 1960 starb, wäre das Werk in Frankreich damit bis 2039 geschützt gewesen. Die Verwertungsgesellschaft SACEM lehnte ab, und 2024 wies auch ein Gericht in Nanterre die Klage ab. Die Choreografie der Uraufführung stammte übrigens von Bronislava Nijinska, der Schwester des Tänzers Vaslav Nijinsky.",
+          "hook": "erst seit 2016 gemeinfrei",
+          "children": [
+            {
+              "id": "2026-11-19-2-2-0",
+              "title": "Die Zeche im Café",
+              "text": "Die SACEM, die über die Rechte am Boléro wacht, verdankt ihre Gründung einem Streit um eine Rechnung. 1847 hörte der Komponist Ernest Bourget im Pariser Café-concert Les Ambassadeurs seine eigenen Lieder und weigerte sich, zu bezahlen, solange der Wirt nichts für die Musik zahlte. Mit zwei Kollegen zog er vor Gericht und gewann. Daraus entstand 1851 die SACEM, die als erste Verwertungsgesellschaft für Musik gilt. Der Überlieferung nach hatte Bourget nur ein Glas Zuckerwasser bestellt.",
+              "hook": "Die Verwertungsgesellschaft SACEM lehnte ab",
+              "children": [],
+              "source": {
+                "title": "SACEM – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/SACEM"
+              }
+            },
+            {
+              "id": "2026-11-19-2-2-1",
+              "title": "Die Madonna der Benois",
+              "text": "Alexandre Benois stammte aus einer weitverzweigten Petersburger Künstlerfamilie, deren Name heute an einem Gemälde von Leonardo da Vinci hängt. Seine Schwägerin Maria Benois besaß eine kleine Madonna, die Anfang des 20. Jahrhunderts als Werk Leonardos erkannt wurde. 1914 verkaufte die Familie sie an die Eremitage, wo sie seither „Madonna Benois“ heißt. Marias Mann, der Architekt Leonti Benois, hatte eine weitere berühmte Nachfahrin: Seine Tochter Nadia wurde die Mutter des Schauspielers Peter Ustinov.",
+              "hook": "Alexandre Benois, den Bühnenbildner",
+              "children": [],
+              "source": {
+                "title": "Madonna Benois – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Madonna_Benois"
+              }
+            },
+            {
+              "id": "2026-11-19-2-2-2",
+              "title": "Von Paris nach Oklahoma",
+              "text": "Bronislava Nijinska war eine der ganz wenigen Frauen, die für Sergei Diaghilews Ballets Russes choreografierten. Ihr bekanntestes Werk ist „Les Noces“ von 1923 zur Musik von Strawinsky. Später ging sie in die USA und unterrichtete in Los Angeles. Dort trainierte ein Mädchen aus der Osage Nation in Oklahoma bei ihr: Maria Tallchief. Sie wurde Amerikas erste große Primaballerina und war einige Jahre mit George Balanchine verheiratet, der einst ebenfalls für Diaghilew gearbeitet hatte.",
+              "hook": "Bronislava Nijinska, der Schwester",
+              "children": [],
+              "source": {
+                "title": "Bronislava Nijinska – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bronislava_Nijinska"
+              }
+            }
+          ],
+          "source": {
+            "title": "French court rules Ravel was sole author of Bolero – Euronews",
+            "url": "https://www.euronews.com/2024/07/01/french-court-rules-ravel-was-sole-author-of-bolero-in-financial-blow-to-his-descendants"
+          }
+        }
+      ],
+      "source": {
+        "title": "Boléro – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Bol%C3%A9ro"
+      }
+    }
+  ]
+}
