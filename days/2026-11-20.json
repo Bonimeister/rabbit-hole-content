@@ -1,0 +1,448 @@
+{
+  "version": 1,
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-18T00:39:42.116Z",
+  "topics": [
+    {
+      "id": "2026-11-20-0",
+      "category": "wissenschaft",
+      "title": "Der Pulsar CP 1919",
+      "text": "CP 1919 war der erste entdeckte Pulsar: 1967 fiel der Cambridge-Doktorandin Jocelyn Bell in Radioteleskop-Daten ein Signal auf, das sich alle 1,337 Sekunden wiederholte. Halb im Scherz nannte das Team die Quelle „LGM-1“, für Little Green Men. Dahinter steckt ein schnell rotierender Neutronenstern. Den Physik-Nobelpreis 1974 erhielt unter anderem ihr Doktorvater Antony Hewish, nicht Bell, was bis heute diskutiert wird. 1979 landete ein Diagramm der Pulse auf dem Cover von Joy Divisions „Unknown Pleasures“.",
+      "children": [
+        {
+          "id": "2026-11-20-0-0",
+          "title": "Ein Sarg mit Katalognummer",
+          "text": "Das Pulsar-Cover gestaltete Peter Saville für Factory Records, ein Label, das Tony Wilson und Alan Erasmus 1978 in Manchester gegründet hatten. Factory vergab seine Katalognummern nicht nur an Platten: FAC 51 war der Club Haçienda, FAC 61 ein Rechtsstreit mit dem Produzenten Martin Hannett. Den Schlusspunkt setzte FAC 501, der Sarg von Tony Wilson, der 2007 starb. Dass Savilles aufwendige Hülle für New Orders „Blue Monday“ pro verkauftem Exemplar Verlust brachte, wird gern erzählt, ist aber nicht sauber belegt.",
+          "hook": "auf dem Cover von Joy Divisions",
+          "children": [
+            {
+              "id": "2026-11-20-0-0-0",
+              "title": "Ein Club aus einem Manifest",
+              "text": "Der Name des Clubs Haçienda stammt aus einem Text von 1953: Der junge Pariser Ivan Chtcheglov schrieb unter dem Pseudonym Gilles Ivain in seinem „Formulaire pour un urbanisme nouveau“ den Satz „Il faut construire l'Hacienda“. Er träumte von einer Stadt, die nach Stimmungen statt nach Verkehr geordnet ist. Der Text wurde zu einem Gründungsdokument der Situationisten um Guy Debord. Gebaut wurde die Hacienda dann in Manchester als Tanzfläche. Nach dem Abriss entstand dort eine Wohnanlage mit demselben Namen.",
+              "hook": "FAC 51 war der Club Haçienda",
+              "children": [],
+              "source": {
+                "title": "Ivan Chtcheglov – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Ivan_Chtcheglov"
+              }
+            },
+            {
+              "id": "2026-11-20-0-0-1",
+              "title": "Die Platte als Diskette",
+              "text": "Als Vorbild für die Hülle von „Blue Monday“ (1983) nahm Peter Saville eine 5¼-Zoll-Diskette: ausgestanzte Löcher, und statt Bandname und Titel nur ein Farbcode. Die Diskette selbst kam um 1971 von IBM, damals im 8-Zoll-Format und zunächst nur dafür gedacht, Steuercode in Großrechner zu laden. Als Speichern-Symbol lebt sie bis heute weiter, auch für Menschen, die nie eine in der Hand hatten. In Japan verlangten Behörden sie für manche Anträge noch bis 2024. Erst dann erklärte Digitalminister Taro Kono den Kampf gegen die Diskette für gewonnen.",
+              "hook": "Savilles aufwendige Hülle für New Orders",
+              "children": [],
+              "source": {
+                "title": "Diskette – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Diskette"
+              }
+            },
+            {
+              "id": "2026-11-20-0-0-2",
+              "title": "624 Stimmen in Stockport",
+              "text": "Martin Hannett produzierte „Unknown Pleasures“ 1979 in den Strawberry Studios in Stockport. Betrieben wurde das Studio von Peter Tattersall und Eric Stewart, später bei 10cc; benannt war es nach dem Beatles-Song „Strawberry Fields Forever“. Dort entstand auch 10ccs „I'm Not in Love“ (1975): Statt Streichern sang die Band jeden der 13 Töne 48-mal ein, insgesamt 624 Stimmen auf Bandschleifen. Das geflüsterte „Big boys don't cry“ stammt von Kathy Redfern, der Empfangsdame des Studios.",
+              "hook": "Rechtsstreit mit dem Produzenten Martin Hannett",
+              "children": [],
+              "source": {
+                "title": "I’m Not in Love – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/I%E2%80%99m_Not_in_Love"
+              }
+            }
+          ],
+          "source": {
+            "title": "Factory Records – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Factory_Records"
+          }
+        },
+        {
+          "id": "2026-11-20-0-1",
+          "title": "Nudeln aus Sternmaterie",
+          "text": "In der Kruste eines Neutronensterns ist Materie so dicht gepackt, dass sich Protonen und Neutronen zu seltsamen Formen ordnen, die Physiker „Kernpasta“ nennen. Je nach Tiefe sprechen sie ganz offiziell von Gnocchi, Spaghetti und Lasagne. Computersimulationen um den Physiker Matthew Caplan ergaben 2018, dass dieses Material rund zehn Milliarden Mal fester sein könnte als Stahl. Winzige „Berge“ aus Kernpasta, wohl nur Zentimeter hoch, könnten rotierende Neutronensterne zu Quellen von Gravitationswellen machen.",
+          "hook": "ein schnell rotierender Neutronenstern",
+          "children": [
+            {
+              "id": "2026-11-20-0-1-0",
+              "title": "Lasagne aus dem Nachttopf",
+              "text": "Dass Physiker Sternmaterie nach Gnocchi, Spaghetti und Lasagne benennen, passt zu einer Küche, deren Wörter weit gereist sind. Eines der ältesten überlieferten Lasagne-Rezepte steht im „Liber de coquina“, einem Kochbuch aus dem Süditalien um 1300, noch ganz ohne Tomaten. Woher der Name stammt, ist umstritten. Oft wird er über das lateinische „lasanum“, Kochtopf oder Nachttopf, auf das griechische „lasanon“ zurückgeführt, ein Topfgestell. Andere leiten ihn vom griechischen „laganon“ ab, einem flachen Teigfladen.",
+              "hook": "Gnocchi, Spaghetti und Lasagne",
+              "children": [],
+              "source": {
+                "title": "Lasagne – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Lasagne"
+              }
+            },
+            {
+              "id": "2026-11-20-0-1-1",
+              "title": "Rekord mit Klebeband",
+              "text": "Zehn Milliarden Mal fester als Stahl ist auf der Erde nichts, doch der irdische Rekordhalter stammt aus dem Stoff von Bleistiftminen. 2004 zogen Andre Geim und Konstantin Novoselov in Manchester mit Klebeband immer dünnere Schichten von Graphit ab, bis eine einzige Lage Kohlenstoffatome übrig blieb: Graphen. Es gilt als rund hundertmal reißfester als gleich dicker Stahl und brachte beiden 2010 den Physik-Nobelpreis. Zehn Jahre zuvor hatte Geim den Ig-Nobelpreis erhalten, für einen im Magnetfeld schwebenden Frosch.",
+              "hook": "zehn Milliarden Mal fester",
+              "children": [],
+              "source": {
+                "title": "Graphen – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Graphen"
+              }
+            },
+            {
+              "id": "2026-11-20-0-1-2",
+              "title": "Gold aus dem Sternencrash",
+              "text": "Neutronensterne als Quellen von Gravitationswellen sind längst keine reine Theorie mehr: Am 17. August 2017 fingen LIGO und Virgo das Signal GW170817 auf, ausgelöst von zwei verschmelzenden Neutronensternen in rund 130 Millionen Lichtjahren Entfernung. Knapp zwei Sekunden später registrierte ein Satellit einen Gammablitz, und Teleskope fanden das Nachglühen in der Galaxie NGC 4993. Die Spektren zeigten frisch erzeugte schwere Elemente. Ein Teil des Goldes in heutigen Eheringen dürfte aus solchen Kollisionen stammen.",
+              "hook": "Quellen von Gravitationswellen",
+              "children": [],
+              "source": {
+                "title": "GW170817 – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/GW170817"
+              }
+            }
+          ],
+          "source": {
+            "title": "Nukleare Pasta – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Nukleare_Pasta"
+          }
+        },
+        {
+          "id": "2026-11-20-0-2",
+          "title": "Sechs Zeichen und ein Wow",
+          "text": "Was bei CP 1919 ein Scherz über Little Green Men blieb, wurde zehn Jahre später ernsthaft diskutiert: Am 15. August 1977 fing das Radioteleskop Big Ear der Ohio State University ein starkes Signal aus Richtung des Sternbilds Schütze auf. Der Astronom Jerry Ehman kreiste die Zeichenfolge „6EQUJ5“ auf dem Ausdruck ein und schrieb „Wow!“ daneben. Das Signal lag nahe der Wasserstofflinie bei 1420 Megahertz, dauerte rund 72 Sekunden und tauchte nie wieder auf. Eine Hypothese von 2024 erklärt es mit einer kurz aufgehellten Wasserstoffwolke.",
+          "hook": "Little Green Men",
+          "children": [
+            {
+              "id": "2026-11-20-0-2-0",
+              "title": "Ein Ohr wird Golfplatz",
+              "text": "Big Ear war keine Schüssel, sondern ein flaches Teleskop: zwei riesige Metallreflektoren mit einer Aluminiumfläche dazwischen, zusammen etwa so groß wie drei Football-Felder. Entworfen hatte es der Ingenieur John Kraus, der 1946 auch die Wendelantenne erfand, die bis heute auf vielen Satelliten sitzt. Das Gelände gehörte allerdings der Ohio Wesleyan University, die es an Bauträger verkaufte. 1998 wurde Big Ear abgerissen. An seiner Stelle liegt heute ein Golfplatz.",
+              "hook": "Radioteleskop Big Ear der Ohio State University",
+              "children": [],
+              "source": {
+                "title": "Ohio State University Radio Observatory – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ohio_State_University_Radio_Observatory"
+              }
+            },
+            {
+              "id": "2026-11-20-0-2-1",
+              "title": "Das Karussell von Holmdel",
+              "text": "Dass aus Richtung des Schützen Radiorauschen kommt, weiß man seit Karl Jansky. Anfang der 1930er-Jahre sollte der Bell-Labs-Ingenieur in Holmdel, New Jersey, Störquellen für den transatlantischen Funktelefondienst finden. Dafür baute er eine drehbare Antenne auf Rädern eines Ford Model T, die den Spitznamen „Janskys Karussell“ bekam. Neben Gewittern fand er ein Zischen aus dem Zentrum der Milchstraße. Bell Labs ließ ihn nicht weiterforschen, doch heute heißt die Maßeinheit der Radioastronomie nach ihm: Jansky.",
+              "hook": "Richtung des Sternbilds Schütze",
+              "children": [],
+              "source": {
+                "title": "Jansky Antenna Replica – National Radio Astronomy Observatory",
+                "url": "https://public.nrao.edu/gallery/jansky-antenna-replica/"
+              }
+            },
+            {
+              "id": "2026-11-20-0-2-2",
+              "title": "Ein Atom als Maßband",
+              "text": "Wasserstoff ist das häufigste Element im All, deshalb galt seine 21-Zentimeter-Linie als universelle Sprache und landete auf der Plakette der Raumsonde Pioneer 10. Carl Sagan und Frank Drake ließen den Übergang des Wasserstoffatoms eingravieren, die Zeichnung stammt von Linda Salzman Sagan. Die Wellenlänge dient dort als Maßstab: Die abgebildete Frau ist mit binär 8 angegeben, also 8 mal 21 Zentimeter oder rund 1,68 Meter. Seit 2003 schweigt die Sonde und treibt Richtung Aldebaran, in dessen Nähe sie erst nach rund zwei Millionen Jahren käme.",
+              "hook": "Wasserstofflinie bei 1420 Megahertz",
+              "children": [],
+              "source": {
+                "title": "Pioneer-Plakette – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Pioneer-Plakette"
+              }
+            }
+          ],
+          "source": {
+            "title": "Wow!-Signal – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Wow!-Signal"
+          }
+        }
+      ],
+      "source": {
+        "title": "PSR J1921+2153 – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/PSR_J1921%2B2153"
+      }
+    },
+    {
+      "id": "2026-11-20-1",
+      "category": "orte",
+      "title": "Point Nemo",
+      "text": "Point Nemo ist der Punkt im Südpazifik, der am weitesten von jedem Land entfernt liegt. Die nächsten Inseln, darunter Ducie aus der Pitcairn-Gruppe, sind rund 2.700 Kilometer entfernt. Erst 1992 berechnete der Vermessungsingenieur Hrvoje Lukatela die Lage, benannt ist der Punkt nach Jules Vernes Kapitän Nemo. Weil hier kaum Schiffe fahren, lenken Raumfahrtbehörden ausgediente Raumfahrzeuge in diese Region, 2001 etwa die Station Mir. Überfliegt die ISS den Punkt, sind die Menschen an Bord die nächsten.",
+      "children": [
+        {
+          "id": "2026-11-20-1-0",
+          "title": "Die Meuterer von Pitcairn",
+          "text": "Ducie gehört zu den Pitcairninseln, dem einzigen britischen Überseegebiet im Pazifik, und das wurde von Meuterern besiedelt. 1790 landeten Fletcher Christian und weitere Meuterer der „Bounty“ mit polynesischen Begleitern auf Pitcairn und verbrannten das Schiff, damit niemand sie fand. Erst 1808 entdeckte der amerikanische Robbenfänger „Topaz“ die Siedlung. Von den Meuterern lebte nur noch John Adams. Heute wohnen im Hauptort Adamstown nur noch rund 35 Menschen, viele davon Nachfahren der Meuterer.",
+          "hook": "Ducie aus der Pitcairn-Gruppe",
+          "children": [
+            {
+              "id": "2026-11-20-1-0-0",
+              "title": "Blighs zweite Meuterei",
+              "text": "Bevor die Meuterer der „Bounty“ Kurs auf Pitcairn nahmen, setzten sie 1789 Kapitän William Bligh und 18 Getreue in einer rund sieben Meter langen Barkasse aus. Mit einem Sextanten und einer Taschenuhr navigierte Bligh etwa 6.700 Kilometer bis nach Timor und verlor unterwegs nur einen Mann. Später wurde er Gouverneur von New South Wales. Dort setzten ihn aufständische Offiziere 1808 in der „Rum-Rebellion“ ab, im selben Jahr, in dem die „Topaz“ auf Pitcairn stieß.",
+              "hook": "Meuterer der „Bounty“",
+              "children": [],
+              "source": {
+                "title": "William Bligh – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/William_Bligh"
+              }
+            },
+            {
+              "id": "2026-11-20-1-0-1",
+              "title": "Eine Uhr auf Weltreise",
+              "text": "Der Kapitän der „Topaz“, Mayhew Folger, bekam von John Adams ein kostbares Erinnerungsstück: den Schiffschronometer der „Bounty“. Die Uhr namens K2 stammte vom Londoner Uhrmacher Larcum Kendall und war 1773 schon auf einer Arktisexpedition dabei, an Bord ein junger Horatio Nelson. Auf der Insel Juan Fernández beschlagnahmten spanische Behörden das Gerät, danach wechselte es in Chile mehrfach den Besitzer. Erst 1840 kaufte es ein britischer Kapitän zurück. Heute liegt K2 im National Maritime Museum in Greenwich.",
+              "hook": "amerikanische Robbenfänger „Topaz“",
+              "children": [],
+              "source": {
+                "title": "K2 – Royal Museums Greenwich",
+                "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-79183"
+              }
+            },
+            {
+              "id": "2026-11-20-1-0-2",
+              "title": "Telefonbuch der Spitznamen",
+              "text": "Die meisten Nachfahren der Meuterer leben heute gar nicht auf Pitcairn: 1856 wurden fast alle Bewohner, knapp 200 Menschen, auf die ehemalige Sträflingsinsel Norfolk Island umgesiedelt, weil Pitcairn zu klein geworden war. Nur einige Familien kehrten später zurück. Auf Norfolk spricht man bis heute Norf’k, eine Mischsprache aus dem Englisch des 18. Jahrhunderts und Tahitisch. Weil dort so viele Menschen Nachnamen wie Christian oder Quintal tragen, sind im Telefonbuch auch ihre Spitznamen verzeichnet.",
+              "hook": "viele davon Nachfahren der Meuterer",
+              "children": [],
+              "source": {
+                "title": "Norfolkinsel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Norfolkinsel"
+              }
+            }
+          ],
+          "source": {
+            "title": "Pitcairninseln – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Pitcairninseln"
+          }
+        },
+        {
+          "id": "2026-11-20-1-1",
+          "title": "Kapitän Niemand",
+          "text": "Jules Vernes Kapitän Nemo trägt einen vielsagenden Namen: „nemo“ ist lateinisch und bedeutet „niemand“. Verne spielte damit wohl auf Odysseus an, der sich dem Zyklopen Polyphem als „Niemand“ vorstellte. Ursprünglich war Nemo als polnischer Adliger geplant, der sich am Zaren rächt. Verleger Pierre-Jules Hetzel hatte jedoch politische Bedenken. Erst in „Die geheimnisvolle Insel“ (1874/75) erfährt man, wer Nemo ist: der indische Prinz Dakkar, ein Kämpfer im Aufstand von 1857.",
+          "hook": "Jules Vernes Kapitän Nemo",
+          "children": [
+            {
+              "id": "2026-11-20-1-1-0",
+              "title": "Der Zyklop im Elefanten",
+              "text": "Polyphem und seine Zyklopen haben womöglich ein reales Vorbild: Schädel eiszeitlicher Elefanten auf Sizilien und anderen Mittelmeerinseln. Mitten in diesen Schädeln klafft die große Nasenöffnung, die wie eine einzige riesige Augenhöhle aussieht. Der Paläontologe Othenio Abel schlug diese Deutung 1914 vor. Sie ist plausibel, aber nicht beweisbar. Die eigentliche Ironie: Viele dieser Inselelefanten waren Zwergformen, manche kaum einen Meter hoch.",
+              "hook": "dem Zyklopen Polyphem als „Niemand“",
+              "children": [],
+              "source": {
+                "title": "Kyklop – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kyklop"
+              }
+            },
+            {
+              "id": "2026-11-20-1-1-1",
+              "title": "Der Roman im Tresor",
+              "text": "Pierre-Jules Hetzel redete Verne nicht nur bei Nemo hinein. Schon 1863 lehnte er den Roman „Paris im 20. Jahrhundert“ ab, weil er ihm zu düster und unglaubwürdig erschien. Das Manuskript verschwand, bis Vernes Urenkel Jean Verne es 1989 in einem alten Tresor der Familie fand. Darin fahren Autos mit Gasantrieb, Rechenmaschinen erledigen die Büroarbeit und ein Telegrafennetz verbindet die Welt. Erschienen ist der Roman erst 1994, als die Zukunft, die er beschreibt, längst vorbei war.",
+              "hook": "Verleger Pierre-Jules Hetzel",
+              "children": [],
+              "source": {
+                "title": "Paris im 20. Jahrhundert – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Paris_im_20._Jahrhundert"
+              }
+            },
+            {
+              "id": "2026-11-20-1-1-2",
+              "title": "Der letzte Mogul",
+              "text": "Die Aufständischen von 1857 brauchten eine Symbolfigur und fanden sie in Bahadur Shah Zafar, dem letzten Mogulkaiser, der damals über 80 Jahre alt war. Der greise Herrscher, eher Dichter als Feldherr, schrieb geschätzte Verse auf Urdu. Nach der Niederlage verbannten ihn die Briten nach Rangun, wo er 1862 starb und in einem namenlosen Grab beigesetzt wurde. Erst 1991 stießen Arbeiter beim Ausheben eines Grabens zufällig auf seine Grabstätte.",
+              "hook": "im Aufstand von 1857",
+              "children": [],
+              "source": {
+                "title": "Bahadur Shah II. – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bahadur_Shah_II."
+              }
+            }
+          ],
+          "source": {
+            "title": "Kapitän Nemo – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Kapit%C3%A4n_Nemo"
+          }
+        },
+        {
+          "id": "2026-11-20-1-2",
+          "title": "Mir: 15 Jahre im Orbit",
+          "text": "Als die Mir 2001 kontrolliert über dem Südpazifik verglühte, war sie etwa 15 Jahre im All gewesen, viel länger als ursprünglich geplant. Ihr Kernmodul startete im Februar 1986, danach wuchs die Station Stück für Stück auf sieben Module an. An Bord stellte der Arzt Waleri Poljakow 1994/95 mit rund 437 Tagen den Rekord für den längsten ununterbrochenen Raumflug auf. 1997 überstand die Station einen Brand an Bord und einen Zusammenstoß mit einem Progress-Frachter, der das Modul Spektr leckschlug.",
+          "hook": "2001 etwa die Station Mir",
+          "children": [
+            {
+              "id": "2026-11-20-1-2-0",
+              "title": "Poljakows Generalprobe",
+              "text": "Waleri Poljakow blieb seine rund 437 Tage nicht als Selbstzweck im All: Der Mediziner wollte zeigen, dass Menschen einen Flug zum Mars körperlich und psychisch überstehen können. Dafür untersuchte er sich während des Flugs regelmäßig selbst. Nach der Landung im März 1995 ließ er sich nicht wie üblich tragen, sondern ging die wenigen Schritte zu einem Stuhl selbst, um zu zeigen, dass man nach der Ankunft handlungsfähig wäre. Sein Rekord für den längsten ununterbrochenen Raumflug gilt bis heute.",
+              "hook": "Arzt Waleri Poljakow",
+              "children": [],
+              "source": {
+                "title": "Waleri Wladimirowitsch Poljakow – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Waleri_Wladimirowitsch_Poljakow"
+              }
+            },
+            {
+              "id": "2026-11-20-1-2-1",
+              "title": "Die Kerze, die Luft macht",
+              "text": "Der Brand von 1997 brach an einer Sauerstoffkerze aus, einem Zylinder, der durch eine chemische Reaktion Sauerstoff freisetzt. Solche Generatoren brauchen keine Drucktanks, werden beim Betrieb aber sehr heiß. Die gleiche Technik steckt in vielen Passagierflugzeugen: Die Sauerstoffmasken, die über den Sitzen herabfallen, werden oft von solchen chemischen Generatoren versorgt. Wie gefährlich sie als Fracht sind, zeigte 1996 der ValuJet-Flug 592. Falsch verladene Generatoren lösten ein Feuer aus, die Maschine stürzte in die Everglades und 110 Menschen starben.",
+              "hook": "einen Brand an Bord",
+              "children": [],
+              "source": {
+                "title": "Sauerstoffkerze – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Sauerstoffkerze"
+              }
+            },
+            {
+              "id": "2026-11-20-1-2-2",
+              "title": "Frieden oder Welt?",
+              "text": "Der Name Mir bedeutet auf Russisch „Frieden“, aber auch „Welt“ und früher sogar die bäuerliche Dorfgemeinschaft. Vor der Rechtschreibreform von 1918 waren die Bedeutungen auch im Schriftbild getrennt: „миръ“ hieß Frieden, „міръ“ mit dem Buchstaben і hieß Welt. Die Reform schaffte das і ab, seitdem sehen beide Wörter gleich aus. Daraus entstand die verbreitete Legende, Tolstois „Krieg und Frieden“ heiße eigentlich „Krieg und Welt“. Der Originaltitel war jedoch mit der Schreibweise für Frieden gedruckt.",
+              "hook": "Als die Mir 2001 kontrolliert",
+              "children": [],
+              "source": {
+                "title": "Russische Rechtschreibreform von 1918 – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Russische_Rechtschreibreform_von_1918"
+              }
+            }
+          ],
+          "source": {
+            "title": "Mir (Raumstation) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Mir_(Raumstation)"
+          }
+        }
+      ],
+      "source": {
+        "title": "What is Point Nemo? – NOAA National Ocean Service",
+        "url": "https://oceanservice.noaa.gov/facts/nemo.html"
+      }
+    },
+    {
+      "id": "2026-11-20-2",
+      "category": "kultur",
+      "title": "Der Mona-Lisa-Raub",
+      "text": "Am 21. August 1911 verschwand Leonardos Mona Lisa aus dem Louvre. Der Dieb war der italienische Glaser Vincenzo Peruggia, der zuvor im Museum gearbeitet hatte und das Bild unbemerkt hinaustrug. Bei den Ermittlungen kam der Dichter Guillaume Apollinaire kurz in Haft, auch Pablo Picasso wurde verhört. Über zwei Jahre lag das Gemälde in Peruggias Pariser Unterkunft, bis er es 1913 in Florenz dem Kunsthändler Alfredo Geri anbot und gefasst wurde.",
+      "children": [
+        {
+          "id": "2026-11-20-2-0",
+          "title": "Panzerglas für die Lisa",
+          "text": "Der Glaser Peruggia hatte im Louvre daran mitgearbeitet, Gemälde hinter Schutzglas zu setzen. Heute hängt die Mona Lisa hinter Panzerglas, und das hat Gründe: 1956 beschädigte ein Säureanschlag den unteren Bildteil, im selben Jahr warf der Bolivianer Ugo Ungaza Villegas einen Stein, der nahe dem linken Ellbogen Farbe absplittern ließ. Später traf das Glas unter anderem rote Sprühfarbe in Tokio 1974, Torte im Jahr 2022 und 2024 Suppe von Klimaaktivistinnen.",
+          "hook": "italienische Glaser Vincenzo Peruggia",
+          "children": [
+            {
+              "id": "2026-11-20-2-0-0",
+              "title": "Der Kolben, der hielt",
+              "text": "Panzerglas besteht aus Glasschichten mit Kunststofffolien dazwischen. Dieses Verbundprinzip geht auf den Franzosen Édouard Bénédictus zurück. Nach eigener Erzählung fiel ihm 1903 ein Glaskolben herunter, der zwar zersprang, aber seine Form behielt, weil eingetrocknetes Zellulosenitrat die Scherben zusammenhielt. 1909 ließ er sein Verbundglas patentieren, eine frühe Anwendung waren die Sichtgläser von Gasmasken im Ersten Weltkrieg. Der Mann, dessen Idee heute Gemälde schützt, war selbst Maler und Designer: Seine Art-déco-Musterbücher sind gesuchte Sammlerstücke.",
+              "hook": "Mona Lisa hinter Panzerglas",
+              "children": [],
+              "source": {
+                "title": "Édouard Bénédictus – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/%C3%89douard_B%C3%A9n%C3%A9dictus"
+              }
+            },
+            {
+              "id": "2026-11-20-2-0-1",
+              "title": "Das Glas im Vitriol",
+              "text": "Säureanschläge waren im Paris des späten 19. Jahrhunderts so verbreitet, dass sie einen eigenen Namen hatten: „vitriolage“, nach Vitriolöl, der alten Bezeichnung für Schwefelsäure. Das Wort Vitriol kommt vom lateinischen „vitrum“, Glas, weil die Sulfatkristalle, aus denen man die Säure gewann, glasig glänzen. Alchemisten deuteten den Namen nachträglich als geheimes Akronym für „Visita interiora terrae rectificando invenies occultum lapidem“. Im Namen der Säure, vor der Panzerglas heute schützt, steckt also das Glas selbst.",
+              "hook": "1956 beschädigte ein Säureanschlag",
+              "children": [],
+              "source": {
+                "title": "Vitriol – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Vitriol"
+              }
+            },
+            {
+              "id": "2026-11-20-2-0-2",
+              "title": "Warhols 32 Suppendosen",
+              "text": "In die Kunstgeschichte kam Suppe lange vor den Klimaprotesten: 1962 zeigte Andy Warhol in der Ferus Gallery in Los Angeles 32 Bilder von Campbell's-Dosen, eines für jede damals angebotene Sorte. Der Galerist Irving Blum verkaufte einige für je 100 Dollar, kaufte sie zurück, damit die Serie zusammenblieb, und überließ sie 1996 teils verkauft, teils geschenkt dem Museum of Modern Art. Auch die Mona Lisa nahm sich Warhol vor: Als sie 1963 in den USA gezeigt wurde, druckte er sie dreißigfach und nannte das Werk „Thirty Are Better Than One“.",
+              "hook": "2024 Suppe von Klimaaktivistinnen",
+              "children": [],
+              "source": {
+                "title": "Campbell’s Soup Cans – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Campbell%E2%80%99s_Soup_Cans"
+              }
+            }
+          ],
+          "source": {
+            "title": "Mona Lisa – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Mona_Lisa"
+          }
+        },
+        {
+          "id": "2026-11-20-2-1",
+          "title": "Picassos gestohlene Köpfe",
+          "text": "Picasso wurde verhört, weil er tatsächlich Diebesgut aus dem Louvre besaß. Der Belgier Géry Pieret, zeitweise Apollinaires Sekretär, hatte 1907 vorrömische iberische Steinköpfe aus dem Museum mitgenommen und zwei davon an Picasso verkauft. Deren kantige Gesichter gelten als eine Anregung für sein Bild „Les Demoiselles d’Avignon“ aus demselben Jahr. Als Pieret 1911 dem Paris-Journal von seinen Diebstählen erzählte, gaben Picasso und Apollinaire die Köpfe über die Zeitung zurück.",
+          "hook": "auch Pablo Picasso wurde verhört",
+          "children": [
+            {
+              "id": "2026-11-20-2-1-0",
+              "title": "Welches Avignon?",
+              "text": "Seinen berühmten Namen bekam das Bild nicht von Picasso: „Les Demoiselles d’Avignon“ prägte sein Freund André Salmon, als das Werk 1916 zum ersten Mal öffentlich gezeigt wurde. Picasso selbst sprach von seinem „Bordell“. Der Modeschöpfer Jacques Doucet kaufte es 1924, seit 1939 gehört es dem Museum of Modern Art in New York. Gemeint ist übrigens nicht die Papststadt in der Provence, sondern die Carrer d’Avinyó in Barcelona, eine Straße mit Bordellen, die Picasso aus seiner Jugend kannte.",
+              "hook": "„Les Demoiselles d’Avignon“",
+              "children": [],
+              "source": {
+                "title": "Les Demoiselles d’Avignon – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Les_Demoiselles_d%E2%80%99Avignon"
+              }
+            },
+            {
+              "id": "2026-11-20-2-1-1",
+              "title": "Die Dame von Elche",
+              "text": "Die gestohlenen Köpfe stammten aus der iberischen Sammlung des Louvre, deren Prunkstück eine Büste war: die Dame von Elche. Arbeiter hatten die Kalksteinfigur mit dem radförmigen Kopfschmuck 1897 auf dem Hügel La Alcudia bei Elche gefunden. Der französische Archäologe Pierre Paris kaufte sie wenige Tage später für den Louvre. Eine Höhlung im Rücken spricht dafür, dass sie als Urne gedient haben könnte. Nach Spanien kehrte sie erst 1941 zurück, durch ein Tauschgeschäft zwischen dem Vichy-Regime und Franco.",
+              "hook": "vorrömische iberische Steinköpfe",
+              "children": [],
+              "source": {
+                "title": "Dama de Elche – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dama_de_Elche"
+              }
+            },
+            {
+              "id": "2026-11-20-2-1-2",
+              "title": "Der Erfinder eines Wortes",
+              "text": "Pierets Arbeitgeber schrieb unter einem Künstlernamen: Apollinaire kam 1880 in Rom als Wilhelm Albert Włodzimierz Apolinary Kostrowicki zur Welt, Sohn einer polnischen Mutter. Im Ersten Weltkrieg traf ihn 1916 ein Granatsplitter am Kopf. Er musste trepaniert werden und starb im November 1918 an der Spanischen Grippe, zwei Tage vor dem Waffenstillstand. Ein Jahr zuvor hatte er sein Stück „Die Brüste des Tiresias“ ein „surrealistisches Drama“ genannt. André Breton machte das Wort später zum Namen einer ganzen Bewegung.",
+              "hook": "zeitweise Apollinaires Sekretär",
+              "children": [],
+              "source": {
+                "title": "Apollinaire, Guillaume – 1914-1918-online. International Encyclopedia of the First World War",
+                "url": "https://encyclopedia.1914-1918-online.net/article/apollinaire-guillaume/"
+              }
+            }
+          ],
+          "source": {
+            "title": "Iberian heads and self-portraits – Museu Picasso Barcelona",
+            "url": "https://museupicassobcn.cat/en/whats-on/news/iberian-heads-and-self-portraits"
+          }
+        },
+        {
+          "id": "2026-11-20-2-2",
+          "title": "Sechs falsche Mona Lisas",
+          "text": "Dass das Bild über zwei Jahre ungenutzt bei Peruggia lag, nährte eine hartnäckige Legende. 1932 schrieb der Journalist Karl Decker in der Saturday Evening Post, ein Hochstapler namens Eduardo de Valfierno habe den Raub bestellt. Der Fälscher Yves Chaudron habe zuvor sechs Kopien gemalt, die Valfierno als angeblich echte Mona Lisas an Sammler verkauft habe. Belege dafür gibt es nicht, Peruggia hat Valfierno nie erwähnt, und vielleicht hat es ihn gar nicht gegeben.",
+          "hook": "Über zwei Jahre lag das Gemälde",
+          "children": [
+            {
+              "id": "2026-11-20-2-2-0",
+              "title": "Franklins geliehener Ruhm",
+              "text": "Die Saturday Evening Post, die Deckers Geschichte druckte, pflegte selbst eine geschönte Herkunft. Lange stand auf ihrem Titel, Benjamin Franklin habe sie 1728 gegründet. Tatsächlich erschien die erste Ausgabe 1821, und die Linie zu Franklins Zeitung war nachträglich konstruiert. Berühmt machte das Blatt ohnehin ein anderer: Norman Rockwell malte über 300 Titelbilder. Sein Post-Motiv „Saying Grace“ erzielte 2013 rund 46 Millionen Dollar, damals Auktionsrekord für ein amerikanisches Gemälde.",
+              "hook": "in der Saturday Evening Post",
+              "children": [],
+              "source": {
+                "title": "History of The Saturday Evening Post",
+                "url": "https://www.saturdayeveningpost.com/history-saturday-evening-post/"
+              }
+            },
+            {
+              "id": "2026-11-20-2-2-1",
+              "title": "Wer kauft den Eiffelturm?",
+              "text": "Ein Hochstapler wie Valfierno hätte in jenen Jahren einen prominenten Kollegen gehabt: Victor Lustig, der 1925 in Paris den Eiffelturm verkauft haben soll. Als angeblicher Regierungsbeamter erzählte er Schrotthändlern, der Turm werde abgerissen. Das klang glaubwürdig, denn ursprünglich sollte er nur 20 Jahre stehen. Vieles davon kennt man allerdings nur aus späteren Erzählungen. Sicher belegt ist, wie es endete: Wegen Falschgeld saß Lustig später in Alcatraz.",
+              "hook": "ein Hochstapler namens Eduardo de Valfierno",
+              "children": [],
+              "source": {
+                "title": "Victor Lustig – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Victor_Lustig"
+              }
+            },
+            {
+              "id": "2026-11-20-2-2-2",
+              "title": "Die Zwillingsschwester",
+              "text": "Kopien der Mona Lisa gibt es wirklich, und die bemerkenswerteste entstand nicht bei einem Fälscher, sondern neben Leonardos Staffelei. Die Version im Madrider Prado galt lange als späte Kopie, bis Restauratoren um 2012 eine schwarze Übermalung entfernten und eine Landschaft freilegten. Infrarotaufnahmen zeigten, dass ihr Maler die gleichen Korrekturen vornahm wie Leonardo am Original. Vermutlich war es ein Schüler wie Salaì oder Melzi. Ohne vergilbten Firnis zeigt sie, wie farbig die Mona Lisa einst war.",
+              "hook": "sechs Kopien gemalt",
+              "children": [],
+              "source": {
+                "title": "Mona Lisa (Prado) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mona_Lisa_(Prado)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Eduardo de Valfierno – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Eduardo_de_Valfierno"
+          }
+        }
+      ],
+      "source": {
+        "title": "Vincenzo Peruggia – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Vincenzo_Peruggia"
+      }
+    }
+  ]
+}
