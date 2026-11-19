@@ -1,0 +1,448 @@
+{
+  "version": 1,
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-19T00:40:38.598Z",
+  "topics": [
+    {
+      "id": "2026-11-21-0",
+      "category": "natur",
+      "title": "Der Mondfisch",
+      "text": "Der Mondfisch sieht aus, als hätte man ihm das Hinterteil abgeschnitten: Statt einer Schwanzflosse trägt er einen breiten Hautsaum, den Clavus. Er gehört zu den schwersten Knochenfischen der Welt. Den Rekord hält ein Exemplar der Art Mola alexandrini mit 2744 Kilogramm, das 2021 tot vor den Azoren trieb. Sein Gattungsname Mola bedeutet auf Latein „Mühlstein“. Er schlüpft als winzige, stachelige Larve und frisst später vor allem Quallen.",
+      "children": [
+        {
+          "id": "2026-11-21-0-0",
+          "title": "Mühlsteine aus Vulkanlava",
+          "text": "Der Mondfisch trägt den „Mühlstein“ im Namen, und echte Mühlsteine waren über Jahrtausende ein begehrtes Exportgut. Eine der wichtigsten Quellen lag in der Eifel bei Mayen: Dort wurde poröse Basaltlava schon in der Jungsteinzeit zu Reibsteinen verarbeitet. Die Römer bauten die Brüche groß aus und verschifften Mayener Mühlsteine über Rhein und Nordsee bis nach Britannien. Der Stein eignet sich so gut, weil seine Gasbläschen beim Abnutzen immer neue scharfe Kanten freilegen.",
+          "hook": "bedeutet auf Latein „Mühlstein“",
+          "children": [
+            {
+              "id": "2026-11-21-0-0-0",
+              "title": "Der Vulkan unter dem See",
+              "text": "Die Gasbläschen im Gestein sind Spuren vulkanischer Gase. Wie gewaltig diese Gase werden können, zeigt sich nur wenige Kilometer von Mayen entfernt. Vor rund 13.000 Jahren explodierte dort der Laacher-See-Vulkan und schleuderte so viel Bims und Asche in die Luft, dass man die Ascheschicht noch in Schweden und Norditalien findet. Geologen nutzen sie heute als genaue Zeitmarke. Ganz erloschen ist der Vulkan nicht: Am Ostufer des Laacher Sees steigen bis heute Kohlendioxid-Blasen aus der Tiefe an die Wasseroberfläche.",
+              "hook": "seine Gasbläschen beim Abnutzen",
+              "children": [],
+              "source": {
+                "title": "Laacher See – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Laacher_See"
+              }
+            },
+            {
+              "id": "2026-11-21-0-0-1",
+              "title": "Die Arme der Steinzeitfrauen",
+              "text": "Auf den Reibsteinen der Jungsteinzeit wurde Getreide von Hand zu Mehl gemahlen. Dabei schob man einen Läuferstein immer wieder über eine flache Steinplatte, oft stundenlang am Tag. Diese Arbeit hat Spuren in den Skeletten hinterlassen. Forschende der Universität Cambridge verglichen 2017 die Oberarmknochen früher Bäuerinnen aus Mitteleuropa mit denen heutiger Sportlerinnen. Das Ergebnis: Die Frauen der Jungsteinzeit hatten kräftigere Oberarmknochen als die Ruderinnen des Cambridger Universitätsteams.",
+              "hook": "in der Jungsteinzeit zu Reibsteinen",
+              "children": [],
+              "source": {
+                "title": "Prehistoric women's manual work was tougher than rowing in today's elite boat crews – University of Cambridge",
+                "url": "https://www.cam.ac.uk/research/news/prehistoric-womens-manual-work-was-tougher-than-rowing-in-todays-elite-boat-crews"
+              }
+            },
+            {
+              "id": "2026-11-21-0-0-2",
+              "title": "Mühlsteine als Puzzle",
+              "text": "Im 18. und 19. Jahrhundert war ein Stein aus Frankreich das begehrteste Exportgut unter den Mühlsteinen: der Süßwasserquarzit aus La Ferté-sous-Jouarre östlich von Paris. Große Blöcke ohne Fehler waren selten. Deshalb setzte man die Mühlsteine aus vielen Einzelstücken zusammen, verband sie mit Gips und hielt sie mit Eisenreifen zusammen. Unter dem Namen „French Burr“ wurden sie bis nach Amerika verschifft. Als Walzenmühlen die Mühlsteine verdrängten, blieb das Gestein trotzdem in Gebrauch: Als „Meulière“ prägt es bis heute die Fassaden vieler Vorstadtvillen rund um Paris.",
+              "hook": "ein begehrtes Exportgut",
+              "children": [],
+              "source": {
+                "title": "French Millstone Makers – BIAS Journal No. 17 (1984)",
+                "url": "https://b-i-a-s.org.uk/wp-content/uploads/2021/01/BIAS_Journal_17_FRENCH_MILLSTONE_MAKERS.pdf"
+              }
+            }
+          ],
+          "source": {
+            "title": "Mayener Grubenfeld – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Mayener_Grubenfeld"
+          }
+        },
+        {
+          "id": "2026-11-21-0-1",
+          "title": "Die Qualle, die zurückaltert",
+          "text": "Unter den Quallen, die Mondfische fressen, gibt es eine mit einem biologisch außergewöhnlichen Trick: Turritopsis dohrnii, nur wenige Millimeter groß und oft „unsterbliche Qualle“ genannt. Bei Stress, Verletzung oder Alter kann sie sich in ein Polypenstadium zurückverwandeln und ihren Lebenszyklus von vorn beginnen. Erste Berichte erschienen Anfang der 1990er-Jahre, genauer untersucht wurde das 1996 von Forschern um Stefano Piraino und Ferdinando Boero. Ihr Artname ehrt Anton Dohrn, der 1872 in Neapel die Stazione Zoologica gründete.",
+          "hook": "frisst später vor allem Quallen",
+          "children": [
+            {
+              "id": "2026-11-21-0-1-0",
+              "title": "Die Zellen der Henrietta L.",
+              "text": "„Unsterblich“ nennen Biologen nicht nur eine Qualle, sondern auch menschliche Zellen: die Linie HeLa, 1951 im Johns Hopkins Hospital in Baltimore aus dem Tumor der Afroamerikanerin Henrietta Lacks entnommen, ohne dass sie davon wusste. Die Zellen teilen sich im Labor bis heute immer weiter und halfen unter anderem, den Polio-Impfstoff von Jonas Salk zu testen. Lacks starb noch im selben Jahr mit 31 Jahren. Ihre Familie erfuhr erst in den 1970er-Jahren, dass Teile von ihr in Laboren weltweit weiterleben.",
+              "hook": "unsterbliche Qualle",
+              "children": [],
+              "source": {
+                "title": "HeLa-Zellen – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/HeLa-Zellen"
+              }
+            },
+            {
+              "id": "2026-11-21-0-1-1",
+              "title": "Der Polyp mit vielen Köpfen",
+              "text": "Auch in der Erforschung der Regeneration spielt ein Polyp eine Hauptrolle: In den 1740er-Jahren zerschnitt der Genfer Abraham Trembley, damals Hauslehrer in den Niederlanden, winzige Süßwasserpolypen und sah aus jedem Stück ein vollständiges Tier wachsen. Er stülpte manche sogar wie einen Handschuh um, und sie lebten weiter. Die Gelehrten Europas waren verblüfft, denn das Tier passte weder ganz zu Pflanzen noch zu Tieren. Carl von Linné gab ihm später einen passenden Namen: Hydra, nach dem Ungeheuer, dem für jeden abgeschlagenen Kopf neue nachwuchsen.",
+              "hook": "in ein Polypenstadium zurückverwandeln",
+              "children": [],
+              "source": {
+                "title": "Süßwasserpolypen – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/S%C3%BC%C3%9Fwasserpolypen"
+              }
+            },
+            {
+              "id": "2026-11-21-0-1-2",
+              "title": "Forschung mit Eintrittskarte",
+              "text": "Anton Dohrns Stazione Zoologica in Neapel finanzierte sich auf ungewöhnliche Weise: Im Erdgeschoss lag ein öffentliches Aquarium, dessen Eintrittsgelder die Forschung oben mittrugen. Dazu vermietete Dohrn Arbeitsplätze an Universitäten und Staaten, die so ihre Forscher nach Neapel schicken konnten, darunter Theodor Boveri, der dort an Seeigeleiern die Rolle der Chromosomen erforschte. Und im Saal der Bibliothek malte der Maler Hans von Marées 1873 Fresken mit Fischern, Ruderern und Dohrn samt Freunden unter einer Pergola. Sie sind bis heute erhalten.",
+              "hook": "1872 in Neapel die Stazione Zoologica",
+              "children": [],
+              "source": {
+                "title": "Zoologische Station Neapel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Zoologische_Station_Neapel"
+              }
+            }
+          ],
+          "source": {
+            "title": "Turritopsis dohrnii – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Turritopsis_dohrnii"
+          }
+        },
+        {
+          "id": "2026-11-21-0-2",
+          "title": "Walfang mit Handharpune",
+          "text": "Die Gewässer vor den Azoren, in denen der Rekord-Mondfisch trieb, waren lange Schauplatz einer altertümlichen Jagd. Bis 1987 machten Azoreaner aus offenen Ruderbooten mit Handharpunen Jagd auf Pottwale; Späher in Ausguckposten an der Küste, den Vigias, meldeten die Tiere. Schon im 19. Jahrhundert heuerten viele Inselbewohner auf amerikanischen Walfangschiffen an und ließen sich später etwa in New Bedford, Massachusetts, nieder. Heute halten manche Vigias Ausschau für Whale-Watching-Touren.",
+          "hook": "tot vor den Azoren trieb",
+          "children": [
+            {
+              "id": "2026-11-21-0-2-0",
+              "title": "Die Kanzel aus dem Roman",
+              "text": "Nach New Bedford, wo sich viele Azoreaner niederließen, kam Ende 1840 auch der junge Herman Melville und heuerte auf dem Walfänger Acushnet an. Zehn Jahre später ließ er „Moby-Dick“ dort beginnen: Ismael besucht eine Seemannskapelle, deren Kanzel wie ein Schiffsbug geformt ist. Das echte Seamen's Bethel hatte keine solche Kanzel. Weil Besucher immer wieder danach fragten, baute man 1961 eine ein. Am Ende passte sich die Wirklichkeit dem Roman an.",
+              "hook": "New Bedford, Massachusetts",
+              "children": [],
+              "source": {
+                "title": "Seamen’s Bethel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Seamen%E2%80%99s_Bethel"
+              }
+            },
+            {
+              "id": "2026-11-21-0-2-1",
+              "title": "Licht aus dem Walkopf",
+              "text": "Begehrt waren Pottwale vor allem wegen des Walrats, einer wachsartigen Masse aus ihrem riesigen Kopf. Walfänger hielten sie für Samenflüssigkeit, daher der englische Name „sperm whale“. Kerzen aus Walrat brannten heller und gleichmäßiger als solche aus Talg. Deshalb maß man in Großbritannien ab 1860 die Lichtstärke an einer Walratkerze mit genau festgelegtem Gewicht und Abbrand. Die heutige SI-Einheit Candela entspricht noch ungefähr diesem einen Kerzenlicht.",
+              "hook": "Jagd auf Pottwale",
+              "children": [],
+              "source": {
+                "title": "Kerzenstärke – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kerzenst%C3%A4rke"
+              }
+            },
+            {
+              "id": "2026-11-21-0-2-2",
+              "title": "Vom Teufelsfisch zum Kuschelwal",
+              "text": "Wale zu beobachten statt sie zu jagen, ist ein junges Geschäft: Als Beginn des kommerziellen Whale Watching gilt das Jahr 1955, als ein Fischer in San Diego für einen Dollar pro Person Fahrten zu wandernden Grauwalen anbot. Walfänger nannten Grauwale einst „Teufelsfische“, weil die Mütter in den Lagunen Niederkaliforniens ihre Kälber heftig verteidigten. Ausgerechnet in der Laguna San Ignacio schwimmen manche Grauwale seit den 1970er-Jahren von sich aus an Boote heran und lassen sich streicheln.",
+              "hook": "Ausschau für Whale-Watching-Touren",
+              "children": [],
+              "source": {
+                "title": "Walbeobachtung – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Walbeobachtung"
+              }
+            }
+          ],
+          "source": {
+            "title": "Azores whalers: culture, history, marine science – National Geographic",
+            "url": "https://www.nationalgeographic.com/adventure/article/130613-azores-whalers-culture-history-marine-science"
+          }
+        }
+      ],
+      "source": {
+        "title": "Mondfisch – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Mondfisch"
+      }
+    },
+    {
+      "id": "2026-11-21-1",
+      "category": "technik",
+      "title": "Cugnots Dampfwagen",
+      "text": "1769 baute der französische Militäringenieur Nicolas-Joseph Cugnot einen dreirädrigen Dampfwagen, der Kanonen ziehen sollte. Es ist das erste gut belegte selbstfahrende Landfahrzeug. Das „Fardier à vapeur“ kam auf etwa vier Kilometer pro Stunde, und sein schwerer Kessel hing vorn über dem einzigen Antriebsrad. Einer Legende nach krachte es bei einer Probefahrt in eine Mauer, was als erster Autounfall gilt. Ein späteres Exemplar steht heute im Musée des Arts et Métiers in Paris.",
+      "children": [
+        {
+          "id": "2026-11-21-1-0",
+          "title": "Die Forscherin und das Rad",
+          "text": "Als erstes belegtes Todesopfer eines Kraftfahrzeugs gilt die Irin Mary Ward. Am 31. August 1869 stürzte sie in Parsonstown, dem heutigen Birr, von einem dampfgetriebenen Versuchswagen und geriet unter ein Rad. Gebaut hatten ihn die Söhne ihres Cousins, des Astronomen William Parsons, 3. Earl of Rosse. Ward war selbst eine angesehene Naturforscherin, ihr Buch „Sketches with the Microscope“ erschien später unter neuem Titel in mehreren Auflagen. Auf dem Familiensitz stand auch der „Leviathan“, jahrzehntelang das größte Teleskop der Welt.",
+          "hook": "als erster Autounfall gilt",
+          "children": [
+            {
+              "id": "2026-11-21-1-0-0",
+              "title": "Turbinia narrt die Flotte",
+              "text": "Zu den Brüdern, die den Unglückswagen bauten, gehörte der damals 15-jährige Charles Parsons. 1884 erfand er die moderne Dampfturbine. 1897 ließ er sein Boot „Turbinia“ ungebeten bei der Flottenparade zu Queen Victorias Thronjubiläum vor Spithead auftauchen. Mit rund 34 Knoten war es schneller als jedes Marineschiff, das es hätte stoppen sollen. Bis heute wird ein großer Teil des weltweiten Stroms in Dampfturbinen erzeugt, die auf sein Prinzip zurückgehen.",
+              "hook": "die Söhne ihres Cousins",
+              "children": [],
+              "source": {
+                "title": "Charles Parsons (Ingenieur) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Charles_Parsons_(Ingenieur)"
+              }
+            },
+            {
+              "id": "2026-11-21-1-0-1",
+              "title": "Die Spirale im Nebel",
+              "text": "Mit dem Leviathan, dessen Metallspiegel etwa 1,8 Meter maß, erkannte William Parsons 1845 als Erster, dass der Nebel M51 im Sternbild Jagdhunde Spiralarme besitzt. Seine Zeichnung der heutigen Whirlpool-Galaxie wurde berühmt, doch was solche Spiralnebel eigentlich sind, blieb lange ein Rätsel. Erst Edwin Hubble zeigte in den 1920er-Jahren, dass es eigenständige Galaxien weit jenseits der Milchstraße sind. Ob die Zeichnung auch Van Goghs wirbelnde „Sternennacht“ von 1889 inspirierte, ist eine reizvolle, aber unbewiesene Vermutung.",
+              "hook": "jahrzehntelang das größte Teleskop der Welt",
+              "children": [],
+              "source": {
+                "title": "William Parsons, 3. Earl of Rosse – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/William_Parsons,_3._Earl_of_Rosse"
+              }
+            },
+            {
+              "id": "2026-11-21-1-0-2",
+              "title": "Kunstwerke aus Kieselalgen",
+              "text": "Im 19. Jahrhundert war das Mikroskopieren ein Modehobby, und besonders beliebt waren Kieselalgen, deren gläserne Schalen wie filigraner Schmuck aussehen. In Wedel bei Hamburg ordnete Johann Diedrich Möller sie mit feinsten Werkzeugen zu Mustern an. Seine Typenplatte von 1890 versammelt mehr als 4000 Formen auf einem einzigen Objektträger. Aus abgelagerten Kieselalgen besteht auch Kieselgur, und mit genau diesem Pulver machte Alfred Nobel 1867 das gefährliche Nitroglycerin handhabbar: So entstand das Dynamit.",
+              "hook": "Sketches with the Microscope",
+              "children": [],
+              "source": {
+                "title": "Johann Diedrich Möller – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Johann_Diedrich_M%C3%B6ller"
+              }
+            }
+          ],
+          "source": {
+            "title": "Mary Ward (Naturwissenschaftlerin) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Mary_Ward_(Naturwissenschaftlerin)"
+          }
+        },
+        {
+          "id": "2026-11-21-1-1",
+          "title": "Musketen aus dem Baukasten",
+          "text": "Gefördert wurde Cugnots Projekt von General Jean-Baptiste de Gribeauval, der die französische Artillerie auf wenige genormte Kaliber umstellte. In diesem Geist der Vereinheitlichung entwickelte der Waffenschmied Honoré Blanc Musketenschlösser aus austauschbaren Teilen. 1785 zeigte er in Paris, dass sich Schlösser aus zufällig gemischten Einzelteilen zusammensetzen ließen. Unter den Zuschauern war der US-Gesandte Thomas Jefferson, der die Idee begeistert nach Amerika meldete, wo austauschbare Teile später zur Grundlage der Massenfertigung wurden.",
+          "hook": "der Kanonen ziehen sollte",
+          "children": [
+            {
+              "id": "2026-11-21-1-1-0",
+              "title": "Jeffersons Pariser Koch",
+              "text": "Als Thomas Jefferson 1784 nach Paris kam, brachte er den versklavten James Hemings mit, der dort die französische Hochküche erlernen sollte. Hemings lernte bei einem Traiteur und in der Küche des Prinzen von Condé, und in Paris zahlte Jefferson ihm einen Lohn. Zurück in Amerika verhandelte Hemings über seine Freiheit, unter einer Bedingung: Er musste zuerst seinen Bruder Peter als Nachfolger ausbilden. 1796 wurde er freigelassen. Seine handgeschriebene Liste der Küchengeräte von Monticello ist bis heute erhalten.",
+              "hook": "der US-Gesandte Thomas Jefferson",
+              "children": [],
+              "source": {
+                "title": "James Hemings – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/James_Hemings"
+              }
+            },
+            {
+              "id": "2026-11-21-1-1-1",
+              "title": "Lunte, Pfanne, Schloss",
+              "text": "Die Schlösser, die Blanc vereinheitlichte, waren die Zündmechanik der Muskete. Sie haben erstaunlich viele Spuren in der Sprache hinterlassen. Beim älteren Luntenschloss glomm eine Zündschnur, deren Geruch den Gegner warnen konnte, daher kommt der Ausdruck „Lunte riechen“. Beim Steinschloss schlug ein Feuerstein Funken in die Zündpfanne, und wer Pulver „auf der Pfanne“ hatte, konnte sofort schießen. Im Englischen bedeutet „lock, stock and barrel“, also Schloss, Schaft und Lauf, bis heute so viel wie „mit allem Drum und Dran“.",
+              "hook": "Musketenschlösser aus austauschbaren Teilen",
+              "children": [],
+              "source": {
+                "title": "Schloss (Waffe) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Schloss_(Waffe)"
+              }
+            },
+            {
+              "id": "2026-11-21-1-1-2",
+              "title": "Eli Whitneys Vorführtrick",
+              "text": "Den Ruhm für die amerikanische Massenfertigung bekam zunächst Eli Whitney, der 1798 einen Regierungsauftrag über 10.000 Musketen erhielt. Anfang 1801 setzte er in Washington vor hohen Politikern, darunter Jefferson, Schlösser aus gemischten Teilen zusammen. Historiker halten die Vorführung heute für wahrscheinlich präpariert, denn Whitneys erhaltene Musketen sind nicht wirklich austauschbar. Viel größere Folgen hatte eine andere Erfindung von ihm, die Egreniermaschine von 1793: Sie machte Baumwolle so profitabel, dass sich die Sklaverei im Süden der USA massiv ausbreitete.",
+              "hook": "später zur Grundlage der Massenfertigung",
+              "children": [],
+              "source": {
+                "title": "Eli Whitney – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Eli_Whitney"
+              }
+            }
+          ],
+          "source": {
+            "title": "Austauschbau – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Austauschbau"
+          }
+        },
+        {
+          "id": "2026-11-21-1-2",
+          "title": "Foucaults schwingende Kugel",
+          "text": "Im selben Museum ist das Pendel zu sehen, mit dem Léon Foucault 1851 die Erdrotation sichtbar machte. Bei der öffentlichen Vorführung im Panthéon schwang eine rund 28 Kilogramm schwere Kugel an einem etwa 67 Meter langen Draht, und ihre Schwingungsebene drehte sich langsam gegenüber dem Boden. Das 1794 gegründete Museum zog später in das ehemalige Priorat Saint-Martin-des-Champs, wo das Pendel in der früheren Kirche lange schwang. 2010 riss das Seil, die originale Kugel schlug auf und wurde beschädigt; seither schwingt dort eine Nachbildung.",
+          "hook": "Musée des Arts et Métiers in Paris",
+          "children": [
+            {
+              "id": "2026-11-21-1-2-0",
+              "title": "Ruhmeshalle mit Rückgaberecht",
+              "text": "Das Panthéon, in dem Foucault sein Pendel vorführte, war ursprünglich als Kirche geplant: Ludwig XV. hatte 1744 während einer schweren Erkrankung in Metz gelobt, der heiligen Genoveva ein neues Gotteshaus zu bauen. Der Architekt Jacques-Germain Soufflot erlebte die Fertigstellung nicht mehr. 1791 machte die Revolution den Bau zur Grabstätte großer Franzosen, und als Erster wurde der Redner Mirabeau dort beigesetzt. Als dann seine geheimen Kontakte zum König bekannt wurden, trug man seine Gebeine 1794 wieder hinaus.",
+              "hook": "im Panthéon",
+              "children": [],
+              "source": {
+                "title": "Panthéon (Paris) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Panth%C3%A9on_(Paris)"
+              }
+            },
+            {
+              "id": "2026-11-21-1-2-1",
+              "title": "Ein U-Boot unter Paris",
+              "text": "Direkt am ehemaligen Priorat Saint-Martin-des-Champs liegt die Métrostation Arts et Métiers, und ein Teil davon sieht aus wie das Innere eines U-Boots. Zum 200. Geburtstag des Konservatoriums ließ man 1994 die Bahnsteige der Linie 11 vom belgischen Comiczeichner François Schuiten umgestalten. Wände und Decke sind mit genieteten Kupferplatten verkleidet, dazu kommen Bullaugen und Zahnräder. Das Vorbild ist Jules Vernes Nautilus. So empfängt eine Maschine, die nie gebaut wurde, die Besucher eines Museums voller Maschinen, die es wirklich gab.",
+              "hook": "ehemalige Priorat Saint-Martin-des-Champs",
+              "children": [],
+              "source": {
+                "title": "Arts et Métiers (Métro Paris) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Arts_et_M%C3%A9tiers_(M%C3%A9tro_Paris)"
+              }
+            },
+            {
+              "id": "2026-11-21-1-2-2",
+              "title": "Ein Roman am Pendeldraht",
+              "text": "Das Pendel in der früheren Kirche machte Umberto Eco zum Schauplatz für das Finale seines Romans „Das Foucaultsche Pendel“ von 1988. Darin basteln drei Männer aus dem Umfeld eines Mailänder Verlags zum Spaß einen gewaltigen Geheimplan rund um die Tempelritter und füttern ihn mit allerlei Esoterik. Doch echte Verschwörungsgläubige nehmen die Erfindung ernst und versammeln sich nachts im Museum. Dort stirbt Jacopo Belbo, einer der Erfinder, erhängt am Draht des Pendels. Er wird für ein Geheimnis getötet, das er selbst erfunden hat.",
+              "hook": "das Pendel in der früheren Kirche",
+              "children": [],
+              "source": {
+                "title": "Das Foucaultsche Pendel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Das_Foucaultsche_Pendel"
+              }
+            }
+          ],
+          "source": {
+            "title": "Foucaultsches Pendel – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Foucaultsches_Pendel"
+          }
+        }
+      ],
+      "source": {
+        "title": "Nicholas Cugnot – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Nicholas_Cugnot"
+      }
+    },
+    {
+      "id": "2026-11-21-2",
+      "category": "kultur",
+      "title": "Die Lewis-Schachfiguren",
+      "text": "1831 tauchten in den Dünen bei Uig auf der schottischen Insel Lewis 93 Objekte auf, darunter 78 Schachfiguren. Sie wurden um 1150 bis 1200 vermutlich in Norwegen geschnitzt, meist aus Walrosszahn. Am berühmtesten sind die Berserker, die vor Kampfwut in ihre Schilde beißen. Eine verschollene Figur, die jahrzehntelang in einer Schublade gelegen hatte, kam 2019 unter den Hammer: Sie war 1964 für fünf Pfund gekauft worden und brachte bei Sotheby’s rund 735.000 Pfund.",
+      "children": [
+        {
+          "id": "2026-11-21-2-0",
+          "title": "Grönlands weißes Gold",
+          "text": "Walrosszahn war im Hochmittelalter so begehrt, dass er eine ganze Kolonie mitfinanzierte: die Siedlungen der Nordmänner auf Grönland. Von dort aus fuhren Jäger weit nach Norden in die Jagdgründe der Nordrsetur, etwa in der Gegend der Disko-Bucht. DNA-Analysen zeigten 2018, dass ab etwa 1100 der Großteil des Walrosselfenbeins in Europa aus Grönland kam. Als später Elefantenelfenbein aus Afrika den Markt eroberte, fiel die Nachfrage. Das dürfte zum Ende der Siedlungen im 15. Jahrhundert beigetragen haben.",
+          "hook": "meist aus Walrosszahn",
+          "children": [
+            {
+              "id": "2026-11-21-2-0-0",
+              "title": "Runen am Rand der Welt",
+              "text": "Wie weit die Jäger nach Norden kamen, zeigt ein Fund von 1824. Auf der Insel Kingittorsuaq bei Upernavik, Hunderte Kilometer nördlich der Disko-Bucht, lag ein nur etwa zehn Zentimeter langer Runenstein. Drei Nordmänner namens Erlingur, Bjarni und Eindriði halten darauf fest, dass sie am Samstag vor dem Bittag Steinwarten errichtet haben. Die Inschrift stammt wohl aus der Zeit um 1300 und gilt als nördlichste bekannte Runeninschrift. Sie endet mit einer Reihe rätselhafter Zeichen, deren Bedeutung bis heute umstritten ist.",
+              "hook": "weit nach Norden in die Jagdgründe",
+              "children": [],
+              "source": {
+                "title": "Runenstein von Kingittorsuaq – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Runenstein_von_Kingittorsuaq"
+              }
+            },
+            {
+              "id": "2026-11-21-2-0-1",
+              "title": "Billardkugeln aus Plastik",
+              "text": "Elefantenelfenbein blieb jahrhundertelang das Material der Wahl. Im 19. Jahrhundert wurde es dann knapp, auch weil Billardkugeln daraus gedreht wurden. Der New Yorker Hersteller Phelan & Collender setzte deshalb in den 1860er-Jahren 10.000 Dollar für einen Ersatzstoff aus. Der Drucker John Wesley Hyatt entwickelte daraufhin mit seinem Bruder das Zelluloid, einen der ersten Kunststoffe. Einer Anekdote zufolge knallten frühe Kugeln beim Zusammenstoß wie Zündhütchen. Am bekanntesten wurde das Material aber anderswo: als Filmstreifen des frühen Kinos.",
+              "hook": "Elefantenelfenbein aus Afrika",
+              "children": [],
+              "source": {
+                "title": "Billardkugel – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Billardkugel"
+              }
+            },
+            {
+              "id": "2026-11-21-2-0-2",
+              "title": "Die letzte Hochzeit",
+              "text": "Kurz vor dem Ende der Siedlungen bricht die schriftliche Überlieferung mit einer Hochzeit ab. Im September 1408 heirateten Sigríður Björnsdóttir und Þorsteinn Ólafsson in der Kirche von Hvalsey, deren Steinmauern bis heute stehen. Das Schiff der beiden war 1406 auf dem Weg nach Island nach Grönland abgetrieben. Weil das Paar die Ehe später in Island beweisen musste, sind Zeugnisse darüber erhalten. Danach herrscht Schweigen: Als der Missionar Hans Egede 1721 kam, um die Nordmänner zu bekehren, traf er nur noch Inuit an.",
+              "hook": "Ende der Siedlungen im 15. Jahrhundert",
+              "children": [],
+              "source": {
+                "title": "Kirche von Hvalsey – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kirche_von_Hvalsey"
+              }
+            }
+          ],
+          "source": {
+            "title": "Lost Norse of Greenland fuelled the medieval ivory trade, ancient walrus DNA suggests – University of Cambridge",
+            "url": "https://www.cam.ac.uk/research/news/lost-norse-of-greenland-fuelled-the-medieval-ivory-trade-ancient-walrus-dna-suggests"
+          }
+        },
+        {
+          "id": "2026-11-21-2-1",
+          "title": "Bärenhemd oder bloße Haut",
+          "text": "Das bekannteste Bild der schildbeißenden Berserker zeichnete Snorri Sturluson, der sie im 13. Jahrhundert in der Ynglinga-Saga beschrieb: rasend wie Hunde oder Wölfe, angeblich gefeit gegen Feuer und Eisen. Schon der Name ist umstritten, denn „berserkr“ kann „Bärenhemd“ oder „bloßes Hemd“ bedeuten, also einen Kämpfer ohne Rüstung. Als Auslöser der Raserei wurden seit 1784 Fliegenpilz und später Bilsenkraut vermutet, belegt ist beides nicht. Schon das mittelalterliche isländische Recht stellte den Berserkergang sogar unter Strafe.",
+          "hook": "vor Kampfwut in ihre Schilde beißen",
+          "children": [
+            {
+              "id": "2026-11-21-2-1-0",
+              "title": "Gift für die Stubenfliege",
+              "text": "Der Fliegenpilz, den der schwedische Pfarrer Samuel Ödman 1784 als Berserkerdroge ins Spiel brachte, verdankt seinen Namen einem viel alltäglicheren Zweck. Schon Albertus Magnus beschrieb im 13. Jahrhundert, wie man ihn in Milch zerbröckelt, um Fliegen zu töten. Die Milch lockt die Insekten an, die Ibotensäure aus dem Pilz betäubt sie. Beim Trocknen wandelt sich die Ibotensäure teilweise in Muscimol um, das stärker auf das Gehirn wirkt. Der getrocknete Pilz wirkt deshalb stärker berauschend als der frische.",
+              "hook": "seit 1784 Fliegenpilz",
+              "children": [],
+              "source": {
+                "title": "Fliegenpilz – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Fliegenpilz"
+              }
+            },
+            {
+              "id": "2026-11-21-2-1-1",
+              "title": "Das Kraut im Bierkessel",
+              "text": "Bilsenkraut brachte 2019 der Ethnobotaniker Karsten Fatur als Droge der Berserker ins Gespräch. Die Wirkstoffe Hyoscyamin und Scopolamin können Wahn, Aggression und Schmerzunempfindlichkeit auslösen. Im Mittelalter kam die giftige Pflanze auch ins Bier, um es berauschender zu machen. Das bayerische Reinheitsgebot von 1516 ließ nur noch Gerste, Hopfen und Wasser zu. Ob es sich gezielt gegen solche Zusätze richtete, ist umstritten. Ebenso hartnäckig wie unbelegt ist die Behauptung, der Name der Bierstadt Pilsen komme vom Bilsenkraut.",
+              "hook": "später Bilsenkraut vermutet",
+              "children": [],
+              "source": {
+                "title": "Schwarzes Bilsenkraut – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Schwarzes_Bilsenkraut"
+              }
+            },
+            {
+              "id": "2026-11-21-2-1-2",
+              "title": "Zwanzig Jahre vogelfrei",
+              "text": "Das isländische Recht ist in der Sammlung Grágás („Graugans“) überliefert. Es bestrafte Berserkergang mit der kleinen Acht, also drei Jahren Verbannung von der Insel. Viel härter traf es Grettir den Starken. Laut seiner Saga überlebte er fast zwei Jahrzehnte als Geächteter, den jeder straflos töten durfte. Seine letzten Jahre verbrachte er auf der steilen Felsinsel Drangey im Skagafjörður. Um Feuer zu holen, soll er rund sieben Kilometer zum Festland geschwommen sein. Diese Strecke, das „Grettissund“, schwimmen Menschen bis heute nach.",
+              "hook": "isländische Recht stellte den Berserkergang",
+              "children": [],
+              "source": {
+                "title": "Grettir der Starke – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Grettir_der_Starke"
+              }
+            }
+          ],
+          "source": {
+            "title": "Berserker – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Berserker"
+          }
+        },
+        {
+          "id": "2026-11-21-2-2",
+          "title": "Ein Stoff per Gesetz",
+          "text": "Lewis und Harris tragen zwar zwei Namen, sind aber eine einzige Insel, und ihr südlicher Teil hat einem berühmten Stoff den Namen gegeben: Harris Tweed. Seit dem Harris Tweed Act von 1993 darf nur Stoff so heißen, den Bewohner der Äußeren Hebriden zu Hause von Hand gewebt haben. Auch die reine Schurwolle muss dort gefärbt und gesponnen worden sein. Geprüfte Ware erhält das „Orb“-Siegel mit Reichsapfel, das 1909 als Marke angemeldet wurde. Bekannt machte den Stoff im 19. Jahrhundert die Countess of Dunmore in der Londoner Oberschicht.",
+          "hook": "auf der schottischen Insel Lewis",
+          "children": [
+            {
+              "id": "2026-11-21-2-2-0",
+              "title": "Zwei Kugeln für ein Paar",
+              "text": "Der Reichsapfel im Harris-Tweed-Siegel ist ein uraltes Herrschaftszeichen: eine Kugel mit Kreuz, die für die christlich regierte Welt steht. Den heutigen Sovereign’s Orb besitzt die britische Krone erst seit 1661. Nach der Hinrichtung Karls I. hatte das Parlament die alten Kroninsignien größtenteils einschmelzen lassen. 1689 brauchte man dann einen zweiten, kleineren Reichsapfel, denn mit Wilhelm III. und Maria II. wurde das einzige gleichberechtigte Königspaar der englischen Geschichte gekrönt.",
+              "hook": "„Orb“-Siegel mit Reichsapfel",
+              "children": [],
+              "source": {
+                "title": "Reichsapfel britischer Monarchen – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Reichsapfel_britischer_Monarchen"
+              }
+            },
+            {
+              "id": "2026-11-21-2-2-1",
+              "title": "Eine Ananas aus Stein",
+              "text": "Der Titel der Countess of Dunmore führt zu einem der seltsamsten Bauwerke Schottlands: dem Dunmore Pineapple bei Airth, einem Gartenhaus mit riesiger Ananas aus Stein. Bauherr war John Murray, 4. Earl of Dunmore, der Großvater ihres Mannes. Der Unterbau trägt die Jahreszahl 1761, die Ananas kam vermutlich erst nach Murrays Rückkehr aus Amerika hinzu. Dort war er der letzte königliche Gouverneur von Virginia und versprach 1775 Sklaven die Freiheit, wenn sie rebellischen Herren entliefen und für die Briten kämpften.",
+              "hook": "die Countess of Dunmore",
+              "children": [],
+              "source": {
+                "title": "Dunmore Pineapple – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dunmore_Pineapple"
+              }
+            },
+            {
+              "id": "2026-11-21-2-2-2",
+              "title": "Lieder zum Walken",
+              "text": "Was auf den Hebriden zu Hause von Hand gewebt war, wurde früher noch in Gemeinschaft verdichtet, beim Walken, gälisch „luadh“. Frauen saßen an einem langen Brett, schlugen den nassen Stoff, der traditionell in abgestandenem Urin eingeweicht war, im Takt darauf und reichten ihn weiter. Den Rhythmus gaben Wechselgesänge vor, die Waulking Songs. Die Maschinen verdrängten das Walken, aber die Lieder überlebten: Mit Capercaillies „Coisich a Rùin“ kam 1992 wohl erstmals ein gälischsprachiges Lied in die britischen Top 40.",
+              "hook": "zu Hause von Hand gewebt",
+              "children": [],
+              "source": {
+                "title": "Waulking song – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Waulking_song"
+              }
+            }
+          ],
+          "source": {
+            "title": "Harris-Tweed – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Harris-Tweed"
+          }
+        }
+      ],
+      "source": {
+        "title": "Lewis-Schachfiguren – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Lewis-Schachfiguren"
+      }
+    }
+  ]
+}
