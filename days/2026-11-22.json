@@ -1,0 +1,448 @@
+{
+  "version": 1,
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-20T00:36:15.560Z",
+  "topics": [
+    {
+      "id": "2026-11-22-0",
+      "category": "geschichte",
+      "title": "Die Pariser Ballonpost",
+      "text": "Als deutsche Truppen Paris ab September 1870 belagerten, schickte die eingeschlossene Stadt ihre Post durch die Luft. Bis Januar 1871 stiegen rund 66 Ballons auf und trugen schätzungsweise zweieinhalb Millionen Briefe über die feindlichen Linien. Einer brachte den Minister Léon Gambetta aus der Stadt, die „Ville d'Orléans“ trieb sogar bis nach Norwegen ab. Nachrichten nach Paris hinein kamen mit Brieftauben, fotografisch verkleinert auf hauchdünne Filme des Fotografen René Dagron.",
+      "children": [
+        {
+          "id": "2026-11-22-0-0",
+          "title": "Elefantenfleisch zu Weihnachten",
+          "text": "Je länger deutsche Truppen Paris belagerten, desto knapper wurde das Essen, und nach Pferden, Hunden und Ratten kam der Zoo an die Reihe. Ende Dezember 1870 wurden Castor und Pollux erschossen, zwei Elefanten, die oft dem Jardin d'Acclimatation zugeschrieben werden, die meisten Quellen verorten sie aber in der Menagerie des Jardin des Plantes. Ihr Fleisch verkaufte ein Metzger am Boulevard Haussmann zu Höchstpreisen. Das Restaurant Voisin bot an Weihnachten ein berühmt gewordenes Menü mit Kamel, Känguru und Antilope an.",
+          "hook": "deutsche Truppen Paris ab September 1870 belagerten",
+          "children": [
+            {
+              "id": "2026-11-22-0-0-0",
+              "title": "Sechs Sonnen namens Castor",
+              "text": "Die Elefanten waren nach den Zwillingen der griechischen Sage benannt, nach denen auch die beiden hellsten Sterne im Sternbild Zwillinge heißen. Castor, rund 50 Lichtjahre entfernt, sieht mit bloßem Auge wie ein einzelner Lichtpunkt aus. Tatsächlich besteht er aus sechs Sternen, die als drei Paare umeinander kreisen. Um Pollux wurde 2006 ein Planet nachgewiesen. Und obwohl Castor als Alpha der Zwillinge gilt, leuchtet Pollux an unserem Himmel heller.",
+              "hook": "Castor und Pollux",
+              "children": [],
+              "source": {
+                "title": "Castor (Stern) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Castor_(Stern)"
+              }
+            },
+            {
+              "id": "2026-11-22-0-0-1",
+              "title": "Kaninchen für Australien",
+              "text": "Der Jardin d'Acclimatation gehörte einer Gesellschaft, die fremde Tiere in Frankreich heimisch machen wollte. Die Idee fand weltweit Nachahmer, besonders in Australien, wo Siedler gezielt europäische Arten aussetzten. 1859 ließ der Gutsbesitzer Thomas Austin bei Geelong in Victoria 24 Wildkaninchen frei, um sie jagen zu können. Daraus wurde eine der schlimmsten Tierplagen der Geschichte. Westaustralien zog dagegen Anfang des 20. Jahrhunderts Zäune von insgesamt über 3000 Kilometern Länge.",
+              "hook": "Jardin d'Acclimatation",
+              "children": [],
+              "source": {
+                "title": "Rabbits in Australia – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rabbits_in_Australia"
+              }
+            },
+            {
+              "id": "2026-11-22-0-0-2",
+              "title": "Der Mann, der Paris abriss",
+              "text": "Der Boulevard Haussmann ist nach dem Präfekten Georges-Eugène Haussmann benannt, der Paris ab 1853 im Auftrag Napoleons III. radikal umbauen ließ. Ganze mittelalterliche Viertel verschwanden, an ihre Stelle traten breite Achsen, einheitliche Fassaden und ein neues Kanalnetz. Im Januar 1870, wenige Monate vor der Belagerung, wurde Haussmann wegen der ausufernden Kosten entlassen. Eine Ironie bleibt: Für den Boulevard mit seinem Namen wurde auch sein eigenes Geburtshaus abgerissen.",
+              "hook": "Metzger am Boulevard Haussmann",
+              "children": [],
+              "source": {
+                "title": "Georges-Eugène Haussmann – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Georges-Eug%C3%A8ne_Haussmann"
+              }
+            }
+          ],
+          "source": {
+            "title": "Castor und Pollux (Elefanten) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Castor_und_Pollux_(Elefanten)"
+          }
+        },
+        {
+          "id": "2026-11-22-0-1",
+          "title": "Ein Herz im Panthéon",
+          "text": "Gambetta verließ Paris im Oktober 1870 im Ballon „Armand-Barbès“ und organisierte danach den Widerstand von Tours aus. Er starb am 31. Dezember 1882, mit nur 44 Jahren, kurz nachdem ihn eine Revolverkugel an der Hand verletzt hatte. Die genaue Todesursache war lange umstritten. Sein Körper wurde in Nizza beigesetzt, sein Herz aber getrennt aufbewahrt. Am 11. November 1920 kam die Urne ins Panthéon, am selben Tag, an dem der Unbekannte Soldat nach Paris überführt wurde.",
+          "hook": "brachte den Minister Léon Gambetta aus der Stadt",
+          "children": [
+            {
+              "id": "2026-11-22-0-1-0",
+              "title": "Balzacs Möbel aus Kohle",
+              "text": "Der Schuss fiel in Les Jardies bei Sèvres, Gambettas Landhaus vor Paris, und das Haus hatte einen berühmten Vorbesitzer: Honoré de Balzac. Der Schriftsteller kaufte das Grundstück 1837 und ließ an einem rutschigen Hang bauen, an dem mehrfach Mauern nachgaben. Sein Freund Théophile Gautier erzählte später, Balzac habe die kahlen Wände mit Kohle beschriftet, etwa dort, wo einmal Marmorverkleidungen und Gemälde hängen sollten. Von Gläubigern bedrängt, gab er das Anwesen nach wenigen Jahren auf. Die Pracht gab es nur als Schrift an der Wand.",
+              "hook": "eine Revolverkugel an der Hand verletzt",
+              "children": [],
+              "source": {
+                "title": "Maison des Jardies – Wikipedia",
+                "url": "https://fr.wikipedia.org/wiki/Maison_des_Jardies"
+              }
+            },
+            {
+              "id": "2026-11-22-0-1-1",
+              "title": "Die Wahl in der Zitadelle",
+              "text": "Ausgewählt wurde der Unbekannte Soldat am Tag zuvor, am 10. November 1920, in der Zitadelle von Verdun. Dort standen acht Särge mit Gefallenen aus verschiedenen Frontabschnitten, und der 21-jährige Soldat Auguste Thin sollte einen bestimmen. Er wählte den sechsten, weil die Ziffern seines Regiments, des 132., zusammen sechs ergeben. Seit Januar 1921 liegt der Tote unter dem Arc de Triomphe, und seit 1923 wird die Flamme über dem Grab jeden Abend neu entzündet, auch während der deutschen Besatzung.",
+              "hook": "der Unbekannte Soldat nach Paris überführt",
+              "children": [],
+              "source": {
+                "title": "Grabmal des unbekannten Soldaten (Paris) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Grabmal_des_unbekannten_Soldaten_(Paris)"
+              }
+            },
+            {
+              "id": "2026-11-22-0-1-2",
+              "title": "Chopins Herz im Glas",
+              "text": "Ein getrennt aufbewahrtes Herz war im 19. Jahrhundert nichts Ungewöhnliches, das berühmteste gehört Frédéric Chopin. Er starb 1849 in Paris und wollte, dass man ihm nach dem Tod das Herz entnimmt. Seine Schwester Ludwika brachte es in einem Gefäß mit Flüssigkeit, vermutlich Cognac, nach Warschau, wo es heute in einer Säule der Heilig-Kreuz-Kirche steckt. 2014 begutachteten Fachleute das Glas nachts, ohne es zu öffnen. Was sie sahen, spricht für eine Komplikation der Tuberkulose als Todesursache.",
+              "hook": "sein Herz aber getrennt aufbewahrt",
+              "children": [],
+              "source": {
+                "title": "Heart of Frédéric Chopin – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Heart_of_Fr%C3%A9d%C3%A9ric_Chopin"
+              }
+            }
+          ],
+          "source": {
+            "title": "Léon Gambetta – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/L%C3%A9on_Gambetta"
+          }
+        },
+        {
+          "id": "2026-11-22-0-2",
+          "title": "Bilder im Federhalter",
+          "text": "Bevor René Dagron Kriegsdepeschen verkleinerte, verdiente er mit Mikrofotografien an Souvenirs: 1859 erhielt er ein Patent auf das Verfahren. Das winzige Bild klebte auf einem Glasstäbchen, das als Lupe diente. Hielt man es ans Auge, sah man ein Panorama, ein Heiligenbild oder auch ein frivoles Motiv. Diese „Stanhopes“, benannt nach dem Lupenerfinder Charles Stanhope, steckten in Federhaltern, Ringen, Taschenmessern und Rosenkränzen und waren lange beliebte Andenken von Weltausstellungen.",
+          "hook": "des Fotografen René Dagron",
+          "children": [
+            {
+              "id": "2026-11-22-0-2-0",
+              "title": "Die Lady von Aschkelon",
+              "text": "Charles Stanhope, dritter Earl Stanhope, war Erfinder und radikaler Politiker, doch berühmter wurde seine Tochter Lady Hester Stanhope. Die Nichte von Premierminister William Pitt verließ England 1810 für immer, ritt in Männerkleidung nach Palmyra und ließ sich im Libanon nieder. 1815 grub sie nach einer mittelalterlichen Handschrift in Aschkelon nach einem Schatz, eine der frühesten Grabungen im Heiligen Land. Statt Gold fand sie eine römische Marmorstatue und ließ sie zerschlagen, um den Osmanen zu beweisen, dass sie nichts raubte.",
+              "hook": "benannt nach dem Lupenerfinder Charles Stanhope",
+              "children": [],
+              "source": {
+                "title": "Hester Stanhope – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Hester_Stanhope"
+              }
+            },
+            {
+              "id": "2026-11-22-0-2-1",
+              "title": "Suchmaschine aus Mikrofilm",
+              "text": "Noch viel winzigere Bilder als die Stanhopes zeigte 1925 der Dresdner Fotoingenieur Emanuel Goldberg: Rechnerisch hätten rund 50 komplette Bibeln auf einen Quadratzoll gepasst. Solche Mikropunkte wurden später zum Werkzeug von Spionen. Goldberg, Chef von Zeiss Ikon, wurde 1933 von den Nationalsozialisten vertrieben und baute später in Palästina ein optisches Labor auf. Fast vergessen ist seine „Statistische Maschine“: Sie durchsuchte Mikrofilm per Fotozelle nach Codes und gilt als früher Vorfahr der Suchmaschine.",
+              "hook": "Das winzige Bild klebte auf einem Glasstäbchen",
+              "children": [],
+              "source": {
+                "title": "Emanuel Goldberg – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Emanuel_Goldberg"
+              }
+            },
+            {
+              "id": "2026-11-22-0-2-2",
+              "title": "Das Rundbild von Luzern",
+              "text": "Das Panorama im Stanhope war die Miniatur einer Großattraktion: Seit der Maler Robert Barker 1787 sein Rundbild patentiert hatte, strömte das Publikum in eigene Rotunden, um von einer Plattform aus in gemalte Landschaften zu blicken. Eines der wenigen erhaltenen hängt in Luzern, das über 100 Meter lange Bourbaki-Panorama von Edouard Castres aus dem Jahr 1881. Es zeigt, wie im Februar 1871 rund 87.000 französische Soldaten in die Schweiz übertraten. Es stammt also aus genau dem Krieg, in dem Paris seine Briefe per Ballon verschickte.",
+              "hook": "sah man ein Panorama",
+              "children": [],
+              "source": {
+                "title": "Bourbaki-Panorama – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bourbaki-Panorama"
+              }
+            }
+          ],
+          "source": {
+            "title": "Stanhope (optical bijou) – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Stanhope_(optical_bijou)"
+          }
+        }
+      ],
+      "source": {
+        "title": "Pariser Ballonpost – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Pariser_Ballonpost"
+      }
+    },
+    {
+      "id": "2026-11-22-1",
+      "category": "wissenschaft",
+      "title": "Tabbys Stern",
+      "text": "KIC 8462852 liegt rund 1.500 Lichtjahre entfernt im Sternbild Schwan und wird nach der Astronomin Tabetha Boyajian „Tabbys Stern“ genannt. Freiwillige des Projekts Planet Hunters entdeckten in Daten des Weltraumteleskops Kepler, dass seine Helligkeit unregelmäßig um bis zu 22 Prozent einbrach. Das ist viel zu stark für einen Planeten. 2015 wurde er weltberühmt, weil über eine außerirdische Megastruktur spekuliert wurde. Spätere Messungen, teils per Crowdfunding bezahlt, zeigten aber, dass das Licht im Blauen stärker abnimmt. Das deutet auf feinen Staub hin.",
+      "children": [
+        {
+          "id": "2026-11-22-1-0",
+          "title": "Der grüne Fleck der Lehrerin",
+          "text": "Planet Hunters gehört zur Plattform Zooniverse, die aus dem Projekt Galaxy Zoo hervorging. Dort sortierten ab 2007 Laien Galaxienbilder nach ihrer Form. Noch im selben Jahr stieß die niederländische Lehrerin Hanny van Arkel auf einen rätselhaften grünen Fleck neben der Galaxie IC 2497. Das „Hanny’s Voorwerp“ (niederländisch für „Objekt“) ist eine Gaswolke. Sie wird vom Licht eines Quasars zum Leuchten gebracht, der inzwischen fast erloschen ist. Man sieht also ein Echo seiner früheren Strahlung.",
+          "hook": "Projekts Planet Hunters",
+          "children": [
+            {
+              "id": "2026-11-22-1-0-0",
+              "title": "Nebulium, das Phantomelement",
+              "text": "Das Grün des Voorwerps stammt von zweifach ionisiertem Sauerstoff. Genau dieses Licht hielt man einst für ein unbekanntes Element. William Huggins sah die grüne Linie 1864 im Spektrum eines Gasnebels, doch sie passte zu keinem bekannten Stoff. Nach dem Vorbild des Heliums, das man zuerst im Sonnenlicht gefunden hatte, nannte man sie „Nebulium“. Erst 1927 zeigte Ira Bowen, dass es sich um „verbotene“ Linien von Sauerstoff handelt. Sie entstehen nur in Gas, das dünner ist als jedes Vakuum, das man damals im Labor herstellen konnte.",
+              "hook": "rätselhaften grünen Fleck",
+              "children": [],
+              "source": {
+                "title": "Nebulium – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Nebulium"
+              }
+            },
+            {
+              "id": "2026-11-22-1-0-1",
+              "title": "Der Mond als Messer",
+              "text": "Quasare waren anfangs selbst ein Rätsel, und gelöst wurde es mithilfe des Mondes. 1962 beobachtete Cyril Hazard am Parkes-Radioteleskop in Australien, wie der Mond vor der Radioquelle 3C 273 vorbeizog. Der Moment, in dem das Signal verschwand, verriet ihre genaue Position. So konnte der Niederländer Maarten Schmidt 1963 den zugehörigen Lichtpunkt deuten: Er ist rund zweieinhalb Milliarden Lichtjahre entfernt. Trotzdem sieht man 3C 273 schon mit einem mittelgroßen Amateurteleskop.",
+              "hook": "Licht eines Quasars",
+              "children": [],
+              "source": {
+                "title": "Parkes and 3C273 – CSIRO Parkes Observatory",
+                "url": "https://www.parkes.atnf.csiro.au/people/sar049/3C273/"
+              }
+            },
+            {
+              "id": "2026-11-22-1-0-2",
+              "title": "Das Echo von 1572",
+              "text": "Solche Lichtechos gibt es auch bei Sternexplosionen: Licht, das an fernen Staubwolken zurückgeworfen wird, kommt auf diesem Umweg Jahrhunderte später an. 1572 beobachtete Tycho Brahe einen neuen Stern in der Kassiopeia, der zeitweise etwa so hell wie die Venus leuchtete. 2008 fing ein Team um Oliver Krause mit dem Subaru-Teleskop auf Hawaii das Echo dieser Explosion auf und zerlegte es in ein Spektrum. So ließ sich 436 Jahre später klären, was Tycho mit bloßem Auge gesehen hatte: eine Supernova vom Typ Ia, die Explosion eines Weißen Zwergs.",
+              "hook": "ein Echo seiner früheren Strahlung",
+              "children": [],
+              "source": {
+                "title": "SN 1572 – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/SN_1572"
+              }
+            }
+          ],
+          "source": {
+            "title": "Hannys Objekt – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Hannys_Objekt"
+          }
+        },
+        {
+          "id": "2026-11-22-1-1",
+          "title": "Dysons Sternenschale",
+          "text": "Die Idee, nach Bauwerken rund um fremde Sterne zu suchen, stammt vom Physiker Freeman Dyson. Er schlug sie 1960 in der Fachzeitschrift Science vor. Seine Überlegung: Eine Zivilisation, die die Energie ihres Sterns nutzt, müsste Abwärme als Infrarotstrahlung abgeben, und die wäre messbar. Die Anregung dazu hatte er nach eigener Aussage aus Olaf Stapledons Roman „Star Maker“ von 1937. Heute spricht man von einer Dyson-Sphäre, obwohl Dyson eher an einen Schwarm einzelner Objekte dachte als an eine geschlossene Schale.",
+          "hook": "außerirdische Megastruktur",
+          "children": [
+            {
+              "id": "2026-11-22-1-1-0",
+              "title": "Zwei Milliarden Jahre Zukunft",
+              "text": "Olaf Stapledon, der Dyson inspirierte, war eigentlich Philosoph und gab in Liverpool Abendkurse für Arbeiter. Berühmt wurde er 1930 mit „Last and First Men“. Der Roman ist eine erfundene Geschichte der Menschheit über rund zwei Milliarden Jahre, in der 18 Menschenarten aufeinander folgen. Die letzte lebt auf dem Neptun. Im Ersten Weltkrieg hatte er den Dienst an der Waffe verweigert und Verwundete in einer Sanitätseinheit gefahren, die Quäker gegründet hatten. Arthur C. Clarke nannte das Buch später den größten Einfluss auf sein Leben.",
+              "hook": "Olaf Stapledons Roman",
+              "children": [],
+              "source": {
+                "title": "Olaf Stapledon – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Olaf_Stapledon"
+              }
+            },
+            {
+              "id": "2026-11-22-1-1-1",
+              "title": "Die Spur der Abwärme",
+              "text": "Nach genau dieser Abwärme suchen Astronomen heute in Himmelsdurchmusterungen wie denen des Infrarotsatelliten WISE. 2024 durchforstete ein Team um Matías Suazo von der Universität Uppsala die Daten von rund fünf Millionen Sternen. Dabei fand es sieben Rote Zwerge mit auffällig viel Infrarotlicht. Bald darauf wandten andere Forscher ein, dass zumindest einige davon wohl von fernen Galaxien im Hintergrund überlagert werden. Solche Galaxien heißen tatsächlich „Hot DOGs“, kurz für heiße, von Staub verhüllte Galaxien.",
+              "hook": "Abwärme als Infrarotstrahlung",
+              "children": [],
+              "source": {
+                "title": "Are dusty quasars masquerading as Dyson sphere candidates? – Physics World",
+                "url": "https://physicsworld.com/a/are-dusty-quasars-masquerading-as-dyson-sphere-candidates/"
+              }
+            },
+            {
+              "id": "2026-11-22-1-1-2",
+              "title": "Raumschiff mit Atombomben",
+              "text": "Der Physiker Freeman Dyson, der nie einen Doktortitel erwarb, arbeitete ab 1958 an einem noch kühneren Plan: dem Projekt Orion. Ein Raumschiff sollte von Atombomben angetrieben werden, die hinter einer massiven Stoßplatte explodierten. Ein erklärtes Ziel war der Saturn bis 1970. Der Teststoppvertrag von 1963 verbot jedoch Kernexplosionen im Weltraum. Dysons Sohn George wählte das Gegenteil der Raumfahrt: Er lebte als junger Mann in Kanada in einem Baumhaus hoch oben in einer Douglasie und baute Kajaks nach dem Vorbild der Ureinwohner.",
+              "hook": "Physiker Freeman Dyson",
+              "children": [],
+              "source": {
+                "title": "Orion-Projekt – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Orion-Projekt"
+              }
+            }
+          ],
+          "source": {
+            "title": "Dyson-Sphäre – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Dyson-Sph%C3%A4re"
+          }
+        },
+        {
+          "id": "2026-11-22-1-2",
+          "title": "Ein Sockel aus Kleingeld",
+          "text": "Für die Beobachtung von Tabbys Stern kamen 2016 über Kickstarter gut 100.000 Dollar zusammen. Eine ähnliche Summe brachte schon 1885 eine berühmte Sammelaktion in New York ein. Damals fehlte das Geld für den Sockel der Freiheitsstatue, die Frankreich geschenkt hatte und die in Kisten zerlegt eintraf. Der Verleger Joseph Pulitzer rief in seiner Zeitung „The World“ zu Spenden auf und versprach, jeden Namen abzudrucken. Mehr als 120.000 Menschen spendeten, die meisten weniger als einen Dollar.",
+          "hook": "teils per Crowdfunding bezahlt",
+          "children": [
+            {
+              "id": "2026-11-22-1-2-0",
+              "title": "Der lärmscheue Verleger",
+              "text": "Joseph Pulitzer, der Mann hinter der Sockel-Kampagne, war 1864 als junger Einwanderer aus Ungarn in die USA gekommen und kämpfte zunächst im Bürgerkrieg für die Union. Später erblindete er fast vollständig und wurde extrem geräuschempfindlich. Auf seinem Anwesen in Bar Harbor ließ er sich deshalb ein schallgedämmtes Gebäude bauen, den „Turm der Stille“. Er starb 1911 an Bord seiner Jacht. In seinem Testament stiftete er Geld für eine Journalistenschule an der Columbia University und für die Preise, die seit 1917 seinen Namen tragen.",
+              "hook": "Der Verleger Joseph Pulitzer",
+              "children": [],
+              "source": {
+                "title": "Joseph Pulitzer – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Joseph_Pulitzer"
+              }
+            },
+            {
+              "id": "2026-11-22-1-2-1",
+              "title": "Ein Riese aus 214 Kisten",
+              "text": "Die Freiheitsstatue erreichte New York im Juni 1885 an Bord der französischen Fregatte „Isère“, zerlegt in rund 350 Teile und verpackt in 214 Kisten. Im Inneren trägt sie ein eisernes Gerüst, das Gustave Eiffel entworfen hatte. Ihre Kupferhaut ist nur etwa 2,4 Millimeter dünn. Anfangs glänzte sie rotbraun wie eine neue Münze, die grüne Patina bildete sich erst in den folgenden Jahrzehnten. Als man 1906 erwog, die Statue zu streichen, gab es Proteste. Dabei schützt gerade dieser grüne Belag das Kupfer vor weiterer Korrosion.",
+              "hook": "in Kisten zerlegt eintraf",
+              "children": [],
+              "source": {
+                "title": "Freiheitsstatue – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Freiheitsstatue"
+              }
+            },
+            {
+              "id": "2026-11-22-1-2-2",
+              "title": "72 Tage um die Welt",
+              "text": "Pulitzers „The World“ setzte nicht nur auf Spendenaufrufe, sondern auch auf Spektakel. Im November 1889 schickte die Zeitung ihre Reporterin Nellie Bly allein auf eine Reise um die Erde. Sie sollte Phileas Fogg schlagen, den Helden aus Jules Vernes Roman „In 80 Tagen um die Welt“. Unterwegs besuchte sie Verne sogar in Amiens. Am selben Tag schickte die Zeitschrift „Cosmopolitan“ die Journalistin Elizabeth Bisland in die Gegenrichtung los. Davon erfuhr Bly erst unterwegs. Bly war nach gut 72 Tagen zurück in New York, Bisland kam erst einige Tage nach ihr an.",
+              "hook": "in seiner Zeitung „The World“",
+              "children": [],
+              "source": {
+                "title": "Nellie Bly – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Nellie_Bly"
+              }
+            }
+          ],
+          "source": {
+            "title": "Joseph Pulitzer – Statue of Liberty National Monument (National Park Service)",
+            "url": "https://www.nps.gov/stli/learn/historyculture/joseph-pulitzer.htm"
+          }
+        }
+      ],
+      "source": {
+        "title": "KIC 8462852 – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/KIC_8462852"
+      }
+    },
+    {
+      "id": "2026-11-22-2",
+      "category": "orte",
+      "title": "Die Fasaneninsel",
+      "text": "Im Grenzfluss Bidasoa liegt die Fasaneninsel, knapp 7.000 Quadratmeter groß. Sie gilt als kleinstes Kondominium der Welt, also als Gebiet, das zwei Staaten gemeinsam gehört. Seit dort 1659 der Pyrenäenfrieden ausgehandelt wurde, gehört sie beiden Ländern. Nach späteren Verträgen verwalten Spanien und Frankreich sie heute abwechselnd für jeweils ein halbes Jahr. 1660 übergab Spanien hier die Infantin Maria Theresia an ihren künftigen Ehemann Ludwig XIV. Für die Ausstattung des Festpavillons war der Hofmaler Diego Velázquez zuständig, der kurz nach seiner Rückkehr starb.",
+      "children": [
+        {
+          "id": "2026-11-22-2-0",
+          "title": "Der See ohne Grenze",
+          "text": "Gemeinsamer Besitz von Staaten ist selten, doch ein ungelöster Fall liegt mitten im deutschsprachigen Raum: der Bodensee. Für den Obersee haben Deutschland, Österreich und die Schweiz nie eine Grenze vertraglich festgelegt. Österreich vertritt die Kondominiumstheorie, nach der die Wasserfläche allen gemeinsam gehört, abgesehen von einem Uferstreifen. Die Schweiz geht von einer Realteilung mit Grenze in der Seemitte aus, Deutschland hat sich nie eindeutig festgelegt. Im Alltag regeln Abkommen wie die gemeinsame Bodensee-Schifffahrtsordnung das Nötige.",
+          "hook": "kleinstes Kondominium der Welt",
+          "children": [
+            {
+              "id": "2026-11-22-2-0-0",
+              "title": "Die Mosel ohne Mittellinie",
+              "text": "Selten heißt nicht einzigartig: Wo Mosel, Sauer und Our Deutschland und Luxemburg trennen, sind sie gemeinsames Hoheitsgebiet beider Staaten. Grundlage ist ein Grenzvertrag von 1816 zwischen Preußen und den Niederlanden, deren König damals zugleich Großherzog von Luxemburg war. Eine Grenzlinie im Wasser gibt es dort bis heute nicht. Ausgerechnet auf diesem Fluss wurde 1985 bei Schengen an Bord des Moselschiffs „Princesse Marie-Astrid“ das Abkommen unterzeichnet, mit dem der Abbau der Grenzkontrollen in Europa begann.",
+              "hook": "Gemeinsamer Besitz von Staaten ist selten",
+              "children": [],
+              "source": {
+                "title": "Gemeinschaftliches deutsch-luxemburgisches Hoheitsgebiet – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gemeinschaftliches_deutsch-luxemburgisches_Hoheitsgebiet"
+              }
+            },
+            {
+              "id": "2026-11-22-2-0-1",
+              "title": "Stuttgart trinkt Bodensee",
+              "text": "Wem die Wasserfläche auch gehören mag, ihr Inhalt wird längst geteilt: Seit 1958 entnimmt die Bodensee-Wasserversorgung Wasser aus rund 60 Metern Tiefe vor Sipplingen. Pumpen heben es über 300 Meter hinauf auf den Sipplinger Berg. Von dort fließt es durch Fernleitungen über die Schwäbische Alb bis nach Stuttgart und weit in den Norden Baden-Württembergs, insgesamt zu rund vier Millionen Menschen. Dem See schadet das kaum, denn entnommen wird nur etwa ein Prozent dessen, was ihm jedes Jahr zufließt.",
+              "hook": "die Wasserfläche allen gemeinsam gehört",
+              "children": [],
+              "source": {
+                "title": "Bodensee-Wasserversorgung – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bodensee-Wasserversorgung"
+              }
+            },
+            {
+              "id": "2026-11-22-2-0-2",
+              "title": "Die schwimmende Halle",
+              "text": "Eine Schifffahrtsordnung regelt den Verkehr auf dem Wasser, doch die berühmteste Bodensee-Erfindung wollte höher hinaus: Am 2. Juli 1900 stieg in der Manzeller Bucht bei Friedrichshafen LZ 1 auf, das erste Luftschiff des Grafen Ferdinand von Zeppelin. Es startete aus einer schwimmenden Halle, die sich nach dem Wind ausrichten ließ. Der Jungfernflug dauerte nur rund 18 Minuten und endete auf dem See. Seine Premiere beendete das erste Zeppelin-Luftschiff also so, wie es sich am Bodensee gehört: als Wasserfahrzeug.",
+              "hook": "Bodensee-Schifffahrtsordnung",
+              "children": [],
+              "source": {
+                "title": "The floating hall in Manzell Bay – Zeppelin Museum",
+                "url": "https://www.zeppelin-museum.de/en/digital-offers/the-floating-hall-in-manzell-bay"
+              }
+            }
+          ],
+          "source": {
+            "title": "Bodensee – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Bodensee"
+          }
+        },
+        {
+          "id": "2026-11-22-2-1",
+          "title": "Spanien mitten in Frankreich",
+          "text": "Der Pyrenäenfrieden hinterließ in den Bergen ein kurioses Erbe: Llívia, eine spanische Exklave auf französischem Boden. Bei der Umsetzung des Vertrags erhielt Frankreich 33 Dörfer der Cerdanya, Llívia galt jedoch als Stadt und blieb deshalb spanisch. Heute leben in der rund 13 Quadratkilometer großen Gemeinde etwa 1.500 Menschen, mit Spanien verbunden durch einen wenige Kilometer langen Straßenkorridor. Die örtliche Esteve-Apotheke aus dem 15. Jahrhundert gilt als eine der ältesten Europas und ist heute ein Museum.",
+          "hook": "der Pyrenäenfrieden ausgehandelt wurde",
+          "children": [
+            {
+              "id": "2026-11-22-2-1-0",
+              "title": "Deutschland in der Schweiz",
+              "text": "Auch Deutschland hat eine Exklave, die ganz von einem Nachbarland umschlossen ist: Büsingen am Hochrhein, mitten im Schweizer Gebiet. Seit 1967 gehört das Dorf zum Schweizer Zollgebiet, bezahlt wird meist in Franken, und es hat sowohl eine deutsche als auch eine Schweizer Postleitzahl. Der Ort ist deutsch geblieben, weil es im 17. Jahrhundert einen Streit um einen entführten Ortsherrn gab. Der FC Büsingen ist bis heute der einzige deutsche Fußballverein, der in der Schweizer Liga spielt.",
+              "hook": "spanische Exklave auf französischem Boden",
+              "children": [],
+              "source": {
+                "title": "Büsingen am Hochrhein – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/B%C3%BCsingen_am_Hochrhein"
+              }
+            },
+            {
+              "id": "2026-11-22-2-1-1",
+              "title": "Marzipan aus der Apotheke",
+              "text": "Wie die Esteve-Apotheke stammt auch die Ratsapotheke in Tallinn aus dem 15. Jahrhundert: Sie wird 1422 erstmals erwähnt und ist bis heute im selben Haus am Rathausplatz in Betrieb. Damit gilt sie als eine der ältesten durchgehend arbeitenden Apotheken Europas. Wie viele Apotheken ihrer Zeit verkaufte sie auch Marzipan, das damals als Stärkungsmittel galt. In Tallinn wird gern erzählt, das Marzipan sei hier erfunden worden, doch das ist eine Legende.",
+              "hook": "Esteve-Apotheke aus dem 15. Jahrhundert",
+              "children": [],
+              "source": {
+                "title": "Tallinner Ratsapotheke – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Tallinner_Ratsapotheke"
+              }
+            },
+            {
+              "id": "2026-11-22-2-1-2",
+              "title": "Ein Ofen aus Sonnenlicht",
+              "text": "Unter den 33 Dörfern der Cerdanya, die an Frankreich fielen, war auch Odeillo, wo heute einer der größten Sonnenöfen der Welt steht. Seit 1970 lenken dort Dutzende bewegliche Spiegel das Sonnenlicht auf einen riesigen Parabolspiegel, der eine ganze Gebäudefassade bedeckt. In seinem Brennpunkt entstehen über 3.000 Grad, mit denen Materialien unter anderem für die Raumfahrt getestet werden. Ein kleinerer Vorgänger von 1949 steht in Mont-Louis, in einer Festung, die Vauban nach dem Pyrenäenfrieden zum Schutz der neuen Grenze errichtet hatte.",
+              "hook": "33 Dörfer der Cerdanya",
+              "children": [],
+              "source": {
+                "title": "Sonnenofen von Odeillo – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Sonnenofen_von_Odeillo"
+              }
+            }
+          ],
+          "source": {
+            "title": "Llívia – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Ll%C3%ADvia"
+          }
+        },
+        {
+          "id": "2026-11-22-2-2",
+          "title": "Das Rätsel der Hoffräulein",
+          "text": "Als Hofmaler Philipps IV. schuf Diego Velázquez 1656 sein berühmtestes Werk: „Las Meninas“, heute im Prado. Im Zentrum steht die Infantin Margarita, eine Halbschwester Maria Theresias, umgeben von Hofdamen, Kleinwüchsigen und einem Hund, während der Maler selbst an der Leinwand steht. Auf seiner Brust prangt das rote Kreuz des Santiago-Ordens, das er erst 1659 erhielt. Der Legende nach malte es der König eigenhändig nach. Pablo Picasso schuf 1957 mehr als 40 Variationen des Bildes.",
+          "hook": "Hofmaler Diego Velázquez",
+          "children": [
+            {
+              "id": "2026-11-22-2-2-0",
+              "title": "Ein Grab unter Sternen",
+              "text": "Das rote Kreuz des Santiago-Ordens trägt den Namen des Apostels Jakobus, spanisch Santiago, dessen Grab in Galicien verehrt wird. Der Legende nach entdeckte ein Einsiedler namens Pelayo es im frühen 9. Jahrhundert, geleitet von einem Licht über einem Feld. Daher stammt die beliebte Deutung von Compostela als „campus stellae“, Sternenfeld. Fachleute halten lateinisch „compostum“, Begräbnisplatz, für wahrscheinlicher. Am Himmel hinterließ die Pilgerfahrt trotzdem Spuren: Im spanischen Volksmund hieß die Milchstraße „Camino de Santiago“.",
+              "hook": "das rote Kreuz des Santiago-Ordens",
+              "children": [],
+              "source": {
+                "title": "Santiago de Compostela – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Santiago_de_Compostela"
+              }
+            },
+            {
+              "id": "2026-11-22-2-2-1",
+              "title": "Der Mann aus der Pastete",
+              "text": "Kleinwüchsige Menschen lebten im 17. Jahrhundert an vielen europäischen Höfen, oft als bestaunte Kuriositäten. Jeffrey Hudson wurde 1626 dem englischen Königspaar Karl I. und Henrietta Maria in einer Pastete serviert, aus der er beim Festmahl stieg. Damals war er angeblich kaum 50 Zentimeter groß. Im französischen Exil erschoss er später einen Spötter im Duell und geriet in die Hände nordafrikanischer Piraten, die ihn rund 25 Jahre lang als Sklaven hielten. Nach eigener Aussage wuchs er in dieser Zeit noch auf über einen Meter.",
+              "hook": "Hofdamen, Kleinwüchsigen und einem Hund",
+              "children": [],
+              "source": {
+                "title": "Jeffrey Hudson – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jeffrey_Hudson"
+              }
+            },
+            {
+              "id": "2026-11-22-2-2-2",
+              "title": "Picassos Friedenstaube",
+              "text": "Picasso schuf seine Variationen 1957 in Cannes und malte mitten in der Serie auch neun Bilder der Tauben vor seinem Atelierfenster. Die Vögel begleiteten ihn seit seiner Kindheit, denn schon sein Vater, der Maler José Ruiz Blasco, malte mit Vorliebe Tauben. 1949 wählte der Dichter Louis Aragon eine Taubenlithografie Picassos für das Plakat des Weltfriedenskongresses in Paris aus. So wurde sie zum weltweiten Symbol. Kurz vor der Eröffnung kam Picassos Tochter zur Welt. Er nannte sie Paloma, spanisch für Taube.",
+              "hook": "Picasso schuf 1957 mehr als 40 Variationen",
+              "children": [],
+              "source": {
+                "title": "Dove (Picasso) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dove_(Picasso)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Las Meninas – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Las_Meninas"
+          }
+        }
+      ],
+      "source": {
+        "title": "Fasaneninsel (Baskenland) – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Fasaneninsel_(Baskenland)"
+      }
+    }
+  ]
+}
