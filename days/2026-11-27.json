@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-26T00:51:37.957Z",
+  "topics": [
+    {
+      "id": "2026-11-27-0",
+      "category": "natur",
+      "title": "Der Ginkgo",
+      "text": "Der Ginkgo ist der letzte Überlebende einer Pflanzenlinie, die schon zur Zeit der Dinosaurier wuchs, und gilt deshalb als lebendes Fossil. In Hiroshima trieben nach 1945 mehrere Ginkgos nahe dem Explosionsort wieder aus. Sie zählen heute zu den verehrten Hibakujumoku, den Bäumen, die die Atombombe überlebt haben. 1896 entdeckte der Japaner Sakugoro Hirase, dass der Baum schwimmende Spermien bildet, ähnlich wie Farne. Die Samen weiblicher Bäume riechen nach Buttersäure, deshalb pflanzen Städte meist männliche.",
+      "children": [
+        {
+          "id": "2026-11-27-0-0",
+          "title": "Ein Fisch kehrt zurück",
+          "text": "Den Begriff „lebendes Fossil“ prägte Charles Darwin 1859 in „Über die Entstehung der Arten“, unter anderem mit Blick auf Schnabeltier und Lungenfisch. Das berühmteste Beispiel wurde später der Quastenflosser. Man hielt ihn seit rund 66 Millionen Jahren für ausgestorben, bis die Museumskuratorin Marjorie Courtenay-Latimer im Dezember 1938 ein Exemplar aus dem Fang eines Fischkutters vor East London in Südafrika holte. Eine zweite Art entdeckte der Biologe Mark Erdmann 1997 auf einem Fischmarkt im indonesischen Manado.",
+          "hook": "gilt deshalb als lebendes Fossil",
+          "children": [
+            {
+              "id": "2026-11-27-0-0-0",
+              "title": "Verdacht auf Fälschung",
+              "text": "Das Schnabeltier, das Darwin zu den lebenden Fossilien zählte, hielten europäische Gelehrte zuerst für einen Schwindel. Als Ende der 1790er-Jahre ein Balg in London eintraf, vermutete der Zoologe George Shaw, jemand habe einen Entenschnabel an ein Fell genäht, und suchte nach Nähten. Über die Fortpflanzung des Tiers stritt man danach noch jahrzehntelang. 1884 klärte William Caldwell sie in Australien und telegrafierte an einen Kongress in Montreal: „Monotremes oviparous, ovum meroblastic“. Das Säugetier legt also Eier.",
+              "hook": "mit Blick auf Schnabeltier",
+              "children": [],
+              "source": {
+                "title": "Schnabeltier – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Schnabeltier"
+              }
+            },
+            {
+              "id": "2026-11-27-0-0-1",
+              "title": "Fisch per Militärflugzeug",
+              "text": "Marjorie Courtenay-Latimer schickte eine Skizze ihres Fundes an den Chemiker und Fischkundler J. L. B. Smith, der über Weihnachten verreist war. Als er im Februar 1939 eintraf, waren die Eingeweide schon entsorgt. Trotzdem erkannte er den Fisch sofort und taufte ihn Latimeria chalumnae, nach ihr und dem Fluss Chalumna. Danach suchte Smith 14 Jahre lang mit Flugblättern, auf denen er eine Belohnung versprach. Als 1952 auf den Komoren ein zweites Exemplar auftauchte, schickte Premierminister Daniel Malan eigens ein Militärflugzeug, um Smith samt Fisch zurückzuholen.",
+              "hook": "Marjorie Courtenay-Latimer",
+              "children": [],
+              "source": {
+                "title": "Komoren-Quastenflosser – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Komoren-Quastenflosser"
+              }
+            },
+            {
+              "id": "2026-11-27-0-0-2",
+              "title": "Flitterwochen in Manado",
+              "text": "Mark Erdmann verbrachte 1997 mit seiner Frau Arnaz die Flitterwochen in Indonesien, als die beiden auf dem Fischmarkt von Manado einen seltsamen Fisch bemerkten. Er fotografierte ihn, doch erst etwa ein Jahr später brachten ihm Fischer ein noch lebendes Exemplar. Die Art, später Latimeria menadoensis getauft, lebt rund 10.000 Kilometer von ihren afrikanischen Verwandten entfernt. Unbekannt war sie allerdings nur für die Wissenschaft. Die Fischer vor Ort kannten sie längst und nannten sie „raja laut“, König des Meeres.",
+              "hook": "auf einem Fischmarkt im indonesischen Manado",
+              "children": [],
+              "source": {
+                "title": "Manado-Quastenflosser – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Manado-Quastenflosser"
+              }
+            }
+          ],
+          "source": {
+            "title": "Komoren-Quastenflosser – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Komoren-Quastenflosser"
+          }
+        },
+        {
+          "id": "2026-11-27-0-1",
+          "title": "Weder Palme noch Farn",
+          "text": "Kurz nach Hirases Entdeckung fand sein Kollege Seiichiro Ikeno 1896 auch beim Palmfarn Cycas revoluta schwimmende Spermien. Palmfarne sind weder Palmen noch Farne, sondern uralte Samenpflanzen. Die Spermien der Gattung Zamia gelten mit rund 0,4 Millimetern als die größten im Pflanzenreich und tragen Tausende Geißeln. Auf Guam brachte man eine rätselhafte Nervenkrankheit der Chamorro, Lytico-Bodig, mit Mehl aus Palmfarnsamen in Verbindung. Dieser Zusammenhang ist bis heute umstritten.",
+          "hook": "schwimmende Spermien bildet, ähnlich wie Farne",
+          "children": [
+            {
+              "id": "2026-11-27-0-1-0",
+              "title": "Spermien im Knäuel",
+              "text": "Die größten Spermien im Pflanzenreich messen knapp einen halben Millimeter, doch im Tierreich übertrifft sie ein winziger Rekordhalter um mehr als das Hundertfache. Die Fruchtfliege Drosophila bifurca ist nur etwa drei Millimeter groß, bildet aber Spermien von rund 5,8 Zentimetern Länge. Damit sie in den Körper passen, liegen sie zu dichten Knäueln aufgewickelt. Erklärt wird das mit der Konkurrenz im Weibchen: Längere Spermien setzen sich dort eher durch. Dafür bildet das Männchen nur sehr wenige davon.",
+              "hook": "die größten im Pflanzenreich",
+              "children": [],
+              "source": {
+                "title": "Drosophila bifurca – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Drosophila_bifurca"
+              }
+            },
+            {
+              "id": "2026-11-27-0-1-1",
+              "title": "Der Verdacht gegen Flughunde",
+              "text": "Der Verdacht gegen das Mehl aus Palmfarnsamen nahm 2002 eine Wendung: Der Ethnobotaniker Paul Alan Cox und der Neurologe Oliver Sacks rückten Flughunde in den Blick. Marianen-Flughunde fressen Palmfarnsamen und galten auf Guam als Festtagsdelikatesse, die man im Ganzen verzehrte. Nach der Hypothese reichert sich in ihnen das Nervengift BMAA an. Gebildet wird es von Cyanobakterien, die in den korallenartigen Wurzeln der Palmfarne leben. Als die Flughunde selten wurden, ging auch Lytico-Bodig zurück. Ob das Ursache oder Zufall ist, bleibt offen.",
+              "hook": "mit Mehl aus Palmfarnsamen",
+              "children": [],
+              "source": {
+                "title": "Lytico-Bodig – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Lytico-Bodig"
+              }
+            },
+            {
+              "id": "2026-11-27-0-1-2",
+              "title": "Sago ohne Palme",
+              "text": "Obwohl Palmfarne weder Palmen noch Farne sind, verkaufen Gartencenter Cycas revoluta oft als „Sagopalme“. Echter Sago stammt aus dem Mark einer echten Palme, Metroxylon sagu, die in Neuguinea und auf den Molukken seit Jahrhunderten ein Grundnahrungsmittel liefert. Man fällt den Stamm kurz vor der Blüte, raspelt das Mark und wäscht die Stärke mit Wasser heraus. Mit den Sagoperlen in norddeutscher Roter Grütze hat das meist nichts zu tun: Sie bestehen in der Regel aus Kartoffel- oder Maniokstärke.",
+              "hook": "Palmfarne sind weder Palmen noch Farne",
+              "children": [],
+              "source": {
+                "title": "Sagopalme – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Sagopalme"
+              }
+            }
+          ],
+          "source": {
+            "title": "Palmfarne – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Palmfarne"
+          }
+        },
+        {
+          "id": "2026-11-27-0-2",
+          "title": "Buttersäure als Waffe",
+          "text": "Die Buttersäure, die Ginkgosamen ihren Geruch gibt, verdankt ihren Namen der ranzigen Butter: Der französische Chemiker Michel Eugène Chevreul gewann sie im frühen 19. Jahrhundert aus Butterfett. Die Umweltorganisation Sea Shepherd warf Flaschen mit der Säure auf japanische Walfangschiffe im Südpolarmeer, um die Arbeit an Deck zu stören. Im Darm dagegen ist sie willkommen: Bakterien bilden aus Ballaststoffen Butyrat, aus dem die Zellen der Dickdarmschleimhaut einen Großteil ihrer Energie beziehen.",
+          "hook": "riechen nach Buttersäure",
+          "children": [
+            {
+              "id": "2026-11-27-0-2-0",
+              "title": "Der Farbforscher der Fette",
+              "text": "Michel Eugène Chevreul, der Entdecker der Buttersäure, zerlegte Fette in Fettsäuren und Glycerin und ebnete so den Weg zur Stearinkerze. Als Leiter der Färberei der Pariser Gobelin-Manufaktur ging er Klagen über stumpf wirkende Wollfarben nach und fand die Ursache im Auge: Nebeneinanderliegende Farben verändern sich gegenseitig. Sein Buch über den Simultankontrast von 1839 beeinflusste später Maler bis hin zu Georges Seurat. Chevreul wurde 102 Jahre alt, sein Name steht unter den 72 am Eiffelturm.",
+              "hook": "Michel Eugène Chevreul",
+              "children": [],
+              "source": {
+                "title": "Eugène Chevreul – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Eug%C3%A8ne_Chevreul"
+              }
+            },
+            {
+              "id": "2026-11-27-0-2-1",
+              "title": "Walfang vor Gericht",
+              "text": "Gegen die japanischen Walfangschiffe im Südpolarmeer zog Australien 2010 vor den Internationalen Gerichtshof in Den Haag. Die Richter urteilten 2014, das Programm JARPA II diene nicht der Wissenschaft, und stoppten vorerst die Fangfahrten. Japan legte ein neues Forschungsprogramm auf und fuhr weiter. Erst als das Land 2019 aus der Internationalen Walfangkommission austrat und den kommerziellen Walfang wieder aufnahm, endeten die Fahrten in den Süden: Seither jagt Japan nur noch in eigenen Gewässern.",
+              "hook": "japanische Walfangschiffe im Südpolarmeer",
+              "children": []
+            },
+            {
+              "id": "2026-11-27-0-2-2",
+              "title": "Der Mann, der Stuhl wog",
+              "text": "Dass Ballaststoffe gesund sind, machte vor allem der aus Nordirland stammende Chirurg Denis Burkitt populär. In Uganda bemerkte er, wie selten dort Darmkrebs war, und verglich Stuhlgewicht und Darmpassagezeit von Afrikanern und Briten. Berühmt geworden war er schon vorher: In den 1950er-Jahren beschrieb er einen Kiefertumor bei afrikanischen Kindern, das Burkitt-Lymphom. In Proben davon entdeckten Forscher 1964 das Epstein-Barr-Virus, das erste bekannte Virus, das beim Menschen Krebs auslöst.",
+              "hook": "Bakterien bilden aus Ballaststoffen Butyrat",
+              "children": [],
+              "source": {
+                "title": "Denis Parsons Burkitt – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Denis_Parsons_Burkitt"
+              }
+            }
+          ],
+          "source": {
+            "title": "Buttersäure – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Butters%C3%A4ure"
+          }
+        }
+      ],
+      "source": {
+        "title": "Ginkgo – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Ginkgo"
+      }
+    },
+    {
+      "id": "2026-11-27-1",
+      "category": "wissenschaft",
+      "title": "Venera 7",
+      "text": "Am 15. Dezember 1970 landete die sowjetische Sonde Venera 7 auf der Venus. Sie schickte als erste Sonde Messdaten von der Oberfläche eines anderen Planeten zur Erde. Ihr Fallschirm versagte beim Abstieg, sie schlug hart auf und kippte vermutlich zur Seite. Zunächst hielt man sie für verloren. Erst als man die Aufzeichnungen später erneut auswertete, fand man im Rauschen ein schwaches Signal von gut 20 Minuten: Es meldete rund 475 Grad Celsius und einen Druck, der auf etwa das Neunzigfache der Erdatmosphäre geschätzt wurde.",
+      "children": [
+        {
+          "id": "2026-11-27-1-0",
+          "title": "Die Kapsel, die keiner fing",
+          "text": "Auch bei der NASA-Sonde Genesis versagte der Fallschirm, 34 Jahre nach Venera 7. Ihre Kapsel brachte im September 2004 Teilchen des Sonnenwinds zur Erde, die sie über zwei Jahre lang gesammelt hatte. Stuntpiloten in Hubschraubern sollten sie über der Wüste von Utah in der Luft auffangen. Doch die Schirme öffneten sich nicht, und die Kapsel schlug mit rund 300 km/h auf. Der Grund: Beschleunigungssensoren waren nach einer fehlerhaften Konstruktionszeichnung verkehrt herum eingebaut. Viele Proben ließen sich trotzdem aus den Trümmern retten.",
+          "hook": "Ihr Fallschirm versagte beim Abstieg",
+          "children": [
+            {
+              "id": "2026-11-27-1-0-0",
+              "title": "Fang über dem Pazifik",
+              "text": "Kapseln in der Luft aufzufangen, hatte das US-Militär schon Jahrzehnte vor Genesis geübt, und zwar mit den Filmkapseln geheimer Spionagesatelliten. Im August 1960 fing ein Transportflugzeug vom Typ C-119 über dem Pazifik die Kapsel von Discoverer 14 an ihrem Fallschirm ab. Es war das erste Objekt aus dem Orbit, das so geborgen wurde. Hinter dem Namen steckte das Programm Corona, das bis 1972 über 800.000 Aufnahmen lieferte. Seit die Bilder 1995 freigegeben wurden, spüren Archäologen damit Fundstätten im Nahen Osten auf, die heute unter Städten und Stauseen liegen.",
+              "hook": "Stuntpiloten in Hubschraubern",
+              "children": [],
+              "source": {
+                "title": "Discoverer – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Discoverer"
+              }
+            },
+            {
+              "id": "2026-11-27-1-0-1",
+              "title": "Die Geburt von Murphys Gesetz",
+              "text": "Falsch eingebaute Sensoren stehen auch am Anfang von Murphys Gesetz. 1949 testete die US-Luftwaffe auf der Edwards Air Force Base mit Raketenschlitten, wie viel Abbremsung ein menschlicher Körper aushält. Der Ingenieur Edward Murphy lieferte dafür Messfühler, die sich nach einem Lauf als falsch verdrahtet herausstellten. Wer den Fehler zu verantworten hatte, ist bis heute umstritten. Bekannt machte den Grundsatz, dass schiefgeht, was schiefgehen kann, der Arzt John Paul Stapp. Er saß selbst auf dem Schlitten und überlebte 1954 eine Abbremsung von über 40 g.",
+              "hook": "verkehrt herum eingebaut",
+              "children": [],
+              "source": {
+                "title": "Murphys Gesetz – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Murphys_Gesetz"
+              }
+            },
+            {
+              "id": "2026-11-27-1-0-2",
+              "title": "Alufolie auf dem Mond",
+              "text": "Teilchen des Sonnenwinds wurden schon 35 Jahre vor Genesis eingefangen, und zwar mit einer Alufolie auf dem Mond. Das Experiment kam von der Universität Bern unter dem Physiker Johannes Geiss und flog 1969 mit Apollo 11. Buzz Aldrin spannte die Folie an einer Stange auf und rollte sie nach gut einer Stunde wieder ein. Im Labor wurden danach Edelgase wie Helium und Neon darin gemessen. Weil Aldrin die Folie noch vor dem Sternenbanner aufstellte, erzählt man in der Schweiz gern, sie habe ihre „Flagge“ als erste auf dem Mond gehisst.",
+              "hook": "Teilchen des Sonnenwinds",
+              "children": [],
+              "source": {
+                "title": "50 Jahre Mondlandung: Vor der US-Flagge wehte ein Schweizer Segel auf dem Mond – SRF",
+                "url": "https://www.srf.ch/wissen/weltraum/50-jahre-mondlandung-vor-der-us-flagge-wehte-ein-schweizer-segel-auf-dem-mond"
+              }
+            }
+          ],
+          "source": {
+            "title": "Genesis (Raumsonde) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Genesis_(Raumsonde)"
+          }
+        },
+        {
+          "id": "2026-11-27-1-1",
+          "title": "Taubenkot und Urknall",
+          "text": "Ein schwaches Signal im Rauschen hielten 1964 auch Arno Penzias und Robert Wilson zunächst für einen Fehler. Mit einer großen Hornantenne der Bell Labs in Holmdel, New Jersey, empfingen sie ein Mikrowellenrauschen, das aus allen Richtungen gleich stark kam. Sie hatten sogar Taubenkot in der Antenne im Verdacht, vertrieben die Vögel und putzten, aber das Rauschen blieb. Es war die kosmische Hintergrundstrahlung, ein Nachglühen des Urknalls mit heute etwa 2,7 Kelvin. Dafür bekamen beide 1978 den Nobelpreis für Physik.",
+          "hook": "im Rauschen ein schwaches Signal",
+          "children": [
+            {
+              "id": "2026-11-27-1-1-0",
+              "title": "Lumons echtes Hauptquartier",
+              "text": "Nur wenige Kilometer von der Hornantenne entfernt, ebenfalls in Holmdel, baute Bell Labs ein riesiges Forschungszentrum. Entworfen hat es Eero Saarinen, der Architekt des Gateway Arch in St. Louis. Anfang der 1960er-Jahre arbeiteten hinter der verspiegelten Glasfassade Tausende Ingenieure, und selbst der Wasserturm davor erinnert an einen Transistor. Nach dem Auszug der Forscher stand der Bau jahrelang leer und sollte fast abgerissen werden. Heute heißt er Bell Works und spielt in der Serie „Severance“ die Zentrale des unheimlichen Konzerns Lumon.",
+              "hook": "Holmdel, New Jersey",
+              "children": [],
+              "source": {
+                "title": "Bell Labs Holmdel Complex – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bell_Labs_Holmdel_Complex"
+              }
+            },
+            {
+              "id": "2026-11-27-1-1-1",
+              "title": "Tauben im Raketenkopf",
+              "text": "Für Penzias und Wilson waren Tauben Störenfriede. Der Psychologe B. F. Skinner wollte sie dagegen im Zweiten Weltkrieg zu Piloten machen. Beim „Project Pigeon“ saßen drei abgerichtete Tauben in der Spitze einer Gleitbombe und pickten auf ein Bild des Ziels. Aus ihren Pickbewegungen sollte die Steuerung den Kurs korrigieren. Das Militär stoppte das Projekt 1944, die US-Navy versuchte es als „Project Orcon“ noch einmal bis 1953. Ein Prototyp des Tauben-Cockpits gehört heute zur Sammlung des Smithsonian-Museums für amerikanische Geschichte in Washington.",
+              "hook": "vertrieben die Vögel und putzten",
+              "children": [],
+              "source": {
+                "title": "Project Pigeon – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Project_Pigeon"
+              }
+            },
+            {
+              "id": "2026-11-27-1-1-2",
+              "title": "41 Jahre bis zum Nobelpreis",
+              "text": "Die andere Hälfte des Physik-Nobelpreises 1978 ging an den Sowjetphysiker Pjotr Kapiza, und zwar für eine Entdeckung von 1937. Kapiza forschte in Cambridge bei Ernest Rutherford, bis er 1934 bei einem Heimatbesuch nicht mehr ausreisen durfte. Moskau kaufte darauf der Universität Cambridge seine Laborgeräte ab. Mit ihnen fand er heraus, dass Helium unterhalb von gut 2 Kelvin ohne Reibung fließt. Später weigerte er sich, unter Berija an der Atombombe mitzuarbeiten. Er verlor seine Posten und forschte jahrelang in einem selbst gebauten Labor auf seiner Datscha.",
+              "hook": "1978 den Nobelpreis für Physik",
+              "children": [],
+              "source": {
+                "title": "Pjotr Leonidowitsch Kapiza – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Pjotr_Leonidowitsch_Kapiza"
+              }
+            }
+          ],
+          "source": {
+            "title": "Hintergrundstrahlung – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Hintergrundstrahlung"
+          }
+        },
+        {
+          "id": "2026-11-27-1-2",
+          "title": "Abstieg ins Challengertief",
+          "text": "Das Neunzigfache des Luftdrucks herrscht auf der Erde schon in rund 900 Metern Meerestiefe, und die tiefsten Gräben übertreffen das bei Weitem. Am 23. Januar 1960 tauchten Jacques Piccard und Don Walsh mit dem Bathyscaph Trieste fast 11.000 Meter tief in den Marianengraben. Dort lastet mehr als das Tausendfache des Luftdrucks. Auf dem Weg nach unten krachte es laut, weil ein äußeres Fenster gesprungen war, doch sie tauchten weiter. Am Grund blieben sie nur etwa 20 Minuten, und aufgewirbelter Schlick nahm ihnen fast die ganze Sicht.",
+          "hook": "das Neunzigfache der Erdatmosphäre",
+          "children": [
+            {
+              "id": "2026-11-27-1-2-0",
+              "title": "Erst Stratosphäre, dann Tiefsee",
+              "text": "Die Trieste hatte Jacques Piccards Vater Auguste erfunden, und ihr Prinzip stammte aus der Luftfahrt: Ein riesiger, mit Benzin gefüllter Schwimmkörper trug die Druckkugel wie ein Ballon seine Gondel. Der Schweizer Physiker war nämlich zuerst nach oben gefahren. 1931 stieg er mit Paul Kipfer in einer luftdichten Kapsel auf knapp 16.000 Meter und gehörte damit zu den ersten Menschen in der Stratosphäre. Der hagere Forscher regte Hergé zu einer bekannten Figur an: Professor Bienlein aus „Tim und Struppi“.",
+              "hook": "dem Bathyscaph Trieste",
+              "children": [],
+              "source": {
+                "title": "Auguste Piccard – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Auguste_Piccard"
+              }
+            },
+            {
+              "id": "2026-11-27-1-2-1",
+              "title": "Der Fisch, den es nicht gab",
+              "text": "Bevor der aufgewirbelte Schlick die Sicht nahm, glaubte Jacques Piccard am Grund einen flachen, schollenartigen Fisch zu sehen. Fachleute halten das heute für nahezu ausgeschlossen, vermutlich war es eine Seegurke. Fische schützen ihre Eiweiße mit dem Stoff Trimethylaminoxid gegen den Druck, brauchen aber umso mehr davon, je tiefer sie leben. Bei etwa 8.200 bis 8.400 Metern ist Schluss, dann wäre ihr Gewebe konzentrierter als das Meerwasser. Zerfällt dieser Stoff nach dem Fang, entsteht übrigens der typische Fischgeruch.",
+              "hook": "aufgewirbelter Schlick",
+              "children": [],
+              "source": {
+                "title": "Trimethylaminoxid – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Trimethylaminoxid"
+              }
+            },
+            {
+              "id": "2026-11-27-1-2-2",
+              "title": "Vom Weltall in den Graben",
+              "text": "So tief wie Piccard und Walsh kam 52 Jahre lang kein Mensch mehr. Erst im März 2012 tauchte der Filmregisseur James Cameron allein mit seinem Tauchboot Deepsea Challenger zum Grund des Challengertiefs. Ab 2019 fuhr der US-Investor Victor Vescovo mit dem Tauchboot Limiting Factor immer wieder hinab und nahm dabei Gäste mit. Im Juni 2020 war Kathryn Sullivan dabei, die 1984 als erste Amerikanerin im All ausgestiegen war. Damit war sie der erste Mensch, der im Weltraum und am tiefsten Punkt der Ozeane gewesen ist.",
+              "hook": "fast 11.000 Meter tief",
+              "children": [],
+              "source": {
+                "title": "Kathryn D. Sullivan – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kathryn_D._Sullivan"
+              }
+            }
+          ],
+          "source": {
+            "title": "Trieste – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Trieste"
+          }
+        }
+      ],
+      "source": {
+        "title": "Venera 7 – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Venera_7"
+      }
+    },
+    {
+      "id": "2026-11-27-2",
+      "category": "kultur",
+      "title": "Der Adventskranz",
+      "text": "Den Adventskranz erfand 1839 der evangelische Theologe Johann Hinrich Wichern im Rauhen Haus in Hamburg, einem Heim für arme Kinder. Der Überlieferung nach war sein Kranz ein hölzernes Wagenrad mit kleinen roten Kerzen für die Werktage und großen weißen für die Sonntage – belegt sind die Farben allerdings nicht. So konnten die Kinder die Tage bis Weihnachten abzählen. Tannengrün kam erst rund zwei Jahrzehnte später dazu. Die schlichte Form mit vier Kerzen setzte sich im 20. Jahrhundert durch und fand dann auch in katholischen Haushalten Platz.",
+      "children": [
+        {
+          "id": "2026-11-27-2-0",
+          "title": "Warum das Haus rauh hieß",
+          "text": "Mit rauen Sitten hat der Name des Rauhen Hauses nichts zu tun: Das Bauernhaus in Hamburg-Horn hieß der Überlieferung nach „Ruges Hus“, nach einer früheren Besitzerfamilie Ruge. Wichern gründete dort 1833 mit Mitte zwanzig ein Heim, in dem die Jungen nicht in Schlafsälen lebten, sondern in kleinen „Familien“ mit je einem Erzieher. Seine Stegreifrede auf dem Wittenberger Kirchentag 1848 gab den Anstoß zur „Inneren Mission“, aus der später die Diakonie hervorging.",
+          "hook": "Rauhen Haus in Hamburg",
+          "children": [
+            {
+              "id": "2026-11-27-2-0-0",
+              "title": "Ein Derby vor Wicherns Tür",
+              "text": "Im selben Stadtteil Horn, nicht weit vom Rauhen Haus, wird seit 1869 – von wenigen Kriegs- und Nachkriegsjahren abgesehen – das Deutsche Derby gelaufen, das bedeutendste Galopprennen des Landes für dreijährige Pferde. Sein Vorbild ist das Derby von Epsom, das der 12. Earl of Derby 1780 ins Leben rief. Der Legende nach entschied ein Münzwurf zwischen ihm und Sir Charles Bunbury, wessen Name das Rennen tragen sollte. Bunbury verlor den Wurf, gewann aber das Rennen: Sein Hengst Diomed siegte beim allerersten Derby.",
+              "hook": "Das Bauernhaus in Hamburg-Horn",
+              "children": [],
+              "source": {
+                "title": "Derby Stakes – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Derby_Stakes"
+              }
+            },
+            {
+              "id": "2026-11-27-2-0-1",
+              "title": "Thesen in Bronze",
+              "text": "Wichern hielt seine Rede in der Wittenberger Schlosskirche. An deren Tür soll Luther 1517 seine 95 Thesen angeschlagen haben. Die hölzerne Originaltür verbrannte 1760 im Siebenjährigen Krieg. Seit 1858 hängen dort Bronzetüren mit dem lateinischen Thesentext, gestiftet von König Friedrich Wilhelm IV. Ob Luther überhaupt zum Hammer griff, bezweifelte 1961 der katholische Historiker Erwin Iserloh. Bis heute ist das umstritten. Eine 2006 wiederentdeckte Notiz von Luthers Mitarbeiter Georg Rörer spricht für den Anschlag, entstand aber erst rund zwei Jahrzehnte später.",
+              "hook": "Wittenberger Kirchentag 1848",
+              "children": [],
+              "source": {
+                "title": "95 Thesen – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/95_Thesen"
+              }
+            },
+            {
+              "id": "2026-11-27-2-0-2",
+              "title": "Mütter statt Schlafsäle",
+              "text": "Gut hundert Jahre nach Wichern machte ein Österreicher die Idee weltbekannt, Heimkinder in kleinen Familiengruppen statt in Sälen großzuziehen. Hermann Gmeiner, ein Medizinstudent aus Vorarlberg und ehemaliger Wehrmachtssoldat, gründete 1949 in Imst in Tirol das erste SOS-Kinderdorf. In jedem Haus lebte eine „Kinderdorfmutter“ mit mehreren Kindern zusammen. Heute gibt es SOS-Kinderdörfer in weit über hundert Ländern. Gmeiner selbst blieb unverheiratet und liegt in Imst begraben.",
+              "hook": "mit je einem Erzieher",
+              "children": [],
+              "source": {
+                "title": "SOS-Kinderdorf – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/SOS-Kinderdorf"
+              }
+            }
+          ],
+          "source": {
+            "title": "Das Rauhe Haus – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Das_Rauhe_Haus"
+          }
+        },
+        {
+          "id": "2026-11-27-2-1",
+          "title": "Ein Rad aus dem Moor",
+          "text": "Wicherns hölzernes Wagenrad stand in einer Tradition, die damals schon über 5000 Jahre alt war. Das älteste bekannte Holzrad fand man 2002 im Laibacher Moor bei Ljubljana. Es ist eine Scheibe aus Eschenholz mit rund 70 Zentimetern Durchmesser und etwa 5100 bis 5300 Jahre alt. Die Achse aus Eiche drehte sich mit dem Rad mit. Speichenräder kamen erst um 2000 v. Chr. auf, vermutlich zuerst an Streitwagen in der eurasischen Steppe.",
+          "hook": "ein hölzernes Wagenrad",
+          "children": [
+            {
+              "id": "2026-11-27-2-1-0",
+              "title": "Ein Zeitgenosse im Eis",
+              "text": "Als das Rad im Laibacher Moor gebaut wurde, lebte rund 300 Kilometer weiter westlich ein Mann, den wir heute Ötzi nennen. Er starb um 3300 v. Chr. am Tisenjoch in den Ötztaler Alpen, ein Nürnberger Ehepaar fand seine Leiche 1991 im Gletschereis. Er trug ein Kupferbeil und 61 Tätowierungen am Körper. Dass er ermordet wurde, fiel erst zehn Jahre nach dem Fund auf: 2001 zeigte ein Röntgenbild eine Pfeilspitze in seiner linken Schulter.",
+              "hook": "etwa 5100 bis 5300 Jahre alt",
+              "children": [],
+              "source": {
+                "title": "Ötzi – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/%C3%96tzi"
+              }
+            },
+            {
+              "id": "2026-11-27-2-1-1",
+              "title": "Das Prinzip im ICE",
+              "text": "Eine Achse, die sich mit den Rädern mitdreht, ist kein Relikt aus der Steinzeit: Fast jeder Eisenbahnradsatz funktioniert bis heute so. Beide Räder sitzen fest auf einer starren Welle und drehen sich immer gleich schnell, obwohl das äußere Rad in der Kurve einen längeren Weg hat. Gelöst wird das durch leicht kegelförmige Laufflächen. In der Kurve verschiebt sich der Radsatz nach außen, das äußere Rad rollt dann auf einem größeren Umfang, das innere auf einem kleineren. Die Spurkränze sind dabei eher eine Sicherung für den Notfall.",
+              "hook": "Die Achse aus Eiche drehte sich",
+              "children": [],
+              "source": {
+                "title": "Radsatz – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Radsatz"
+              }
+            },
+            {
+              "id": "2026-11-27-2-1-2",
+              "title": "Die Stadt, die fast versank",
+              "text": "Die ältesten bekannten Streitwagen mit Speichenrädern stammen aus Gräbern der Sintaschta-Kultur im südlichen Ural, die um 2000 v. Chr. blühte. Zu dieser Kultur gehört Arkaim, eine kreisrunde, befestigte Siedlung, die Archäologen 1987 entdeckten. Das Tal sollte gerade für einen Stausee geflutet werden, nach Protesten wurde das Projekt aber gestoppt. Heute pilgern Esoteriker und Neuheiden dorthin. Sie halten Arkaim für die Urheimat der Arier oder für einen Ort kosmischer Energie, sehr zum Ärger vieler Fachleute.",
+              "hook": "an Streitwagen in der eurasischen Steppe",
+              "children": [],
+              "source": {
+                "title": "Arkaim – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Arkaim"
+              }
+            }
+          ],
+          "source": {
+            "title": "Ljubljana Marshes Wheel – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ljubljana_Marshes_Wheel"
+          }
+        },
+        {
+          "id": "2026-11-27-2-2",
+          "title": "Als Kerzen noch stanken",
+          "text": "So viele Kerzen auf einmal waren 1839 keine Selbstverständlichkeit. Bienenwachs war teuer und vor allem in Kirchen und reichen Häusern zu finden. Zu Hause brannte meist Talg aus Rinder- oder Hammelfett, der rußte und stank. Den Docht musste man ständig mit der Lichtputzschere kürzen. Den Weg zur besseren Kerze ebnete der französische Chemiker Michel-Eugène Chevreul: Er erforschte die Fette und ließ sich 1825 gemeinsam mit Gay-Lussac die Stearinkerze patentieren. Alltagstauglich wurde sie erst durch spätere Verbesserungen. Chevreul wurde übrigens 102 Jahre alt.",
+          "hook": "kleinen roten Kerzen für die Werktage",
+          "children": [
+            {
+              "id": "2026-11-27-2-2-0",
+              "title": "Des Reiches Bienengarten",
+              "text": "Das teure Bienenwachs kam lange nicht aus Bienenkästen, sondern aus hohlen Bäumen, die Zeidler im Wald pflegten. Im Nürnberger Reichswald, dem „Bienengarten des Heiligen Römischen Reiches“, bestätigte Karl IV. 1350 ihre Vorrechte samt eigenem Zeidelgericht in Feucht. Dafür dienten sie dem Kaiser als Armbrustschützen, und ihr Honig süßte die Nürnberger Lebkuchen. In Polen und Belarus gibt es die Baumbienenzucht bis heute. Seit 2020 steht sie auf der UNESCO-Liste des immateriellen Kulturerbes.",
+              "hook": "Bienenwachs war teuer",
+              "children": [],
+              "source": {
+                "title": "Zeidlerei – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Zeidlerei"
+              }
+            },
+            {
+              "id": "2026-11-27-2-2-1",
+              "title": "Die Pause der Lichtputzer",
+              "text": "Die Lichtputzschere brauchte man nicht nur zu Hause, sondern auch im Theater. Als Shakespeares Truppe um 1609 auch im überdachten Blackfriars-Theater in London spielte, beleuchteten Kerzen die Bühne, und ihre Dochte mussten regelmäßig gekürzt werden. Viele Theaterhistoriker vermuten, dass sich deshalb feste Unterbrechungen zwischen den Akten einbürgerten, die man mit Musik überbrückte. Die Pause, in der wir heute am Sekt nippen, geht also womöglich auf einen rußenden Docht zurück.",
+              "hook": "mit der Lichtputzschere kürzen",
+              "children": [],
+              "source": {
+                "title": "Indoor Theatres – Shakespeare's Globe",
+                "url": "https://www.shakespearesglobe.com/discover/shakespeares-world/indoor-theatres/"
+              }
+            },
+            {
+              "id": "2026-11-27-2-2-2",
+              "title": "Wie Wolle Seurat prägte",
+              "text": "Michel-Eugène Chevreul beschäftigte sich nicht nur mit Fetten. 1824 übernahm er die Leitung der Färberei in der Pariser Gobelin-Manufaktur. Dort beschwerte man sich, manche Wollfarben wirkten stumpf. Chevreul erkannte, dass nicht der Farbstoff schuld war, sondern die Nachbarfarben im Gewebe. Sein Buch über den „Simultankontrast“ von 1839 studierte später auch Georges Seurat. Chevreul erlebte noch, wie Seurat 1886 sein Punktgemälde „Ein Sonntagnachmittag auf der Insel La Grande Jatte“ ausstellte.",
+              "hook": "der französische Chemiker Michel-Eugène Chevreul",
+              "children": [],
+              "source": {
+                "title": "Simultankontrast – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Simultankontrast"
+              }
+            }
+          ],
+          "source": {
+            "title": "Entwicklung der Stearinkerze – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Entwicklung_der_Stearinkerze"
+          }
+        }
+      ],
+      "source": {
+        "title": "Adventskranz – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Adventskranz"
+      }
+    }
+  ]
+}

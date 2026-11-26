@@ -1,0 +1,448 @@
+{
+  "version": 1,
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T00:41:48.217Z",
+  "topics": [
+    {
+      "id": "2026-11-26-0",
+      "category": "natur",
+      "title": "Das Schnabeltier",
+      "text": "Das Schnabeltier aus Ostaustralien ist eines der wenigen Säugetiere, die Eier legen. Als Ende des 18. Jahrhunderts ein Balg nach England kam, hielten Forscher ihn zunächst für eine Fälschung; der Zoologe George Shaw soll nach Nähten gesucht haben. Unter Wasser schließt es Augen und Ohren und spürt Beute über Elektrorezeptoren im Schnabel auf. Männchen tragen zudem einen Giftsporn an den Hinterbeinen, dessen Gift Menschen wochenlang starke Schmerzen bereiten kann.",
+      "children": [
+        {
+          "id": "2026-11-26-0-0",
+          "title": "Barnums Meerjungfrau",
+          "text": "Der Fälschungsverdacht kam nicht von ungefähr: Aus Ostasien gelangten damals zusammengenähte Fabelwesen nach Europa. Viele dieser „Meerjungfrauen“ entstanden in Japan, wo man Affenoberkörper geschickt an Fischschwänze nähte. Die berühmteste, die „Feejee Mermaid“, stellte P. T. Barnum 1842 in seinem American Museum in New York aus. Das Original gilt als verschollen. Ob ein Exemplar im Peabody Museum der Harvard University dasselbe Stück ist, ist umstritten.",
+          "hook": "für eine Fälschung",
+          "children": [
+            {
+              "id": "2026-11-26-0-0-0",
+              "title": "Belugas im Museumskeller",
+              "text": "Barnums American Museum in New York war eher Zoo und Jahrmarkt als Museum: Ab 1861 zeigte er dort Belugawale aus dem Sankt-Lorenz-Strom in Wassertanks. Das gehörte zu den ersten Versuchen, Wale in Gefangenschaft vorzuführen, und die Tiere überlebten meist nur kurz. Im Juli 1865 brannte das Gebäude am Broadway nieder, auch Belugas sollen dabei umgekommen sein. Barnum war damals Mitte fünfzig. Seinen berühmten Zirkus gründete er erst danach, 1871.",
+              "hook": "American Museum in New York",
+              "children": [],
+              "source": {
+                "title": "Barnum’s American Museum – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Barnum%E2%80%99s_American_Museum"
+              }
+            },
+            {
+              "id": "2026-11-26-0-0-1",
+              "title": "Die Mumie ohne Affe",
+              "text": "Ob in japanischen Meerjungfrauen wirklich Affen stecken, untersuchten Forscher aus Kurashiki ab 2022 an einer Mumie aus dem Tempel Enjuin in Okayama. CT-Aufnahmen zeigten Stoff, Papier und Baumwolle, überzogen mit Fischhaut und Schuppen. Säugetierknochen fanden sie keine, das Stück stammt wohl aus dem 19. Jahrhundert. Verehrt wurde es trotzdem: Nach einer japanischen Legende verlängert Meerjungfrauenfleisch das Leben. Die Nonne Yao Bikuni soll dadurch 800 Jahre alt geworden sein.",
+              "hook": "Affenoberkörper geschickt an Fischschwänze nähte",
+              "children": [],
+              "source": {
+                "title": "Haunting 'mermaid' mummy discovered in Japan is even weirder than scientists expected – Live Science",
+                "url": "https://www.livescience.com/haunting-mermaid-mummy-discovered-in-japan-is-even-weirder-than-scientists-expected"
+              }
+            },
+            {
+              "id": "2026-11-26-0-0-2",
+              "title": "Der Bankier im Kriegsschiff",
+              "text": "Das Peabody Museum in Harvard ist nach George Peabody benannt. Der Kaufmann aus Massachusetts war in London als Bankier reich geworden und gründete das Museum 1866 mit einer Spende. Im selben Jahr stiftete er auf Anregung seines Neffen, des Paläontologen Othniel Marsh, auch das Peabody Museum in Yale. In London ließ er Wohnhäuser für Arme bauen. Nach seinem Tod 1869 wurde er vorübergehend in der Westminster Abbey beigesetzt und dann auf dem britischen Kriegsschiff HMS Monarch in seine Heimat gebracht.",
+              "hook": "Peabody Museum der Harvard University",
+              "children": [],
+              "source": {
+                "title": "George Peabody – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/George_Peabody"
+              }
+            }
+          ],
+          "source": {
+            "title": "Fiji mermaid – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fiji_mermaid"
+          }
+        },
+        {
+          "id": "2026-11-26-0-1",
+          "title": "Der sechste Sinn der Haie",
+          "text": "Den elektrischen Sinn des Schnabeltiers besitzen auch Haie und Rochen, sie haben dafür ein eigenes Organ: die Lorenzinischen Ampullen. Der italienische Arzt Stefano Lorenzini beschrieb die gelgefüllten Poren an der Schnauze schon 1678. Wozu sie dienen, fand man aber erst um 1960 heraus. In einem berühmten Versuch zeigte Adrianus Kalmijn 1971, dass Haie eine im Sand vergrabene Scholle allein über die schwachen elektrischen Felder ihres Körpers aufspüren.",
+          "hook": "Elektrorezeptoren im Schnabel",
+          "children": [
+            {
+              "id": "2026-11-26-0-1-0",
+              "title": "Der Fisch, der Volta inspirierte",
+              "text": "Stefano Lorenzini stieß auf die Ampullen, als er ein anderes elektrisches Rätsel untersuchte: Sein Buch von 1678 handelte vom Zitterrochen. Dieser Fisch betäubt seine Beute mit Stromschlägen, bei manchen Arten mit rund 200 Volt. Schon der römische Arzt Scribonius Largus empfahl im 1. Jahrhundert, bei Kopfschmerzen einen lebenden Zitterrochen auf den Kopf zu legen. Als Alessandro Volta im Jahr 1800 die erste Batterie vorstellte, nannte er sie ein künstliches elektrisches Organ, nach dem Vorbild des Rochens.",
+              "hook": "Der italienische Arzt Stefano Lorenzini",
+              "children": [],
+              "source": {
+                "title": "Zitterrochen – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Zitterrochen"
+              }
+            },
+            {
+              "id": "2026-11-26-0-1-1",
+              "title": "Das wandernde Auge",
+              "text": "Dass sich die Scholle flach im Sand verstecken kann, verdankt sie einer der seltsamsten Verwandlungen im Tierreich. Ihre Larven schwimmen aufrecht und haben auf jeder Kopfseite ein Auge. Später wandert ein Auge über den Schädel auf die andere Seite. Der Darwin-Kritiker St. George Mivart hielt das 1871 für evolutionär unerklärlich, weil ein halb gewandertes Auge nutzlos sei. 2008 beschrieb der Paläontologe Matt Friedman rund 50 Millionen Jahre alte Fossilien, bei denen das Auge genau auf halbem Weg stehen geblieben war.",
+              "hook": "eine im Sand vergrabene Scholle",
+              "children": [],
+              "source": {
+                "title": "Plattfische – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Plattfische"
+              }
+            },
+            {
+              "id": "2026-11-26-0-1-2",
+              "title": "Haigallerte unter Strom",
+              "text": "Das Gel in den Lorenzinischen Ampullen dient nicht nur als Füllmaterial. Ein Team um Marco Rolandi an der University of Washington stellte 2016 fest, dass es Protonen besser leitet als jedes andere bis dahin bekannte biologische Material. Als Ursache vermuten die Forscher ein zuckerreiches Molekül namens Keratansulfat. Die Haigallerte leitet damit nur etwa 40-mal schlechter als Nafion, ein Hightech-Kunststoff, den man für die Membranen von Brennstoffzellen verwendet.",
+              "hook": "gelgefüllten Poren an der Schnauze",
+              "children": [],
+              "source": {
+                "title": "Proton-conducting material found in jelly that fills organs of sharks, skates and rays – UW News",
+                "url": "https://www.washington.edu/news/2016/05/13/proton-conducting-material-found-in-jelly-that-fills-organs-of-sharks-skates-and-rays/"
+              }
+            }
+          ],
+          "source": {
+            "title": "Lorenzinische Ampullen – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Lorenzinische_Ampullen"
+          }
+        },
+        {
+          "id": "2026-11-26-0-2",
+          "title": "Der giftige Halbaffe",
+          "text": "Giftige Säugetiere sind so selten wie der Giftsporn des Schnabeltiers. Zu ihnen gehören einige Spitzmäuse, die karibischen Schlitzrüssler und als einzige Primaten die Plumploris aus Süd- und Südostasien. Sie haben an den Oberarmen Drüsen, deren Sekret sie ablecken und mit Speichel vermischen. Ein Bestandteil davon ähnelt dem Hauptallergen der Hauskatze. Virale Videos von „gekitzelten“ Loris zeigen in Wahrheit eine Abwehrhaltung: Die Tiere heben die Arme, um an ihr Gift zu kommen.",
+          "hook": "Giftsporn an den Hinterbeinen",
+          "children": [
+            {
+              "id": "2026-11-26-0-2-0",
+              "title": "Überlebende von Chicxulub",
+              "text": "Die karibischen Schlitzrüssler leiten ihr Gift über eine Rinne in den unteren Schneidezähnen in die Wunde. Daher kommt der Name Solenodon, griechisch etwa „Kanalzahn“. Es gibt nur zwei Arten, eine auf Hispaniola und eine auf Kuba. Die kubanische galt mehrfach als ausgestorben, bis 2003 wieder ein Tier gefangen wurde. Laut einigen Erbgutanalysen trennte sich ihre Linie vor über 70 Millionen Jahren von anderen Insektenfressern. Dann gab es sie wohl schon, als in Mexiko der Asteroid einschlug, der die Dinosaurier auslöschte.",
+              "hook": "die karibischen Schlitzrüssler",
+              "children": [],
+              "source": {
+                "title": "Schlitzrüssler – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Schlitzr%C3%BCssler"
+              }
+            },
+            {
+              "id": "2026-11-26-0-2-1",
+              "title": "Allergiehilfe im Napf",
+              "text": "Das Hauptallergen der Hauskatze heißt Fel d 1. Es stammt nicht aus den Haaren selbst, sondern vor allem aus Speichel und Hautdrüsen, und beim Putzen verteilt die Katze es auf ihrem Fell. Welche Aufgabe das Eiweiß für die Katze hat, ist bis heute nicht sicher geklärt. Unkastrierte Kater bilden meist deutlich mehr davon. Seit 2020 gibt es Katzenfutter mit Antikörpern aus Hühnereiern, die Fel d 1 schon im Maul der Katze binden. In Studien des Herstellers sank das aktive Allergen im Fell im Schnitt um etwa die Hälfte.",
+              "hook": "dem Hauptallergen der Hauskatze",
+              "children": [],
+              "source": {
+                "title": "Katzenallergie – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Katzenallergie"
+              }
+            },
+            {
+              "id": "2026-11-26-0-2-2",
+              "title": "Krebsforschung mit Spitzmaus",
+              "text": "Unter den giftigen Spitzmäusen ist die Nordamerikanische Kurzschwanzspitzmaus am besten erforscht. Ihr giftiger Speichel lähmt Beutetiere, die sie dann lebend als Vorrat anlegt. Der kanadische Biochemiker John Allen fand im Speichel ein Peptid und nannte es Soricidin. Es hemmt einen Kalziumkanal, den manche Krebszellen in großer Zahl tragen. Ein davon abgeleiteter Wirkstoff namens SOR-C13 wurde bereits in einer ersten klinischen Studie an Krebspatienten getestet. Er stammt von einem Tier, das nur rund 20 Gramm wiegt.",
+              "hook": "einige Spitzmäuse",
+              "children": [],
+              "source": {
+                "title": "Nördliche Kurzschwanzspitzmaus – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/N%C3%B6rdliche_Kurzschwanzspitzmaus"
+              }
+            }
+          ],
+          "source": {
+            "title": "Plumploris – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Plumploris"
+          }
+        }
+      ],
+      "source": {
+        "title": "Schnabeltier – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Schnabeltier"
+      }
+    },
+    {
+      "id": "2026-11-26-1",
+      "category": "geschichte",
+      "title": "Ötzi",
+      "text": "Ötzi ist eine rund 5300 Jahre alte Gletschermumie, die ein Nürnberger Ehepaar 1991 am Tisenjoch in den Ötztaler Alpen entdeckte. Zunächst hielt man ihn für einen verunglückten Bergsteiger, doch Ausrüstung und Radiokarbondaten verrieten seine Herkunft aus der Kupferzeit. Erst 2001 entdeckte man auf einem Röntgenbild eine Pfeilspitze in seiner linken Schulter – er wurde offenbar getötet. Auf seiner Haut finden sich zudem 61 Tätowierungen aus Ruß, vor allem Linien über Gelenken.",
+      "children": [
+        {
+          "id": "2026-11-26-1-0",
+          "title": "Die Uhr im Kohlenstoff",
+          "text": "Die Radiokarbondaten, die Ötzi in die Kupferzeit rückten, beruhen auf einer Methode, die der Chemiker Willard Libby Ende der 1940er-Jahre in Chicago entwickelte. Lebewesen nehmen radioaktiven Kohlenstoff-14 auf, nach ihrem Tod zerfällt er mit einer Halbwertszeit von rund 5730 Jahren. Libby erhielt dafür 1960 den Chemie-Nobelpreis. Die oberirdischen Atomtests verdoppelten um 1963 fast den C-14-Gehalt der Luft, und dieser „Bombenpeak“ hilft heute, das Alter von Zellen oder Elfenbein zu bestimmen.",
+          "hook": "Ausrüstung und Radiokarbondaten",
+          "children": [
+            {
+              "id": "2026-11-26-1-0-0",
+              "title": "Reaktor unter der Tribüne",
+              "text": "An Libbys Universität in Chicago war wenige Jahre zuvor schon Atomgeschichte geschrieben worden. Unter der Tribüne des stillgelegten Footballstadions Stagg Field schichtete Enrico Fermis Team Graphitblöcke und Uran zu einem Meiler auf. Am 2. Dezember 1942 lief dort die erste kontrollierte, sich selbst erhaltende Kettenreaktion. Gebremst wurde sie mit Cadmiumstäben, und für den Notfall stand ein Trupp mit Eimern voller Cadmiumlösung bereit. Heute steht an der Stelle eine Bronze von Henry Moore, enthüllt genau 25 Jahre später.",
+              "hook": "Ende der 1940er-Jahre in Chicago",
+              "children": [],
+              "source": {
+                "title": "Chicago Pile-1 – Atomic Heritage Foundation / National Museum of Nuclear Science & History",
+                "url": "https://ahf.nuclearmuseum.org/ahf/history/chicago-pile-1/"
+              }
+            },
+            {
+              "id": "2026-11-26-1-0-1",
+              "title": "Als die Gegenwart 1950 war",
+              "text": "Libby selbst rechnete noch mit einer Halbwertszeit von 5568 Jahren. Weil Tausende Messungen darauf beruhten, halten die Labore bis heute an diesem „Libby-Wert“ als Konvention fest, obwohl der genauere Wert bei rund 5730 Jahren liegt. Auch die Gegenwart ist eingefroren: Radiokarbonalter werden in „BP“ angegeben, also „before present“, und diese Gegenwart ist per Definition das Jahr 1950. Für die Kohlenstoff-Uhr bleibt 1950 damit für immer das Jahr null.",
+              "hook": "Halbwertszeit von rund 5730 Jahren",
+              "children": [],
+              "source": {
+                "title": "Radiocarbon-Jahr – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Radiocarbon-Jahr"
+              }
+            },
+            {
+              "id": "2026-11-26-1-0-2",
+              "title": "Methusalem im Nordatlantik",
+              "text": "Das Signal der Atomtests steckt sogar in den Augen von Grönlandhaien. Ein Team um Julius Nielsen datierte 2016 den Kern ihrer Augenlinsen, der sich schon vor der Geburt bildet und danach nicht mehr erneuert wird. Die kleinsten Tiere trugen den Bombenpeak in sich, und an ihnen ließ sich das Alter der großen eichen. Das größte Weibchen kam auf geschätzte 392 Jahre, plus oder minus 120. Damit gilt der Grönlandhai als das langlebigste bekannte Wirbeltier. Geschlechtsreif wird er wohl erst mit etwa 150 Jahren.",
+              "hook": "Die oberirdischen Atomtests verdoppelten",
+              "children": [],
+              "source": {
+                "title": "Grönlandhai – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gr%C3%B6nlandhai"
+              }
+            }
+          ],
+          "source": {
+            "title": "Radiokarbonmethode – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Radiokarbonmethode"
+          }
+        },
+        {
+          "id": "2026-11-26-1-1",
+          "title": "Vom Tatau zum Tattoo",
+          "text": "Ötzis 61 Tätowierungen gelten als die ältesten bekannten, doch das Wort dafür kam erst Jahrtausende später nach Europa. Es stammt vom tahitianischen „tatau“, das die Expedition von James Cook 1769 notierte. Joseph Banks, Botaniker an Bord der Endeavour, beschrieb, wie Tahitianer Ruß mit kammartigen Knochenwerkzeugen unter die Haut schlugen. Bald ließen sich auch britische Seeleute tätowieren, und das Tattoo wurde zum Erkennungszeichen der Matrosen.",
+          "hook": "61 Tätowierungen aus Ruß",
+          "children": [
+            {
+              "id": "2026-11-26-1-1-0",
+              "title": "Ein Punkt vor der Sonne",
+              "text": "Cook segelte 1769 aus einem astronomischen Grund nach Tahiti: Am 3. Juni zog die Venus als kleiner schwarzer Punkt vor der Sonne vorbei. Aus Messungen dieses Venustransits, die man an weit voneinander entfernten Orten der Welt machte, wollte man den Abstand zwischen Erde und Sonne berechnen. Cooks Beobachtungsplatz heißt bis heute Point Venus. Wer selbst einen Venustransit sehen will, braucht Geduld: Der nächste findet erst im Dezember 2117 statt.",
+              "hook": "Expedition von James Cook 1769",
+              "children": [],
+              "source": {
+                "title": "Venustransit – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Venustransit"
+              }
+            },
+            {
+              "id": "2026-11-26-1-1-1",
+              "title": "Meuterei für die Brotfrucht",
+              "text": "Joseph Banks wurde nach der Reise zum einflussreichsten Botaniker Englands. Er setzte sich dafür ein, tahitianische Brotfrucht als billige Nahrung für Versklavte auf die Plantagen der Karibik zu bringen. Dafür brach 1787 die Bounty unter William Bligh auf, doch 1789 meuterte die Mannschaft. Bligh trieb mit 18 Getreuen im offenen Boot rund 6700 Kilometer weit bis Timor und brachte die Bäume auf einer zweiten Fahrt doch noch nach Jamaika. Heute gehört die anfangs verschmähte Frucht dort zum Alltagsessen.",
+              "hook": "Joseph Banks, Botaniker an Bord der Endeavour",
+              "children": [],
+              "source": {
+                "title": "Meuterei auf der Bounty – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Meuterei_auf_der_Bounty"
+              }
+            },
+            {
+              "id": "2026-11-26-1-1-2",
+              "title": "Edisons Stift unter der Haut",
+              "text": "Auch im Westen stach man Tätowierungen bis ins späte 19. Jahrhundert von Hand, ähnlich wie mit den Werkzeugen aus Tahiti. Dann ließ sich der New Yorker Tätowierer Samuel O’Reilly 1891 die erste elektrische Tätowiermaschine patentieren. Als Vorbild diente ihm ein Gerät von Thomas Edison: der elektrische Stift von 1876. Er stach Löcher in Papier, damit man Dokumente mit diesen Schablonen vervielfältigen konnte. Aus einem Bürogerät, das sich nie richtig durchsetzte, wurde so das Werkzeug einer ganzen Branche.",
+              "hook": "kammartigen Knochenwerkzeugen",
+              "children": [],
+              "source": {
+                "title": "Samuel O’Reilly – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Samuel_O%E2%80%99Reilly"
+              }
+            }
+          ],
+          "source": {
+            "title": "Tätowierung – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/T%C3%A4towierung"
+          }
+        },
+        {
+          "id": "2026-11-26-1-2",
+          "title": "Die Grenze, die schmilzt",
+          "text": "Am Tisenjoch verläuft die Grenze zwischen Österreich und Italien, und erst eine Vermessung zeigte, dass Ötzi rund 90 Meter auf italienischem Gebiet gelegen hatte. Deshalb ruht er heute im Archäologiemuseum in Bozen statt in Innsbruck. Die Grenze folgt seit dem Vertrag von Saint-Germain 1919 der Wasserscheide, und die verschiebt sich, wenn Gletscher schmelzen. Italien hat daher mit Österreich und der Schweiz eine „bewegliche Grenze“ vereinbart, die regelmäßig neu vermessen wird.",
+          "hook": "am Tisenjoch",
+          "children": [
+            {
+              "id": "2026-11-26-1-2-0",
+              "title": "Die Donau, die verschwindet",
+              "text": "Die Wasserscheide trennt nicht immer sauber: Auf der Schwäbischen Alb zapft der Rhein heimlich die Donau an. Zwischen Immendingen und Fridingen versickert die junge Donau an vielen Tagen im Jahr vollständig im zerklüfteten Kalkstein. Das Wasser taucht rund zwölf Kilometer südlich im Aachtopf wieder auf, Deutschlands wasserreichster Quelle, und fließt über den Bodensee in den Rhein. Ein Färbeversuch bewies 1877 den unterirdischen Weg: Ein Teil des Donauwassers erreicht statt des Schwarzen Meeres die Nordsee.",
+              "hook": "der Wasserscheide",
+              "children": [],
+              "source": {
+                "title": "Donauversinkung – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Donauversinkung"
+              }
+            },
+            {
+              "id": "2026-11-26-1-2-1",
+              "title": "Österreich ohne Wunschnamen",
+              "text": "Der Vertrag von Saint-Germain zog 1919 nicht nur die Grenze am Brenner, er nahm Österreich auch seinen Wunschnamen. Die Nationalversammlung hatte 1918 die „Republik Deutschösterreich“ ausgerufen und sie zum Bestandteil der Deutschen Republik erklärt. Die Siegermächte verboten diesen Anschluss und verlangten den Namen „Republik Österreich“, der im Oktober 1919 offiziell wurde. Der berühmte Satz „Der Rest ist Österreich“ wird oft Georges Clemenceau zugeschrieben, sicher belegt ist er allerdings nicht.",
+              "hook": "Vertrag von Saint-Germain 1919",
+              "children": [],
+              "source": {
+                "title": "Deutschösterreich – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Deutsch%C3%B6sterreich"
+              }
+            },
+            {
+              "id": "2026-11-26-1-2-2",
+              "title": "Die Hütte, die auswanderte",
+              "text": "Wie beweglich eine solche Grenze ist, zeigt eine Hütte unterhalb des Matterhorns: das Rifugio Guide del Cervino auf der Testa Grigia in rund 3480 Metern Höhe. Als sie in den 1980er-Jahren gebaut wurde, stand sie ganz auf italienischem Boden. Weil der Theodulgletscher schrumpfte, wanderte die Wasserscheide, bis etwa zwei Drittel des Gebäudes in der Schweiz lagen. Nach jahrelangen Verhandlungen handelten Rom und Bern Ende 2021 einen Kompromiss aus, 2023 folgte die Einigung auf das Abkommen: Wo einst das Eis die Grenze zog, legen sie nun Diplomaten um eine Berghütte.",
+              "hook": "eine „bewegliche Grenze“ vereinbart",
+              "children": [],
+              "source": {
+                "title": "Anpassungen der Grenze wegen Gletscherschmelze und Renaturierungen – swissinfo.ch",
+                "url": "https://www.swissinfo.ch/ger/anpassungen-der-grenze-wegen-gletscherschmelze-und-renaturierungen/87629546"
+              }
+            }
+          ],
+          "source": {
+            "title": "Grenze zwischen Italien und Österreich – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Grenze_zwischen_Italien_und_%C3%96sterreich"
+          }
+        }
+      ],
+      "source": {
+        "title": "Ötzi – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/%C3%96tzi"
+      }
+    },
+    {
+      "id": "2026-11-26-2",
+      "category": "wissenschaft",
+      "title": "Der Kugelblitz",
+      "text": "Kugelblitze sind leuchtende Kugeln, die bei Gewittern auftauchen, sekundenlang schweben und dann verlöschen. Ihre Existenz war lange umstritten, bis chinesische Forscher 2012 in Qinghai zufällig das Spektrum eines Kugelblitzes aufzeichneten. Es enthielt Silizium, Eisen und Calcium aus dem Boden, was zur Theorie verdampfter Bodenmineralien passt. Der Physiker Georg Wilhelm Richmann starb 1753 in Sankt Petersburg bei einem Blitzexperiment, Berichten zufolge durch einen Feuerball.",
+      "children": [
+        {
+          "id": "2026-11-26-2-0",
+          "title": "Russlands Universalgenie",
+          "text": "Richmanns engster Kollege in Sankt Petersburg war Michail Lomonossow. Er erforschte gemeinsam mit ihm die Gewitterelektrizität und beschrieb den tödlichen Unfall in einem Brief. Der Sohn eines Pomoren-Fischers aus der Gegend von Cholmogory im hohen Norden war Chemiker, Dichter und Mosaikkünstler zugleich. 1755 gründete er mit Iwan Schuwalow die Moskauer Universität, die heute seinen Namen trägt. Beim Venustransit von 1761 schloss er als einer der Ersten, dass die Venus eine Atmosphäre hat.",
+          "hook": "Georg Wilhelm Richmann starb 1753",
+          "children": [
+            {
+              "id": "2026-11-26-2-0-0",
+              "title": "Die Sprache der Pomoren",
+              "text": "Die Pomoren von der Küste des Weißen Meeres segelten jeden Sommer nach Nordnorwegen, um Getreide gegen Fisch zu tauschen. Aus diesem Handel entstand im 18. und 19. Jahrhundert eine eigene Behelfssprache: Russenorsk, mit nur wenigen hundert Wörtern aus dem Russischen und Norwegischen. „Moja“ bedeutete ich, „tvoja“ du, abgeleitet von den russischen Wörtern für mein und dein. Nach der Revolution von 1917 brach der Handel ab. Damit verstummte eine der seltenen Pidginsprachen, die zwischen gleichrangigen Partnern entstanden waren und nicht unter einer Kolonialherrschaft.",
+              "hook": "Sohn eines Pomoren-Fischers",
+              "children": [],
+              "source": {
+                "title": "Russenorsk – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Russenorsk"
+              }
+            },
+            {
+              "id": "2026-11-26-2-0-1",
+              "title": "Ein Mosaik auf Wartestellung",
+              "text": "Als Mosaikkünstler musste Lomonossow sein Material erst selbst erfinden: In Tausenden Schmelzversuchen entwickelte er farbige Glasflüsse, sogenannte Smalten, und ließ sie in den 1750er Jahren in einer eigenen Fabrik in Ust-Ruditsa herstellen. Sein Hauptwerk zeigt die Schlacht bei Poltawa, misst rund 4,8 mal 6,4 Meter und war für ein Grabmal Peters des Großen gedacht. Nach Lomonossows Tod 1765 gab man das Projekt auf. Das Mosaik lagerte anderthalb Jahrhunderte, bis es 1925 ins Treppenhaus der Akademie der Wissenschaften kam, wo es noch heute hängt.",
+              "hook": "Dichter und Mosaikkünstler zugleich",
+              "children": [],
+              "source": {
+                "title": "Istoriju sosdanija i wosroschdenija mosaiki Michaila Lomonossowa „Poltawskaja batalija“ – St. Petersburger Abteilung der Russischen Akademie der Wissenschaften",
+                "url": "https://spbran.ru/news/pdf/istoriyu-sozdaniya-i-vozrozhdeniya-mozaiki-mihaila-lomonosova-poltavskaya-bataliya-obsudili-v-sankt-peterburgskom-otdelenii-rossiyskoy-akademii-nauk"
+              }
+            },
+            {
+              "id": "2026-11-26-2-0-2",
+              "title": "Elf Jahre für die Venus",
+              "text": "Den Venustransit von 1761 wollte auch der Franzose Guillaume Le Gentil beobachten, und zwar im indischen Pondichéry. Wegen des Siebenjährigen Kriegs konnte sein Schiff nicht anlegen, und er sah den Transit vom schwankenden Deck aus, ohne brauchbare Messung. Also blieb er, um den nächsten Durchgang 1769 abzuwarten. Doch genau an diesem Tag verdeckten Wolken die Sonne. Als er nach über elf Jahren nach Frankreich zurückkehrte, hatte man ihn für tot erklärt, seinen Sitz an der Akademie neu vergeben und sein Erbe bereits verteilt.",
+              "hook": "Beim Venustransit von 1761",
+              "children": [],
+              "source": {
+                "title": "Guillaume Le Gentil – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Guillaume_Le_Gentil"
+              }
+            }
+          ],
+          "source": {
+            "title": "Michail Wassiljewitsch Lomonossow – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Michail_Wassiljewitsch_Lomonossow"
+          }
+        },
+        {
+          "id": "2026-11-26-2-1",
+          "title": "Fingerabdrücke im Licht",
+          "text": "Dass ein Lichtspektrum verrät, woraus eine Lichtquelle besteht, zeigten Robert Bunsen und Gustav Kirchhoff um 1860 in Heidelberg. Weil jedes Element eigene Linien erzeugt, entdeckten die beiden im Dürkheimer Mineralwasser ein unbekanntes Metall. Sie nannten es nach seinen himmelblauen Linien Caesium. Noch seltsamer verlief die Geschichte des Heliums: Es tauchte 1868 als rätselhafte gelbe Linie im Sonnenspektrum auf, und erst 1895 wies William Ramsay das Gas auch auf der Erde nach.",
+          "hook": "das Spektrum eines Kugelblitzes aufzeichneten",
+          "children": [
+            {
+              "id": "2026-11-26-2-1-0",
+              "title": "Die Sekunde aus Caesium",
+              "text": "Das Metall mit den himmelblauen Linien legt heute fest, wie lang eine Sekunde dauert. Seit 1967 ist sie offiziell definiert als die Dauer von 9.192.631.770 Schwingungen einer Strahlung, die Atome des Isotops Caesium-133 aussenden. Auf solchen Atomuhren beruht unter anderem die Satellitennavigation. Doch die Caesium-Sekunde dürfte bald ausgedient haben: Optische Uhren, etwa mit Strontium, sind so genau, dass sie einen Unterschied anzeigen, wenn man sie nur wenige Zentimeter anhebt. Eine neue Definition wird vorbereitet, angepeilt ist etwa das Jahr 2030.",
+              "hook": "nach seinen himmelblauen Linien Caesium",
+              "children": [],
+              "source": {
+                "title": "Roadmap towards the redefinition of the second (arXiv)",
+                "url": "https://arxiv.org/pdf/2307.14141"
+              }
+            },
+            {
+              "id": "2026-11-26-2-1-1",
+              "title": "Ein Fass ohne Wein",
+              "text": "Das Wasser, aus dem Bunsen und Kirchhoff das Caesium gewannen, stammte aus Bad Dürkheim, einer Weinstadt in der Pfalz. Dort steht das Dürkheimer Riesenfass, das der Böttchermeister Fritz Keller 1934 baute. Mit rund 1,7 Millionen Litern Fassungsvermögen gilt es als das größte Fass der Welt. Wein war allerdings nie darin: Im Inneren ist ein Restaurant eingerichtet. Gleich daneben findet jedes Jahr der Dürkheimer Wurstmarkt statt, der trotz seines Namens vor allem ein Weinfest ist und zu den größten der Welt zählt.",
+              "hook": "im Dürkheimer Mineralwasser",
+              "children": [],
+              "source": {
+                "title": "Dürkheimer Riesenfass – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/D%C3%BCrkheimer_Riesenfass"
+              }
+            },
+            {
+              "id": "2026-11-26-2-1-2",
+              "title": "Das Gas, das nicht brannte",
+              "text": "Nach Ramsays Fund galt irdisches Helium zunächst als Rarität, bis 1903 in Dexter, Kansas, eine Bohrung auf eine Gasquelle stieß. Berichten zufolge sollte das Gas bei einer Feier entzündet werden, doch es erstickte die Flamme. Chemiker der University of Kansas fanden 1905 darin fast zwei Prozent Helium, und seitdem ist Erdgas die wichtigste Heliumquelle. Entstanden ist das Helium beim Zerfall von Uran und Thorium im Gestein. In jedem Partyballon steckt also Gas, das sich über Jahrmillionen angesammelt hat. Ist es einmal frei, entweicht es ins All.",
+              "hook": "das Gas auch auf der Erde nach",
+              "children": [],
+              "source": {
+                "title": "Gas Well in Dexter – Kansapedia, Kansas Historical Society",
+                "url": "https://www.kansashistory.gov/kansapedia/gas-well-in-dexter/12065"
+              }
+            }
+          ],
+          "source": {
+            "title": "Robert Bunsen and Gustav Kirchhoff – Science History Institute",
+            "url": "https://www.sciencehistory.org/education/scientific-biographies/robert-bunsen-and-gustav-kirchhoff/"
+          }
+        },
+        {
+          "id": "2026-11-26-2-2",
+          "title": "Glas aus dem Blitz",
+          "text": "Blitze verändern Bodenmineralien nicht nur in Kugelblitzen: Schlagen sie in Sand ein, schmilzt der Quarz bei über 1700 Grad. Er erstarrt zu hohlen Glasröhren, die man Fulgurite oder Blitzröhren nennt. Charles Darwin fand solche Röhren 1833 auf der Beagle-Reise in den Dünen bei Maldonado in Uruguay. Ihr Glas heißt Lechatelierit und ist nahezu reines Kieselglas. 2021 fanden Forscher in einem Fulguriten aus Illinois das Phosphormineral Schreibersit, das für die Entstehung des Lebens wichtig gewesen sein könnte.",
+          "hook": "zur Theorie verdampfter Bodenmineralien",
+          "children": [
+            {
+              "id": "2026-11-26-2-2-0",
+              "title": "Glas aus der Atombombe",
+              "text": "Nicht nur Blitze schmelzen Sand: Bei der ersten Atombombenzündung am 16. Juli 1945 in New Mexico wurde der Quarzsand rund um den Testturm zu grünlichem Glas. Man nannte es Trinitit, nach dem Codenamen „Trinity“. In seltenen roten Stücken, die Kupfer aus geschmolzenen Kabeln enthalten, fand ein Team um Luca Bindi 2021 einen Quasikristall. Diese Atomordnung galt als unmöglich, bis Dan Shechtman sie 1982 entdeckte. Im Trinitit steckt der älteste bekannte Quasikristall, den Menschen erzeugt haben.",
+              "hook": "schmilzt der Quarz bei über 1700 Grad",
+              "children": [],
+              "source": {
+                "title": "Trinitit – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Trinitit"
+              }
+            },
+            {
+              "id": "2026-11-26-2-2-1",
+              "title": "Der Kapitän und das Wetter",
+              "text": "Robert FitzRoy, der Kapitän der Beagle-Reise, wurde später zum Pionier der Wettervorhersage. 1854 übernahm er das neue meteorologische Amt des britischen Handelsministeriums, den Vorläufer des Met Office, und prägte dafür das Wort „forecast“. Ab 1861 druckte die Times seine Vorhersagen, und wenn sie danebenlagen, wurde er öffentlich verspottet. 2002 bekam er späte Genugtuung: Im britischen Seewetterbericht wurde das Seegebiet Finisterre in „FitzRoy“ umbenannt.",
+              "hook": "auf der Beagle-Reise",
+              "children": [],
+              "source": {
+                "title": "Robert FitzRoy – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Robert_FitzRoy"
+              }
+            },
+            {
+              "id": "2026-11-26-2-2-2",
+              "title": "Ein Muster aus dem All",
+              "text": "Schreibersit steckt vor allem in Eisenmeteoriten und ist nach dem Wiener Naturforscher Carl von Schreibers benannt. In Wien erhitzte Alois von Beckh-Widmanstätten 1808 eine Meteoritenscheibe und bemerkte ein Gitter aus Nickeleisen-Lamellen, die Widmanstätten-Strukturen. William Thomson hatte sie schon 1804 beschrieben. Sie entstehen nur, wenn Eisen im Kern eines Asteroiden über Millionen Jahre extrem langsam abkühlt. Im Labor ist das nicht nachzumachen, daher gilt ein geätzter Schnitt fast als Echtheitszertifikat.",
+              "hook": "das Phosphormineral Schreibersit",
+              "children": [],
+              "source": {
+                "title": "Widmanstätten-Struktur – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Widmanst%C3%A4tten-Struktur"
+              }
+            }
+          ],
+          "source": {
+            "title": "Fulgurit – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Fulgurit"
+          }
+        }
+      ],
+      "source": {
+        "title": "Kugelblitz – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Kugelblitz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "version": 1,
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-26T01:00:34.188Z",
+  "topics": [
+    {
+      "id": "2026-11-28-0",
+      "category": "geschichte",
+      "title": "Die Kalenderreform 1582",
+      "text": "Auf Donnerstag, den 4. Oktober 1582, folgte in Spanien, Portugal und weiten Teilen Italiens direkt Freitag, der 15. Oktober. Papst Gregor XIII. ließ mit der Bulle „Inter gravissimas“ zehn Tage streichen, weil der julianische Kalender dem Sonnenjahr hinterherhinkte. Den Rechenweg hatte der Arzt Aloysius Lilius entworfen, ausgearbeitet wurde er vom Jesuiten Christoph Clavius. Protestantische Länder zogen erst viel später nach, Großbritannien 1752, und Schweden verhedderte sich beim Umstieg so sehr, dass es 1712 einen 30. Februar gab.",
+      "children": [
+        {
+          "id": "2026-11-28-0-0",
+          "title": "Gebt uns elf Tage zurück",
+          "text": "Als Großbritannien 1752 umstellte, folgte auf Mittwoch, den 2. September, gleich Donnerstag, der 14. September. Krawalle, bei denen das Volk „Gebt uns elf Tage zurück“ gerufen haben soll, gelten heute als Legende. Der Slogan stammt vor allem aus William Hogarths Gemälde „An Election Entertainment“ von 1755. Eine echte Spur blieb aber: Weil die Steuerbehörde kein verkürztes Jahr abrechnen wollte, verschob sich das Steuerjahr; seit 1800 beginnt es am 6. April.",
+          "hook": "Großbritannien 1752",
+          "children": [
+            {
+              "id": "2026-11-28-0-0-0",
+              "title": "Ein Gesetz namens Hogarth",
+              "text": "Sein Geld verdiente William Hogarth weniger mit Gemälden als mit Kupferstichen danach, und die wurden ständig billig nachgestochen, etwa seine Serie „A Harlot's Progress“ von 1732. Deshalb setzte er sich für ein Gesetz ein, das 1735 in Kraft trat und bis heute „Hogarth's Act“ heißt. Es schützte Kupferstecher erstmals 14 Jahre lang vor Nachdrucken. Seine nächste Serie „A Rake's Progress“ brachte er gezielt erst heraus, als das Gesetz galt. Gut zwei Jahrhunderte später wurde daraus eine Oper: Igor Strawinskys „The Rake's Progress“, uraufgeführt 1951 in Venedig.",
+              "hook": "William Hogarths",
+              "children": [],
+              "source": {
+                "title": "Engraver’s Act – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Engraver%E2%80%99s_Act"
+              }
+            },
+            {
+              "id": "2026-11-28-0-0-1",
+              "title": "Wahlschlacht in Oxfordshire",
+              "text": "Hogarths „An Election Entertainment“ spielt auf eine echte Wahlschlacht an: die Unterhauswahl in Oxfordshire 1754. Tories und Whigs warben damals mit Festessen, Bier und Geld um Wähler. Das Ergebnis war so umstritten, dass der Sheriff alle vier Kandidaten als gewählt meldete und das Unterhaus erst 1755 zugunsten der Whigs entschied. Geheim war damals keine Stimme: Man gab sie öffentlich ab, und gedruckte „Poll Books“ hielten fest, wer wen gewählt hatte. Erst der Ballot Act von 1872 brachte die geheime Wahl. Die alten Listen sind heute eine Fundgrube für Ahnenforscher.",
+              "hook": "„An Election Entertainment“ von 1755",
+              "children": [],
+              "source": {
+                "title": "Oxfordshire in the 1754 British general election – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Oxfordshire_in_the_1754_British_general_election"
+              }
+            },
+            {
+              "id": "2026-11-28-0-0-2",
+              "title": "Die ewige Notsteuer",
+              "text": "Das Steuerjahr, das am 6. April beginnt, gilt heute vor allem für eine Abgabe, die es 1752 noch gar nicht gab: die Einkommensteuer. Premierminister William Pitt der Jüngere führte sie 1799 als Notmaßnahme ein, um den Krieg gegen das revolutionäre Frankreich zu bezahlen. Nach dem Sieg über Napoleon schaffte das Parlament sie 1816 wieder ab. Robert Peel holte sie 1842 zurück, wieder nur befristet. Abgeschafft wurde sie seitdem nie mehr. Rechtlich ist sie aber bis heute eine Jahressteuer, die das Parlament jedes Jahr neu beschließen muss.",
+              "hook": "verschob sich das Steuerjahr",
+              "children": [],
+              "source": {
+                "title": "Einkommensteuer (Vereinigtes Königreich) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Einkommensteuer_(Vereinigtes_K%C3%B6nigreich)"
+              }
+            }
+          ],
+          "source": {
+            "title": "Calendar (New Style) Act 1750 – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Calendar_(New_Style)_Act_1750"
+          }
+        },
+        {
+          "id": "2026-11-28-0-1",
+          "title": "Euklid auf Chinesisch",
+          "text": "Am Collegio Romano, wo Christoph Clavius Mathematik lehrte, saß in den 1570er-Jahren ein Schüler namens Matteo Ricci. Ricci ging als Missionar nach China und übersetzte dort mit dem Gelehrten Xu Guangqi die ersten sechs Bücher von Euklids „Elementen“. Als Vorlage diente ihnen die kommentierte Ausgabe seines Lehrers. Das Werk erschien 1607 in Peking und prägte Fachbegriffe wie „jihe“ für Geometrie, das im Chinesischen bis heute gebräuchlich ist.",
+          "hook": "vom Jesuiten Christoph Clavius",
+          "children": [
+            {
+              "id": "2026-11-28-0-1-0",
+              "title": "Xu Guangqis Süßkartoffel",
+              "text": "Riccis Übersetzungspartner Xu Guangqi ließ sich 1603 auf den Namen Paulus taufen und stieg später bis zum Großsekretär am Ming-Hof auf. Er trug das Agrarwissen seiner Zeit in einem riesigen Kompendium zusammen, dem „Nongzheng quanshu“. Außerdem warb er für die aus Amerika eingeführte Süßkartoffel, weil sie Hungersnöte lindern sollte. Auf dem Land seiner Familie bei Shanghai entstand später ein Viertel, das bis heute ihren Namen trägt: Xujiahui. Dort liegt sein Grab heute in einem Park inmitten von Einkaufszentren und U-Bahn-Linien.",
+              "hook": "dem Gelehrten Xu Guangqi",
+              "children": [],
+              "source": {
+                "title": "Xu Guangqi – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Xu_Guangqi"
+              }
+            },
+            {
+              "id": "2026-11-28-0-1-1",
+              "title": "Ricci rückt China zur Mitte",
+              "text": "Als Missionar in China merkte Matteo Ricci nach eigenem Bericht schnell, dass europäische Weltkarten seine Gastgeber befremdeten: Ihr Reich lag dort ganz am Rand. Für seine große Weltkarte von 1602, die „Kunyu Wanguo Quantu“, ordnete er die Welt deshalb so an, dass der Pazifik und mit ihm China in die Mitte rückten. So sehen chinesische Weltkarten bis heute aus. Eines der wenigen erhaltenen Exemplare kaufte 2009 eine Bibliothek in Minneapolis für rund eine Million Dollar.",
+              "hook": "ging als Missionar nach China",
+              "children": [],
+              "source": {
+                "title": "Kunyu Wanguo Quantu – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kunyu_Wanguo_Quantu"
+              }
+            },
+            {
+              "id": "2026-11-28-0-1-2",
+              "title": "Euklid in Rot, Gelb und Blau",
+              "text": "Die ersten sechs Bücher der „Elemente“ waren jahrhundertelang Standardstoff im Unterricht. 1847 gab der irische Mathematiker Oliver Byrne genau diese Bücher in London neu heraus, und zwar fast ohne Buchstaben. Statt von „Winkel ABC“ zu sprechen, druckte er farbige Linien, Winkel und Flächen in Rot, Gelb, Blau und Schwarz direkt in den Text. Das aufwendige Buch floppte. Heute gilt es als Designklassiker, dessen klare Farbflächen an Piet Mondrian erinnern, der erst ein Vierteljahrhundert später geboren wurde.",
+              "hook": "die ersten sechs Bücher",
+              "children": [],
+              "source": {
+                "title": "Oliver Byrne – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Oliver_Byrne"
+              }
+            }
+          ],
+          "source": {
+            "title": "„Ji he yuan ben“ (Publication, 1607) – Universität Zürich",
+            "url": "https://www.e-aoi.uzh.ch/apps/china-west/documents/1641"
+          }
+        },
+        {
+          "id": "2026-11-28-0-2",
+          "title": "Die Nacht der Teresa",
+          "text": "In der Nacht, in der Spanien vom 4. auf den 15. Oktober 1582 sprang, starb im kastilischen Alba de Tormes die Mystikerin Teresa von Ávila. Deshalb fällt ihr Gedenktag auf den 15. Oktober. Die Karmelitin gründete rund 17 Frauenklöster. In ihrem Werk „Die innere Burg“ beschrieb sie die Seele als Schloss aus klarem Kristall mit vielen Wohnungen. 1970 erhob Papst Paul VI. sie als erste Frau zur Kirchenlehrerin.",
+          "hook": "Donnerstag, den 4. Oktober 1582",
+          "children": [
+            {
+              "id": "2026-11-28-0-2-0",
+              "title": "Francos heilige Hand",
+              "text": "In Alba de Tormes liegt Teresas Leichnam bis heute, allerdings nicht vollständig: Kurz nach ihrem Tod trennte man Körperteile als Reliquien ab, ihr Herz und ein Arm werden in eigenen Reliquiaren gezeigt. Ihre linke Hand kam zu den Karmelitinnen im andalusischen Ronda. Im Spanischen Bürgerkrieg fiel sie 1937 in Málaga den Truppen Francos in die Hände, und der Diktator gab sie nicht mehr her. Fast vier Jahrzehnte behielt er die Reliquie bei sich, erst nach seinem Tod 1975 kehrte sie nach Ronda zurück.",
+              "hook": "im kastilischen Alba de Tormes",
+              "children": [],
+              "source": {
+                "title": "Cuando la mano de Santa Teresa guiaba a Franco – elDiario.es",
+                "url": "https://www.eldiario.es/sociedad/mano-santa-teresa-guiaba-franco-mantos-virgenes-escudos-bombas-republicanas_1_11929718.html"
+              }
+            },
+            {
+              "id": "2026-11-28-0-2-1",
+              "title": "Ekstase in Marmor",
+              "text": "Ihr berühmtestes mystisches Erlebnis hat Teresa selbst beschrieben: Ein Engel habe ihr Herz mit einem goldenen Speer durchbohrt, Schmerz und Süße zugleich. Gian Lorenzo Bernini machte daraus zwischen 1647 und 1652 die „Verzückung der heiligen Teresa“ in der römischen Kirche Santa Maria della Vittoria. An den Seitenwänden der Cornaro-Kapelle sitzen Mitglieder der Stifterfamilie aus Marmor wie in Theaterlogen und schauen der Szene zu. Dan Brown verlegte genau hierher einen Mord in „Illuminati“: Die Kapelle ist dort der „Altar des Feuers“.",
+              "hook": "die Mystikerin Teresa von Ávila",
+              "children": [],
+              "source": {
+                "title": "Verzückung der heiligen Theresa – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Verz%C3%BCckung_der_heiligen_Theresa"
+              }
+            },
+            {
+              "id": "2026-11-28-0-2-2",
+              "title": "Eine Woche allein",
+              "text": "Den Titel als einzige Kirchenlehrerin hatte Teresa nur kurz: Am 27. September 1970 wurde sie erhoben, schon am 4. Oktober folgte Katharina von Siena. Die Tochter eines Färbers diktierte ihre Briefe meist und gilt als eine treibende Kraft hinter der Rückkehr der Päpste aus Avignon nach Rom im Jahr 1377. Später kamen Thérèse von Lisieux (1997) und Hildegard von Bingen hinzu. Hildegard wurde 2012 Kirchenlehrerin, im selben Jahr wurde sie überhaupt erst offiziell heiliggesprochen – nach mehr als acht Jahrhunderten Verehrung.",
+              "hook": "als erste Frau zur Kirchenlehrerin",
+              "children": [],
+              "source": {
+                "title": "Kirchenlehrer – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kirchenlehrer"
+              }
+            }
+          ],
+          "source": {
+            "title": "Teresa von Ávila – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Teresa_von_%C3%81vila"
+          }
+        }
+      ],
+      "source": {
+        "title": "Gregorianischer Kalender – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Gregorianischer_Kalender"
+      }
+    },
+    {
+      "id": "2026-11-28-1",
+      "category": "orte",
+      "title": "Die Fingalshöhle",
+      "text": "Auf der unbewohnten Hebrideninsel Staffa vor Schottlands Westküste öffnet sich eine Meereshöhle, deren Wände aus fast regelmäßigen sechseckigen Basaltsäulen bestehen. Sie entstanden vor rund 60 Millionen Jahren aus langsam erkaltender Lava. Bekannt machte sie der Naturforscher Joseph Banks nach einem Besuch 1772, benannt ist sie nach Fingal, dem Helden der angeblich uralten Ossian-Gesänge, die James Macpherson größtenteils selbst verfasst hatte. Felix Mendelssohn Bartholdy reiste 1829 hin und verarbeitete den Eindruck in seiner Ouvertüre „Die Hebriden“.",
+      "children": [
+        {
+          "id": "2026-11-28-1-0",
+          "title": "Der erfundene Barde",
+          "text": "Die Ossian-Gesänge, deren Held der Höhle ihren Namen gab, waren einer der größten Literaturerfolge des 18. Jahrhunderts und zum großen Teil eine Fälschung. Ab 1760 gab der Schotte James Macpherson vor, gälische Epen eines Barden aus dem 3. Jahrhundert zu übersetzen. Goethe lässt seinen Werther seitenlang daraus vorlesen, und Napoleon soll die Gesänge auf Feldzüge mitgenommen haben. Samuel Johnson hielt das Ganze früh für Betrug, und 1805 kam ein Bericht der Highland Society zu dem Schluss, dass Macpherson echte Balladenmotive frei verarbeitet und vieles dazuerfunden hatte.",
+          "hook": "Helden der angeblich uralten Ossian-Gesänge",
+          "children": [
+            {
+              "id": "2026-11-28-1-0-0",
+              "title": "Das Werther-Fieber",
+              "text": "Goethes Roman, in dem Werther seitenlang Ossian vorliest, löste 1774 eine Mode aus: Junge Männer trugen blauen Frack und gelbe Weste wie der Held. Aus Sorge, das Buch verleite zum Suizid, verbot Leipzig 1775 den Verkauf und sogar die Werther-Tracht. 1974 prägte der Soziologe David Phillips den Begriff „Werther-Effekt“ für Nachahmungstaten nach Medienberichten. Das Gegenstück ist nach einer Mozart-Figur benannt: Der „Papageno-Effekt“ beschreibt, wie Geschichten über überstandene Krisen Leben retten können.",
+              "hook": "Goethe lässt seinen Werther",
+              "children": [],
+              "source": {
+                "title": "Werther-Effekt – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Werther-Effekt"
+              }
+            },
+            {
+              "id": "2026-11-28-1-0-1",
+              "title": "Napoleons Patenkind",
+              "text": "Napoleons Begeisterung für Ossian reichte bis in die schwedische Königsfamilie. Für den 1799 geborenen Sohn seines Generals Jean-Baptiste Bernadotte, dessen Pate er der Überlieferung nach war, wählte er den Namen Oscar, nach Ossians Sohn in den Gesängen. Bernadotte wurde später König von Schweden, der Junge regierte ab 1844 als Oscar I., und der seltene Name wurde in Skandinavien populär. Oscar Wilde trug sogar zwei Namen aus Ossian, denn mit vollem Namen hieß er Oscar Fingal O'Flahertie Wills Wilde.",
+              "hook": "Napoleon soll die Gesänge auf Feldzüge",
+              "children": [],
+              "source": {
+                "title": "Oskar I. (Schweden) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Oskar_I._(Schweden)"
+              }
+            },
+            {
+              "id": "2026-11-28-1-0-2",
+              "title": "Hafer für die Schotten",
+              "text": "Samuel Johnson, der Macpherson für einen Betrüger hielt, war der berühmteste Wörterbuchmacher Englands. Sein „Dictionary of the English Language“ von 1755 erklärte rund 42.000 Wörter und entstand in etwa neun Jahren mit nur wenigen Gehilfen. Die Académie française hatte für ihr Wörterbuch Jahrzehnte gebraucht. Johnson leistete sich Spitzen und nannte den Lexikografen „ein harmloses Arbeitstier“. Hafer definierte er als Getreide, das in England die Pferde ernähre, in Schottland aber die Menschen.",
+              "hook": "Samuel Johnson hielt das Ganze früh",
+              "children": [],
+              "source": {
+                "title": "Dictionary of the English Language – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Dictionary_of_the_English_Language"
+              }
+            }
+          ],
+          "source": {
+            "title": "Ossian – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Ossian"
+          }
+        },
+        {
+          "id": "2026-11-28-1-1",
+          "title": "Brotfrucht und Meuterei",
+          "text": "Joseph Banks, der Staffa bekannt machte, steckt auch hinter einer der berühmtesten Meutereien der Seefahrt. Auf seine Anregung segelte die Bounty 1787 unter William Bligh nach Tahiti. Sie sollte Setzlinge des Brotfruchtbaums als billige Nahrung für versklavte Menschen in die Karibik bringen. Im April 1789 übernahm Fletcher Christian das Schiff und setzte Bligh mit 18 Männern in einem offenen Boot aus. Bligh erreichte nach rund 6.700 Kilometern Timor. Die Meuterer versteckten sich auf Pitcairn, wo bis heute Nachkommen von ihnen leben.",
+          "hook": "der Naturforscher Joseph Banks",
+          "children": [
+            {
+              "id": "2026-11-28-1-1-0",
+              "title": "Eine Frucht namens Blighia",
+              "text": "Die Setzlinge des Brotfruchtbaums kamen doch noch in die Karibik: Auf seiner zweiten Reise mit der HMS Providence brachte Bligh sie 1793 nach St. Vincent und Jamaika. Viele Versklavte lehnten die stärkehaltige Frucht zunächst ab, heute gehört sie fest zur karibischen Küche. Für die Rückfahrt ließ Bligh Proben einer ursprünglich westafrikanischen Frucht aus Jamaika nach Kew bringen. Deshalb trägt die Akee, Hauptzutat von Jamaikas Nationalgericht „Ackee and Saltfish“, bis heute den botanischen Namen Blighia sapida.",
+              "hook": "Setzlinge des Brotfruchtbaums",
+              "children": [],
+              "source": {
+                "title": "Akee – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Akee"
+              }
+            },
+            {
+              "id": "2026-11-28-1-1-1",
+              "title": "Ein Schiff brennt jedes Jahr",
+              "text": "Dass sich die Meuterer auf Pitcairn verstecken konnten, lag auch an einem Kartenfehler: Die winzige Insel war auf den Seekarten an der falschen Stelle eingezeichnet. Im Januar 1790 verbrannten sie die Bounty. Als 1808 das amerikanische Robbenfangschiff Topaz auftauchte, lebte von den neun Meuterern nur noch John Adams, die meisten anderen waren bei Gewalt untereinander und mit den mitgebrachten Polynesiern umgekommen. Bis heute feiern die nur noch wenige Dutzend Bewohner am 23. Januar den Bounty Day und verbrennen dabei ein Modell des Schiffs.",
+              "hook": "versteckten sich auf Pitcairn",
+              "children": [],
+              "source": {
+                "title": "Pitcairn – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Pitcairn"
+              }
+            },
+            {
+              "id": "2026-11-28-1-1-2",
+              "title": "Bligh und der Rum-Putsch",
+              "text": "Für William Bligh blieb die Bounty nicht die letzte Revolte gegen seine Autorität. 1806 wurde er Gouverneur der Strafkolonie New South Wales und legte sich mit den Offizieren des New South Wales Corps an, die am Handel mit Rum verdienten, der dort als Zahlungsmittel kursierte. Am 26. Januar 1808 setzten Soldaten unter Major George Johnston ihn ab. Die „Rum Rebellion“ gilt als einziger erfolgreicher Militärputsch Australiens und fiel ausgerechnet auf den 20. Jahrestag der Gründung der Kolonie, den heutigen Australia Day.",
+              "hook": "unter William Bligh",
+              "children": [],
+              "source": {
+                "title": "Rum Rebellion – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Rum_Rebellion"
+              }
+            }
+          ],
+          "source": {
+            "title": "Meuterei auf der Bounty – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Meuterei_auf_der_Bounty"
+          }
+        },
+        {
+          "id": "2026-11-28-1-2",
+          "title": "Sechsecke aus Maisstärke",
+          "text": "Die fast regelmäßigen Sechsecke entstehen, weil sich erkaltende Lava zusammenzieht und reißt, ähnlich wie austrocknender Schlamm. Die Risse wandern mit der Abkühlungsfront ins Gestein. Ihre Verzweigungen sind anfangs oft rechtwinklig und nähern sich dabei immer mehr 120 Grad an. Mit trocknender Maisstärke zeigte der Physiker Lucas Goehring in den 2000er-Jahren, dass die Säulendicke vom Tempo abhängt: Je schneller Austrocknung oder Abkühlung, desto dünner die Säulen. Nach demselben Prinzip entstand der Giant's Causeway in Nordirland.",
+          "hook": "fast regelmäßigen sechseckigen Basaltsäulen",
+          "children": [
+            {
+              "id": "2026-11-28-1-2-0",
+              "title": "Rennen auf Speisestärke",
+              "text": "Mit Wasser verrührt verhält sich Maisstärke ganz anders als beim Trocknen: Die Suspension fließt bei sanfter Bewegung, wird bei einem harten Schlag aber schlagartig fest. Deshalb kann man über ein Becken davon rennen, doch wer stehen bleibt, sinkt ein. Scott Waitukaitis und Heinrich Jaeger zeigten 2012 in Chicago, dass sich unter dem aufprallenden Fuß rasch eine verfestigte Zone nach unten ausbreitet. Ihren englischen Spitznamen „Oobleck“ verdankt die Masse einem Kinderbuch von Dr. Seuss aus dem Jahr 1949.",
+              "hook": "trocknender Maisstärke",
+              "children": [],
+              "source": {
+                "title": "Messy experiment cleans up physics mystery of cornstarch – University of Chicago News",
+                "url": "https://news.uchicago.edu/story/messy-experiment-cleans-physics-mystery-cornstarch"
+              }
+            },
+            {
+              "id": "2026-11-28-1-2-1",
+              "title": "Das Rätsel der Bienenwabe",
+              "text": "Auf 120-Grad-Winkel läuft auch die Mathematik der Bienenwabe hinaus. Schon Pappos von Alexandria vermutete im 4. Jahrhundert, Bienen bauten Sechsecke, weil diese eine Fläche mit dem wenigsten Wandmaterial in gleich große Zellen teilen. Bewiesen hat diese Wabenvermutung erst 1999 der Mathematiker Thomas Hales. Ob die Bienen die Form gezielt bauen, ist allerdings umstritten: Laut einer Studie von 2013 beginnen die Zellen rund und werden womöglich erst durch warm fließendes Wachs sechseckig.",
+              "hook": "nähern sich dabei immer mehr 120 Grad",
+              "children": [],
+              "source": {
+                "title": "Bienenwaben-Satz – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bienenwaben-Satz"
+              }
+            },
+            {
+              "id": "2026-11-28-1-2-2",
+              "title": "Wasser gegen Feuer",
+              "text": "Ob die Säulen des Giant's Causeway aus Wasser oder aus Feuer entstanden, war im 18. Jahrhundert heftig umstritten. Die Neptunisten um den Freiberger Geologen Abraham Gottlob Werner hielten Basalt für einen Niederschlag aus einem Urozean, Vulkanisten wie der Franzose Nicolas Desmarest erkannten darin erstarrte Lava. Goethe neigte den Neptunisten zu und trug den Streit sogar in „Faust II“ aus: In der Klassischen Walpurgisnacht disputieren Thales und Anaxagoras darüber, ob Wasser oder Feuer die Erde formte.",
+              "hook": "Giant's Causeway in Nordirland",
+              "children": [],
+              "source": {
+                "title": "Neptunismus – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Neptunismus"
+              }
+            }
+          ],
+          "source": {
+            "title": "Columnar jointing – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Columnar_jointing"
+          }
+        }
+      ],
+      "source": {
+        "title": "Fingal’s Cave – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Fingal%E2%80%99s_Cave"
+      }
+    },
+    {
+      "id": "2026-11-28-2",
+      "category": "kultur",
+      "title": "Der Dresdner Stollen",
+      "text": "Der Christstollen war ursprünglich ein karges Fastengebäck: Weil der Advent eine Fastenzeit war, durften Bäcker nur Mehl, Hefe, Wasser und Öl verwenden. Ein päpstlicher „Butterbrief“ von 1491 erlaubte in Sachsen gegen eine Abgabe Butter. Der Überlieferung nach entwickelte sich daraus das heutige üppige Rezept mit Rosinen, Zitronat und Mandeln. August der Starke ließ 1730 für sein Zeithainer Lustlager einen Riesenstollen von rund 1,8 Tonnen backen. Heute ist „Dresdner Stollen“ eine in der EU geschützte geografische Angabe.",
+      "children": [
+        {
+          "id": "2026-11-28-2-0",
+          "title": "Ein Turm aus Butter",
+          "text": "Solche Butterbriefe gab es nicht nur in Sachsen: In Rouen finanzierten Gläubige mit Abgaben für den Butterverzehr in der Fastenzeit einen Kathedralturm, der bis heute „Tour de Beurre“ heißt. Der spätgotische Butterturm entstand ab 1485 und ist rund 75 Meter hoch. Später kam ein gusseiserner Vierungsturm hinzu. Mit 151 Metern war er ab 1876 für einige Jahre das höchste Bauwerk der Welt, bis 1880 der Kölner Dom fertig wurde. Claude Monet malte die Fassade in den 1890er-Jahren mehr als 30-mal.",
+          "hook": "päpstlicher „Butterbrief“ von 1491",
+          "children": [
+            {
+              "id": "2026-11-28-2-0-0",
+              "title": "Eine Holzbrücke aus Eisen",
+              "text": "Gusseisen war 1876 längst ein bewährter Baustoff. Knapp hundert Jahre zuvor wagte man in England zum ersten Mal, eine ganze große Brücke daraus zu bauen. Die Iron Bridge über den Severn bei Coalbrookdale wurde 1779 fertig, gegossen in der Hütte von Abraham Darby III., und überspannt rund 30 Meter. Weil noch niemand Erfahrung mit Eisenkonstruktionen hatte, verbanden die Erbauer die Teile mit Techniken aus der Zimmerei: Zapfen, Keile und Schwalbenschwänze. Die berühmte Eisenbrücke ist im Grunde also eine Holzbrücke aus Metall.",
+              "hook": "ein gusseiserner Vierungsturm",
+              "children": [],
+              "source": {
+                "title": "The Iron Bridge – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/The_Iron_Bridge"
+              }
+            },
+            {
+              "id": "2026-11-28-2-0-1",
+              "title": "Der Dom mit dem Kran",
+              "text": "Den Rekord verlor Rouen 1880 an den Kölner Dom, dessen Türme mit rund 157 Metern noch etwas höher reichen. Dabei hatte die Baustelle ab dem 16. Jahrhundert rund drei Jahrhunderte stillgestanden. Ein mittelalterlicher Kran auf dem Stumpf des Südturms prägte jahrhundertelang das Stadtbild, bis er 1868 abgebaut wurde. Weitergebaut wurde nach einem wiederentdeckten mittelalterlichen Fassadenplan, dessen Hälften 1814 in Darmstadt und 1816 in Paris auftauchten. Schon 1884 überholte das Washington Monument den Kölner Rekord.",
+              "hook": "das höchste Bauwerk der Welt",
+              "children": [],
+              "source": {
+                "title": "Kölner Dom – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/K%C3%B6lner_Dom"
+              }
+            },
+            {
+              "id": "2026-11-28-2-0-2",
+              "title": "Monets trübe Augen",
+              "text": "In seiner Kathedralen-Serie hielt Monet fest, wie das Licht eine Fassade im Lauf des Tages verändert. Ausgerechnet seine Augen ließen ihn später im Stich: 1912 wurde bei ihm Grauer Star festgestellt, und seine Bilder der japanischen Brücke in Giverny wurden in den folgenden Jahren immer rötlicher und brauner. 1923 ließ er sich mit 82 Jahren am rechten Auge operieren. Manche Forscher vermuten, dass er danach ohne natürliche Linse sogar ultraviolettes Licht als bläulichen Schimmer wahrnahm. Diese These ist allerdings umstritten.",
+              "hook": "Claude Monet malte die Fassade",
+              "children": [],
+              "source": {
+                "title": "Claude Monet – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Claude_Monet"
+              }
+            }
+          ],
+          "source": {
+            "title": "Kathedrale von Rouen – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Kathedrale_von_Rouen"
+          }
+        },
+        {
+          "id": "2026-11-28-2-1",
+          "title": "Der Kronprinz will fliehen",
+          "text": "Das Zeithainer Lustlager von 1730 war eine riesige Militärschau: Zehntausende sächsische Soldaten marschierten wochenlang vor Gästen wie dem preußischen „Soldatenkönig“ Friedrich Wilhelm I. auf. Mit ihm reiste sein 18-jähriger Sohn Friedrich an, der unter dem harten Vater litt und schon in Zeithain an Fluchtplänen arbeitete. Wenige Wochen später scheiterte sein Fluchtversuch. Sein Freund Hans Hermann von Katte wurde im November 1730 in Küstrin hingerichtet, und Friedrich musste zusehen.",
+          "hook": "für sein Zeithainer Lustlager",
+          "children": [
+            {
+              "id": "2026-11-28-2-1-0",
+              "title": "Die Riesen des Königs",
+              "text": "Seinen Beinamen „Soldatenkönig“ verdankte Friedrich Wilhelm I. auch einer Leidenschaft: den „Langen Kerls“, einem Potsdamer Regiment besonders großer Grenadiere. Seine Werber zahlten für hochgewachsene Männer hohe Summen und verschleppten sie mitunter sogar aus dem Ausland. Für Kunst gab der sparsame König dagegen wenig aus. 1716 verschenkte er das Bernsteinzimmer seines Vaters an Zar Peter den Großen, der sich mit großgewachsenen Soldaten bedankte. Seit 1945 ist das Original verschollen.",
+              "hook": "„Soldatenkönig“ Friedrich Wilhelm I.",
+              "children": [],
+              "source": {
+                "title": "Altpreußisches Infanterieregiment No. 6 (1806) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Altpreu%C3%9Fisches_Infanterieregiment_No._6_(1806)"
+              }
+            },
+            {
+              "id": "2026-11-28-2-1-1",
+              "title": "Pompeji an der Oder",
+              "text": "Die Festungsstadt Küstrin, in der Katte starb, liegt heute in Polen und heißt Kostrzyn nad Odrą. Ihre Altstadt wurde 1945 in schweren Kämpfen fast völlig zerstört und nie wieder aufgebaut. Zwischen den Bastionen sieht man bis heute nur Straßenpflaster, Kellerreste und Treppenstufen, weshalb man sie das „Pompeji an der Oder“ nennt. Ganz in der Nähe feierten ab 2004 viele Jahre lang Hunderttausende beim kostenlosen Festival „Przystanek Woodstock“, einem der größten Open Airs Europas.",
+              "hook": "in Küstrin hingerichtet",
+              "children": [],
+              "source": {
+                "title": "Festung Küstrin – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Festung_K%C3%BCstrin"
+              }
+            },
+            {
+              "id": "2026-11-28-2-1-2",
+              "title": "Flötenstunden im Geheimen",
+              "text": "Besonders verhasst war dem Vater, der Schöngeisterei für Verweichlichung hielt, Friedrichs Liebe zur Flöte. Heimlich nahm der Kronprinz ab 1728 Unterricht bei Johann Joachim Quantz, einem Flötisten der Dresdner Hofkapelle. Als König holte er ihn 1741 fest an seinen Hof, wo Quantz rund 300 Flötenkonzerte für ihn schrieb. Als Johann Sebastian Bach 1747 in Potsdam zu Besuch war, gab Friedrich ihm ein Thema vor. Daraus wurde Bachs „Musikalisches Opfer“.",
+              "hook": "unter dem harten Vater litt",
+              "children": [],
+              "source": {
+                "title": "Johann Joachim Quantz – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Johann_Joachim_Quantz"
+              }
+            }
+          ],
+          "source": {
+            "title": "Friedrich II. (Preußen) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Friedrich_II._(Preu%C3%9Fen)"
+          }
+        },
+        {
+          "id": "2026-11-28-2-2",
+          "title": "Die Urahnin der Zitrone",
+          "text": "Zitronat stammt nicht von der gewöhnlichen Zitrone, sondern von der Zitronatzitrone (Citrus medica). Sie ist eine der wenigen Ur-Arten, aus denen fast alle heutigen Zitrusfrüchte durch Kreuzung hervorgingen. Ihre Frucht besteht größtenteils aus dicker weißer Schale und hat kaum Saft. Im Judentum ist sie als Etrog eine der vier Pflanzenarten des Laubhüttenfests Sukkot. Besonders begehrt sind Früchte von der kalabrischen „Riviera dei Cedri“, wo Rabbiner jeden Sommer einzelne Früchte prüfen.",
+          "hook": "mit Rosinen, Zitronat und Mandeln",
+          "children": [
+            {
+              "id": "2026-11-28-2-2-0",
+              "title": "Die verbotene Frucht",
+              "text": "Neben der Zitronatzitrone gelten vor allem Mandarine und Pampelmuse als Ur-Arten der Zitrusfamilie. Aus einer zufälligen Kreuzung von Pampelmuse und Orange entstand im 18. Jahrhundert auf Barbados die Grapefruit, damals „verbotene Frucht“ genannt. 1989 entdeckte der kanadische Pharmakologe David Bailey eher zufällig, dass ihr Saft die Wirkung mancher Medikamente verstärkt. Eigentlich hatte er ihn in einer Studie nur verwendet, um den Geschmack von Alkohol zu überdecken.",
+              "hook": "eine der wenigen Ur-Arten",
+              "children": [],
+              "source": {
+                "title": "Grapefruit – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Grapefruit"
+              }
+            },
+            {
+              "id": "2026-11-28-2-2-1",
+              "title": "Balkone wie Treppenstufen",
+              "text": "Zum Laubhüttenfest Sukkot essen gläubige Juden eine Woche lang in einer Sukka, einer provisorischen Hütte, manche schlafen auch darin. Ihr Dach, das Schach, muss aus abgeschnittenem Pflanzenmaterial bestehen und mehr Schatten als Sonne spenden, aber den Blick zum Himmel freilassen. Über der Hütte darf kein festes Dach und kein Balkon liegen. Deshalb haben viele Wohnhäuser in Israel versetzt angeordnete Balkone, die wie Treppenstufen wirken: So hat jede Familie ein Stück offenen Himmel für ihre eigene Sukka.",
+              "hook": "des Laubhüttenfests Sukkot",
+              "children": [],
+              "source": {
+                "title": "Eine Sukka für meinen Balkon – Jüdische Allgemeine",
+                "url": "https://www.juedische-allgemeine.de/unsere-woche/eine-sukka-fuer-meinen-balkon/"
+              }
+            },
+            {
+              "id": "2026-11-28-2-2-2",
+              "title": "Albedo: Weiß im Doppelsinn",
+              "text": "Die weiße, schwammige Schicht unter der farbigen Schale von Zitrusfrüchten heißt in der Botanik Albedo, vom lateinischen albus für weiß. Sie ist reich an Pektin und dient deshalb industriell als wichtige Quelle für Geliermittel. Denselben Begriff verwenden Astronomen und Klimaforscher für das Rückstrahlvermögen einer Oberfläche. Frischer Schnee wirft bis zu rund 90 Prozent des Sonnenlichts zurück, die Erde im Schnitt etwa 30 Prozent. Deshalb beschleunigt schmelzendes Eis die Erwärmung zusätzlich.",
+              "hook": "aus dicker weißer Schale",
+              "children": [],
+              "source": {
+                "title": "Albedo – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Albedo"
+              }
+            }
+          ],
+          "source": {
+            "title": "Zitronatzitrone – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Zitronatzitrone"
+          }
+        }
+      ],
+      "source": {
+        "title": "Stollen (Gebäck) – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Stollen_(Geb%C3%A4ck)"
+      }
+    }
+  ]
+}
