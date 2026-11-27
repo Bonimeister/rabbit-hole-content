@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "date": "2026-11-29",
+  "generatedAt": "2026-11-27T00:41:11.361Z",
+  "topics": [
+    {
+      "id": "2026-11-29-0",
+      "category": "natur",
+      "title": "Der Bartgeier",
+      "text": "Der Bartgeier ist der einzige Vogel, der sich überwiegend von Knochen ernährt: Sie machen rund 70 bis 90 Prozent seiner Nahrung aus. Zu große Knochen lässt er aus der Luft auf Felsplatten fallen, bis sie zerbrechen, und seine extrem saure Magensäure löst die Bruchstücke auf. Seine rostrote Brust ist keine angeborene Farbe, denn er badet gezielt in eisenoxidhaltigem Schlamm. In den Alpen war er ausgerottet. Seit 1986 wird er wieder angesiedelt, seit 2021 auch im Nationalpark Berchtesgaden.",
+      "children": [
+        {
+          "id": "2026-11-29-0-0",
+          "title": "Das älteste Rot der Welt",
+          "text": "Das Eisenoxid, mit dem sich der Bartgeier färbt, steckt auch im Ocker, dem wohl ältesten Farbmittel der Menschheit. In der Blombos-Höhle an der Südküste Südafrikas fanden Archäologen rund 100.000 Jahre alte Abalone-Schalen, in denen Ocker mit Holzkohle und zerstoßenen Knochen zu einer Paste angerührt worden war. Ein Ockerstück aus derselben Höhle trägt ein eingeritztes Kreuzmuster und ist etwa 75.000 Jahre alt. In der Provence wurde Ocker später im großen Stil abgebaut. Die Felsen um das Dorf Roussillon leuchten bis heute gelb bis rot.",
+          "hook": "eisenoxidhaltigem Schlamm",
+          "children": [
+            {
+              "id": "2026-11-29-0-0-0",
+              "title": "Ziegel aus Perlmutt",
+              "text": "Die Abalone-Schalen, in denen der Ocker angerührt wurde, sind innen mit Perlmutt ausgekleidet. Darin liegen winzige Plättchen aus Aragonit, einer Form von Kalk, wie Ziegel übereinander, verklebt mit einem Mörtel aus Proteinen. So wird Perlmutt um ein Vielfaches bruchfester als reines Aragonit, und Materialforscher ahmen den Aufbau für Keramiken nach. Farbstoff enthält es keinen: Die Plättchen sind etwa so dick wie eine Lichtwellenlänge, und das Schimmern entsteht durch Interferenz.",
+              "hook": "Abalone-Schalen",
+              "children": [],
+              "source": {
+                "title": "Perlmutt – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Perlmutt"
+              }
+            },
+            {
+              "id": "2026-11-29-0-0-1",
+              "title": "Vom Kreuzmuster zum Hashtag",
+              "text": "Das eingeritzte Kreuzmuster aus Blombos ähnelt einem Zeichen, das heute Milliarden Menschen tippen: der Raute. Vermutlich entstand sie aus der Abkürzung „lb“ für das römische Gewicht libra pondo, über die Schreiber einen Querstrich zogen. Ingenieure der Bell Labs nannten die Taste am Tonwahltelefon in den 1960er-Jahren „Octothorpe“, woher die zweite Hälfte stammt, ist umstritten. Zum Hashtag wurde sie erst 2007, als Chris Messina auf Twitter vorschlug, Beiträge damit zu bündeln.",
+              "hook": "eingeritztes Kreuzmuster",
+              "children": [],
+              "source": {
+                "title": "Rautezeichen – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Rautezeichen"
+              }
+            },
+            {
+              "id": "2026-11-29-0-0-2",
+              "title": "Becketts Versteck im Ocker",
+              "text": "In das Ockerdorf Roussillon floh 1942 ein Ire, der später Theatergeschichte schrieb: Samuel Beckett. Er hatte in Paris für eine Widerstandsgruppe gearbeitet, musste vor der Gestapo fliehen und half bis Kriegsende bei Bauern der Gegend aus. Dort schrieb er große Teile seines Romans „Watt“. In „Warten auf Godot“ erinnert sich Vladimir an die Weinlese bei einem gewissen Bonnelly in Roussillon – so hieß tatsächlich ein Bauer, bei dem Beckett gearbeitet hatte.",
+              "hook": "das Dorf Roussillon",
+              "children": [],
+              "source": {
+                "title": "Beckett in Roussillon – Samuel Beckett Society",
+                "url": "https://samuelbeckettsociety.org/2018/07/28/beckett-in-roussillon/"
+              }
+            }
+          ],
+          "source": {
+            "title": "Blombos-Höhle – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Blombos-H%C3%B6hle"
+          }
+        },
+        {
+          "id": "2026-11-29-0-1",
+          "title": "Tod durch Schildkröte",
+          "text": "Greifvögel lassen nicht nur Knochen fallen, sondern auch Schildkröten. Einer Legende nach soll eine solche Schildkröte 456 v. Chr. den Dichter Aischylos in Gela auf Sizilien erschlagen haben. Der Adler habe den kahlen Kopf des Verfassers der „Orestie“ für einen Stein gehalten. Überliefert ist die Geschichte unter anderem bei Plinius dem Älteren und Valerius Maximus, belegt ist sie nicht. Manche Ornithologen meinen, falls sie einen wahren Kern hat, käme am ehesten ein Bartgeier als Täter infrage.",
+          "hook": "aus der Luft auf Felsplatten fallen",
+          "children": [
+            {
+              "id": "2026-11-29-0-1-0",
+              "title": "Der Tod am Vesuv",
+              "text": "Plinius der Ältere, der die Schildkrötengeschichte überlieferte, starb 79 n. Chr. selbst einen spektakulären Tod: beim Ausbruch des Vesuvs. Als Befehlshaber der römischen Flotte in Misenum fuhr er über den Golf von Neapel, um Menschen zu retten und das Naturereignis aus der Nähe zu sehen, und kam am Strand von Stabiae ums Leben. Sein Neffe Plinius der Jüngere beschrieb die Katastrophe in Briefen an Tacitus, darunter eine Aschewolke, die wie eine Pinie aufstieg. Nach dieser Beschreibung heißen solche explosiven Ausbrüche bis heute plinianische Eruptionen.",
+              "hook": "bei Plinius dem Älteren",
+              "children": [],
+              "source": {
+                "title": "Plinius der Ältere – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Plinius_der_%C3%84ltere"
+              }
+            },
+            {
+              "id": "2026-11-29-0-1-1",
+              "title": "Die Grabschrift von Gela",
+              "text": "In Gela auf Sizilien, wo Aischylos starb, lag der Überlieferung nach auch sein Grab, und dessen Inschrift überrascht. Das Epigramm, das er angeblich selbst verfasst hat, nennt seinen Vater Euphorion, seine Heimatstadt Athen und das weizenreiche Gela, über seine Dutzenden Tragödien sagt es kein Wort. Stattdessen rühmt es seine Tapferkeit, die der Hain von Marathon und die Perser bezeugen könnten. Der berühmteste Tragiker seiner Zeit wollte offenbar als Soldat in Erinnerung bleiben, der 490 v. Chr. bei Marathon gekämpft hatte.",
+              "hook": "in Gela auf Sizilien",
+              "children": [],
+              "source": {
+                "title": "Anonymous Life of Aeschylus – ToposText",
+                "url": "https://topostext.org/work/229"
+              }
+            },
+            {
+              "id": "2026-11-29-0-1-2",
+              "title": "Krähen, die Autos nutzen",
+              "text": "Nicht nur Greifvögel lassen Hartes fallen, auch Krähen und Möwen werfen Nüsse und Muscheln auf Steine, um sie zu öffnen. Rabenkrähen im japanischen Sendai haben daraus eine moderne Variante entwickelt: Sie legen Walnüsse auf die Fahrbahn und lassen sie von Autoreifen knacken. Beobachtet wird das seit den 1970er-Jahren, Berichten zufolge zuerst in der Nähe einer Fahrschule, wo die Autos langsam fuhren. Von dort verbreitete sich der Trick in andere Teile der Stadt, die Krähen hatten ihn offenbar voneinander gelernt.",
+              "hook": "lassen nicht nur Knochen fallen",
+              "children": [],
+              "source": {
+                "title": "Japanese Journal of Ornithology – Studie zu den Walnuss knackenden Krähen in Sendai (J-STAGE)",
+                "url": "https://www.jstage.jst.go.jp/article/jjo1986/44/1/44_1_21/_article"
+              }
+            }
+          ],
+          "source": {
+            "title": "Aischylos – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Aischylos"
+          }
+        },
+        {
+          "id": "2026-11-29-0-2",
+          "title": "Das Loch im Magen",
+          "text": "Wie Magensäure Nahrung zersetzt, verstand man erst dank eines Unfalls. Im Jahr 1822 traf eine Schrotladung den jungen Pelzhandelsgehilfen Alexis St. Martin auf Mackinac Island im heutigen Michigan. Die Wunde verheilte so, dass dauerhaft ein Loch in seinen Magen offen blieb. Der Armeearzt William Beaumont führte jahrelang an Fäden befestigte Essensstücke hinein und entnahm Magensaft für Versuche. Seine Ergebnisse veröffentlichte er 1833. St. Martin überlebte seinen Arzt um fast drei Jahrzehnte.",
+          "hook": "extrem saure Magensäure",
+          "children": [
+            {
+              "id": "2026-11-29-0-2-0",
+              "title": "Die Insel ohne Autos",
+              "text": "Mackinac Island, wo der Schuss auf St. Martin fiel, ist bis heute ein Sonderfall: Seit 1898 sind dort Autos verboten. Wer auf die Insel im Huronsee kommt, geht zu Fuß, fährt Rad oder steigt in eine Pferdekutsche. Ausnahmen gibt es nur für Rettungs- und einige Dienstfahrzeuge. Trotzdem ist die rund 13 Kilometer lange Uferstraße offiziell als Michigan State Highway M-185 ausgewiesen. Damit ist sie eine Staatsstraße, auf der keine Autos fahren dürfen.",
+              "hook": "Mackinac Island im heutigen Michigan",
+              "children": [],
+              "source": {
+                "title": "M-185 (Michigan highway) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/M-185_(Michigan_highway)"
+              }
+            },
+            {
+              "id": "2026-11-29-0-2-1",
+              "title": "Vom Pelz zum Waldorf",
+              "text": "St. Martin arbeitete für die American Fur Company, die auf Mackinac Island einen wichtigen Handelsposten betrieb. Gegründet hatte sie 1808 Johann Jakob Astor, ein Metzgerssohn aus Walldorf bei Heidelberg, der als junger Mann nach Amerika ausgewandert war. Mit Pelzen und später mit Grundstücken in Manhattan wurde er zum reichsten Mann der Vereinigten Staaten. Sein Urenkel William Waldorf Astor eröffnete 1893 in New York ein Luxushotel und benannte es nach dem Heimatort der Familie. Der Name lebt bis heute weiter: im Waldorf Astoria.",
+              "hook": "den jungen Pelzhandelsgehilfen Alexis St. Martin",
+              "children": [],
+              "source": {
+                "title": "Johann Jakob Astor – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Johann_Jakob_Astor"
+              }
+            },
+            {
+              "id": "2026-11-29-0-2-2",
+              "title": "Kugeln aus dem freien Fall",
+              "text": "Schrot wie das, das St. Martin traf, stellte man damals mit einem eleganten Trick her. Oben in einem hohen Turm goss man flüssiges Blei durch ein Sieb. Beim Fallen formte die Oberflächenspannung die Tropfen zu Kugeln, die in der Luft erstarrten und unten in einem Wasserbecken landeten. Patentiert hatte das Verfahren 1782 der Klempner William Watts aus Bristol. Einer der kuriosesten erhaltenen Schrottürme, Coop's Shot Tower in Melbourne, steht heute mitten in einem Einkaufszentrum unter einem riesigen Glaskegel.",
+              "hook": "traf eine Schrotladung",
+              "children": [],
+              "source": {
+                "title": "Schrotturm – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Schrotturm"
+              }
+            }
+          ],
+          "source": {
+            "title": "Alexis St. Martin – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alexis_St._Martin"
+          }
+        }
+      ],
+      "source": {
+        "title": "Bartgeier – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Bartgeier"
+      }
+    },
+    {
+      "id": "2026-11-29-1",
+      "category": "geschichte",
+      "title": "Der Krieg um Jenkins’ Ohr",
+      "text": "1731 brachte eine spanische Küstenwache vor Kuba die britische Brigg „Rebecca“ auf und schnitt Kapitän Robert Jenkins ein Ohr ab. 1738 musste er vor dem britischen Unterhaus aussagen. Dass er dort sein konserviertes Ohr vorzeigte, wird erzählt, ist aber nicht sicher belegt. Die Empörung trug 1739 zum Krieg gegen Spanien um den Karibikhandel bei, der bald im Österreichischen Erbfolgekrieg aufging. Seinen kuriosen Namen bekam der Konflikt erst 1858 durch den Historiker Thomas Carlyle.",
+      "children": [
+        {
+          "id": "2026-11-29-1-0",
+          "title": "Admiral Grog",
+          "text": "Den ersten großen Erfolg im Krieg gegen Spanien errang Admiral Edward Vernon: Im November 1739 eroberte er mit nur sechs Linienschiffen den Hafen Portobelo im heutigen Panama. In Großbritannien war der Jubel so groß, dass die Londoner Portobello Road danach benannt wurde. Lawrence Washington, Halbbruder von George Washington, diente unter Vernon und nannte seinen Landsitz in Virginia später Mount Vernon. 1740 ließ Vernon zudem die Rumration seiner Matrosen mit Wasser strecken. Der Überlieferung nach kommt das Wort „Grog“ von seinem Spitznamen.",
+          "hook": "Krieg gegen Spanien um den Karibikhandel",
+          "children": [
+            {
+              "id": "2026-11-29-1-0-0",
+              "title": "Vom Feldweg zum Flohmarkt",
+              "text": "Die Portobello Road war um 1740 noch ein schmaler Weg durch Wiesen und Obstgärten, der zur Portobello Farm führte. Der Hof war nach Vernons Sieg benannt. Erst als im 19. Jahrhundert Notting Hill bebaut wurde, entstand dort ein Straßenmarkt, zunächst für Obst und Gemüse. Nach dem Zweiten Weltkrieg kamen Antiquitätenhändler, und der Samstagsmarkt wurde weltberühmt. Auch der fiktive Mr. Gruber, Freund von Paddington Bär, hat dort seinen Antiquitätenladen.",
+              "hook": "Londoner Portobello Road danach benannt",
+              "children": [],
+              "source": {
+                "title": "Portobello Market: London’s largest antiques market – London Museum",
+                "url": "https://www.londonmuseum.org.uk/collections/london-stories/portobello-market-londons-largest-antiques-market/"
+              }
+            },
+            {
+              "id": "2026-11-29-1-0-1",
+              "title": "Washingtons Whiskey",
+              "text": "Mount Vernon ging nach Lawrence Washingtons Tod an George Washington über, der es zu einer großen Plantage ausbaute. Bewirtschaftet wurde sie von Hunderten versklavten Menschen. 1797, nach seiner Präsidentschaft, ließ er auf Anraten seines schottischen Verwalters James Anderson eine Whiskeybrennerei errichten. 1799 erzeugte sie rund 11.000 Gallonen und zählte damit zu den größten des Landes. Heute ist die Brennerei rekonstruiert und brennt wieder Whiskey nach historischem Vorbild.",
+              "hook": "seinen Landsitz in Virginia später Mount Vernon",
+              "children": [],
+              "source": {
+                "title": "George Washington's Rye Whiskey – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/George_Washington%27s_Rye_Whiskey"
+              }
+            },
+            {
+              "id": "2026-11-29-1-0-2",
+              "title": "Der schwarze Tag des Rums",
+              "text": "Die tägliche Rumration, die Vernon verdünnen ließ, gab es in der Royal Navy noch mehr als zwei Jahrhunderte nach ihm. Erst am 31. Juli 1970 wurde der „Tot“ abgeschafft, weil Seeleute, die Radar und Raketentechnik bedienten, nüchtern sein sollten. Viele Besatzungen trugen an diesem Tag schwarze Armbinden und hielten Scheinbegräbnisse ab. Seitdem heißt der Tag „Black Tot Day“. Jahrzehnte später kamen Restbestände des alten Navy-Rums als teure Sammlerflaschen in den Handel.",
+              "hook": "die Rumration seiner Matrosen",
+              "children": [],
+              "source": {
+                "title": "Rum ration – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rum_ration"
+              }
+            }
+          ],
+          "source": {
+            "title": "Edward Vernon – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Edward_Vernon"
+          }
+        },
+        {
+          "id": "2026-11-29-1-1",
+          "title": "Ein König im Gefecht",
+          "text": "Im Österreichischen Erbfolgekrieg kämpften die Briten bald auch mitten in Deutschland. Am 27. Juni 1743 schlug die „Pragmatische Armee“ aus Briten, Hannoveranern und Österreichern die Franzosen bei Dettingen am Main. Dabei führte Georg II. seine Truppen persönlich an. Nach ihm zog kein britischer König mehr selbst in eine Schlacht. Georg Friedrich Händel komponierte zur Siegesfeier das „Dettinger Te Deum“. Dettingen ist heute ein Ortsteil von Karlstein am Main in Unterfranken.",
+          "hook": "im Österreichischen Erbfolgekrieg aufging",
+          "children": [
+            {
+              "id": "2026-11-29-1-1-0",
+              "title": "Feuerwerk mit Folgen",
+              "text": "Auch das Ende des Krieges vertonte Händel: Als der Frieden von Aachen 1748 den Österreichischen Erbfolgekrieg beendete, bestellte Georg II. bei ihm die „Feuerwerksmusik“. Zur öffentlichen Generalprobe in den Vauxhall Gardens kamen im April 1749 Berichten zufolge rund 12.000 Menschen, und auf der London Bridge stauten sich die Kutschen stundenlang. Beim eigentlichen Feuerwerk im Green Park fing dann ein Teil des eigens errichteten Festbaus Feuer. An das Feuerwerk erinnert sich kaum jemand, die Musik wird bis heute gespielt.",
+              "hook": "Georg Friedrich Händel komponierte",
+              "children": [],
+              "source": {
+                "title": "Feuerwerksmusik – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Feuerwerksmusik"
+              }
+            },
+            {
+              "id": "2026-11-29-1-1-1",
+              "title": "Eine Kaiserin als König",
+              "text": "Ihren Namen hatte die „Pragmatische Armee“ von einem habsburgischen Hausgesetz: der Pragmatischen Sanktion, mit der Kaiser Karl VI. 1713 die Erbfolge auch für Töchter regelte. So sollte später seine Tochter Maria Theresia die habsburgischen Länder ungeteilt erben. Doch nach seinem Tod 1740 griffen Preußen, Bayern und Frankreich nach ihrem Erbe. Kaiserin war Maria Theresia nur als Ehefrau von Franz I. Stephan. Ihre eigene Krone bekam sie 1741 in Pressburg: Gekrönt wurde sie als „König“ von Ungarn.",
+              "hook": "„Pragmatische Armee“ aus Briten",
+              "children": [],
+              "source": {
+                "title": "Maria Theresia – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Maria_Theresia"
+              }
+            },
+            {
+              "id": "2026-11-29-1-1-2",
+              "title": "Atomstrom aus Unterfranken",
+              "text": "Karlstein am Main entstand 1975 aus Dettingen und dem Nachbardorf Großwelzheim, und dort stand Deutschlands erstes Kernkraftwerk. Das Versuchsatomkraftwerk Kahl, benannt nach dem angrenzenden Ort, speiste am 17. Juni 1961 erstmals Atomstrom ins deutsche Netz. Der kleine Siedewasserreaktor leistete nur etwa 15 Megawatt und lief bis 1985. Nach jahrelangem Rückbau ist das Gelände seit 2010 wieder eine grüne Wiese. Die deutsche Atomstromerzeugung hat hier also begonnen, und hier ist sie auch schon wieder verschwunden.",
+              "hook": "Ortsteil von Karlstein am Main",
+              "children": [],
+              "source": {
+                "title": "Kernkraftwerk Kahl – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Kernkraftwerk_Kahl"
+              }
+            }
+          ],
+          "source": {
+            "title": "Schlacht bei Dettingen – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Schlacht_bei_Dettingen"
+          }
+        },
+        {
+          "id": "2026-11-29-1-2",
+          "title": "Das Buch im Kaminfeuer",
+          "text": "Thomas Carlyle prägte den Namen in seiner vielbändigen Biografie Friedrichs des Großen. Sein Durchbruch als Historiker wäre aber beinahe in Flammen aufgegangen. 1835 hatte er John Stuart Mill das einzige Manuskript des ersten Bandes seiner „Französischen Revolution“ geliehen. Unter Mills Obhut landete es versehentlich als Anzündpapier im Feuer, vermutlich durch ein Dienstmädchen. Carlyle schrieb den Band neu und nahm von Mills Entschädigung nur einen Teil an. Das Werk erschien 1837 und machte ihn berühmt.",
+          "hook": "den Historiker Thomas Carlyle",
+          "children": [
+            {
+              "id": "2026-11-29-1-2-0",
+              "title": "Kartoffeln auf dem Grab",
+              "text": "Carlyle arbeitete über ein Jahrzehnt an seiner Biografie Friedrichs des Großen. Dessen letzter Wunsch blieb lange unerfüllt: Der König wollte auf der Terrasse von Sanssouci neben seinen Windhunden begraben werden. Sein Nachfolger ließ ihn 1786 jedoch in der Potsdamer Garnisonkirche beisetzen. Erst am 17. August 1991, genau 205 Jahre nach seinem Tod, kam Friedrich an den gewünschten Ort. Heute legen Besucher Kartoffeln auf die schlichte Grabplatte, als Dank dafür, dass er den Kartoffelanbau in Preußen förderte.",
+              "hook": "Biografie Friedrichs des Großen",
+              "children": [],
+              "source": {
+                "title": "Friedrich II. (Preußen) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Friedrich_II._(Preu%C3%9Fen)"
+              }
+            },
+            {
+              "id": "2026-11-29-1-2-1",
+              "title": "Griechisch mit drei Jahren",
+              "text": "John Stuart Mill war selbst das Ergebnis eines Erziehungsexperiments. Sein Vater James brachte ihm mit drei Jahren Griechisch bei, Latein folgte mit acht. Mit zwanzig erlitt Mill eine schwere seelische Krise, aus der ihm nach eigener Schilderung auch Gedichte von Wordsworth heraushalfen. Als Abgeordneter beantragte er 1867, das Wahlrecht auch Frauen zu geben, und scheiterte damit. Kurz vor seinem Tod wurde er weltlicher Pate eines Babys, das später selbst ein berühmter Philosoph werden sollte: Bertrand Russell.",
+              "hook": "John Stuart Mill",
+              "children": [],
+              "source": {
+                "title": "John Stuart Mill 1806–1873 – Philosophy Now",
+                "url": "https://philosophynow.org/issues/126/John_Stuart_Mill_1806-1873"
+              }
+            },
+            {
+              "id": "2026-11-29-1-2-2",
+              "title": "Der Koffer vom Gare de Lyon",
+              "text": "Dass das einzige Manuskript verloren geht, passierte auch Ernest Hemingway. Im Dezember 1922 packte seine Frau Hadley Richardson in Paris fast alle seine Texte in einen Koffer, um sie ihm nach Lausanne zu bringen, sogar die Durchschläge. Am Gare de Lyon verschwand der Koffer aus dem Zug und tauchte nie wieder auf. Erhalten blieben nur zwei Erzählungen, darunter „My Old Man“, weil sie gerade bei einem Redakteur lag. Anders als Carlyle hat Hemingway die verlorenen Texte nie neu geschrieben.",
+              "hook": "das einzige Manuskript",
+              "children": []
+            }
+          ],
+          "source": {
+            "title": "The French Revolution: A History – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_French_Revolution:_A_History"
+          }
+        }
+      ],
+      "source": {
+        "title": "War of Jenkins’ Ear – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/War_of_Jenkins%E2%80%99_Ear"
+      }
+    },
+    {
+      "id": "2026-11-29-2",
+      "category": "orte",
+      "title": "Die Lituya Bay",
+      "text": "Die Lituya Bay ist eine schmale Fjordbucht im Südosten Alaskas. Am 9. Juli 1958 löste dort ein Erdbeben der Stärke rund 7,8 einen gewaltigen Felssturz aus. Er schleuderte eine Welle bis zu 524 Meter die gegenüberliegende Bergflanke hinauf, so hoch, wie noch nie eine Welle nachweislich aufgelaufen ist. Der Fischer Howard Ulrich und sein kleiner Sohn ritten mit ihrem Boot über die Welle und überlebten. Bis heute erkennt man an den Hängen eine scharfe Grenze zwischen altem und jungem Wald.",
+      "children": [
+        {
+          "id": "2026-11-29-2-0",
+          "title": "Wenn Berge in Seen stürzen",
+          "text": "Auch am 9. Oktober 1963 wurde ein Felssturz in ein Gewässer zur Katastrophe, diesmal in Norditalien: Am Monte Toc rutschten rund 260 Millionen Kubikmeter Gestein in den Stausee der Vajont-Talsperre. Eine gewaltige Flutwelle schwappte über die Staumauer und zerstörte unter anderem den Ort Longarone, fast 2000 Menschen starben. Die Mauer selbst, damals eine der höchsten der Welt, blieb nahezu unbeschädigt und steht bis heute.",
+          "hook": "einen gewaltigen Felssturz aus",
+          "children": [
+            {
+              "id": "2026-11-29-2-0-0",
+              "title": "Eis aus den Dolomiten",
+              "text": "Longarone, das nach der Flut fast vollständig neu aufgebaut wurde, liegt in einer Gegend mit einer süßen Tradition: Aus den nahen Tälern Zoldo und Cadore zogen seit dem 19. Jahrhundert viele Menschen als Eisverkäufer nach Mitteleuropa. Zahlreiche italienische Eiscafés in Deutschland gehen auf Familien aus diesen Tälern zurück. Longarone selbst richtet seit Ende der 1950er-Jahre eine internationale Messe für handwerklich hergestelltes Speiseeis aus. Die bekannteste Erfindung der deutschen Eisdielen stammt aber aus Mannheim: Dort erfand Dario Fontanella 1969 das Spaghettieis.",
+              "hook": "den Ort Longarone",
+              "children": [],
+              "source": {
+                "title": "Gelatiere – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Gelatiere"
+              }
+            },
+            {
+              "id": "2026-11-29-2-0-1",
+              "title": "Wettlauf der Staumauern",
+              "text": "Mit gut 260 Metern gehörte die Vajont-Mauer lange zu den höchsten Bogenstaumauern der Welt. Heute steht der Rekord in China: Die 2013/14 fertiggestellte Jinping-I-Talsperre in Sichuan ragt rund 305 Meter auf. Bei Dämmen aller Bauarten hielt zuvor jahrzehntelang der Nurek-Damm in Tadschikistan mit etwa 300 Metern den Spitzenplatz. Alle bisherigen übertreffen soll ausgerechnet ein Bauwerk am selben Fluss, dem Wachsch: der Rogun-Damm, der mit rund 335 Metern geplant ist.",
+              "hook": "eine der höchsten der Welt",
+              "children": [],
+              "source": {
+                "title": "Liste der höchsten Talsperren ihrer Zeit – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Liste_der_h%C3%B6chsten_Talsperren_ihrer_Zeit"
+              }
+            },
+            {
+              "id": "2026-11-29-2-0-2",
+              "title": "Die Frau, die warnte",
+              "text": "Schon bevor der Stausee der Vajont-Talsperre gefüllt wurde, warnte die Journalistin Tina Merlin in der Zeitung L'Unità vor Erdrutschen an den Talhängen. Dafür wurde sie wegen Verbreitung falscher Nachrichten angeklagt, 1960 aber freigesprochen. Ihr Buch „Sulla pelle viva“ fand erst 1983 einen Verlag. Ein Millionenpublikum erreichte die Geschichte 1997, als Marco Paolini seinen Monolog „Il racconto del Vajont“ live im italienischen Fernsehen vortrug – direkt an der Staumauer.",
+              "hook": "Stausee der Vajont-Talsperre",
+              "children": [],
+              "source": {
+                "title": "Tina Merlin – Wikipedia",
+                "url": "https://it.wikipedia.org/wiki/Tina_Merlin"
+              }
+            }
+          ],
+          "source": {
+            "title": "Vajont-Staumauer – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Vajont-Staumauer"
+          }
+        },
+        {
+          "id": "2026-11-29-2-1",
+          "title": "Die Skala hinter der 7,8",
+          "text": "Die Zahl 7,8 steht auf einer logarithmischen Skala: Jede ganze Stufe bedeutet rund 32-mal mehr freigesetzte Energie. Die erste solche Skala entwickelte Charles Richter 1935 am Caltech in Pasadena gemeinsam mit Beno Gutenberg, ursprünglich nur für Beben in Südkalifornien. Den Begriff Magnitude entlehnte er der Astronomie, wo er die Helligkeit von Sternen bezeichnet. Weil Richters Skala bei sehr starken Beben an Grenzen stößt, nutzen Seismologen heute meist die Momenten-Magnituden-Skala von 1979.",
+          "hook": "Erdbeben der Stärke rund 7,8",
+          "children": [
+            {
+              "id": "2026-11-29-2-1-0",
+              "title": "Sterne mit Minuszeichen",
+              "text": "Die astronomische Magnitude ist über 2000 Jahre älter als Richters Skala. Der Grieche Hipparchos soll im 2. Jahrhundert v. Chr. Sterne in sechs Größenklassen eingeteilt haben: die hellsten in die erste, die gerade noch sichtbaren in die sechste. 1856 machte der Brite Norman Pogson daraus eine exakte Regel: Fünf Klassen entsprechen genau dem Faktor 100, eine Stufe also rund 2,5. Weil die Skala rückwärts läuft, rutschen die hellsten Objekte ins Negative: Sirius hat etwa −1,5, die Sonne rund −26,7.",
+              "hook": "der Astronomie, wo er die Helligkeit",
+              "children": [],
+              "source": {
+                "title": "Scheinbare Helligkeit – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Scheinbare_Helligkeit"
+              }
+            },
+            {
+              "id": "2026-11-29-2-1-1",
+              "title": "Der Vermesser des Erdkerns",
+              "text": "Beno Gutenberg, 1889 in Darmstadt geboren, war schon berühmt, bevor er 1930 ans Caltech wechselte. Um 1913 berechnete er in Göttingen aus den Laufzeiten von Erdbebenwellen, dass der Erdkern in rund 2900 Kilometern Tiefe beginnt. Das liegt erstaunlich nah am heutigen Wert von etwa 2890 Kilometern. Nach ihm und seinem Lehrer Emil Wiechert heißt diese Grenze Wiechert-Gutenberg-Diskontinuität. Dass im Kern noch ein fester innerer Kern steckt, fand 1936 jemand anderes heraus: die dänische Seismologin Inge Lehmann.",
+              "hook": "gemeinsam mit Beno Gutenberg",
+              "children": [],
+              "source": {
+                "title": "Beno Gutenberg – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Beno_Gutenberg"
+              }
+            },
+            {
+              "id": "2026-11-29-2-1-2",
+              "title": "Das Beben der Stärke 9,5",
+              "text": "Die Momenten-Magnituden-Skala von Thomas Hanks und Hiroo Kanamori misst keine Ausschläge auf dem Seismogramm mehr. Sie stützt sich stattdessen auf die Größe der Bruchfläche und darauf, wie weit sich das Gestein verschoben hat. Erst mit ihr ließ sich das stärkste je gemessene Beben richtig einordnen: Valdivia in Chile am 22. Mai 1960, Stärke 9,5, mit einem Bruch von rund 1000 Kilometern Länge. Der Tsunami überquerte den ganzen Pazifik. Fast einen Tag später erreichte er das rund 17.000 Kilometer entfernte Japan und tötete dort noch etwa 140 Menschen.",
+              "hook": "Momenten-Magnituden-Skala von 1979",
+              "children": [],
+              "source": {
+                "title": "Erdbeben von Valdivia 1960 – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Erdbeben_von_Valdivia_1960"
+              }
+            }
+          ],
+          "source": {
+            "title": "Richterskala – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Richterskala"
+          }
+        },
+        {
+          "id": "2026-11-29-2-2",
+          "title": "Was Jahresringe erzählen",
+          "text": "Wie alt der Wald zu beiden Seiten einer solchen Grenze ist, lässt sich an Jahresringen ablesen, mit einer Methode namens Dendrochronologie. Begründet hat sie der Astronom Andrew Ellicott Douglass, der ab etwa 1900 in Arizona nach Spuren des Sonnenfleckenzyklus im Holz suchte. 1937 gründete er an der University of Arizona das erste Labor für Jahrringforschung. Heute reichen aneinandergereihte Ringfolgen weit zurück: Die Hohenheimer Jahrringchronologie aus Eichen und Kiefern umfasst mehr als 12.000 Jahre.",
+          "hook": "Grenze zwischen altem und jungem Wald",
+          "children": [
+            {
+              "id": "2026-11-29-2-2-0",
+              "title": "Geigen aus der Kälte",
+              "text": "Der Sonnenfleckenzyklus, den Douglass im Holz suchte, kannte auch eine lange Pause: Zwischen etwa 1645 und 1715 zeigten sich kaum Sonnenflecken. Diese Phase heißt heute Maunder-Minimum und fiel in die Kleine Eiszeit, in der Alpenfichten langsam wuchsen und besonders enge, gleichmäßige Ringe bildeten. Aus solchem Holz baute Antonio Stradivari in Cremona kurz danach seine berühmtesten Geigen. Zwei Forscher vermuteten 2003, dass dieses dichte Holz zum legendären Klang beitrug. Die These ist reizvoll, aber bis heute umstritten.",
+              "hook": "Spuren des Sonnenfleckenzyklus im Holz",
+              "children": [],
+              "source": {
+                "title": "Antonio Stradivari – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Antonio_Stradivari"
+              }
+            },
+            {
+              "id": "2026-11-29-2-2-1",
+              "title": "Marsmenschen und Pluto",
+              "text": "Dass ein Astronom auf Jahresringe stieß, hat mit dem Mars zu tun: Douglass kam 1894 nach Arizona, um für den Bostoner Percival Lowell den Standort einer Sternwarte in Flagstaff auszusuchen. Lowell wollte dort Kanäle nachweisen, die angeblich Marsbewohner gegraben hatten. Douglass zweifelte zunehmend daran und wurde 1901 entlassen. Die Sternwarte suchte auch nach Lowells Tod weiter nach seinem vermuteten „Planeten X“. 1930 fand Clyde Tombaugh dort Pluto, und dessen erste beiden Buchstaben erinnern zugleich an Percival Lowell.",
+              "hook": "der Astronom Andrew Ellicott Douglass",
+              "children": [],
+              "source": {
+                "title": "Lowell-Observatorium – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Lowell-Observatorium"
+              }
+            },
+            {
+              "id": "2026-11-29-2-2-2",
+              "title": "Der Sonnensturm von 774",
+              "text": "Lange Ketten wie die Hohenheimer Jahrringchronologie dienen auch dazu, die Radiokarbonmethode zu eichen, denn jeder Ring speichert den Kohlenstoff genau eines Jahres. 2012 entdeckte die Forscherin Fusa Miyake in japanischen Zedern einen abrupten C-14-Sprung um 774/775, vermutlich ausgelöst durch einen extremen Teilchenausbruch der Sonne. Dieser Ausschlag steckt weltweit im Holz und dient als exakte Zeitmarke. Damit ließ sich 2021 zeigen, dass Wikinger in L'Anse aux Meadows auf Neufundland im Jahr 1021 mit Metallwerkzeugen Holz bearbeiteten, genau 471 Jahre vor Kolumbus.",
+              "hook": "Hohenheimer Jahrringchronologie",
+              "children": [],
+              "source": {
+                "title": "Miyake-Ereignis – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Miyake-Ereignis"
+              }
+            }
+          ],
+          "source": {
+            "title": "Dendrochronologie – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Dendrochronologie"
+          }
+        }
+      ],
+      "source": {
+        "title": "Erdbeben und Megatsunami in der Lituya Bay – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Erdbeben_und_Megatsunami_in_der_Lituya_Bay"
+      }
+    }
+  ]
+}
