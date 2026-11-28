@@ -1,0 +1,436 @@
+{
+  "version": 1,
+  "date": "2026-11-30",
+  "generatedAt": "2026-11-28T00:36:49.126Z",
+  "topics": [
+    {
+      "id": "2026-11-30-0",
+      "category": "natur",
+      "title": "Die Mistel",
+      "text": "Die Mistel wurzelt nicht im Boden, sondern auf Bäumen: Als Halbschmarotzer betreibt sie selbst Photosynthese, zapft aber mit Senkwurzeln die Wasserleitungen ihres Wirts an. Vögel wie die Misteldrossel fressen die klebrigen Beeren und streifen die Samen an Ästen ab oder scheiden sie dort aus. Plinius der Ältere beschrieb, wie gallische Druiden Misteln mit einer goldenen Sichel von Eichen schnitten. Der Kuss unter dem Mistelzweig ist dagegen erst im England des 18. Jahrhunderts belegt.",
+      "children": [
+        {
+          "id": "2026-11-30-0-0",
+          "title": "Tod am Vesuv",
+          "text": "Plinius der Ältere, der von den Druiden berichtete, trug das Wissen seiner Zeit in der „Naturalis historia“ zusammen: 37 Bücher über Sterne, Tiere, Pflanzen und Metalle. Im Jahr 79 n. Chr. kommandierte er die römische Flotte in Misenum, als der Vesuv ausbrach. Er ließ Schiffe auslaufen und starb am Strand von Stabiae. Sein Neffe Plinius der Jüngere schilderte das Geschehen später in zwei Briefen an Tacitus. Nach diesem Augenzeugen, dem Neffen, nennen Vulkanologen besonders explosive Ausbrüche mit hoher Aschesäule heute „plinianisch“.",
+          "hook": "Plinius der Ältere",
+          "children": [
+            {
+              "id": "2026-11-30-0-0-0",
+              "title": "Ein Datum aus Holzkohle",
+              "text": "Die Briefe an Tacitus liefern auch das Datum des Ausbruchs: In den meisten Handschriften steht der 24. August 79. Doch Funde in Pompeji wie Granatäpfel und bereits verschlossene Weingefäße passen eher zum Herbst. 2018 entdeckten Archäologen in einem Haus eine mit Kohle an die Wand gekritzelte Notiz, datiert auf den 17. Oktober. Viele Forscher setzen den Untergang Pompejis deshalb heute auf den 24. Oktober. Endgültig geklärt ist das nicht, denn eine Jahreszahl trägt die Notiz nicht.",
+              "hook": "in zwei Briefen an Tacitus",
+              "children": [],
+              "source": {
+                "title": "Eruption of Mount Vesuvius in 79 AD – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD"
+              }
+            },
+            {
+              "id": "2026-11-30-0-0-1",
+              "title": "Apelles und der Schuster",
+              "text": "Unter den 37 Büchern versteckt sich in Buch 35, das eigentlich von Farben und Erden handelt, eine kleine Kunstgeschichte. Plinius erzählt darin vom Maler Apelles, der für Alexander den Großen arbeitete und sich hinter seinen ausgestellten Bildern versteckte, um Kritik zu belauschen. Ein Schuster bemängelte eine Sandale, Apelles besserte sie aus. Als der Mann daraufhin auch das Bein kritisierte, soll der Maler ihn zurechtgewiesen haben: Ein Schuster urteile nicht über die Sandale hinaus. Daher stammt die Redensart „Schuster, bleib bei deinen Leisten“.",
+              "hook": "37 Bücher über Sterne, Tiere",
+              "children": [],
+              "source": {
+                "title": "Apelles – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Apelles"
+              }
+            },
+            {
+              "id": "2026-11-30-0-0-2",
+              "title": "Der Häftling von Saint-Pierre",
+              "text": "Neben den plinianischen Ausbrüchen kennen Vulkanologen auch peleanische, benannt nach dem Mont Pelée auf Martinique. Am 8. Mai 1902 raste von dort eine Glutwolke aus heißem Gas und Asche in die Stadt Saint-Pierre und tötete binnen Minuten fast alle der rund 28.000 Menschen. Einer der wenigen Überlebenden war Ludger Sylbaris, der in einer dickwandigen, fast fensterlosen Gefängniszelle saß. Schwer verbrannt wurde er gerettet und tourte später mit dem Zirkus Barnum & Bailey als Mann, der den Weltuntergang überlebt hatte.",
+              "hook": "besonders explosive Ausbrüche mit hoher Aschesäule",
+              "children": [],
+              "source": {
+                "title": "Louis-Auguste Cyparis – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Louis-Auguste_Cyparis"
+              }
+            }
+          ],
+          "source": {
+            "title": "Plinius der Ältere – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Plinius_der_%C3%84ltere"
+          }
+        },
+        {
+          "id": "2026-11-30-0-1",
+          "title": "Vom Vogelleim zur Viskose",
+          "text": "Aus den klebrigen Beeren der Mistel kochte man schon in der Antike Vogelleim. Damit bestrich man Zweige, an denen kleine Vögel hängen blieben. Das lateinische Wort viscum bezeichnete die Pflanze und den Leim zugleich. Es steckt im botanischen Namen Viscum album und im Fachwort „viskos“ für zähflüssig. Auch die Viskose ist danach benannt: 1892 ließen Charles Cross, Edward Bevan und Clayton Beadle in England ein Verfahren patentieren, das Zellulose in eine zähe Lösung verwandelt. Aus ihr spinnt man bis heute Kunstseide.",
+          "hook": "die klebrigen Beeren",
+          "children": [
+            {
+              "id": "2026-11-30-0-1-0",
+              "title": "Auf den Leim gegangen",
+              "text": "Leimruten, an denen kleine Vögel hängen bleiben, sind in der EU seit der Vogelschutzrichtlinie von 1979 verboten und werden trotzdem noch aufgestellt. Auf Zypern gelten gegrillte oder eingelegte Singvögel als Delikatesse namens Ambelopoulia. Naturschützer schätzen, dass dort jedes Jahr Hunderttausende bis Millionen Vögel illegal mit Leimruten und Netzen gefangen werden, besonders häufig Mönchsgrasmücken. Im Deutschen lebt die alte Fangmethode in einer Redewendung weiter: Wer sich täuschen lässt, „geht jemandem auf den Leim“.",
+              "hook": "an denen kleine Vögel hängen blieben",
+              "children": [],
+              "source": {
+                "title": "Vogelleim – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Vogelleim"
+              }
+            },
+            {
+              "id": "2026-11-30-0-1-1",
+              "title": "Der langsamste Tropfen",
+              "text": "Wie zähflüssig ein Stoff sein kann, zeigt ein Versuch an der University of Queensland in Brisbane: 1927 füllte der Physiker Thomas Parnell erhitztes Pech in einen Trichter, 1930 öffnete er die Spitze. Seitdem ist nur etwa alle sieben bis vierzehn Jahre ein Tropfen gefallen, bis heute neun. Das Pech ist mehr als hundert Milliarden Mal zähflüssiger als Wasser, zersplittert aber unter einem Hammerschlag. John Mainstone betreute den Versuch über ein halbes Jahrhundert lang und starb 2013, ohne je einen Tropfen fallen gesehen zu haben.",
+              "hook": "im Fachwort „viskos“ für zähflüssig",
+              "children": [],
+              "source": {
+                "title": "Pechtropfenexperiment – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Pechtropfenexperiment"
+              }
+            },
+            {
+              "id": "2026-11-30-0-1-2",
+              "title": "Die Folie aus dem Tischtuch",
+              "text": "Die zähe Lösung aus Zellulose lässt sich nicht nur zu Fäden spinnen, sondern auch zu hauchdünnen Folien gießen. Der Schweizer Chemiker Jacques Edwin Brandenberger suchte Anfang des 20. Jahrhunderts eine schmutzabweisende Beschichtung für Tischdecken. Das klappte nicht, doch der Überzug ließ sich als klarer Film abziehen. Daraus entwickelte er das Cellophan, ein Kunstwort aus „Zellulose“ und dem französischen „diaphane“ für durchscheinend. Die Folie galt als so modern, dass Cole Porter sie 1934 in „You're the Top“ neben Greta Garbos Gage und der National Gallery besang.",
+              "hook": "Zellulose in eine zähe Lösung verwandelt",
+              "children": [],
+              "source": {
+                "title": "Cellulosehydrat – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Cellulosehydrat"
+              }
+            }
+          ],
+          "source": {
+            "title": "Viskosefaser – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Viskosefaser"
+          }
+        },
+        {
+          "id": "2026-11-30-0-2",
+          "title": "Riesenblüte ohne Blätter",
+          "text": "Die Mistel betreibt als Halbschmarotzer noch selbst Photosynthese. Rafflesia arnoldii dagegen hat keine Blätter, keinen Stängel und keine echten Wurzeln. Sie lebt als fadenförmiges Gewebe im Inneren von Tetrastigma-Lianen in Südostasien und wird erst sichtbar, wenn sie blüht. Ihre Blüte ist bis zu etwa einen Meter breit und damit die größte Einzelblüte der Welt. Mit Aasgeruch lockt sie Fliegen als Bestäuber an. Benannt ist sie nach Stamford Raffles und dem Arzt Joseph Arnold, die sie 1818 auf Sumatra fanden.",
+          "hook": "Als Halbschmarotzer",
+          "children": [
+            {
+              "id": "2026-11-30-0-2-0",
+              "title": "Der Mann hinter Singapur",
+              "text": "Stamford Raffles war kein Botaniker, sondern Kolonialbeamter der britischen Ostindien-Kompanie. 1819 schloss er mit einem Thronanwärter des Sultanats Johor einen Vertrag, der den Briten einen Handelsposten auf der Insel Singapur sicherte. Das war der Grundstein des heutigen Stadtstaats. Zurück in London gründete er 1826 die Zoological Society of London mit, aus der der Londoner Zoo hervorging. Raffles starb noch im selben Jahr, einen Tag vor seinem 45. Geburtstag. Die Eröffnung des Zoos 1828 erlebte er nicht mehr.",
+              "hook": "Stamford Raffles",
+              "children": [],
+              "source": {
+                "title": "Thomas Stamford Raffles – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Thomas_Stamford_Raffles"
+              }
+            },
+            {
+              "id": "2026-11-30-0-2-1",
+              "title": "Drei Meter Gestank",
+              "text": "Mit Aasgeruch lockt auch die Titanenwurz ihre Bestäuber an, und auch sie stammt aus Sumatra. Ihr Blütenstand kann rund drei Meter hoch werden. Er besteht allerdings aus Hunderten winziger Einzelblüten, deshalb behält Rafflesia den Titel der größten Einzelblüte. Während der Blüte heizt sich der Kolben spürbar auf, wodurch sich der Gestank weiter verbreitet. Der botanische Name Amorphophallus bedeutet „unförmiger Penis“. Der englische Name „titan arum“ soll auf David Attenborough zurückgehen, der für eine Fernsehserie einen sendetauglicheren Namen brauchte.",
+              "hook": "Mit Aasgeruch lockt sie Fliegen",
+              "children": [],
+              "source": {
+                "title": "Titanenwurz – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Titanenwurz"
+              }
+            },
+            {
+              "id": "2026-11-30-0-2-2",
+              "title": "Gene vom Wirt gestohlen",
+              "text": "Die Tetrastigma-Lianen, in denen Rafflesia lebt, gehören zu den Weinrebengewächsen. Die Riesenblüte wächst also in einem Verwandten des Weinstocks. Die enge Verbindung hat Spuren im Erbgut hinterlassen: 2012 fanden Forscher um Charles Davis in Harvard Dutzende Gene in Rafflesia, die offenbar vom Wirt stammen. Dieser horizontale Gentransfer ist bei Bakterien alltäglich, bei Pflanzen aber selten. Spätere Analysen deuten sogar darauf hin, dass Rafflesia ihr Chloroplasten-Erbgut vollständig verloren hat. Für eine Pflanze wäre das ein beinahe einmaliger Befund.",
+              "hook": "Tetrastigma-Lianen in Südostasien",
+              "children": []
+            }
+          ],
+          "source": {
+            "title": "Riesenrafflesie – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Riesenrafflesie"
+          }
+        }
+      ],
+      "source": {
+        "title": "Weißbeerige Mistel – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Wei%C3%9Fbeerige_Mistel"
+      }
+    },
+    {
+      "id": "2026-11-30-1",
+      "category": "orte",
+      "title": "Der Kawah Ijen",
+      "text": "Im Krater des Vulkans Ijen im Osten Javas brennt nachts blaues Feuer: Heiße Schwefelgase strömen aus dem Boden, entzünden sich an der Luft und leuchten blau. Daneben liegt ein türkisfarbener Kratersee, der mit einem pH-Wert teils unter 1 als einer der sauersten Seen der Welt gilt. Arbeiter brechen am Krater erstarrten Schwefel ab und tragen ihn in Körben mit oft 70 bis 90 Kilogramm den steilen Hang hinauf. Vor den giftigen Dämpfen schützen sie sich häufig nur mit feuchten Tüchern.",
+      "children": [
+        {
+          "id": "2026-11-30-1-0",
+          "title": "Cäsium aus Mineralwasser",
+          "text": "Welcher Stoff brennt, lässt sich am Licht der Flamme erkennen. Robert Bunsen und Gustav Kirchhoff machten daraus um 1859 in Heidelberg ein Messverfahren, die Spektralanalyse: Ein Prisma zerlegt das Licht glühender Stoffe in Linien. Im Dürkheimer Mineralwasser fanden sie 1860 zwei unbekannte blaue Linien und nannten das neue Element Cäsium, nach lateinisch „caesius“, himmelblau. Ein Jahr später folgte Rubidium, benannt nach seinen dunkelroten Linien.",
+          "hook": "brennt nachts blaues Feuer",
+          "children": [
+            {
+              "id": "2026-11-30-1-0-0",
+              "title": "Die Sekunde aus Cäsium",
+              "text": "Das himmelblaue Element aus dem Dürkheimer Wasser legt heute fest, wie lang eine Sekunde dauert. 1955 bauten Louis Essen und Jack Parry am National Physical Laboratory bei London die erste praxistaugliche Cäsium-Atomuhr. Seit 1967 ist die Sekunde als 9.192.631.770 Schwingungen einer Strahlung des Cäsium-133-Atoms definiert und nicht mehr über die Erdrotation. Weil die Erde neben diesen Uhren unregelmäßig läuft, gibt es Schaltsekunden. 2022 wurde beschlossen, sie bis 2035 abzuschaffen.",
+              "hook": "nannten das neue Element Cäsium",
+              "children": [],
+              "source": {
+                "title": "Atomuhr – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Atomuhr"
+              }
+            },
+            {
+              "id": "2026-11-30-1-0-1",
+              "title": "Ein Element aus der Sonne",
+              "text": "Das Licht zu zerlegen funktioniert auch bei Sternen, die niemand je anfassen kann. Bei der Sonnenfinsternis von 1868 entdeckten Astronomen im Sonnenspektrum eine gelbe Linie, die zu keinem bekannten Element passte. Norman Lockyer taufte den unbekannten Stoff nach dem Sonnengott Helios „Helium“. Erst 1895 fand William Ramsay das Gas auch auf der Erde, in einem Uranmineral. Spätere Kandidaten wie „Coronium“ und „Nebulium“ erwiesen sich als bekannte Elemente in exotischen Zuständen. Helium blieb der einzige echte Treffer.",
+              "hook": "Ein Prisma zerlegt das Licht",
+              "children": [],
+              "source": {
+                "title": "Sonnenfinsternis vom 18. August 1868 – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Sonnenfinsternis_vom_18._August_1868"
+              }
+            },
+            {
+              "id": "2026-11-30-1-0-2",
+              "title": "Bunsens geliehener Brenner",
+              "text": "Für die Spektralanalyse brauchten Bunsen und Kirchhoff eine Flamme, die selbst kaum leuchtet. Diese lieferte der Bunsenbrenner, den der Heidelberger Universitätsmechaniker Peter Desaga um 1855 nach Bunsens Vorgaben baute. Bunsen ließ ihn nie patentieren. Seine Forschung kostete ihn viel: 1843 verlor er bei der Explosion einer Arsenverbindung, Kakodylcyanid, das Sehvermögen auf einem Auge. Ausgerechnet er hatte Jahre zuvor ein Gegenmittel gegen Arsenvergiftung beschrieben, nämlich frisch gefälltes Eisenhydroxid.",
+              "hook": "Robert Bunsen und Gustav Kirchhoff",
+              "children": [],
+              "source": {
+                "title": "Bunsenbrenner – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bunsenbrenner"
+              }
+            }
+          ],
+          "source": {
+            "title": "Robert Wilhelm Bunsen – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Robert_Wilhelm_Bunsen"
+          }
+        },
+        {
+          "id": "2026-11-30-1-1",
+          "title": "Was das p in pH bedeutet",
+          "text": "Dass man die Säure des Ijen-Sees in einer einzigen Zahl ausdrücken kann, geht auf eine Brauerei zurück. Der dänische Chemiker Søren Sørensen führte den pH-Wert 1909 im Carlsberg-Laboratorium in Kopenhagen ein, wo er Enzyme untersuchte, die sehr empfindlich auf den Säuregrad reagieren. Wofür das „p“ steht, ist bis heute umstritten: Genannt werden Potenz, das französische „puissance“ und Potential. Weil die Skala logarithmisch ist, enthält Wasser mit pH 1 zehnmal so viele Wasserstoffionen wie Wasser mit pH 2.",
+          "hook": "einem pH-Wert teils unter 1",
+          "children": [
+            {
+              "id": "2026-11-30-1-1-0",
+              "title": "Die Hefe aus dem Labor",
+              "text": "Das Carlsberg-Laboratorium in Kopenhagen hatte der Brauereigründer J. C. Jacobsen 1875 gegründet, und dort gelang schon vor Sørensen ein Durchbruch fürs Bier. Emil Christian Hansen züchtete 1883 eine Reinkultur aus einer einzigen Hefezelle und zeigte, dass verdorbenes Bier oft auf fremde, „wilde“ Hefen zurückging. Statt das Verfahren zu patentieren, gab Carlsberg die reine Hefe an Brauereien in aller Welt weiter. Die Lagerhefe hieß deshalb lange Saccharomyces carlsbergensis, benannt nach einer Brauerei.",
+              "hook": "im Carlsberg-Laboratorium in Kopenhagen",
+              "children": [],
+              "source": {
+                "title": "Reinzuchthefe – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Reinzuchthefe"
+              }
+            },
+            {
+              "id": "2026-11-30-1-1-1",
+              "title": "Die krumme Zahlenlinie",
+              "text": "Logarithmische Skalen wie der pH-Wert wirken unnatürlich, dabei denken Menschen ohne Schulbildung womöglich genau so. Ein Team um den Neurowissenschaftler Stanislas Dehaene ließ 2008 Angehörige der Mundurukú im Amazonasgebiet, deren Sprache nur wenige exakte Zahlwörter kennt, Mengen auf einer Linie anordnen. Sie stauchten die großen Zahlen zusammen, ähnlich wie auf einer logarithmischen Skala. Kleine Kinder tun das auch, und die Forscher schlossen daraus, dass erst die Schule uns die gleichmäßige Zahlenlinie beibringt.",
+              "hook": "Weil die Skala logarithmisch ist",
+              "children": [],
+              "source": {
+                "title": "Log or linear? Distinct intuitions of the number scale in Western and Amazonian indigene cultures (Dehaene et al., Science 2008) – PMC",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2610411/"
+              }
+            },
+            {
+              "id": "2026-11-30-1-1-2",
+              "title": "Die Eimerkette der Protonen",
+              "text": "Freie Wasserstoffionen gibt es in saurem Wasser eigentlich nicht: Ein nacktes Proton heftet sich sofort an ein Wassermolekül und bildet ein Hydronium-Ion. Trotzdem breitet sich Säure erstaunlich schnell aus, weil Protonen wie in einer Eimerkette von Molekül zu Molekül weitergereicht werden. Die Grundidee eines solchen Weiterreichens beschrieb der Chemiker Theodor von Grotthuss schon 1806, mit gerade einmal rund 20 Jahren. Das war rund ein Jahrhundert vor der Entdeckung des Protons, trotzdem heißt der Mechanismus bis heute nach ihm.",
+              "hook": "so viele Wasserstoffionen",
+              "children": [],
+              "source": {
+                "title": "Grotthuß-Mechanismus – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Grotthu%C3%9F-Mechanismus"
+              }
+            }
+          ],
+          "source": {
+            "title": "PH-Wert – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/PH-Wert"
+          }
+        },
+        {
+          "id": "2026-11-30-1-2",
+          "title": "Heißwasser statt Spitzhacke",
+          "text": "Am Ijen brechen Menschen den Schwefel von Hand, in Louisiana und Texas holte man ihn dagegen rund hundert Jahre lang mit heißem Wasser aus dem Boden. Der aus Württemberg stammende Chemiker Herman Frasch presste ab 1894 überhitztes Wasser in unterirdische Lagerstätten. Das Wasser schmolz den Schwefel, und Druckluft trieb ihn nach oben. Durch dieses Frasch-Verfahren wurden die USA zum führenden Schwefelproduzenten. Heute stammt der meiste Schwefel aus der Reinigung von Erdöl und Erdgas, und die letzte Frasch-Mine der USA schloss im Jahr 2000.",
+          "hook": "erstarrten Schwefel",
+          "children": [
+            {
+              "id": "2026-11-30-1-2-0",
+              "title": "Gelbe Berge am Hafen",
+              "text": "Weil Erdöl und Erdgas vor der Nutzung entschwefelt werden müssen, fällt Schwefel heute als Nebenprodukt in gewaltigen Mengen an. Im Hafen von North Vancouver lagert er in leuchtend gelben Halden, die man von der Innenstadt aus sieht. Er stammt vor allem aus dem schwefelreichen Erdgas Albertas und geht per Schiff meist nach Asien. Dort wird er großteils zu Schwefelsäure für Dünger verarbeitet und landet so am Ende auf Äckern.",
+              "hook": "Reinigung von Erdöl und Erdgas",
+              "children": []
+            },
+            {
+              "id": "2026-11-30-1-2-1",
+              "title": "Das Stinköl von Ohio",
+              "text": "Bevor Herman Frasch Schwefel aus dem Boden holte, war er schon damit erfolgreich gewesen, ihn loszuwerden. In den 1880er-Jahren stieß man bei Lima in Ohio auf große Ölvorkommen, doch das Öl war so schwefelhaltig, dass es übel roch und als Lampenöl kaum taugte. Frasch entwickelte für Standard Oil ein Verfahren, das den Schwefel mit Kupferoxid band. Das billig aufgekaufte Stinköl wurde dadurch wertvoll, und Frasch wurde mit Standard-Oil-Aktien reich.",
+              "hook": "aus Württemberg stammende Chemiker Herman Frasch",
+              "children": [],
+              "source": {
+                "title": "Hermann Frasch – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Hermann_Frasch"
+              }
+            },
+            {
+              "id": "2026-11-30-1-2-2",
+              "title": "Notreserve im Salz",
+              "text": "Die Schwefellager in Louisiana und Texas sitzen auf Salzstöcken, gewaltigen Säulen aus Steinsalz, die aus großer Tiefe aufgestiegen sind. In einige davon haben Ingenieure mit Wasser riesige Hohlräume gespült, denn Salz lässt sich auflösen, und das umgebende Salz hält dicht. Genau dort lagert die Strategische Erdölreserve der USA: Hunderte Millionen Barrel Rohöl an vier Standorten. Für den Notfall bunkern die USA ihr Öl also in ausgewaschenem Salz.",
+              "hook": "in Louisiana und Texas",
+              "children": [],
+              "source": {
+                "title": "SPR Storage Sites – U.S. Department of Energy",
+                "url": "https://www.energy.gov/hgeo/opr/spr-storage-sites"
+              }
+            }
+          ],
+          "source": {
+            "title": "Frasch-Verfahren – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Frasch-Verfahren"
+          }
+        }
+      ],
+      "source": {
+        "title": "Ijen – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Ijen"
+      }
+    },
+    {
+      "id": "2026-11-30-2",
+      "category": "kultur",
+      "title": "Das Bleigießen",
+      "text": "Beim Bleigießen schmilzt man Metall auf einem Löffel über einer Flamme und kippt es in kaltes Wasser, um aus der bizarren Form die Zukunft zu lesen – Fachleute sprechen von Molybdomantie. Heute gehört der Brauch zu Silvester, früher galt auch die Andreasnacht vom 29. auf den 30. November als Losnacht, in der junge Frauen so nach ihrem künftigen Ehemann forschten. Seit 2018 dürfen klassische Bleigießsets wegen ihres Bleigehalts in der EU nicht mehr verkauft werden; Ersatz bieten Zinn oder Wachs.",
+      "children": [
+        {
+          "id": "2026-11-30-2-0",
+          "title": "Das Metall, das Blei hieß",
+          "text": "Im Wort Molybdomantie steckt das griechische „molybdos“ für Blei, und derselbe Wortstamm gab später einem ganz anderen Metall seinen Namen. Weiche, schwarz abfärbende Minerale wie Bleiglanz, Graphit und Molybdänglanz wurden lange unter dem Namen „molybdaena“ zusammengeworfen. Erst Carl Wilhelm Scheele zeigte 1778, dass Molybdänglanz ein eigener Stoff ist, und Peter Jacob Hjelm gewann daraus 1781 das Metall Molybdän. Dieselbe Verwechslung erklärt, warum der Bleistift so heißt, obwohl seine Mine aus Graphit besteht.",
+          "hook": "Fachleute sprechen von Molybdomantie",
+          "children": [
+            {
+              "id": "2026-11-30-2-0-0",
+              "title": "Der Schatz von Borrowdale",
+              "text": "Dass Bleistiftminen aus Graphit bestehen, geht auf einen Fund im englischen Borrowdale zurück: Im 16. Jahrhundert stieß man dort auf außergewöhnlich reinen Graphit, der sich in Stäbchen sägen ließ. Das Material war so begehrt, dass ein Gesetz von 1752 Diebstahl mit Zwangsarbeit oder Deportation bedrohte. Als Frankreich im Krieg vom englischen Graphit abgeschnitten war, mischte Nicolas-Jacques Conté 1795 Graphitpulver mit Ton und brannte es. Dieses Rezept steckt bis heute in fast jedem Bleistift.",
+              "hook": "obwohl seine Mine aus Graphit besteht",
+              "children": [],
+              "source": {
+                "title": "Bleistift – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bleistift"
+              }
+            },
+            {
+              "id": "2026-11-30-2-0-1",
+              "title": "Scheeles giftiges Grün",
+              "text": "Carl Wilhelm Scheele, der den Molybdänglanz entlarvte, war Apotheker in Schweden und einer der produktivsten Entdecker der Chemiegeschichte. Er stellte Sauerstoff, Chlor und Blausäure dar, doch weil sein Buch über Luft und Feuer verspätet erschien, gilt oft Joseph Priestley als Entdecker des Sauerstoffs. Sein arsenhaltiges Pigment, das Scheelesche Grün, färbte bald Tapeten in ganz Europa. Ob Arsen aus solchen Tapeten zu Napoleons Tod auf St. Helena beitrug, ist bis heute umstritten.",
+              "hook": "Carl Wilhelm Scheele zeigte 1778",
+              "children": [],
+              "source": {
+                "title": "Carl Wilhelm Scheele – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Carl_Wilhelm_Scheele"
+              }
+            },
+            {
+              "id": "2026-11-30-2-0-2",
+              "title": "Radio aus dem Bleierz",
+              "text": "Bleiglanz, das wichtigste Bleierz, spielte Anfang des 20. Jahrhunderts eine überraschende Rolle in der Rundfunkgeschichte. In Detektorempfängern tastete man einen Bleiglanzkristall mit einem feinen Draht, dem „Katzenschnurrbart“, ab, bis man eine Stelle fand, die Strom nur in eine Richtung durchließ und so Radiosignale hörbar machte. Solche Geräte brauchten keine Batterie, die Energie kam allein aus der Antenne. Der winzige Kontakt zwischen Draht und Kristall gilt als früher Vorläufer von Diode und Transistor.",
+              "hook": "schwarz abfärbende Minerale wie Bleiglanz",
+              "children": [],
+              "source": {
+                "title": "Detektorempfänger – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Detektorempf%C3%A4nger"
+              }
+            }
+          ],
+          "source": {
+            "title": "Molybdän – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Molybd%C3%A4n"
+          }
+        },
+        {
+          "id": "2026-11-30-2-1",
+          "title": "Ein Kreuz in Form eines X",
+          "text": "Ihren Namen hat die Andreasnacht vom Apostel Andreas, dessen Gedenktag auf den 30. November fällt. Der Überlieferung nach starb er im griechischen Patras am Kreuz. Dass dieses Kreuz X-förmig war, setzte sich in Bildern allerdings erst im Mittelalter durch. Als Schutzpatron Schottlands ziert sein Kreuz als weißer „Saltire“ auf Blau die Flagge. Einer Legende zufolge sah König Óengus vor einer Schlacht bei Athelstaneford ein weißes X aus Wolken am Himmel. Auch das Warnzeichen an Bahnübergängen trägt seinen Namen.",
+          "hook": "Andreasnacht vom 29. auf den 30. November",
+          "children": [
+            {
+              "id": "2026-11-30-2-1-0",
+              "title": "Ein Kopf auf Reisen",
+              "text": "In Patras blieb von Andreas nicht alles: Sein Haupt nahm Thomas Palaiologos, Bruder des letzten byzantinischen Kaisers, auf der Flucht vor den Osmanen mit nach Italien. 1462 empfing Papst Pius II. die Reliquie feierlich in Rom. Dort blieb sie rund 500 Jahre, bis Paul VI. sie 1964 als Geste der Versöhnung mit der Orthodoxie zurückschickte. 1980 folgten Bruchstücke des X-Kreuzes aus Marseille, und so ruhen beide heute wieder in der Stadt, in der Andreas gestorben sein soll.",
+              "hook": "im griechischen Patras am Kreuz",
+              "children": [],
+              "source": {
+                "title": "Agios Andreas (Patras) – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Agios_Andreas_(Patras)"
+              }
+            },
+            {
+              "id": "2026-11-30-2-1-1",
+              "title": "Das Volk der Bemalten",
+              "text": "König Óengus herrschte über die Pikten, ein Volk im Norden Schottlands, das die Römer „Picti“ nannten, die Bemalten. Sie hinterließen Symbolsteine mit Halbmonden, Spiegeln und einem rätselhaften Fabeltier, dem „Pictish Beast“. Was die Zeichen bedeuten, weiß bis heute niemand. Eine DNA-Studie von 2023 zeigte allerdings, dass die Pikten keine exotischen Einwanderer waren, sondern eng mit den übrigen Bewohnern Britanniens verwandt. Ihr Erbe steckt bis heute in den Menschen der Region.",
+              "hook": "Legende zufolge sah König Óengus",
+              "children": [],
+              "source": {
+                "title": "Pikten – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Pikten"
+              }
+            },
+            {
+              "id": "2026-11-30-2-1-2",
+              "title": "Die Flagge mit Oben",
+              "text": "Der weiße Saltire steckt seit 1606 auch im Union Jack, nachdem der schottische König Jakob VI. zugleich König von England geworden war. 1801 kam für Irland ein rotes Diagonalkreuz des heiligen Patrick dazu, obwohl Patrick kein Märtyrer war. Weil dieses rote Kreuz versetzt liegt, hat die Flagge ein Oben und ein Unten: Am Mast gehört der breite weiße Streifen nach oben. Wer sie verkehrt herum hisst, sendet nach altem Volksglauben ein Notsignal.",
+              "hook": "weißer „Saltire“ auf Blau",
+              "children": [],
+              "source": {
+                "title": "Union Jack – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Union_Jack"
+              }
+            }
+          ],
+          "source": {
+            "title": "Andreas (Apostel) – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Andreas_(Apostel)"
+          }
+        },
+        {
+          "id": "2026-11-30-2-2",
+          "title": "Wenn Zinn zu Staub zerfällt",
+          "text": "Wer zu Silvester Zinn statt Blei gießt, hat es mit einem Metall zu tun, das eine seltsame Krankheit kennt: die Zinnpest. Unterhalb von 13,2 Grad Celsius kann sich das silbrige, formbare β-Zinn in sprödes, graues α-Zinn verwandeln, das zu Pulver zerfällt. Das geschieht meist sehr langsam und vor allem bei starker Kälte, breitet sich aber von befallenen Stellen aus. Betroffen waren etwa Orgelpfeifen in ungeheizten Kirchen. Dass Napoleons Soldaten 1812 in Russland ihre Uniformknöpfe durch die Zinnpest verloren, ist dagegen eine unbelegte Legende.",
+          "hook": "Ersatz bieten Zinn oder Wachs",
+          "children": [
+            {
+              "id": "2026-11-30-2-2-0",
+              "title": "Als Orgeln in den Krieg zogen",
+              "text": "Orgelpfeifen bestehen oft aus Zinn-Blei-Legierungen, und besonders die glänzenden Prospektpfeifen an der Schauseite enthalten viel Zinn. Genau das wurde ihnen im Ersten Weltkrieg zum Verhängnis: 1917 ließ das Deutsche Reich zinnerne Prospektpfeifen beschlagnahmen, weil die Rüstungsindustrie das Metall brauchte. Unzählige Gemeinden mussten ihre Pfeifen abliefern und ersetzten sie später oft durch billige Zinkpfeifen. Wer heute in einer Dorfkirche matte, graue Pfeifen an der Front sieht, blickt mitunter noch auf diese Notlösung.",
+              "hook": "Orgelpfeifen in ungeheizten Kirchen",
+              "children": []
+            },
+            {
+              "id": "2026-11-30-2-2-1",
+              "title": "Das Grab von Vilnius",
+              "text": "Woran Napoleons Soldaten 1812 in Russland tatsächlich zugrunde gingen, verraten ihre Knochen. 2001 stießen Bauarbeiter in Vilnius auf ein Massengrab mit den Überresten von rund 3000 Männern der Grande Armée, die auf dem Rückzug gestorben waren. Erbgutanalysen fanden zunächst Spuren von Fleckfieber und Wolhynischem Fieber, beide von Läusen übertragen. Eine Studie von 2025 wies zusätzlich Erreger von Paratyphus und Läuserückfallfieber nach. Nicht zerbröselnde Knöpfe ruinierten die Armee, sondern Kälte, Hunger und Läuse.",
+              "hook": "Napoleons Soldaten 1812 in Russland",
+              "children": [],
+              "source": {
+                "title": "News Release – EurekAlert! (Studie 2025: Erreger in Napoleons Armee, Massengrab Vilnius)",
+                "url": "https://www.eurekalert.org/news-releases/1102613"
+              }
+            },
+            {
+              "id": "2026-11-30-2-2-2",
+              "title": "Zinn im Diamantgewand",
+              "text": "Das graue α-Zinn hat eine überraschende Verwandtschaft: Seine Atome ordnen sich im selben Kristallgitter an wie die Kohlenstoffatome im Diamanten. Weil diese Struktur viel lockerer gepackt ist, wächst das Volumen bei der Umwandlung um gut ein Viertel, und das Metall platzt auf. Kleine Zusätze von Antimon oder Bismut bremsen den Prozess. Das wurde wieder wichtig, als die EU ab 2006 bleihaltiges Lot in Elektronik weitgehend verbot. Ausgerechnet das Zinnpulver ist also nach demselben Bauplan aufgebaut wie der härteste natürliche Stoff.",
+              "hook": "graues α-Zinn",
+              "children": [],
+              "source": {
+                "title": "Zinnpest – Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Zinnpest"
+              }
+            }
+          ],
+          "source": {
+            "title": "Zinnpest – Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Zinnpest"
+          }
+        }
+      ],
+      "source": {
+        "title": "Bleigießen – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Bleigie%C3%9Fen"
+      }
+    }
+  ]
+}
